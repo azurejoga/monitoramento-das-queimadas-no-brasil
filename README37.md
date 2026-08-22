@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| eec31f82-1b77-38ba-8a56-c9561e260efe | -9.44601 | -51.63187 | 2026-08-21 04:46:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 836a75bf-18d9-365a-ba07-e35b3d396178 | -8.18367 | -54.98782 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 88c87631-aa7d-3b58-8cbb-2a15164653d3 | -6.89048 | -59.42507 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 0e158d4b-22a4-3628-9f37-44e15cdfd4e4 | -6.54831 | -56.55088 | 2026-08-21 04:46:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d30c8eb6-155a-3ab9-8192-5074d12e745a | -7.36461 | -55.51608 | 2026-08-21 04:46:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 97ab1f5c-8666-367a-8783-ffdc92c87d49 | -7.06896 | -59.96814 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 4385657d-509e-3447-bf60-b9fedce37d6c | -4.46931 | -55.39574 | 2026-08-21 04:46:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| b929bb3a-f5db-3511-b431-9a9d72c1b162 | -9.46958 | -51.63557 | 2026-08-21 04:46:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 00760e68-3e99-3f7c-b4f2-02598457e8ee | -6.33649 | -46.52379 | 2026-08-21 04:46:00 | NOAA-21 | SÍTIO NOVO | MARANHÃO | Brasil | 2111805 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 154b259e-14b0-3454-be5a-56debef5644d | -4.01567 | -48.06556 | 2026-08-21 04:46:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 33d0cef2-f996-397a-adfd-4b63998bbcc9 | -6.20396 | -55.49254 | 2026-08-21 04:46:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 2cb9c6c5-3f17-37f7-8267-7ad302995233 | -8.09661 | -51.67336 | 2026-08-21 04:46:00 | NOAA-21 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b91e79b9-3a90-351a-a3c1-8c35df1dbdc2 | -8.57081 | -54.6684 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| f0d37e24-0dd6-3e6c-a486-6cb13e3bc37e | -6.34319 | -44.08181 | 2026-08-21 04:46:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 7fed0db5-b4d4-3a6b-a253-55a34c5b065e | -9.42048 | -60.41343 | 2026-08-21 04:46:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| 01362fc9-2c19-30d2-a387-fc0a41cfbf4a | -6.54708 | -55.17398 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 039ba769-a385-3c56-a67a-b6f929257dfa | -8.54581 | -55.31228 | 2026-08-21 04:46:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| cf9f1d84-00d9-3705-9c1f-1de068b3c110 | -4.9582 | -56.2654 | 2026-08-21 04:46:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| b25eb9a2-dfa0-3918-80d3-9a09b00e7250 | -9.06163 | -50.88616 | 2026-08-21 04:46:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| a4aee738-641b-367a-9b39-77dfdeb19c00 | -6.86134 | -59.44487 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| c5aed0a8-086f-386b-b814-869b99ffb452 | -6.81842 | -59.39359 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| 07d54d9e-e362-32ec-a146-45f2fa3884f8 | -4.71834 | -42.77312 | 2026-08-21 04:46:00 | NOAA-21 | UNIÃO | PIAUÍ | Brasil | 2211100 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 8989773e-15ca-3b17-8641-c5ec0f2208cf | -7.60111 | -60.83012 | 2026-08-21 04:46:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| d6e471da-076e-3701-b888-ef22264d085d | -9.99453 | -53.93606 | 2026-08-21 04:46:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f2c3471c-0ed8-3ae3-86ab-3980d088d7c7 | -6.89508 | -55.72394 | 2026-08-21 04:46:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 591e1321-533b-35ae-bf26-9ce2a3e5272b | -9.40806 | -60.42379 | 2026-08-21 04:46:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| f30c68d1-74db-3b1b-9537-980529f788f9 | -7.14088 | -47.50666 | 2026-08-21 04:46:00 | NOAA-21 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 0a8074ae-dccd-38bf-8cad-701b5b96d97a | -6.44083 | -54.94855 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 473fd18d-1196-3940-92aa-a1f0df60086c | -6.59915 | -56.37103 | 2026-08-21 04:46:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 3a0f430c-a695-3253-9679-62117a58ff02 | -6.12359 | -59.90442 | 2026-08-21 04:46:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 9462f0c3-2a03-31b5-8ced-7e91b859f93b | -6.42725 | -52.72653 | 2026-08-21 04:46:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| c03aa2e7-6997-3462-979c-1613322c303f | -6.89201 | -55.71845 | 2026-08-21 04:46:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 0909826c-31d0-32a0-b413-d9ffbcd9209e | -6.88749 | -59.44201 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| f0b15c46-b574-397c-9fa4-e0492a951ecb | -11.32316 | -45.01455 | 2026-08-21 04:46:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| dad5f0c3-ad0a-389f-93af-02c49a89a92b | -8.66889 | -54.57837 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| d838278f-e3b3-3a4e-9636-b911f058d521 | -8.58796 | -54.74319 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| e97b4833-4f63-350c-b05e-d764624d2422 | -9.5109 | -51.63137 | 2026-08-21 04:46:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 19686055-5dec-303d-a64d-de0c67bde80a | -6.10039 | -57.87038 | 2026-08-21 04:46:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| a68eabb3-9e22-31bf-8035-b1298ac57bd1 | -9.05937 | -50.87867 | 2026-08-21 04:46:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| e6eb107d-9eb1-38c5-b190-e504833691f4 | -8.6684 | -54.58744 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| ad56a718-ef26-382b-8469-bedd0b18a483 | -10.52226 | -50.77685 | 2026-08-21 04:46:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 9.0 |
-| cf654143-7ac5-3d52-aa39-e626e087c6bb | -6.69569 | -58.9384 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 9.5 |
-| 04923881-beb3-3881-b543-7ef310e62c70 | -5.60903 | -45.70918 | 2026-08-21 04:46:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| d08e50de-d0d9-328f-8a2f-47abb94bdae8 | -6.12089 | -59.92025 | 2026-08-21 04:46:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 990124d4-b8e4-3eb3-bbaf-18b3f02ef50c | -7.13582 | -59.64289 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 1650c5d8-6ad5-31fd-a204-e6fb4a360bc6 | -10.12282 | -48.81251 | 2026-08-21 04:46:00 | NOAA-21 | PARAÍSO DO TOCANTINS | TOCANTINS | Brasil | 1716109 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| f23336c6-8e00-3042-8d05-ce5b944973e8 | -7.0638 | -59.96735 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 223f197f-5c23-345d-9318-881e4a745334 | -11.35798 | -46.00486 | 2026-08-21 04:46:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 1647c27d-6921-3308-aaa9-1961bd1bd4b6 | -4.01217 | -48.06499 | 2026-08-21 04:46:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 52da994e-090e-3feb-93bd-3a0f0902d077 | -9.4305 | -48.25293 | 2026-08-21 04:46:00 | NOAA-21 | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| b3e9d4dc-c057-3c35-a87c-3b5f88cdd411 | -8.56858 | -54.65961 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 830f0d62-4584-3fb2-b12f-173402a79738 | -10.30292 | -48.22847 | 2026-08-21 04:46:00 | NOAA-21 | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 25234a36-f65c-3280-8608-c5f3972dc182 | -10.82794 | -51.00075 | 2026-08-21 04:46:00 | NOAA-21 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| de2fcbc2-680a-341b-a6f6-02388f735a00 | -8.62791 | -54.72436 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| bc8b08a4-bd43-3443-be69-44e41d7faf09 | -11.32838 | -45.01085 | 2026-08-21 04:46:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| 64025b3d-3717-3fc3-b445-f1ee96817322 | -7.00961 | -56.54172 | 2026-08-21 04:46:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 75fde456-6857-3760-8416-09136627e2df | -6.58284 | -58.99493 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 0e9409cf-df19-3ba1-91b3-ab046b163ce4 | -6.42718 | -52.74885 | 2026-08-21 04:46:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 01bbcb2b-9c5f-3157-8baa-0e814e3ef8bb | -6.2481 | -55.41543 | 2026-08-21 04:46:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 44f58c5a-32af-3053-95e5-ac37ee836dcb | -3.67304 | -50.94873 | 2026-08-21 04:46:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 4ee1f3c3-440d-3603-9356-b9a173e43888 | -7.77969 | -61.15921 | 2026-08-21 04:46:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| 05afe0fe-31e5-3f3b-ad79-934e9dfd8443 | -10.63712 | -51.60214 | 2026-08-21 04:46:00 | NOAA-21 | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 444d4696-b443-3758-8278-c93647f3e008 | -9.41224 | -60.54441 | 2026-08-21 04:46:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a52ad4e7-3af4-30ee-992b-07d9be6283e9 | -6.42941 | -52.75666 | 2026-08-21 04:46:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 2f6a31b8-ff08-3082-a7cd-d0bc77fac136 | -6.86759 | -59.43859 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 0d7fc291-b990-311c-b91d-89486b55474f | -3.38227 | -59.53111 | 2026-08-21 04:46:00 | NOAA-21 | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| efc7ccd1-1fbf-366a-a1f9-a5c53452d2ec | -8.11342 | -50.04257 | 2026-08-21 04:46:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 313284fd-54c3-3ba7-bf9c-3e209f4abff4 | -5.60848 | -44.00851 | 2026-08-21 04:46:00 | NOAA-21 | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 38.7 |
-| 76244a23-f572-3a49-a5a2-49bdb64222cd | -8.21078 | -55.05119 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 13adebc1-f238-35f6-bdad-e07d4a036e5d | -6.88985 | -56.43198 | 2026-08-21 04:46:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| eac9362d-f9e4-3c60-80ad-b6b8ea7c487b | -6.00234 | -57.83628 | 2026-08-21 04:46:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 60b40578-a235-3bc6-931f-191ff6ff3a89 | -6.60382 | -56.36807 | 2026-08-21 04:46:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 42eeb597-d63c-3330-8589-2ee14e6986a7 | -7.01661 | -48.0381 | 2026-08-21 04:46:00 | NOAA-21 | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 11b5aef2-8aa8-3055-b240-ac82fcda6da5 | -7.62855 | -45.75674 | 2026-08-21 04:46:00 | NOAA-21 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 28dc7839-8eb9-3e86-a31f-47177e8c9830 | -8.3755 | -62.69999 | 2026-08-21 04:46:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 36.3 |
-| b310daa7-c59f-3e44-8c6e-52636a80f960 | -3.38281 | -59.52781 | 2026-08-21 04:46:00 | NOAA-21 | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e47948c1-a610-34df-9bf2-69ace550d671 | -8.49602 | -54.86649 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 954bde08-5bd8-30b8-99ba-4722584cf418 | -6.00678 | -57.86518 | 2026-08-21 04:46:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 95ac0b08-9481-3cac-980b-1c9e5e7a8022 | -9.05496 | -50.88518 | 2026-08-21 04:46:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| df06db3e-9bc3-3723-b337-eff93d5dce86 | -9.21782 | -60.77837 | 2026-08-21 04:46:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 27aae078-d128-330a-bd02-632bcd7540dd | -6.86597 | -59.03376 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 39a3aa17-f5d4-3a91-90de-7b2d5c905b05 | -10.75664 | -50.31681 | 2026-08-21 04:46:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| b91abcd6-8b6a-34f2-91d3-b849ecc5f5fb | -6.87321 | -43.73508 | 2026-08-21 04:46:00 | NOAA-21 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 14.8 |
-| 47e720de-efbf-3814-bcd4-cecddd17d293 | -7.44713 | -60.00688 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 7397bfb2-3faf-3455-a9bd-1ab9f61ef0e5 | -4.45355 | -55.39315 | 2026-08-21 04:46:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| b577bb73-c175-3dd3-963e-b1d687b85717 | -4.18761 | -49.41044 | 2026-08-21 04:46:00 | NOAA-21 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 54302ef1-a997-3b2f-9746-125b1514ca23 | -6.3847 | -54.95507 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| a8500342-a82a-35e8-ab03-9af737017629 | -6.8994 | -58.98451 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| a5955355-ed69-30fb-afa2-d509a1202a9c | -10.36261 | -48.23732 | 2026-08-21 04:46:00 | NOAA-21 | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 3053a282-511b-3cc1-9f34-540afaa61082 | -8.49395 | -54.87925 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e20a011b-ba3d-3428-abf0-ec249db674dd | -8.59763 | -54.70672 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 509936af-e671-3f72-8a0a-4db686692d7c | -4.11047 | -54.92602 | 2026-08-21 04:46:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 96687698-dcfc-35e7-88fb-1e1605a893b9 | -6.02286 | -50.20567 | 2026-08-21 04:46:00 | NOAA-21 | PARAUAPEBAS | PARÁ | Brasil | 1505536 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 8672897b-2254-3bbe-934d-611cf03c52ec | -8.55015 | -55.31905 | 2026-08-21 04:46:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 5a824142-f3a0-39fd-a165-054a8dcf0a2f | -6.96746 | -59.30504 | 2026-08-21 04:46:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 959df712-b6ac-3d57-aab1-7be409e8e891 | -6.22412 | -55.61908 | 2026-08-21 04:46:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 13.7 |
-| d11c1d8b-e273-3bff-8f0c-9db607512336 | -8.57148 | -54.6643 | 2026-08-21 04:46:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 9c4d8831-0905-36e3-b5be-e9c49789c90f | -9.51698 | -51.63589 | 2026-08-21 04:46:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| d13cb15a-8e7e-3392-adc9-e2e8afe8595c | -9.4531 | -51.60804 | 2026-08-21 04:46:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| acc6a36e-af7c-3e5c-a363-68369be38943 | -8.33508 | -46.50327 | 2026-08-21 04:46:00 | NOAA-21 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 3aaf89b3-c551-3801-befd-4f392d24e94a | -8.58641 | -54.78321 | 2026-08-22 05:04:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 74089510-a061-3eec-8d24-53977b8c857f | -7.22773 | -51.68401 | 2026-08-22 05:04:00 | NPP-375D | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 925dcf4d-1c95-3d76-9428-f31f0532d4be | -6.84108 | -59.45341 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 8142908e-f174-3f18-a353-2db8f9034877 | -6.10107 | -57.69722 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 1e2f9fb7-93cb-392f-9d6a-a9ae0d5de909 | -8.03481 | -51.79427 | 2026-08-22 05:04:00 | NPP-375D | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| c1fd9a34-0149-39e1-9d05-382f8c246d88 | -9.10184 | -60.92273 | 2026-08-22 05:04:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| dda35dc5-de53-3267-a318-de25d8557d3f | -6.94051 | -59.31346 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 711c1d5b-632b-3889-ac82-04fb54e13fe8 | -9.05849 | -60.43348 | 2026-08-22 05:04:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 6a9a2736-82c3-3870-a232-e55ca43c2a98 | -9.19726 | -60.88307 | 2026-08-22 05:04:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 2596c639-be83-348d-8e91-782b83a4a6a1 | -6.78541 | -58.63461 | 2026-08-22 05:04:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| a1d9a469-e52e-3fb4-b0a0-7336a178d18b | -11.16453 | -54.01137 | 2026-08-22 05:04:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 8a4762b3-0774-31f5-b9e0-331d2edfe3a3 | -6.14014 | -59.89503 | 2026-08-22 05:04:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| c2e8e190-d3a7-3eff-9d37-424eaa7df099 | -9.05283 | -50.88305 | 2026-08-22 05:04:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 5a8d920c-0d4c-3f43-8732-0f2285b12b41 | -12.78979 | -48.45993 | 2026-08-22 05:04:00 | NPP-375D | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 9418f45f-b8de-327f-8a79-d940dda90aef | -8.61617 | -54.72828 | 2026-08-22 05:04:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 88ef1a0f-609d-3a8f-961a-9681aaa52519 | -12.27568 | -43.17228 | 2026-08-22 05:04:00 | NPP-375D | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 19b9302f-f45d-39e5-9519-1d38ac3e2333 | -6.96202 | -59.05754 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| d6828c0c-c889-39e7-9de0-c5688bbadc6a | -6.81954 | -59.41737 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| cf3934b8-2175-3770-8d2a-7978cd1020b2 | -6.78833 | -58.64333 | 2026-08-22 05:04:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 429743a1-4439-3e73-a10a-7a571497289d | -9.16797 | -57.01482 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 6626aff0-83f5-362b-93e7-b2d21bb61e4b | -9.52088 | -51.63482 | 2026-08-22 05:04:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3785f085-795c-3730-9ffb-7c4bc51e6d55 | -7.4904 | -43.81526 | 2026-08-22 05:04:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| a06876f0-8d8d-3a61-8865-ed96fe8339ab | -9.16872 | -57.01038 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| ee1ada9d-be28-3638-8dd6-16d4f1920de1 | -10.79782 | -50.98589 | 2026-08-22 05:04:00 | NPP-375D | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 35395266-8017-3e15-8e63-ad7029992dd2 | -10.28022 | -50.38901 | 2026-08-22 05:04:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| e040f2a8-03d3-3b3b-9a71-52f8f71951ae | -11.43507 | -44.55808 | 2026-08-22 05:04:00 | NPP-375D | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 6976bb3c-dd98-37ec-8717-48b04227e30f | -6.86724 | -59.03423 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| cf269617-3618-391f-8f31-18df539c89a8 | -8.08973 | -50.03316 | 2026-08-22 05:04:00 | NPP-375D | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 5b07051a-c5ea-38e3-9b8e-465379d03e71 | -9.41185 | -60.40712 | 2026-08-22 05:04:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 57829456-0ee5-314f-ac48-c380bc3ff424 | -6.02501 | -57.68063 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| f65b6c2a-06d2-3cd9-b888-ac01f63baa42 | -6.85758 | -59.4378 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| f8c5e021-53c9-3b82-8679-d10ded8e0fe7 | -11.10628 | -49.89128 | 2026-08-22 05:04:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 1fc54504-3ec3-398b-a5a9-c03523e7e79d | -6.13228 | -57.68449 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| acbbebb2-5648-3593-90d4-7e789e4668f7 | -5.99942 | -57.80807 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| fb3f944f-5f73-37bc-9345-f098b19a3d45 | -12.77779 | -48.39043 | 2026-08-22 05:04:00 | NPP-375D | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 43417fd2-9d97-312d-a61a-3a432e78853c | -8.39511 | -62.68946 | 2026-08-22 05:04:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 27.5 |
+| c258e6d4-1b5a-3b59-8787-14e777ec19ae | -6.00122 | -57.79739 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 5e8208c6-3fad-3413-9c47-a9bc1c8db7ec | -6.3847 | -54.95632 | 2026-08-22 05:04:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 1be762ef-5a84-3aa6-a19e-e6f9c79f42ef | -6.77637 | -55.69847 | 2026-08-22 05:04:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 4d8c3766-dcd9-3370-b685-ae5c1ccb34a7 | -6.85475 | -59.46253 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 6d06cdf9-8c88-3043-ac1a-0dedf7081e5c | -6.43282 | -54.95571 | 2026-08-22 05:04:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 03d56a13-f995-31fe-bd78-da72e5650254 | -9.04932 | -50.88255 | 2026-08-22 05:04:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 996607e7-33e7-3580-84b8-63b894761e6d | -11.16117 | -54.03246 | 2026-08-22 05:04:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| f787f430-0456-3b41-b07a-4e9cf620eb6c | -6.76861 | -58.65661 | 2026-08-22 05:04:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| 9381b6bf-2781-3360-b059-1aca4cd7ea99 | -8.51949 | -55.32628 | 2026-08-22 05:04:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| b7bf3725-108b-3166-bb49-1631348032cb | -6.13285 | -59.90899 | 2026-08-22 05:04:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 1b83f02d-1d28-369e-afed-07187e53ac98 | -9.2079 | -60.76823 | 2026-08-22 05:04:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| d4aafd2e-0a83-36ce-8d66-e29914e93445 | -6.85563 | -59.02345 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 26d3e7d4-f718-3e98-8734-0603761f974d | -6.724 | -48.11094 | 2026-08-22 05:04:00 | NPP-375D | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| 015995fc-69d2-308d-83f0-fba936a86958 | -7.01665 | -59.55347 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| fd6eabaf-f6ce-3bd7-b88f-91fe87890c05 | -6.22615 | -55.42377 | 2026-08-22 05:04:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 2fa2f6f1-efb9-30c3-b4c1-f84a89ca0224 | -8.59423 | -54.71344 | 2026-08-22 05:04:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| ac5300e5-7ad1-3fb7-b6be-5a2730b8a7eb | -10.79488 | -50.9813 | 2026-08-22 05:04:00 | NPP-375D | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 57.7 |
+| 70128612-01d0-39db-b552-9295496cf84c | -7.51646 | -47.64198 | 2026-08-22 05:04:00 | NPP-375D | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 091787fb-8675-32b3-9e53-aa3cccb8671f | -6.93984 | -52.78167 | 2026-08-22 05:04:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 82b2ebfa-9463-3221-a855-4623b4060b54 | -6.12003 | -59.91917 | 2026-08-22 05:04:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 897b834c-5457-3e85-b2f3-01919ab293bd | -10.04152 | -59.45875 | 2026-08-22 05:04:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| aa81c103-a569-3a71-b597-819ee0cf8923 | -9.17318 | -57.00651 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| aaaf25c5-b133-311b-8450-50157c251c23 | -6.78006 | -58.66671 | 2026-08-22 05:04:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 12bfb0cf-c186-3f06-b348-7c3b751528ca | -9.43998 | -51.61863 | 2026-08-22 05:04:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 76fc0061-d8c0-3497-b212-735b62ef5aaf | -8.53395 | -54.82718 | 2026-08-22 05:04:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 79dd8d27-01eb-37cd-88bf-f350fd7715cc | -9.16575 | -57.00535 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| ff03642f-4f4e-3407-9257-44c4d145f197 | -6.54462 | -58.52225 | 2026-08-22 05:04:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 0f070116-d202-3472-ae86-8cfbafaec04a | -6.79188 | -59.41722 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 54.2 |
+| a9f958fe-03bd-361b-bbb0-db8c036b6ab3 | -8.09217 | -51.66962 | 2026-08-22 05:04:00 | NPP-375D | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 63947115-b247-3e14-8235-0acac7e12315 | -9.40554 | -60.41576 | 2026-08-22 05:04:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| f18c5f9c-832a-3bc2-8fab-a9cf2c799799 | -8.54075 | -54.8283 | 2026-08-22 05:04:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| d4b899a1-faa4-3476-a29d-943727247689 | -6.43289 | -52.75828 | 2026-08-22 05:04:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1e3bbb4d-7212-3d26-8ce2-a1f2123f78ac | -6.79127 | -58.64248 | 2026-08-22 05:04:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 8.3 |
+| a8b3bfa6-63b8-3d38-8739-174976dc4f8a | -6.76728 | -58.66449 | 2026-08-22 05:04:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 8.9 |
+| b267ebfa-35cc-39d7-b453-d0c42109c5eb | -9.43768 | -51.63344 | 2026-08-22 05:04:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| d2a887f2-a2ae-306b-922d-fbb54f5a2969 | -8.1074 | -51.66089 | 2026-08-22 05:04:00 | NPP-375D | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 0c4f9e65-1517-3291-b213-400cb389de22 | -8.03085 | -54.02625 | 2026-08-22 05:04:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 258fdec6-cb0f-30b2-93c1-10a37ef95b94 | -8.45883 | -51.55315 | 2026-08-22 05:04:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 27a294aa-4194-3ef6-995f-f0a39e784b65 | -8.5317 | -55.3166 | 2026-08-22 05:04:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c04a2c96-fb76-3b37-9345-59213a0d18bc | -8.62692 | -54.72627 | 2026-08-22 05:04:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 351a5173-3d30-31c4-b312-39bcd6feed01 | -11.16229 | -54.02542 | 2026-08-22 05:04:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 9a88e6a2-1bc5-3036-825d-c7d889fcbafd | -8.53963 | -55.32508 | 2026-08-22 05:04:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 4adc19c2-18bb-37c3-97bb-e52a7696790c | -8.88976 | -60.54312 | 2026-08-22 05:04:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 911ab191-fbc3-312f-b07c-f456ec6152f2 | -6.77302 | -58.69687 | 2026-08-22 05:04:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 9ada9e39-a4be-30b5-b697-fd4eb7cceacd | -6.06595 | -57.70928 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| f77a24df-a495-38af-ac7c-da53250ff852 | -6.6691 | -56.34596 | 2026-08-22 05:04:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 731e3866-9e8f-304b-a889-e6079146bd68 | -6.76462 | -58.6804 | 2026-08-22 05:04:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| a67ff787-cfc7-31b5-b358-fcb4758d75ba | -12.76762 | -48.40164 | 2026-08-22 05:04:00 | NPP-375D | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| a4164fec-bfec-3a2d-822c-e1d3cb2694bd | -7.60708 | -60.94482 | 2026-08-22 05:04:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 98d3f489-3dbe-3620-9b90-cbf400dbe111 | -6.79827 | -58.62732 | 2026-08-22 05:04:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 29bc0232-a442-325c-b4e2-90e565740286 | -6.13198 | -59.91393 | 2026-08-22 05:04:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| b51e8bb0-9c20-30de-806c-8f833c71db6a | -5.80235 | -57.54596 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 6203eb36-2ea5-3124-840e-36875912575a | -6.81288 | -59.40249 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 14b5d066-9ec3-3364-8bb8-ba81ac1ef296 | -5.80176 | -57.54946 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| c74b1962-317f-3600-bfa6-59f00898790d | -6.48948 | -51.60283 | 2026-08-22 05:04:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 14d1ed45-f9a2-31a5-84ac-fc851fab3e2f | -6.87102 | -59.44017 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 9fd4dc2c-678b-3563-887f-ffd2253ba2db | -10.51643 | -50.82202 | 2026-08-22 05:04:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 57addcda-35a4-3698-bca9-8041656184a2 | -6.81744 | -59.67536 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 16.1 |
+| 6db47669-4435-3952-99d7-a3857321abe5 | -6.60595 | -58.38913 | 2026-08-22 05:04:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 9d69f697-5330-3be8-ba9b-0c0c6cced1cd | -6.43821 | -56.18204 | 2026-08-22 05:04:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 0ced1164-efee-3db7-8dd3-45e153d9a0d6 | -6.77372 | -58.69287 | 2026-08-22 05:04:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 2cd8eee4-b409-3cf3-ac7f-2d47fc888883 | -8.99125 | -50.74075 | 2026-08-22 05:04:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c620f809-d33c-3eba-a982-b7b72d00ac6c | -6.7874 | -59.41645 | 2026-08-22 05:04:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 54.2 |
+| 7961d101-50d9-33a1-b507-de087b7109df | -9.16198 | -59.46194 | 2026-08-22 05:04:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 6.2 |
 
 
 [Clique aqui para ver as próximas entradas](README38.md)
