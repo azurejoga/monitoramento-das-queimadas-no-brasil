@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| fc2f1a1c-20e4-3694-8c14-4fca749c2d91 | -8.943 | -63.28336 | 2026-08-29 06:31:00 | NOAA-20 | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| cfa4dafd-a81e-30be-849b-62b21041284f | -8.95108 | -63.27712 | 2026-08-29 06:31:00 | NOAA-20 | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 70572b41-65b9-3269-ac4c-7ce70d78245f | -8.98983 | -65.43861 | 2026-08-29 06:31:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ba4945d4-204d-37c5-9a5c-70d969ce7a1a | -9.0663 | -65.41772 | 2026-08-29 06:31:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 114169a6-ac22-3750-a937-24f21d39e7bc | -8.22299 | -69.84197 | 2026-08-29 06:31:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| e955bc6e-4f9c-3c31-bd74-322ad3349236 | -9.1001 | -68.62553 | 2026-08-29 06:33:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| e0a2cbb6-eaa0-30b5-a8fd-2eecdaee4240 | -8.90228 | -71.39932 | 2026-08-29 06:33:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| df5f6378-50e3-314a-89ba-19f77d750990 | -8.89862 | -71.39471 | 2026-08-29 06:33:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| e5177167-c8bb-3c38-a824-96e25f729294 | -9.10051 | -68.62248 | 2026-08-29 06:33:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 874aae1a-a36b-36cf-a6ca-d3774726106e | -10.5042 | -64.313 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| f5afeb8a-e281-3e97-a45a-5d722c23691b | -10.48141 | -64.49237 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| 0aa08aa7-6490-312f-a861-fe1f3267b5d1 | -10.4762 | -64.4937 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 9.4 |
-| 38a7c4e9-7c61-3333-98cd-edb09520a37f | -9.86717 | -65.02541 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| a6b73901-cec4-3062-b91d-72e023499358 | -10.47547 | -64.4999 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 12.4 |
-| df8e1935-8535-37e3-b996-77ac868692ec | -9.86646 | -65.03101 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| d34000f8-03a5-356b-bbfd-05a69a80ecba | -10.48908 | -64.50155 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 12.5 |
-| 573b7386-bc36-3fb1-9b21-58e2fb88e8ba | -9.20794 | -71.85959 | 2026-08-29 06:33:00 | NOAA-20 | JORDÃO | ACRE | Brasil | 1200328 | 12 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 0e0da36b-7194-3944-b726-b823f26367ea | -8.82386 | -70.63225 | 2026-08-29 06:33:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| edabe3da-4ca3-33a9-8be2-fdc557aacf60 | -9.50762 | -65.5825 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 714e081c-6626-3491-9551-2e3638167c22 | -10.28136 | -68.86601 | 2026-08-29 06:33:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| c95f2f17-143b-39d5-9e88-2c682e7a45df | -8.86675 | -70.90538 | 2026-08-29 06:33:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 4256c01d-87fd-31df-8027-c746fee1b924 | -10.46703 | -64.49695 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| d09aa8b5-dd45-3491-8a93-f2d047ba3b92 | -10.47989 | -64.50462 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 9.2 |
-| 94f556a8-60f1-3d5c-989b-8af3d9ca7b25 | -8.65468 | -70.75398 | 2026-08-29 06:33:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 3900f410-4d09-3e71-8673-9192f5a67b31 | -9.8737 | -65.0263 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 8c29a067-53c9-3113-9cf1-2a160f4e43da | -9.17756 | -70.89436 | 2026-08-29 06:33:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6178548a-2c8d-3515-ba7e-fb7791ee62c1 | -9.86576 | -65.03658 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| baef41d6-8b6f-3a80-8e4e-84c1b83a598d | -9.38386 | -66.52009 | 2026-08-29 06:33:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 542877cf-3e5a-3030-a4f8-f41df59739e9 | -9.34094 | -68.88993 | 2026-08-29 06:33:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 7086f2c8-e619-32d2-bba8-fc15714f933b | -9.86611 | -65.02618 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 4af5662b-5141-3c53-aca5-4575679ae63a | -9.38331 | -66.52442 | 2026-08-29 06:33:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 2abe8f8e-6de8-3804-84ef-51d00e34989f | -10.46627 | -64.50319 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| 4942f0d3-39d6-3b28-90b6-cd817ef969fa | -9.86544 | -65.03178 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 0802fd21-40e4-3923-9b3e-2e33825ad83a | -10.47462 | -64.49145 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| 4b435033-43fd-35d1-99e3-fb15d3a46a80 | -10.483 | -64.49461 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 14.2 |
-| 404f6918-6c1b-3ee2-9663-b3fb24363673 | -9.50824 | -65.57745 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| f7b1d031-1850-3944-b4a1-5ad941a001fa | -9.51392 | -65.58327 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 0df062fb-dd42-3a5c-8856-91f39a2b45d1 | -10.51191 | -64.30676 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 199fc3ea-45eb-3da3-8513-89ace99d6ace | -10.48064 | -64.49857 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| b06fb6e4-af9a-3d10-8f94-1ddd3e123d62 | -8.82832 | -70.6329 | 2026-08-29 06:33:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 46c2b031-e0ca-3fb7-9d20-ec3d3e31c944 | -10.51116 | -64.31321 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| ba22238a-6e38-3a61-9e59-0c25eaa6e7c8 | -9.86477 | -65.03737 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 0b018103-6ba6-3d51-8ae8-08f2412ab405 | -9.38978 | -66.52095 | 2026-08-29 06:33:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 4b2a8c4c-ad08-34d0-b81e-16b11742d10c | -10.46867 | -64.49908 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 12.4 |
-| b79ac30d-7c3e-37b7-83a1-ba29a798a70f | -9.02628 | -70.91846 | 2026-08-29 06:33:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| fa27fcdc-ec66-36b1-8ecb-90d1dc646a27 | -9.87197 | -65.03267 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 7f5a38b3-0471-3998-a38c-f188d083c2dc | -9.35321 | -67.80283 | 2026-08-29 06:33:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 07faf75d-91d5-3e04-8fa9-a1153a705161 | -10.4678 | -64.49068 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 60afa9a3-d6bc-3158-acd4-d692f9e4b8af | -10.46098 | -64.49001 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| f27f0b35-2e10-347f-a9d0-a98850b0ca20 | -8.84948 | -71.31462 | 2026-08-29 06:33:00 | NOAA-20 | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| a255b924-d347-3cc8-83a9-c9d6d6382f18 | -10.4694 | -64.49278 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 9.4 |
-| 6a1b9842-31c5-39e2-8111-0be58a1da02a | -8.82325 | -70.63669 | 2026-08-29 06:33:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6565f7f1-4205-3718-a10a-aba0cc0a8914 | -9.51455 | -65.57822 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| ef5cd679-939e-3291-bb9b-4ecf00abfdf0 | -9.873 | -65.03188 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 8147cfad-c9ce-3998-8931-ae521b3890e7 | -9.87264 | -65.02708 | 2026-08-29 06:33:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| a1e625ad-2e68-35c7-82b8-bcb444042e3b | -9.34777 | -67.80205 | 2026-08-29 06:33:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 1c387ced-9e73-3f11-a225-7cdf39f71ba8 | -8.89805 | -71.39869 | 2026-08-29 06:33:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c0918d67-e661-3d05-94d6-7cbeca90e606 | -10.27664 | -68.86217 | 2026-08-29 06:33:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| a235de6b-490a-3031-835c-4d80e7eeda53 | -10.48228 | -64.50072 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 12.5 |
-| 5face522-1c44-3c42-a3c9-e8294fe5438d | -9.02688 | -70.91417 | 2026-08-29 06:33:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 1658cccb-bdbd-34d4-9e62-418e23197625 | -9.27947 | -68.78265 | 2026-08-29 06:33:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 0d08d5ac-6d62-3ab2-844f-ba617856c7d5 | -10.47384 | -64.49773 | 2026-08-29 06:33:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| a4e9ba30-83d5-33df-abb9-ff37aae6a04d | -9.39033 | -66.5166 | 2026-08-29 06:33:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 4b4a9c7d-1dac-3eae-b4b4-cc7cf38e9499 | -6.7884 | -55.6635 | 2026-08-29 06:40:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 141.1 |
-| 384c0498-e8ca-3d76-bed8-01a3d47a5ef8 | -6.6315 | -43.7533 | 2026-08-29 06:40:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 109.4 |
-| 7b90c57f-8907-31f9-acd5-1818d20f8412 | -5.8895 | -57.7513 | 2026-08-29 06:40:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 76.5 |
-| 9c63651f-0624-3083-ada5-2e0a92116428 | -6.7885 | -55.6436 | 2026-08-29 06:40:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 41.5 |
-| d622e4c6-d875-3d36-8fab-08c79a8ef07a | -6.7699 | -55.6644 | 2026-08-29 06:40:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 93.3 |
-| 3708dc3b-08a1-3fb5-b8cf-29274a061e10 | -10.4795 | -64.4824 | 2026-08-29 06:40:00 | GOES-19 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 50.1 |
-| f159669d-c0f8-361e-8652-002d54f44d2d | -6.6317 | -43.73 | 2026-08-29 06:40:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 141.1 |
-| ad94f24c-d45d-34ea-8222-9936b824a3e9 | -10.4794 | -64.5012 | 2026-08-29 06:40:00 | GOES-19 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 98.0 |
-| 325b3703-ed06-37bc-afad-0b35d6b73e5d | -5.8894 | -57.7708 | 2026-08-29 06:40:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 56.4 |
-| 158d6646-ac5e-3ff3-834b-d167697dab08 | -10.4608 | -64.502 | 2026-08-29 06:50:00 | GOES-19 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 47.8 |
-| abd0447d-e522-37dc-b0cd-b3a5a86f589e | -10.4794 | -64.5012 | 2026-08-29 06:50:00 | GOES-19 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 102.9 |
-| 9778ca5a-64c7-322e-a863-f5186aad9efc | -6.6315 | -43.7533 | 2026-08-29 06:50:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 153.6 |
-| 17873124-fc7b-3a31-983f-84ca32e4661c | -6.7884 | -55.6635 | 2026-08-29 06:50:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 149.5 |
-| ab2b2b5d-9c5e-32eb-b2d9-70c783de0623 | -6.7699 | -55.6644 | 2026-08-29 06:50:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 84.6 |
-| 4c4d2c4e-2f49-3019-b626-e786ec38f7f6 | -5.8895 | -57.7513 | 2026-08-29 06:50:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 67.2 |
-| 0fe4eb89-471c-396b-8e94-97aa4f966d60 | -5.8894 | -57.7708 | 2026-08-29 06:50:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 51.3 |
-| b51ef85d-6f6b-3634-9705-458ce4fa51f8 | -6.6317 | -43.73 | 2026-08-29 06:50:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 152.4 |
-| 6c93c328-4f2f-3771-86ef-1a9e1cf56da4 | -10.4795 | -64.4824 | 2026-08-29 06:50:00 | GOES-19 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 48.3 |
-| 8fe8a9ec-e318-3223-92ab-1d860eb973ea | -6.7699 | -55.6644 | 2026-08-29 07:00:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 76.4 |
-| 2383de4b-3477-33ae-bebd-4642d306c624 | -6.7884 | -55.6635 | 2026-08-29 07:00:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 160.0 |
-| 94166223-e48e-3e4e-bda6-3910500cc4f3 | -6.6317 | -43.73 | 2026-08-29 07:00:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 127.9 |
-| b7e5a50d-b94b-38c1-960e-767b13211e0f | -5.8894 | -57.7708 | 2026-08-29 07:00:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 53.1 |
-| 7a1c5dac-6905-3ab9-a1d9-905f75f70551 | -10.4794 | -64.5012 | 2026-08-29 07:00:00 | GOES-19 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 91.8 |
-| b8a83f13-2abd-3b86-8f02-61ab093b04e7 | -5.8895 | -57.7513 | 2026-08-29 07:00:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 60.6 |
-| 20ae3920-d445-3718-92df-0af04111cc4e | -6.6315 | -43.7533 | 2026-08-29 07:00:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 129.8 |
-| f5774f08-493c-3469-a1e9-42f7fcca6c2c | -6.7885 | -55.6436 | 2026-08-29 07:00:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 45.5 |
-| 90930901-b638-3f25-8b60-b247c78d2271 | 0.14467 | -60.40091 | 2026-08-29 07:09:00 | AQUA_M-M | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 19.5 |
-| 60f2bfb1-fc8d-39d2-ae0d-926db7119f04 | 2.51944 | -50.85263 | 2026-08-29 07:09:00 | AQUA_M-M | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 13.7 |
-| 2d6040fe-0a07-30ae-ae1a-35ae01f2dad5 | -6.7885 | -55.6436 | 2026-08-29 07:10:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 74.5 |
-| b2dfab5c-85c2-3604-96b9-b0ed96fa3e0a | -6.6317 | -43.73 | 2026-08-29 07:10:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 140.9 |
-| 1c862a15-18d3-38d5-ad56-376ed1b62b24 | -6.8069 | -55.6626 | 2026-08-29 07:10:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 60.6 |
-| 4dbd5c35-7983-3e07-be67-072d1ffb5795 | -6.77 | -55.6445 | 2026-08-29 07:10:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 43.7 |
-| 1b8613ba-a844-3de0-9c5a-f6865e27a9da | -5.8894 | -57.7708 | 2026-08-29 07:10:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 46.5 |
-| 707df71e-34ba-30ce-a3bc-fa5bf1fa1507 | -6.6315 | -43.7533 | 2026-08-29 07:10:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 96.9 |
-| df062ffa-36f3-36da-a166-4642637906ac | -6.7884 | -55.6635 | 2026-08-29 07:10:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 179.5 |
-| 887d1d86-a716-3d04-9ab7-4f7fe018b3c3 | -10.4794 | -64.5012 | 2026-08-29 07:10:00 | GOES-19 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 80.2 |
-| 68c6ae87-37d7-3a6d-a7e0-a34ee001e3ea | -10.4981 | -64.5005 | 2026-08-29 07:10:00 | GOES-19 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 46.0 |
+| efe850df-5bc4-3009-968c-0a0d5a8db833 | -10.50387 | -64.52415 | 2026-08-30 06:14:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| de10e2a1-3a27-3a08-90e8-ee57db6d5f65 | -9.70846 | -60.73109 | 2026-08-30 06:14:00 | NOAA-20 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 705fc7db-f108-3faf-8b63-e6b1daa25d39 | -9.74952 | -66.75886 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 04afd6f3-db14-3ee8-a989-e0125d5f0224 | -9.88861 | -60.27774 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 11.3 |
+| 8c443eb8-6b4a-3ebd-9076-1e47e40c4c4a | -10.50351 | -64.52699 | 2026-08-30 06:14:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| cc3ceedf-8b7b-312c-b941-5e19f606a575 | -8.65814 | -62.84137 | 2026-08-30 06:14:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 24618a6e-c789-33ad-ab53-d1045c1c38df | -9.00231 | -65.43772 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 3460843d-103c-33bd-9f54-0bfa2d0dc234 | -8.95683 | -62.40065 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 70e4afaf-0196-36d9-a9ca-060fdc67b9c2 | -7.55507 | -61.32493 | 2026-08-30 06:14:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 678d4a1e-7c99-3e49-a50a-6a75a3b8a90f | -7.96816 | -70.02705 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 0cf822de-6b7e-3116-90ba-f3d9c2f4b7bb | -8.96198 | -62.40533 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 61baba22-9200-3170-af84-9d3f7acb6373 | -8.59969 | -70.21759 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2644f466-a977-3850-9473-86d3b38e9571 | -7.30285 | -60.59267 | 2026-08-30 06:14:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 45ced049-3c0c-3135-81be-828a2a2b4e69 | -9.23838 | -60.41248 | 2026-08-30 06:14:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 6c72ab12-3ada-3ee2-b906-e4a9b838a679 | -8.77802 | -70.81536 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 93c6b8ec-672a-32f7-a31b-552c9434cd97 | -6.91243 | -59.48738 | 2026-08-30 06:14:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| c2da9e61-42f0-3062-895f-98f74ac5113b | -8.91109 | -66.95264 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| ebfe1720-793e-3baa-af19-d88f0a59ae69 | -8.95166 | -62.37547 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 12c0f784-d9dd-3491-961b-4d567730680a | -8.85397 | -70.61645 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d78ec68a-a2eb-3b76-8967-62856d43988d | -10.48698 | -59.60938 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 609286f3-1f9b-3864-bed1-27dfee532e5d | -8.59026 | -66.96133 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 0710b711-bdbd-3c54-aab1-e30687ee4a16 | -8.94548 | -62.37857 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 2e295f16-113a-3acf-a700-5922dddb808e | -9.03938 | -67.61903 | 2026-08-30 06:14:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 44df6992-73d9-3a3f-a331-c23d3fad666c | -8.96248 | -62.40146 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 1e7e35fe-0d63-32a9-8666-58271107ed9f | -9.9375 | -60.52214 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| fe3726fa-291a-3a3c-9f79-5d2dee2c1e14 | -9.93172 | -60.51604 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 1372d969-9f09-3e6c-9cae-f3d7180ba93d | -8.95413 | -62.37676 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 670000ab-1c36-3a7b-9282-442d63492358 | -8.95782 | -62.39293 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 23449341-93a3-3eba-9916-3f9b92551e2a | -9.93683 | -60.52743 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 8.2 |
+| 4dbc603f-fc14-34ce-8175-de5d529ca162 | -7.56162 | -61.32132 | 2026-08-30 06:14:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| f76a3199-7612-3b8b-be4d-c05689edf59f | -7.314 | -60.60391 | 2026-08-30 06:14:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 9fbba40d-980c-3da2-aa79-1520c6f89dee | -8.10708 | -70.21388 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 97c54b17-50b4-3af9-a61a-78c7742c2944 | -10.48026 | -59.61648 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 07dcc0d8-0e04-3e4d-90e6-f04097e111fa | -9.88792 | -60.28345 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 11.3 |
+| 929095a1-3220-3675-b45a-9e2ed87c0d2d | -9.07063 | -60.49463 | 2026-08-30 06:14:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0031fcbc-a6ee-31af-aa38-c54f7f4d0f62 | -8.90165 | -71.39748 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b333f859-1364-33e9-a4e1-86ff0e67b5c9 | -10.48514 | -64.51089 | 2026-08-30 06:14:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 7d01fb6b-6ba0-392a-9c00-73ad6da77641 | -8.95933 | -62.40393 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c11dd0e3-3030-3bb3-a00b-dc496a22a042 | -10.48013 | -64.51025 | 2026-08-30 06:14:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 3b40f3fe-70a4-3050-ad49-959593f4ee33 | -10.48571 | -64.50674 | 2026-08-30 06:14:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 04eb0c54-7471-3cc9-9ffb-e2cd7cb69a00 | -8.95534 | -62.41226 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 09753b27-d008-3177-9c38-960e045ceba0 | -8.72774 | -70.78137 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a51412d1-bbfa-3621-9709-672a0e1e1ed7 | -10.48052 | -64.50735 | 2026-08-30 06:14:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| cbf1966d-4668-383a-970f-acb1592a949d | -7.30222 | -60.59744 | 2026-08-30 06:14:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| cdf5297b-0467-373c-9548-8e9d59dc6364 | -8.25468 | -62.75464 | 2026-08-30 06:14:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| f1a7b17f-f569-37c2-bbcd-cf715df181d3 | -9.06092 | -65.42163 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| b745b5fb-9fb9-32b1-bf03-006b836512f8 | -9.15285 | -59.50655 | 2026-08-30 06:14:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| dfe2797b-f3f9-309d-af30-743066899f85 | -9.01612 | -65.40562 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| ead74e29-1a4a-3d7c-aa40-9f27b73c3473 | -8.59181 | -70.2283 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 8c658fd3-e701-3e16-b403-1b3ba6e04a43 | -7.56102 | -61.32572 | 2026-08-30 06:14:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| b2a87929-77c9-3bf7-bb82-4a8cee972761 | -10.48851 | -59.60525 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 508d600a-58fb-31e0-9161-197d1403a368 | -9.85043 | -60.27157 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 3a2f8687-a1f1-3060-9801-99063375add1 | -8.59681 | -70.21326 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 51e9ab5d-33a0-3a3e-9bb3-e6b7ad2d85cd | -7.24284 | -60.62676 | 2026-08-30 06:14:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 3b97e010-18a3-3e8a-b458-ac938add4a8d | -10.4794 | -59.6145 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 22a50803-233f-3006-af33-bc9b2edcc0e0 | -8.25341 | -62.75834 | 2026-08-30 06:14:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 55e939c3-8160-3a53-aec7-eafb09dbdf50 | -9.74908 | -66.75814 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 28feb61e-c89d-3225-96e3-f0c4b2c243d3 | -9.92267 | -67.87838 | 2026-08-30 06:14:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 5b3128a7-4dda-3699-8140-0b79b70a7e81 | -8.88135 | -71.263 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 435c9fad-cc74-39c3-933a-ed35aae7386c | -9.07126 | -60.48947 | 2026-08-30 06:14:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| cd75b236-4924-3ee6-bee5-2b460cca4f03 | -7.2422 | -60.63149 | 2026-08-30 06:14:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 76ee5261-8d55-3072-a867-e160ec9af4d2 | -8.86448 | -71.46063 | 2026-08-30 06:14:00 | NOAA-20 | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 8369e505-33ea-3331-8dcb-fe1eaa680805 | -9.06024 | -65.42641 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| ac2d14db-4cc9-3ade-a053-066b6064c705 | -8.58613 | -66.96078 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| b3559fa1-6655-3306-bf95-c38c58b82aff | -8.94797 | -62.37986 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| c62fa48e-add3-3695-9323-ceffb4230e61 | -9.23772 | -60.41775 | 2026-08-30 06:14:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 07c1b379-abf2-3d46-8807-8bcc6d1e8a3a | -8.93533 | -67.36304 | 2026-08-30 06:14:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 60be7cdb-80fd-310b-b43f-6881a2c0f96c | -8.9147 | -66.95696 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| cd3b2bd8-d051-383b-82c9-47c18c8463e9 | -8.92978 | -67.37313 | 2026-08-30 06:14:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 31bf6397-c811-3bc1-ac59-64965b3b7878 | -8.95115 | -62.37931 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 2769752f-ca01-3af0-b48a-5eef28bfb80c | -10.48014 | -59.60843 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 7e203a5a-9278-3e20-82f4-a3d4c8499e10 | -8.21638 | -70.48225 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 3eb8bfaa-6029-372d-a505-b990b213750a | -8.58253 | -66.95648 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| d20cfd12-6b74-323f-a0d9-8de41ff92a1b | -8.74039 | -69.5673 | 2026-08-30 06:14:00 | NOAA-20 | MANOEL URBANO | ACRE | Brasil | 1200344 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 2c62869f-9271-3fb6-a710-65ea2a8ae953 | -8.946 | -62.37472 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 62c9145d-60ae-3595-89d3-f25e5af970ec | -8.34881 | -70.84976 | 2026-08-30 06:14:00 | NOAA-20 | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 9e5442f2-a51a-3d93-aa27-fb3c2d0c80af | -7.39862 | -60.58632 | 2026-08-30 06:14:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| ed9c68e8-4b83-39f3-bc6a-f84025a3bf6e | -6.07987 | -57.89294 | 2026-08-30 06:14:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| a3eb1294-7df2-31c0-b24f-28bd2e9b6400 | -9.18043 | -71.63352 | 2026-08-30 06:14:00 | NOAA-20 | JORDÃO | ACRE | Brasil | 1200328 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| a073ed14-c664-3484-9669-3ff49f8eef13 | -8.60831 | -70.20724 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| d6f7f1a9-dd53-3d64-b260-183fad52be68 | -7.29601 | -60.59659 | 2026-08-30 06:14:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 906d08cb-9344-377c-82c6-8ca85d5a9334 | -9.93239 | -60.51871 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 516bd9f3-a4ba-399a-a273-173f26c89849 | -9.2311 | -65.88695 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 5a4a6bfb-9581-3979-af6e-ce71c0a5d4b4 | -8.94748 | -62.38371 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 91e2b41b-8222-31d1-bb9d-f3a5cb2dcfe1 | -8.9318 | -67.35887 | 2026-08-30 06:14:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 12.0 |
+| f6233e42-6e53-398c-bcab-7a1705136bd0 | -6.07887 | -57.90014 | 2026-08-30 06:14:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 91279c7d-9661-31df-8322-6e5a9d7269c2 | -10.48622 | -59.6156 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| fa2d454a-52e4-30c3-b821-8385f1bcf0fc | -7.62384 | -61.33278 | 2026-08-30 06:14:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 2713c3b5-8c4c-3f79-a115-63bb39a84d47 | -9.51097 | -65.57924 | 2026-08-30 06:14:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| a60f5f11-e09f-3186-83d5-9f46e74b1372 | -9.05698 | -65.41619 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| e9c422a7-42a7-356c-b42c-f217fc320b8e | -7.39926 | -60.58165 | 2026-08-30 06:14:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 9ffe83de-18ad-3bff-bee9-475313c1e104 | -7.55744 | -61.30731 | 2026-08-30 06:14:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| b890e787-d81d-3f65-b4d8-d90ea88ba8cc | -8.25377 | -62.76163 | 2026-08-30 06:14:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| a127ba6d-98fd-3a72-a417-543468718952 | -9.93175 | -60.52402 | 2026-08-30 06:14:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b8e32554-35fc-36b9-9f61-d34fb57ef64d | -7.69593 | -61.1576 | 2026-08-30 06:14:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| f8b9b1b6-add0-385f-a982-f8869f300123 | -8.95985 | -62.40005 | 2026-08-30 06:14:00 | NOAA-20 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9134e0c1-432a-35bc-82ef-e86a9de97ee0 | -7.55685 | -61.3117 | 2026-08-30 06:14:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 89d95eb1-a6f5-307c-b922-ca5b1eb6ed0a | -8.58307 | -66.95275 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| e3ab5156-1d2e-3bb3-98b1-211ca957b93d | -9.09323 | -65.49096 | 2026-08-30 06:14:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 1dc6d3e1-3b75-362c-82d8-742cda5bcd57 | -7.96791 | -70.34591 | 2026-08-30 06:14:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
 
 
 [Clique aqui para ver as próximas entradas](README73.md)
