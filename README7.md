@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| e9248041-2952-3580-bf24-5f827ef30223 | -6.6242 | -53.167198 | 2026-08-30 00:32:00 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| dd5f79a9-0d4f-311c-ae3d-ccc5ce10e513 | -4.151 | -60.677601 | 2026-08-30 00:32:00 | METOP-B | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 2d20b1ff-8df0-3d02-8a48-ca7193e9fe3f | -6.9335 | -55.709 | 2026-08-30 00:32:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 6d1fc410-0915-3105-b52b-ea8a491119b7 | -5.9915 | -57.668499 | 2026-08-30 00:32:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 17856c9f-0ccf-3c00-af45-b7dc8c6e8f25 | -11.9186 | -55.8853 | 2026-08-30 00:32:00 | METOP-B | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ec4f1d2c-1f66-3e10-9d24-17d55213730f | -7.4907 | -55.301899 | 2026-08-30 00:32:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 916b58c4-fad8-3b0e-befd-efd31d0d0cbe | -12.5602 | -55.719501 | 2026-08-30 00:32:00 | METOP-B | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| cef69575-ebe1-3187-9071-cdb6655b3d3a | -15.2261 | -57.6464 | 2026-08-30 00:32:00 | METOP-B | LAMBARI D'OESTE | MATO GROSSO | Brasil | 5105234 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9d50c560-1e98-33e1-b8d4-ec3e221af7bd | -7.5709 | -61.317001 | 2026-08-30 00:32:00 | METOP-B | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| b07245e1-4b70-384d-af6a-ee9c6817541b | -8.5061 | -55.284599 | 2026-08-30 00:32:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 27fc2f63-28c7-307e-889b-c9bc5c91bbd1 | -9.9402 | -60.5117 | 2026-08-30 00:32:00 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 802bc1b1-6f93-387b-8642-135a701e205f | -8.556 | -54.772598 | 2026-08-30 00:32:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 870b2bdd-061f-3d7a-934a-daf85686e0eb | -7.5682 | -61.304298 | 2026-08-30 00:32:00 | METOP-B | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 7bd94c46-5e7a-3a30-8835-286db51bbc64 | -8.9435 | -62.337399 | 2026-08-30 00:32:00 | METOP-B | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| e90cf0d2-868b-3b54-9ba5-e9539fa96d41 | -4.1585 | -60.665199 | 2026-08-30 00:32:00 | METOP-B | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| fae1c137-b9a2-391f-bd3b-8de6f3a3f70d | -10.7469 | -54.027199 | 2026-08-30 00:32:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f7b92633-224e-3013-be53-8b5ab7e005d9 | -11.1621 | -51.297798 | 2026-08-30 00:32:00 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| c7171406-088f-3b07-a437-e0fe46d1db0c | -10.3528 | -49.971401 | 2026-08-30 00:32:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 33fc6395-18f7-3abc-8778-1eb5af0a4d7f | -14.8922 | -47.732899 | 2026-08-30 00:32:00 | METOP-B | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 2da5829a-411f-381a-a001-58ddc7d3702e | -11.2002 | -53.981899 | 2026-08-30 00:32:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0bf303df-8103-35bb-81cc-2969edd913b5 | -8.95 | -62.368801 | 2026-08-30 00:32:00 | METOP-B | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 57fdddfc-02bb-33a4-b437-8bacf504defa | -10.7531 | -54.055 | 2026-08-30 00:32:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 2532efda-f2c0-3b1f-8d70-6f8c2f16de6b | -11.7698 | -54.504398 | 2026-08-30 00:32:00 | METOP-B | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 941e1b0a-b046-350f-bb39-01ea324779bb | -19.2283 | -46.716999 | 2026-08-30 00:32:00 | METOP-B | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 10456281-e786-30ed-a781-ee5dcaf371d3 | -6.2607 | -55.418499 | 2026-08-30 00:32:00 | METOP-B | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 11c67b0d-ec4b-341e-b661-14ae468f837a | -6.6899 | -60.110699 | 2026-08-30 00:32:00 | METOP-B | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 93d9fcf1-f9a7-3843-8781-be8c3283fe68 | -4.0863 | -54.101101 | 2026-08-30 00:32:00 | METOP-B | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 0a6f7817-4727-3479-881c-4653c975d795 | -8.6112 | -54.7892 | 2026-08-30 00:32:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 4e099187-73fd-35f8-99f9-50bab882ea68 | -11.8305 | -51.111099 | 2026-08-30 00:32:00 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 6686057e-2ecc-3f4c-a316-e30d19fceaa2 | -7.0579 | -55.666801 | 2026-08-30 00:32:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ac5015b5-da18-3a7c-96f5-67cd595807d5 | -9.707 | -60.714401 | 2026-08-30 00:32:00 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9cf73f02-5338-3253-9577-ed4895f28164 | -5.8792 | -57.764801 | 2026-08-30 00:32:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f839b5fc-dd59-365a-bea4-588306447b0a | -7.0726 | -59.702702 | 2026-08-30 00:32:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| c9c2ce8f-c760-35e1-bf61-63a84b86d19e | -5.9881 | -55.7174 | 2026-08-30 00:32:00 | METOP-B | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ed55551a-1720-3809-b8f3-7945fdbc3a51 | -8.9565 | -62.351101 | 2026-08-30 00:32:00 | METOP-B | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 034ef61d-05ee-3950-938c-f6824e9debe9 | -9.1962 | -51.5396 | 2026-08-30 00:32:00 | METOP-B | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 4beb44ac-1393-3c9f-9fe9-b334fc0e9f3b | -10.7402 | -54.043301 | 2026-08-30 00:32:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1e5db62b-9de2-315d-a332-326a02c70618 | -10.7437 | -54.013199 | 2026-08-30 00:32:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5f2fd68a-1d99-394f-8529-e68cb713af68 | -7.3109 | -60.574299 | 2026-08-30 00:32:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 8f6e651c-ccf9-3e64-8ce7-a26159ac6a84 | -7.0046 | -59.625198 | 2026-08-30 00:32:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| f8985b31-de6a-3ebe-a431-832dec9e61ed | -10.7504 | -53.997002 | 2026-08-30 00:32:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 42e7e281-faeb-3137-9ead-a8bc1bdc60a1 | -7.3133 | -60.585499 | 2026-08-30 00:32:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 50784448-7acf-3e47-899d-cc3df308e71f | -5.8954 | -57.7453 | 2026-08-30 00:32:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| bb118a15-d6e7-37bd-9cf4-57536ccffe2b | -8.6096 | -54.782299 | 2026-08-30 00:32:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e35a19e2-d600-3137-9f45-6f42fc25ae39 | -13.8405 | -54.098301 | 2026-08-30 00:32:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 3785c5e5-4b04-32a8-bd0e-26635b51df26 | -4.0847 | -54.0938 | 2026-08-30 00:32:00 | METOP-B | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 85736cb0-09e2-3fd2-bcd1-f103672f1f51 | -4.6883 | -55.6619 | 2026-08-30 00:32:00 | METOP-B | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e5a42e46-68e0-3aa4-b93e-9fe49e1a20b1 | -6.1591 | -57.7757 | 2026-08-30 00:32:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8170d5df-f1e6-31e9-970e-1ff02a10194d | -10.7453 | -54.020199 | 2026-08-30 00:32:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 543b6b5d-5a2e-3a10-958b-2f1ad9a2bf47 | -14.1452 | -52.831699 | 2026-08-30 00:32:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| ac910683-74ad-3536-80df-b5521f7b444e | -11.2455 | -54.0009 | 2026-08-30 00:32:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4838268d-2337-3188-bb2e-5f4c8a052a9f | -13.8452 | -54.119499 | 2026-08-30 00:32:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 183c2789-a947-3e00-83da-8055811dffd8 | -5.9857 | -57.781502 | 2026-08-30 00:32:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 40fc36b3-b023-34d0-8392-b45934137fa2 | -11.8286 | -51.102798 | 2026-08-30 00:32:00 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 77e55999-3c31-3708-99a3-16a5670de60b | -6.9402 | -55.693001 | 2026-08-30 00:32:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1513c54d-056f-3944-bb81-b767e871e152 | -11.1886 | -55.085701 | 2026-08-30 00:32:00 | METOP-B | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9d96d646-5bc5-3b3f-8542-3b0987b47447 | -1.2445 | -55.694599 | 2026-08-30 00:32:00 | METOP-B | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f5fc35cd-06c3-3ccf-b585-e8f7009b8eb0 | -11.6337 | -54.5868 | 2026-08-30 00:32:00 | METOP-B | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b147a780-ba67-345c-a9f1-430d3d2bec02 | -7.5753 | -61.2897 | 2026-08-30 00:32:00 | METOP-B | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| c1e378ab-e879-3080-9950-78b3fc20035c | -9.7096 | -60.726898 | 2026-08-30 00:32:00 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c139d5fa-82f9-3910-a7bc-d4a47eb00231 | -5.8775 | -57.757198 | 2026-08-30 00:32:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a6f80065-b687-309e-b7e9-0027376999f3 | -8.6029 | -54.798302 | 2026-08-30 00:32:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 4814626f-7a11-3c6e-99c4-7e8f6b089e89 | -6.755 | -55.6474 | 2026-08-30 00:32:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c979c75c-e915-3c5c-a0d7-f10da493bf5a | -6.9106 | -59.4744 | 2026-08-30 00:32:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 41c408bd-b9de-31f7-99a9-ed5ea2ea732f | -6.1384 | -53.5205 | 2026-08-30 00:32:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f717d417-b401-3c29-8832-b3bc58edabdc | -21.316299 | -51.3092 | 2026-08-30 00:32:00 | METOP-B | IRAPURU | SÃO PAULO | Brasil | 3521606 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 8de078ed-8769-3457-9d7c-b78c42d6a947 | -10.7551 | -54.017899 | 2026-08-30 00:32:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e52f0565-ec6c-3187-8148-3a7b1a37aca6 | -6.9598 | -55.688599 | 2026-08-30 00:32:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fcca764b-5456-3ae1-af35-ad424e22c274 | -10.7526 | -50.872799 | 2026-08-30 00:32:00 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 63a3b31f-443e-3744-b970-a8c5cf057f0e | -3.7603 | -59.329601 | 2026-08-30 00:32:00 | METOP-B | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 7528e2cf-44c2-307b-a496-996db7fde856 | -6.9448 | -55.713699 | 2026-08-30 00:32:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 48865f5f-2c1f-3276-94c8-82c934f9e64b | -2.9358 | -51.471001 | 2026-08-30 00:32:00 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3bd3bc70-1c41-3688-b8c9-f702c9f749df | -3.6258 | -60.527699 | 2026-08-30 00:32:00 | METOP-B | MANAQUIRI | AMAZONAS | Brasil | 1302553 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 594d2376-0c5e-3dad-9b29-8f20f6f904d2 | -9.8857 | -60.249001 | 2026-08-30 00:32:00 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 16d4850b-eac3-3e8d-9490-77d69204c3c9 | -3.4886 | -54.642799 | 2026-08-30 00:32:00 | METOP-B | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e00edaec-93b3-3484-ad72-e4aff2f72c01 | -5.9874 | -57.789101 | 2026-08-30 00:32:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b8d5cfc8-1525-3364-b20a-29fa4a7bfb4e | -7.065 | -59.7146 | 2026-08-30 00:32:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 17244512-1957-3b9c-84ba-beaaa16bbe08 | -3.4902 | -54.649899 | 2026-08-30 00:32:00 | METOP-B | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8d3270b4-c1ec-3bff-8fdd-a2b75a776890 | -6.7632 | -55.638302 | 2026-08-30 00:32:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b2a686b4-f189-3a7b-a762-71a59e9d754a | -11.291 | -54.019798 | 2026-08-30 00:32:00 | METOP-B | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 6edf39ea-e811-3c3b-842d-f553ed2d62c8 | -14.4213 | -52.5481 | 2026-08-30 00:32:00 | METOP-B | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 0e879791-3dd7-3284-85f2-8115cd68a2a6 | -11.4421 | -61.449699 | 2026-08-30 00:32:00 | METOP-B | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| cca0e6d7-7c9c-37ae-9138-c56430ea1ef7 | -9.8954 | -60.247002 | 2026-08-30 00:32:00 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7e9ebf7c-bee6-3e13-bf7a-4712c82390ce | 2.1781 | -50.688301 | 2026-08-30 00:32:00 | METOP-B | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| b38b6e19-c6c7-3123-99ad-780c88073df6 | -9.9552 | -53.988499 | 2026-08-30 00:32:00 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c4d769fc-1ff7-3bb3-81bc-90d34f9bac38 | -5.8809 | -57.7724 | 2026-08-30 00:32:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 58feb46e-a24f-34b8-8c5d-66af94ddb743 | -11.244 | -53.9939 | 2026-08-30 00:32:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d637a39e-c95f-3355-be06-5ef0d598dc24 | -9.0431 | -65.384499 | 2026-08-30 00:32:00 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| b3118a1c-2335-3090-b61e-ea7629e80ce3 | -11.711 | -54.517799 | 2026-08-30 00:32:00 | METOP-B | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 047b3472-cc7a-3686-9693-d7875572e21f | -4.2194 | -59.5476 | 2026-08-30 00:32:00 | METOP-B | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 771b795b-1fb8-32c7-9a18-a0e991889fd4 | -8.6153 | -54.715698 | 2026-08-30 00:32:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c1641607-3223-393a-a5c3-c91c596e3592 | -10.9285 | -42.983002 | 2026-08-30 00:32:00 | METOP-B | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| bb8894da-c433-3ad0-84f2-9b365e99f98b | -9.2536 | -57.512299 | 2026-08-30 00:32:00 | METOP-B | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b3643476-60eb-3556-b5a4-b542ea56a38c | -15.1221 | -53.564602 | 2026-08-30 00:32:00 | METOP-B | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 23814bd9-5e99-3804-b908-ded690fe6f45 | -14.7453 | -48.734798 | 2026-08-30 00:32:00 | METOP-B | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 5e015961-af10-315b-b68c-747f3e44f782 | -3.6302 | -60.547501 | 2026-08-30 00:32:00 | METOP-B | MANAQUIRI | AMAZONAS | Brasil | 1302553 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 54a7b9e0-a857-37ed-bead-5c0773a2e483 | -6.6455 | -53.1702 | 2026-08-30 00:32:00 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fa614052-516a-34d7-b920-00b651ad4103 | -6.7482 | -55.663399 | 2026-08-30 00:32:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ec83d002-9122-3fa6-9d88-910d5b202983 | -9.6719 | -55.066502 | 2026-08-30 00:32:00 | METOP-B | NOVO MUNDO | MATO GROSSO | Brasil | 5106265 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| afc77e17-5efc-383a-8f12-d6a543bf3555 | -6.9288 | -55.688301 | 2026-08-30 00:32:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| eaaaba76-1c6b-3e99-94ce-40311da4ff79 | -8.9368 | -50.187302 | 2026-08-31 00:11:00 | METOP-B | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 3526f21e-fc35-3616-9b64-731e2be1278c | -18.3013 | -43.233501 | 2026-08-31 00:11:00 | METOP-B | RIO VERMELHO | MINAS GERAIS | Brasil | 3156007 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 3ae628de-0b0d-30c3-b691-227f1f14fcf2 | -18.282801 | -52.691299 | 2026-08-31 00:11:00 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 995df446-64c7-3314-8d50-0f81a8928ece | -6.112 | -57.662998 | 2026-08-31 00:11:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 1fdb27a3-d49e-3fb5-9aed-463b37b3cb30 | -7.2886 | -52.358101 | 2026-08-31 00:11:00 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f843f249-78f6-36a3-8121-8bc5b2e7f4ca | -14.4458 | -52.544102 | 2026-08-31 00:11:00 | METOP-B | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 8e5d58df-1776-31a4-bfcd-b324b5366c0c | -7.318 | -60.578899 | 2026-08-31 00:11:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 800ae5f5-1874-3cbe-98fb-34e0a9267492 | -10.798 | -50.652401 | 2026-08-31 00:11:00 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 57e9035e-11b0-364d-a470-12ecb2b41e4c | -12.9485 | -45.939301 | 2026-08-31 00:11:00 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 76fee882-f30e-3c71-9702-d14c23d356a6 | -11.3397 | -45.1586 | 2026-08-31 00:11:00 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 0fe5552a-9879-32d6-b921-27726c17e1ea | -15.0618 | -48.389 | 2026-08-31 00:11:00 | METOP-B | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 10f02058-0057-3809-8ea9-21d5903d9529 | -7.6164 | -57.614101 | 2026-08-31 00:11:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 3e78b379-d692-31a1-9fb0-37a445a52450 | -7.2852 | -49.846401 | 2026-08-31 00:11:00 | METOP-B | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6c191f79-dad7-326c-86cf-56bda76aeb75 | -9.1865 | -51.550999 | 2026-08-31 00:11:00 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ed05f72e-c782-3910-a442-0c8b5851f118 | -11.2184 | -45.082699 | 2026-08-31 00:11:00 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 8255eb6b-73aa-34a6-8bc1-3326e3a28187 | -15.2052 | -46.234501 | 2026-08-31 00:11:00 | METOP-B | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| f01bf480-9fe6-3c34-8f99-67c33d802a67 | -9.1522 | -59.338799 | 2026-08-31 00:11:00 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 54cb21ab-052c-3d30-b920-bad8132c0ab6 | -7.0584 | -52.712601 | 2026-08-31 00:11:00 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e2ab56fb-80e6-332d-aab4-69ad2a6ef149 | -12.7786 | -46.451401 | 2026-08-31 00:11:00 | METOP-B | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 71f78c8f-9e14-3ac4-95c9-63291ae05a61 | -7.1102 | -42.7561 | 2026-08-31 00:11:00 | METOP-B | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 526e5f1e-0c2c-33b5-a2e8-e84d80c806ea | -11.7895 | -47.668598 | 2026-08-31 00:11:00 | METOP-B | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 3bf6ba57-23a1-31e9-9cf4-5c6d5b4c7553 | -15.6221 | -56.411098 | 2026-08-31 00:11:00 | METOP-B | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 90392315-7e37-3d43-8798-f242342aa8a1 | -9.1947 | -51.541302 | 2026-08-31 00:11:00 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 4efeff9e-0f71-3a35-9d00-a1ff1ff114d2 | -4.1429 | -60.694901 | 2026-08-31 00:11:00 | METOP-B | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 477b893e-7ae5-3d99-934b-978cb18f1362 | -14.5873 | -54.113701 | 2026-08-31 00:11:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 3b4cce85-8835-3da7-939a-443548600dcb | -1.8828 | -48.8325 | 2026-08-31 00:11:00 | METOP-B | ABAETETUBA | PARÁ | Brasil | 1500107 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 644009cb-3381-3640-a147-abc0d4ad8624 | -10.7214 | -50.631199 | 2026-08-31 00:11:00 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 70602baa-a802-32cd-8093-b18d6e204282 | -9.6614 | -50.858898 | 2026-08-31 00:11:00 | METOP-B | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c18d71fa-c72c-310a-8e42-f2977565c179 | -8.3918 | -44.999802 | 2026-08-31 00:11:00 | METOP-B | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| b148ddb5-9d19-3a77-ba69-7ca5f65c4dc0 | -8.2365 | -54.942902 | 2026-08-31 00:11:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| eab89dc3-420a-352b-83a3-b95c55d860c4 | -10.7322 | -47.959999 | 2026-08-31 00:11:00 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| abcab76f-43eb-3940-b4ab-cbc947b1df56 | -10.7516 | -54.0341 | 2026-08-31 00:11:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 433caf01-7f80-3fb5-b8fc-e34e2576d31d | -7.3276 | -60.577 | 2026-08-31 00:11:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| f99b5600-988e-3e5a-bafa-6407516fdb52 | -15.3607 | -52.6805 | 2026-08-31 00:11:00 | METOP-B | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 9c692a99-b5d5-361b-a7df-be5fd6caf32c | -11.3266 | -45.1903 | 2026-08-31 00:11:00 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 286e3f59-7b8c-3e34-9f95-7c7a21d15da8 | -15.1938 | -46.229401 | 2026-08-31 00:11:00 | METOP-B | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 4cf27826-77fc-3156-b293-33145a7dda72 | -13.1971 | -44.0714 | 2026-08-31 00:11:00 | METOP-B | SANTANA | BAHIA | Brasil | 2928208 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| e1b2d211-9bb2-3e21-8065-a65a4258d56f | -7.531 | -55.324001 | 2026-08-31 00:11:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 1721aaea-3aeb-3602-aa4b-625537f183b1 | -10.7405 | -54.0606 | 2026-08-31 00:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 47.6 |
+| 95d54238-7042-3054-a0fa-044d164cbe50 | -6.2537 | -55.4308 | 2026-08-31 00:20:00 | GOES-19 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 32.1 |
+| 5a6f743c-ab38-3b06-a10a-1a0eeb89de47 | -15.9077 | -56.233 | 2026-08-31 00:20:00 | GOES-19 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Pantanal | 62.7 |
+| 14fc679a-39cd-3b2b-afe4-cbb3c657324f | -7.2933 | -60.5905 | 2026-08-31 00:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 13.1 |
+| 166104fa-ec6e-3077-ba36-e5c6ac85821a | -10.7621 | -50.8495 | 2026-08-31 00:20:00 | GOES-19 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 81.5 |
+| 4d0e6687-f8bd-3c4e-bdc2-009baba3a871 | -6.9367 | -55.636 | 2026-08-31 00:20:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 39.1 |
+| 381bec8b-95c6-3b63-9fa9-b5381fcd33ce | -7.3119 | -60.5706 | 2026-08-31 00:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 33.0 |
+| 38b72b9a-6700-377a-a62f-b1fe5081db78 | -14.6064 | -54.0921 | 2026-08-31 00:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 66.8 |
+| 1331f470-34dd-32c8-98b2-3e3db615b545 | -5.2546 | -55.9303 | 2026-08-31 00:20:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 75.1 |
+| 4a4d8d2e-a345-3f37-b185-9d7298d7115d | -10.781 | -50.8475 | 2026-08-31 00:20:00 | GOES-19 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 107.4 |
+| 8e1fb267-ec61-3b0d-98f8-4ff411379335 | -15.908 | -56.2125 | 2026-08-31 00:20:00 | GOES-19 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Pantanal | 71.0 |
+| e48ab89f-f5b6-3fac-966d-ff755b764b26 | -7.3118 | -60.5897 | 2026-08-31 00:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 49.7 |
+| d39953ac-e661-3752-a16d-bb7b644da55e | -10.7596 | -54.0384 | 2026-08-31 00:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 86.0 |
+| fca1d3a3-d79b-31f9-975a-c055c8b686c2 | -7.532 | -55.3441 | 2026-08-31 00:20:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 68.6 |
+| 47a3c4b6-05c7-3b46-a5a0-5f9edc84083e | -6.9176 | -55.7166 | 2026-08-31 00:20:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 35.6 |
+| bdc9af75-d344-3204-9280-22b6bc804d72 | -14.1831 | -52.8667 | 2026-08-31 00:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 75.2 |
+| 25e0174b-3669-3149-8c86-a0f9fe8ab387 | -7.3302 | -60.589 | 2026-08-31 00:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 36.8 |
+| 51e46694-d3e6-3eef-b7a7-45d3f3cf3c9d | -1.6042 | -54.415 | 2026-08-31 00:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 67.7 |
+| b84acc6f-2cd0-3b08-aacd-f141d5164cef | -4.85 | -55.8266 | 2026-08-31 00:20:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 68.0 |
+| 23060e09-f02c-3c33-86de-8e7ed9c78681 | -10.7407 | -54.0401 | 2026-08-31 00:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 103.7 |
+| f6c6f660-24cc-3ba2-8dd6-e71be256ac0d | -14.2021 | -52.8854 | 2026-08-31 00:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 71.8 |
+| 9c6ec251-d456-3f06-88e1-f11802034939 | -10.7618 | -50.8707 | 2026-08-31 00:20:00 | GOES-19 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 80.3 |
+| 4d223c2b-4f33-384e-aee0-432ac86e0648 | -18.2908 | -52.6602 | 2026-08-31 00:20:00 | GOES-19 | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | 65.8 |
+| 373f483e-3e4d-37c6-805d-aeb43063845c | -14.6061 | -54.113 | 2026-08-31 00:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 81.9 |
+| 97df4b7b-9f18-35e2-ba7c-8bd4d9bc1235 | -5.2362 | -55.9112 | 2026-08-31 00:20:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 118.1 |
+| 70277096-4e78-340f-87e7-fb198bb85d4c | -5.9451 | -57.6906 | 2026-08-31 00:20:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 51.9 |
+| 31183f04-bb21-39e8-84cd-7f26f0253126 | -5.2548 | -55.8907 | 2026-08-31 00:20:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 254.8 |
+| 02aa11f7-9005-37f6-9470-599dfbba46f7 | -8.9481 | -62.3704 | 2026-08-31 00:20:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 41.5 |
+| 4105f1cb-ba4d-31a7-9c7b-e9472e9d0999 | -19.154 | -57.3978 | 2026-08-31 00:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 83.6 |
+| f0566161-a996-3f91-99ca-b8e8350b5f91 | -11.3423 | -45.1982 | 2026-08-31 00:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 75.9 |
+| 171371f1-d726-36f0-aaa1-577471db47d2 | -4.1515 | -60.7068 | 2026-08-31 00:20:00 | GOES-19 | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 61.0 |
+| e29dba7c-b138-3b00-9692-5396959410e7 | -5.2547 | -55.9105 | 2026-08-31 00:20:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 370.8 |
+| 2151e857-d283-34d5-b8ac-f6877456ea2a | -8.799 | -62.4905 | 2026-08-31 00:20:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 55.7 |
+| 1799e329-43e3-3369-9df5-5b2d0d6bd42a | -7.7034 | -63.3249 | 2026-08-31 00:20:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 47.7 |
+| 4ae5d931-663f-3154-9d53-14a41205e3f5 | -11.2294 | -45.099 | 2026-08-31 00:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 73.0 |
+| c995b88a-d95a-3018-8bc2-ca98aa815834 | -11.2103 | -45.1017 | 2026-08-31 00:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 75.6 |
+| dd8883b2-3af4-3b74-b7ae-d993258c8954 | -6.6036 | -58.5972 | 2026-08-31 00:20:00 | GOES-19 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 50.8 |
+| 5ddefba3-4334-369b-a184-328a6196f0b1 | -18.2904 | -52.6818 | 2026-08-31 00:20:00 | GOES-19 | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | 97.1 |
+| b8eca155-0cab-3b80-bba3-fab6c5edc21e | -15.4231 | -52.7049 | 2026-08-31 00:20:00 | GOES-19 | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 58.5 |
+| 593d4f46-4954-3d92-9a33-006d5911da74 | -10.7807 | -50.8688 | 2026-08-31 00:20:00 | GOES-19 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 96.1 |
+| e5c11fb5-7066-3b0d-8355-c5801ddb67e7 | -14.1828 | -52.8878 | 2026-08-31 00:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 96.5 |
+| f2149c42-65b5-3c55-a05f-0b3b7a88f023 | -5.2363 | -55.8914 | 2026-08-31 00:20:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 106.3 |
+| 16272941-7b29-37eb-a5df-b731604652d4 | -5.2546 | -55.9303 | 2026-08-31 00:30:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 69.9 |
+| 2b2d02f0-8f17-3c1f-a468-0c5e65d44471 | -1.6042 | -54.415 | 2026-08-31 00:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 95.3 |
+| ade409ac-f602-367d-a4bc-d96d5307b06e | -6.9367 | -55.636 | 2026-08-31 00:30:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 32.6 |
+| 01d83e1c-c425-3600-9769-cda0a14430e9 | -5.2548 | -55.8907 | 2026-08-31 00:30:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 212.6 |
+| d2fe1b8f-c4e8-35b3-ba34-4b3608b71669 | -10.7407 | -54.0401 | 2026-08-31 00:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 30.1 |
+| c77341c3-b713-321f-aa18-b6c63ece699d | -6.9361 | -55.7157 | 2026-08-31 00:30:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 33.9 |
+| 376b45fd-ec28-32b5-9139-a91293b35f93 | -11.0747 | -51.5153 | 2026-08-31 00:30:00 | GOES-19 | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Cerrado | 58.5 |
+| 49eeba35-531e-38c4-8dad-c96c949e4c4f | -18.2908 | -52.6602 | 2026-08-31 00:30:00 | GOES-19 | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | 61.4 |
+| 7d738393-3569-3a77-b17b-7b356ac37c84 | -5.2363 | -55.8914 | 2026-08-31 00:30:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 121.5 |
+| 171a7bdc-ff24-3d1f-9165-c3b3f63933c5 | -6.8991 | -55.7176 | 2026-08-31 00:30:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 36.5 |
+| 64dd6324-72f8-36a9-98db-d2d71d40341c | -15.4231 | -52.7049 | 2026-08-31 00:30:00 | GOES-19 | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 57.5 |
+| b0c5dbe8-6ebe-3f1c-ba08-f834fb56e4f0 | -11.3423 | -45.1982 | 2026-08-31 00:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 95.6 |
+| 0939f5c9-672a-3fea-88ee-9da4cf19bf2f | -14.6064 | -54.0921 | 2026-08-31 00:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 59.2 |
+| 2f33789e-bc93-38d6-a523-4e8e6da1ea77 | -5.9451 | -57.6906 | 2026-08-31 00:30:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 56.9 |
+| 99f210f1-8b39-3f2d-9e04-b68683c43d51 | -18.2904 | -52.6818 | 2026-08-31 00:30:00 | GOES-19 | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | 69.2 |
+| 5f35a645-5abb-3485-a0d8-7deb1dbb706c | -6.6035 | -58.6166 | 2026-08-31 00:30:00 | GOES-19 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 50.7 |
+| 13e7d25f-6ab9-3791-a95d-29f8de1aeadc | -6.9548 | -55.6948 | 2026-08-31 00:30:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 36.1 |
+| e7ca6a9f-c524-34c9-8905-2a43b83bde0b | -6.6036 | -58.5972 | 2026-08-31 00:30:00 | GOES-19 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 70.4 |
+| 38e5a7d7-db3d-39a9-8408-5f21ee0d2c0b | -8.9481 | -62.3704 | 2026-08-31 00:30:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 42.6 |
+| b82867b1-c6c7-33cf-ad7e-c5b5620192f4 | -4.85 | -55.8266 | 2026-08-31 00:30:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 59.1 |
 
 
 [Clique aqui para ver as próximas entradas](README8.md)
