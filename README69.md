@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 216348f3-3607-35ed-bfad-7288e36fbc43 | -13.38777 | -51.75365 | 2026-09-01 05:18:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 33111654-6907-3056-a7b9-6194dcdd5ecf | -15.65485 | -48.70216 | 2026-09-01 05:18:00 | NPP-375D | COCALZINHO DE GOIÁS | GOIÁS | Brasil | 5205513 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 21b76a25-457b-3eb7-9ddd-03bd9ca347c8 | -15.49279 | -56.00455 | 2026-09-01 05:18:00 | NPP-375D | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 64c64fdc-c377-322d-80c4-012f0ab72dcb | -14.27793 | -52.89505 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 5c52d1e6-7b45-337b-ad53-da342140762e | -15.06237 | -47.99031 | 2026-09-01 05:18:00 | NPP-375D | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 832602e0-7239-3176-b727-1005b0763c5d | -11.28165 | -50.57122 | 2026-09-01 05:18:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 75238a01-0b00-3dc6-acea-e2b20aef4811 | -14.72152 | -53.5933 | 2026-09-01 05:18:00 | NPP-375D | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 2a6b9f4d-5ce6-3d6c-a129-ac36c5ea9a76 | -11.25064 | -50.56684 | 2026-09-01 05:18:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| c5674970-0077-3d74-9bb0-c13eac8f87dd | -14.50847 | -59.834 | 2026-09-01 05:18:00 | NPP-375D | NOVA LACERDA | MATO GROSSO | Brasil | 5106182 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 4faa9aa2-fa79-3c00-a124-694cd4642d03 | -9.005 | -65.42942 | 2026-09-01 05:18:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 64e3a6fb-7248-325d-ad7f-f96390d0d7d8 | -8.86745 | -66.77742 | 2026-09-01 05:18:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 9421d2c7-8f57-3f34-9a97-e61a16e8a7c1 | -11.30379 | -50.57436 | 2026-09-01 05:18:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 54.0 |
-| 21af4226-c43b-335e-903e-12eea7d55274 | -10.51095 | -57.44165 | 2026-09-01 05:18:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| bfc318ff-ec39-3dea-8929-e25725522f89 | -14.4018 | -52.50711 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 5f5351f2-a4e0-3d78-829b-88a7e6f4b6a4 | -14.25882 | -52.88692 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 9f287d17-d760-3aae-85db-0e1e62fcd126 | -14.45936 | -52.51141 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 7e6cb66f-a7a6-3591-846f-690e0839f0f0 | -14.39305 | -52.4794 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 2ccd5446-7519-33ba-b3c5-baf4d88b179d | -15.83131 | -47.67694 | 2026-09-01 05:18:00 | NPP-375D | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 7f6b4cac-6a41-3ffe-b5f6-10ee6c69b228 | -15.64792 | -50.10635 | 2026-09-01 05:18:00 | NPP-375D | GUARAÍTA | GOIÁS | Brasil | 5209291 | 52 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 967455ef-3f8e-3d2b-befb-0bef9cf7e23e | -11.29006 | -50.60797 | 2026-09-01 05:18:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 9faf4e78-0dda-39f9-8529-af03b4b61a24 | -10.51428 | -57.44218 | 2026-09-01 05:18:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| c5f39046-2fb4-3c74-b843-ed282071602d | -14.46927 | -52.52306 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 5bc9dcb8-b6f5-3b6f-8282-065594a4e37b | -11.63755 | -49.42406 | 2026-09-01 05:18:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 28b3a4eb-dcf4-3546-89d6-fbcec795020c | -11.79326 | -47.67072 | 2026-09-01 05:18:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| a028a0f4-c081-3f57-b362-0b15e17649a0 | -11.67167 | -47.60857 | 2026-09-01 05:18:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| e5563d52-81a8-3428-9588-565e8bb5405b | -15.63821 | -50.1049 | 2026-09-01 05:18:00 | NPP-375D | GUARAÍTA | GOIÁS | Brasil | 5209291 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| bba4de4e-c9f1-33b3-810d-84769221f427 | -16.04481 | -54.3805 | 2026-09-01 05:18:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| b88a2a37-87c1-3b94-b0c6-e3619087ab77 | -11.2754 | -50.58369 | 2026-09-01 05:18:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| da79c16a-740d-3de8-87d2-e03fdf17d094 | -11.65494 | -47.60945 | 2026-09-01 05:18:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 69d286d1-64cb-3d61-81a3-87ca36b8c1d9 | -11.69397 | -54.54311 | 2026-09-01 05:18:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 783b392e-c7d1-331f-8df9-8774b558e592 | -15.01102 | -52.76255 | 2026-09-01 05:18:00 | NPP-375D | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 8fe9dc1c-7d14-3ea2-9587-c1a85da57536 | -11.68574 | -54.54994 | 2026-09-01 05:18:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 8577175e-5bcc-3af9-ab87-217782f5e697 | -8.71598 | -67.1115 | 2026-09-01 05:18:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 13a628f2-4c49-3461-bef1-80c56ea21c12 | -15.87134 | -56.47959 | 2026-09-01 05:18:00 | NPP-375D | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| d0e486d5-83d1-300e-95ec-705b932c34f2 | -10.77174 | -54.04519 | 2026-09-01 05:18:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 0b9484ba-fd54-3938-9c99-30bf90e10de2 | -14.46976 | -52.51934 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| b7723e87-025c-3db2-87bd-d15aaac4c442 | -14.69028 | -53.59338 | 2026-09-01 05:18:00 | NPP-375D | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 06223a55-f73b-3dd4-acd4-86e9c2a247be | -14.4624 | -52.51939 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| b37317ee-fc14-304d-9da0-4d88c3af841b | -14.46187 | -52.52318 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 05fb4a54-e8e4-3b83-ac4c-9bfab50b20a5 | -11.66582 | -47.61105 | 2026-09-01 05:18:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| ce08a157-5483-3e69-b3c0-a0a618af3683 | -10.13775 | -68.58446 | 2026-09-01 05:18:00 | NPP-375D | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 1bec0309-c84f-3da8-9a65-96afbef1eb46 | -16.04488 | -54.39627 | 2026-09-01 05:18:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| b115a8e0-db37-34e4-99c2-c696702cc1a8 | -14.38615 | -52.53091 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 7a67134a-6104-3599-9266-493b51d5e52e | -9.4544 | -67.4621 | 2026-09-01 05:18:00 | NPP-375D | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 5191b212-15ff-3c04-a806-3530062c2166 | -15.75048 | -56.1026 | 2026-09-01 05:18:00 | NPP-375D | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Pantanal | 4.8 |
-| 6df42294-9f46-3051-b040-880cdea8efdd | -14.13468 | -52.80423 | 2026-09-01 05:18:00 | NPP-375D | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 728cccd1-8356-3fb6-960f-c40303387c64 | -15.39674 | -53.75698 | 2026-09-01 05:18:00 | NPP-375D | GENERAL CARNEIRO | MATO GROSSO | Brasil | 5103908 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| acd2d53b-1fcd-35b3-ae75-322affa29051 | -8.59162 | -66.97328 | 2026-09-01 05:18:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 16e908ab-987d-3934-b888-67ef41b8aa8e | -14.71972 | -53.57841 | 2026-09-01 05:18:00 | NPP-375D | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 45625a88-f6c6-3823-8132-4250e13c482f | -9.02154 | -65.45731 | 2026-09-01 05:18:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 47b9efd7-1206-36f6-bc5e-9ad144088849 | -14.39316 | -52.50956 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 2d66a063-930e-325d-8bc7-6db96408a66f | -15.29932 | -53.18916 | 2026-09-01 05:18:00 | NPP-375D | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 8370c7f3-641e-3877-b9ac-d64abc6098cb | -16.05161 | -54.38626 | 2026-09-01 05:18:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| 06969ff6-d7ef-30d6-a69b-b4fd094ba4a7 | -14.7312 | -53.58011 | 2026-09-01 05:18:00 | NPP-375D | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 18180284-2f38-352c-967e-3bf512dbbfb5 | -10.94628 | -61.65333 | 2026-09-01 05:18:00 | NPP-375D | JI-PARANÁ | RONDÔNIA | Brasil | 1100122 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 651a4458-619e-3e79-849f-04a1a28a9145 | -11.67124 | -47.61194 | 2026-09-01 05:18:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 2091533e-9e04-3ebc-8702-17f337890408 | -15.59636 | -56.40989 | 2026-09-01 05:18:00 | NPP-375D | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| cb78ccb6-796c-3298-a232-092916aaa8d9 | -9.32077 | -68.89045 | 2026-09-01 05:18:00 | NPP-375D | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 223539d4-8dc3-31dd-a27a-3562f7ad08ce | -15.837 | -47.67803 | 2026-09-01 05:18:00 | NPP-375D | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 4d1f82ae-8386-35d7-8334-0a07c721758b | -16.04422 | -54.40086 | 2026-09-01 05:18:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 076d6126-f38e-3146-8af5-e5a9140309e5 | -15.50656 | -56.00675 | 2026-09-01 05:18:00 | NPP-375D | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| f3eb6d8c-c20e-3e06-b5f2-e2d4c7e035ae | -15.62362 | -56.39114 | 2026-09-01 05:18:00 | NPP-375D | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| ae866bb6-3b70-3f55-8090-affd3418dbad | -15.64031 | -50.10736 | 2026-09-01 05:18:00 | NPP-375D | GUARAÍTA | GOIÁS | Brasil | 5209291 | 52 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| e7e17d1a-092d-3843-9a3c-2fb7f9d341bc | -10.75643 | -54.00107 | 2026-09-01 05:18:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 14243ca2-ccbc-3a6a-a81b-ee573afce1e7 | -15.65525 | -48.69872 | 2026-09-01 05:18:00 | NPP-375D | COCALZINHO DE GOIÁS | GOIÁS | Brasil | 5205513 | 52 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| a427b736-b1f8-3943-a37c-38a2eb395dc4 | -11.24768 | -54.0065 | 2026-09-01 05:18:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 4a5664bd-6bd3-33fc-a3a2-074280acf9f3 | -16.04789 | -54.38572 | 2026-09-01 05:18:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 14.8 |
-| 3669f477-dcaa-3906-bacd-85194fe15d2d | -11.2036 | -55.10632 | 2026-09-01 05:18:00 | NPP-375D | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 257d4c19-232e-3982-b51d-3f7b0b8f18ef | -16.54066 | -49.56754 | 2026-09-01 05:18:00 | NPP-375D | TRINDADE | GOIÁS | Brasil | 5221403 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 4cadf194-ce29-39c9-aeb0-d38a79683858 | -15.8685 | -56.4753 | 2026-09-01 05:18:00 | NPP-375D | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| c8b69063-1c93-31ab-a2ba-be2ebba11c56 | -15.84716 | -47.69122 | 2026-09-01 05:18:00 | NPP-375D | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 47a50949-c1a5-367d-b0b2-181fa28379e1 | -9.08153 | -65.48535 | 2026-09-01 05:18:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 3670dc2a-dc7d-39cd-b12a-afdf4ec01415 | -11.04221 | -57.21394 | 2026-09-01 05:18:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| c7736977-6f22-33fc-9522-cad38f434d36 | -13.47901 | -57.05938 | 2026-09-01 05:18:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 16cc8f99-a383-3d03-bd2e-9f5cac403b67 | -10.75035 | -54.04189 | 2026-09-01 05:18:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 8220cb5d-11d4-38b4-903e-d2b8cb6e6b47 | -14.47109 | -52.51665 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 8d8da090-369a-3f46-9068-cefa51c77ef1 | -14.43541 | -52.50425 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| a948d34e-7ee3-37f8-a0d8-6b8c9e038b32 | -8.86351 | -66.77093 | 2026-09-01 05:18:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 1e07e187-7566-3f66-aa4b-23ba59190089 | -11.49915 | -60.58696 | 2026-09-01 05:18:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 9b2d2d41-ff3c-3729-b9a5-96ffa3c1df20 | -9.02214 | -65.45407 | 2026-09-01 05:18:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 4608be90-9fe7-310c-810a-9b23ea323d32 | -15.64926 | -50.09573 | 2026-09-01 05:18:00 | NPP-375D | GUARAÍTA | GOIÁS | Brasil | 5209291 | 52 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 6e91f60f-3101-3a11-906b-bc530725b855 | -15.48763 | -56.01558 | 2026-09-01 05:18:00 | NPP-375D | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| d5fc2b66-99c8-372f-bc4a-c3f366dc7164 | -14.674 | -53.54169 | 2026-09-01 05:18:00 | NPP-375D | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 19f183c7-40e4-3b47-aec4-dc13cd5de137 | -15.23177 | -56.353 | 2026-09-01 05:18:00 | NPP-375D | ACORIZAL | MATO GROSSO | Brasil | 5100102 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 76c3e55a-768d-3845-856f-34b58dec6649 | -15.25249 | -53.88767 | 2026-09-01 05:18:00 | NPP-375D | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a15d8176-a626-3997-8816-6128acf656ba | -9.02275 | -65.45081 | 2026-09-01 05:18:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 5c03f20d-83bb-329c-9261-a8ac3f171a6c | -8.87068 | -66.88927 | 2026-09-01 05:18:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| d0a226d8-9f82-37f7-b845-57a2202306d3 | -11.67256 | -47.60167 | 2026-09-01 05:18:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 09aba9e9-2a36-3c00-b1d0-f83fe45a827c | -14.45829 | -52.51906 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 97cb195c-ce75-3d75-9b20-b102f2c5d63d | -10.75383 | -54.06741 | 2026-09-01 05:18:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 160b6c59-e75c-3ab3-bf23-382086b72a65 | -11.30633 | -50.57812 | 2026-09-01 05:18:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 37.5 |
-| 5fa5d9d5-e34b-3b2f-a296-a462ac84c02e | -15.75849 | -56.09612 | 2026-09-01 05:18:00 | NPP-375D | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Pantanal | 6.7 |
-| 9d21f09f-ed74-30a1-a1ee-324636620c93 | -11.28608 | -50.57185 | 2026-09-01 05:18:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 42001903-ea44-3a73-8ced-08cd672ced63 | -15.25481 | -53.84443 | 2026-09-01 05:18:00 | NPP-375D | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 776fe767-79af-37cc-9d00-ffbeeb9e54e9 | -14.38848 | -52.48244 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 9b72508b-eb59-3523-a5e7-3bc57f52d921 | -11.2577 | -50.58119 | 2026-09-01 05:18:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| c56c7de9-0486-3339-a936-8dbe266b3772 | -9.0292 | -65.44532 | 2026-09-01 05:18:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 3e317280-37ca-3272-bb27-14db8b1ff086 | -13.4696 | -57.03226 | 2026-09-01 05:18:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 1c489dfa-fc7d-351d-a675-ee4e23241ff8 | -14.26928 | -52.89905 | 2026-09-01 05:18:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 5236db7b-1c09-3ea8-a204-585ea2fdb31c | -11.17501 | -55.09037 | 2026-09-01 05:18:00 | NPP-375D | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| fce45a69-5f86-3b41-9dd3-130b30096ecd | -9.66758 | -46.53356 | 2026-09-02 11:51:00 | TERRA_M-M | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 27.4 |
+| 3da64ae6-0aa0-32dd-b681-9ad0a6256729 | -11.05434 | -51.53254 | 2026-09-02 11:51:00 | TERRA_M-M | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 79cc1b6f-1eb7-3793-943c-6c28d8fb4392 | -9.21954 | -47.97723 | 2026-09-02 11:51:00 | TERRA_M-M | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 6647bcca-2567-33eb-949f-1040da1359f4 | -8.11852 | -54.94936 | 2026-09-02 11:51:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 110.9 |
+| 3a70a48f-7f42-3070-9dd6-f1b711658111 | -10.57133 | -47.73179 | 2026-09-02 11:51:00 | TERRA_M-M | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 8fa947d0-61c0-39fe-8e5e-a7f9a6068051 | -13.39494 | -43.01126 | 2026-09-02 11:51:00 | TERRA_M-M | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 35.2 |
+| 29bd4253-fece-3ab0-90b4-305d33e7dbd8 | -11.37757 | -45.41264 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| eb75cebf-c2c6-3e28-831a-14ffbd226514 | -12.3836 | -48.14496 | 2026-09-02 11:51:00 | TERRA_M-M | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 4266bb02-4d53-385b-aa46-38a13a6eade5 | -11.34616 | -50.6334 | 2026-09-02 11:51:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| fcb0e7aa-d7d5-3804-9e71-902e47838c3a | -10.77808 | -44.73559 | 2026-09-02 11:51:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 37.2 |
+| 7f55949a-e1c7-3090-b508-0f488dfb16a0 | -10.78551 | -44.76482 | 2026-09-02 11:51:00 | TERRA_M-M | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 13.6 |
+| 5acfc3db-7b62-3ef5-b333-ea005a094c0c | -12.06102 | -44.99857 | 2026-09-02 11:51:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| 830948aa-30a4-36e7-9282-69a7cb2934c3 | -11.5412 | -45.48465 | 2026-09-02 11:51:00 | TERRA_M-M | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 18.9 |
+| f65bd911-056a-324e-ad3d-34e8cdb223a6 | -10.38882 | -49.9894 | 2026-09-02 11:51:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| 15290640-9cc2-38a9-bf49-18f7f5ec6eb3 | -10.96345 | -50.47523 | 2026-09-02 11:51:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 15.3 |
+| 2e8abc52-00b4-3b87-9d4b-af853d304e44 | -11.27325 | -45.13408 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 13.2 |
+| 019ef345-56a4-3084-93aa-1f35dd61edb1 | -11.36875 | -45.39861 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 15.0 |
+| c6b57ac2-a9bf-36f0-b443-0a429a23c04a | -10.44078 | -46.7245 | 2026-09-02 11:51:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 10.8 |
+| 4f016d14-15d1-358f-909d-665818d18b4a | -10.77637 | -44.74935 | 2026-09-02 11:51:00 | TERRA_M-M | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 33.1 |
+| 543f37c1-1b98-3079-8718-1167cdb2cfc3 | -11.67845 | -50.50737 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 24.3 |
+| 4192daff-1515-3a9e-9f96-487e7890798a | -8.47076 | -54.7198 | 2026-09-02 11:51:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 92.4 |
+| 70de84ee-73a5-33b0-8643-c9d127fe8033 | -10.43939 | -46.73488 | 2026-09-02 11:51:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| c656c3e1-06dc-3c9e-9f54-4dbbd95c9501 | -11.30931 | -45.14549 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 22.5 |
+| ada1cfb8-6da5-31f4-b5a6-d1990b063fd3 | -11.69252 | -46.73837 | 2026-09-02 11:51:00 | TERRA_M-M | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 15.4 |
+| 84374cac-c240-3337-a481-dfb1a7e2ea11 | -11.66324 | -50.48618 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 50.5 |
+| 4e1c13bc-7b55-3a30-a0c7-c82ec11e1aed | -13.39725 | -42.99099 | 2026-09-02 11:51:00 | TERRA_M-M | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 25.0 |
+| e7d2adc6-77e6-3b85-b201-8a2555dca7c0 | -10.42583 | -49.98547 | 2026-09-02 11:51:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 25.0 |
+| e89dade1-e390-38f0-bb7d-42f8bdb31b34 | -12.14263 | -47.13482 | 2026-09-02 11:51:00 | TERRA_M-M | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| 340b145b-83a1-359b-9e08-9eafd90848b0 | -10.57004 | -47.74118 | 2026-09-02 11:51:00 | TERRA_M-M | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| cc0f87d7-0bfc-319b-85d2-a8fe84350fa2 | -12.96481 | -43.23779 | 2026-09-02 11:51:00 | TERRA_M-M | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 29.2 |
+| 946673e9-12c7-306e-a703-c9f19ba14c05 | -11.6829 | -46.73725 | 2026-09-02 11:51:00 | TERRA_M-M | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 38.1 |
+| 219c9bab-7d9e-3f57-9c06-e1e952aad6dc | -8.46132 | -54.69943 | 2026-09-02 11:51:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 213.9 |
+| 4d411fe9-d489-3a96-8638-ca544f3ebd81 | -11.35672 | -45.40961 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 17.9 |
+| 9e6a16f5-0fd2-3d94-8772-9638a6e67a77 | -8.77991 | -46.4362 | 2026-09-02 11:51:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 31.9 |
+| 55ae0bee-d7a7-3765-b696-6703f21fe941 | -11.30767 | -45.15839 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 42.6 |
+| fccec488-631e-338e-970e-c11dc3ead1e2 | -11.36713 | -45.41121 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 107.0 |
+| 3f5905e7-4105-3db6-8705-b83d85556188 | -8.11871 | -54.95545 | 2026-09-02 11:51:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 61.7 |
+| 8cf45b3c-4521-3c5d-82f7-02c57021094e | -10.44216 | -46.71407 | 2026-09-02 11:51:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| 692fb6b5-6b5e-36f5-8c80-7130621aa2f2 | -11.33633 | -50.57449 | 2026-09-02 11:51:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| 1eaff610-c336-384c-85d8-6f5a6167d4ea | -11.09991 | -51.54989 | 2026-09-02 11:51:00 | TERRA_M-M | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| fa010420-7062-358e-840c-77263d73d4d8 | -13.96984 | -58.67756 | 2026-09-02 11:51:00 | TERRA_M-M | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 52.9 |
+| f7160dca-c685-3d14-be29-2c5e22c8dcaf | -11.3557 | -50.63129 | 2026-09-02 11:51:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 12.3 |
+| ee491631-22b8-3940-a868-c325fb1f2ae7 | -10.60122 | -40.5231 | 2026-09-02 11:51:00 | TERRA_M-M | CAMPO FORMOSO | BAHIA | Brasil | 2906006 | 29 | 33 | nan | nan | nan | Caatinga | 42.4 |
+| 783b0a4e-b83f-3f13-a7f1-0e18e7e6488a | -11.12939 | -51.51904 | 2026-09-02 11:51:00 | TERRA_M-M | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| ed3fa2d1-3c55-362e-a995-76b2a5c6d967 | -10.31813 | -50.02894 | 2026-09-02 11:51:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 20cbef5c-093e-31f0-8369-0390ef76eb7b | -14.56613 | -43.81964 | 2026-09-02 11:51:00 | TERRA_M-M | MALHADA | BAHIA | Brasil | 2920205 | 29 | 33 | nan | nan | nan | Cerrado | 14.3 |
+| 6f5b7e60-ebcb-3c75-a4e6-3c1351c4305d | -12.8733 | -45.828 | 2026-09-02 11:51:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 38.5 |
+| d5725d7c-9cb0-314f-8766-abc53d3c4dab | -11.5461 | -45.4463 | 2026-09-02 11:51:00 | TERRA_M-M | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 123.0 |
+| 5a019211-9c45-3ff4-9688-ffc0b2969f2b | -11.65289 | -50.49412 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 32.4 |
+| f04e4441-9113-38c3-8b22-05e7f51138fa | -15.02156 | -46.8912 | 2026-09-02 11:51:00 | TERRA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 20.8 |
+| f41547ac-9cdc-301f-840b-91482ea05b00 | -11.12783 | -51.52924 | 2026-09-02 11:51:00 | TERRA_M-M | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| a97a6df5-8990-3a63-b157-7c1ee9c0b26d | -11.66187 | -50.49545 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 135.3 |
+| cb2504a9-3c53-3cef-8221-2a858c23bf84 | -8.77851 | -46.4464 | 2026-09-02 11:51:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| e9d82514-4a0f-368d-a2ba-707f52e6a281 | -8.47369 | -54.7012 | 2026-09-02 11:51:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 118.7 |
+| e3227ffb-0f27-3ccd-8212-325ca84e5234 | -11.85306 | -46.07231 | 2026-09-02 11:51:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 129.2 |
+| 2b63543a-9191-3ffb-8eca-b57cf1988a3a | -8.43147 | -54.70679 | 2026-09-02 11:51:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 24.4 |
+| ff07f44a-ac2f-33b6-a1c8-b68b71818709 | -14.564 | -43.83853 | 2026-09-02 11:51:00 | TERRA_M-M | MALHADA | BAHIA | Brasil | 2920205 | 29 | 33 | nan | nan | nan | Cerrado | 25.6 |
+| 3942bc01-01c8-3de7-90fa-7ce3ec93b4c2 | -9.00969 | -50.77849 | 2026-09-02 11:51:00 | TERRA_M-M | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 6.8 |
+| d6ccb112-f2f3-3de3-95d7-a89fdda0acad | -12.87491 | -45.81529 | 2026-09-02 11:51:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 20.5 |
+| f3f2617a-3840-39f1-b9c7-0b2273a6fd70 | -11.6693 | -50.18948 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 14.3 |
+| ac284ee7-522d-3afe-a6d3-5cafa2f0b6ee | -10.05373 | -46.68351 | 2026-09-02 11:51:00 | TERRA_M-M | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| 859d35c5-a8ca-31e3-985b-724e52ff0eb4 | -11.5477 | -45.43379 | 2026-09-02 11:51:00 | TERRA_M-M | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 26.1 |
+| c9971d87-6db4-3c64-8c4e-b3c3cec2959e | -11.67358 | -50.47824 | 2026-09-02 11:51:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| 6d8ffea4-c3b1-398b-a257-4a5c574a4c13 | -12.11977 | -47.0514 | 2026-09-02 11:51:00 | TERRA_M-M | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 16.3 |
+| c1823ee2-4d63-3237-9eb2-c28aa70f85c7 | -9.66897 | -46.52325 | 2026-09-02 11:51:00 | TERRA_M-M | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 16.4 |
+| eb591ab3-5fcc-33b3-a5a5-5ef886244d62 | -11.86001 | -46.09708 | 2026-09-02 11:51:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 318.0 |
+| dfa6cf2e-5534-3868-a08f-31958e2caded | -11.85152 | -46.08405 | 2026-09-02 11:51:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 956.4 |
+| 49acc46a-38d3-3d07-9d69-6226bc9d687e | -10.3092 | -50.02764 | 2026-09-02 11:51:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 25.2 |
+| 9cc90ca2-2bad-3498-b886-80362d46b423 | -12.37455 | -48.14368 | 2026-09-02 11:51:00 | TERRA_M-M | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 28.2 |
+| 6160666b-def6-353a-8571-7c20fddaa22b | -11.54283 | -45.47188 | 2026-09-02 11:51:00 | TERRA_M-M | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| 62201b02-540c-3807-abf4-422cc2df3608 | -11.12331 | -51.52198 | 2026-09-02 11:51:00 | TERRA_M-M | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| 99c4ef81-cdbf-3c6f-a733-d3135e01a00f | -11.84998 | -46.09583 | 2026-09-02 11:51:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 707.0 |
+| 57f98c46-de73-324e-bfae-6c5e8df56a87 | -14.56173 | -43.83167 | 2026-09-02 11:51:00 | TERRA_M-M | MALHADA | BAHIA | Brasil | 2920205 | 29 | 33 | nan | nan | nan | Cerrado | 23.2 |
+| 6aca2389-b140-3b25-80b4-969b967837de | -12.05916 | -45.01349 | 2026-09-02 11:51:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| f5e82eec-9ecc-3d79-9d20-1cf88d865c82 | -11.46362 | -44.55688 | 2026-09-02 11:51:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 12.7 |
+| 2e2c4aed-766b-3348-bfb2-a363bce2dffd | -10.95444 | -50.4739 | 2026-09-02 11:51:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 50.8 |
+| ed394aee-8ec1-32f0-bbcf-d76781bc93b1 | -21.257 | -44.95267 | 2026-09-02 11:53:00 | TERRA_M-M | LAVRAS | MINAS GERAIS | Brasil | 3138203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 16.3 |
+| 4276c7d4-e991-3836-836c-5eb970535361 | -21.25486 | -44.97265 | 2026-09-02 11:53:00 | TERRA_M-M | LAVRAS | MINAS GERAIS | Brasil | 3138203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.8 |
+| 276b97a6-9fb2-384c-b71b-99f336a75690 | -22.77412 | -47.01203 | 2026-09-02 11:53:00 | TERRA_M-M | CAMPINAS | SÃO PAULO | Brasil | 3509502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
+| 087f9675-b19b-3ac8-b6ee-d62bf4d29305 | -16.86737 | -43.24358 | 2026-09-02 11:53:00 | TERRA_M-M | ITACAMBIRA | MINAS GERAIS | Brasil | 3132008 | 31 | 33 | nan | nan | nan | Cerrado | 32.6 |
+| 3ae73d89-595f-37f1-a917-c063de3c3fd4 | -21.34229 | -51.64849 | 2026-09-02 11:53:00 | TERRA_M-M | NOVA GUATAPORANGA | SÃO PAULO | Brasil | 3533106 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| eab54b83-b55a-3b2d-a478-76894b24753d | -8.4671 | -54.7035 | 2026-09-02 12:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 517.7 |
+| 5ec22331-e0ba-3d64-98ef-65ce44b5b918 | -8.7819 | -46.4399 | 2026-09-02 12:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 64.0 |
+| 66959544-95ff-37f7-b78d-8f147cc32b7c | -11.5483 | -45.4446 | 2026-09-02 12:00:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 186.4 |
+| 9c87f5b5-ccf1-323d-9db2-6c3765903b22 | -11.3579 | -45.4027 | 2026-09-02 12:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 87.8 |
+| 0e6afb47-2fc7-3263-95a5-3ef5527b2daf | -8.4669 | -54.7237 | 2026-09-02 12:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 93.5 |
+| c6575f50-a5c9-3719-af35-e2b21eb022cd | -9.423 | -37.8286 | 2026-09-02 12:00:00 | GOES-19 | OLHO D'ÁGUA DO CASADO | ALAGOAS | Brasil | 2705804 | 27 | 33 | nan | nan | nan | Caatinga | 111.7 |
+| 52665800-31ee-36e2-903c-9b26e067ad31 | -8.4858 | -54.7023 | 2026-09-02 12:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 264.1 |
+| d9dc2ee3-38cd-3742-b74b-4a1064bf89c7 | -10.3196 | -50.0211 | 2026-09-02 12:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 74.3 |
+| ad8955b9-4be9-3e47-9de1-a269ecff8bc3 | -11.3048 | -45.1575 | 2026-09-02 12:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 72.9 |
+| 4cd0626a-440f-3338-95a1-dde0f1670e1e | -8.4485 | -54.7048 | 2026-09-02 12:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 161.4 |
+| d6a948d2-ffe9-337c-8d2b-b04ece3247f0 | -8.4673 | -54.6833 | 2026-09-02 12:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 458.4 |
+| ad21e1c4-56ed-38eb-a440-576feefb0e6f | -11.3579 | -45.4027 | 2026-09-02 12:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 82.5 |
+| 71ac5fd2-31f5-361f-beae-caade6bd7ca1 | -8.4669 | -54.7237 | 2026-09-02 12:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 107.3 |
+| d435c069-1787-30b7-a1d5-63316a3da79f | -8.4671 | -54.7035 | 2026-09-02 12:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 290.9 |
+| 99a5764d-bbae-3156-ba77-2e37c19b47dc | -9.423 | -37.8286 | 2026-09-02 12:10:00 | GOES-19 | OLHO D'ÁGUA DO CASADO | ALAGOAS | Brasil | 2705804 | 27 | 33 | nan | nan | nan | Caatinga | 110.3 |
+| 85b829cb-607b-3993-8c16-402ec1be528e | -9.4349 | -45.625 | 2026-09-02 12:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 89.3 |
+| ac7259e6-36bb-398b-8353-da2b58a70302 | -11.3044 | -45.1805 | 2026-09-02 12:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 67.8 |
+| 08572eda-b9dd-328f-aefd-e703f6ddcea7 | -8.4485 | -54.7048 | 2026-09-02 12:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 108.5 |
+| 75cd6841-9284-34ec-8901-d11a56b2f607 | -10.9562 | -50.4884 | 2026-09-02 12:10:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 129.5 |
 
 
 [Clique aqui para ver as próximas entradas](README70.md)
