@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 0b4db912-fc5d-3c0e-bbfc-a2b99b23dd5e | -6.50854 | -58.29271 | 2026-09-07 04:27:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| aaa13bbf-8654-3f2e-a9b8-88274110df69 | -5.35449 | -56.03049 | 2026-09-07 04:27:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| d18c6ad5-62be-38e3-9ba1-93c9bca6bef7 | -5.3656 | -56.03247 | 2026-09-07 04:27:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 9879e2ba-3e84-3449-a8f1-e070b616d4d7 | -5.3532 | -56.03793 | 2026-09-07 04:27:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 1ed992b3-ff32-3dea-a3dd-c4b36b49d115 | -11.32481 | -45.08472 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| a77f03b9-eec7-3f6c-bd79-d141985e9eb6 | -13.84998 | -43.65014 | 2026-09-07 04:27:00 | NOAA-21 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 411439e6-8308-3574-a949-524a0c754733 | -11.03868 | -44.34159 | 2026-09-07 04:27:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| b057f755-3ac2-300a-907b-b730a5d8b0c5 | -11.33182 | -45.11002 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 75db73d0-3f22-34d8-a138-2e5d7ffe9816 | -11.3219 | -45.08018 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 920d1958-2b31-31e6-a31f-cf1ecccf5b7b | -11.3253 | -45.05685 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 72c32353-74d7-3b8f-8214-70aec816fa22 | -5.35086 | -56.01835 | 2026-09-07 04:27:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| cf55728f-19bd-31ff-a921-ba685f92b118 | -5.35577 | -56.02306 | 2026-09-07 04:27:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| a701ea63-748b-3b6a-a571-15edab684740 | -9.74825 | -43.39173 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 5.6 |
-| dcff09dd-a8b3-3278-80e3-2eeca9b1e04e | -10.67568 | -45.16856 | 2026-09-07 04:27:00 | NOAA-21 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| c5fe5ff0-0ced-32f4-b108-211deb073fc1 | -5.99067 | -57.7053 | 2026-09-07 04:27:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 3bd5e3b1-8b9f-3b6c-895a-a29e9027392a | -9.75377 | -43.40635 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 30.3 |
-| 7dfa999c-8935-325f-9435-81c67fdbed86 | -9.72887 | -43.42099 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 57697e89-f646-3df2-a10b-61d2d53e6a69 | -9.7494 | -43.41029 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 66.2 |
-| 487b2479-a177-3946-be89-335a03ac3b03 | -11.31152 | -45.10256 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 19f4ed9b-88ab-37d1-9619-808fc649eec5 | -5.36926 | -56.04458 | 2026-09-07 04:27:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| c241fdc6-de6b-3175-8659-de38d93eac90 | -11.33815 | -45.09109 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| c11bd168-1b55-3468-8855-d17fb3765928 | -13.45153 | -41.8926 | 2026-09-07 04:27:00 | NOAA-21 | RIO DE CONTAS | BAHIA | Brasil | 2926707 | 29 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| 8dee524e-d7e7-3adc-b66e-b4a5afb98c2f | -10.74135 | -45.08401 | 2026-09-07 04:27:00 | NOAA-21 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 19.3 |
-| aadc751e-c1cd-30ee-b243-70d5fc48d2f1 | -13.3155 | -45.23912 | 2026-09-07 04:27:00 | NOAA-21 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 05dc02d6-a6f2-379f-bfd1-8142ef728d6b | -12.19539 | -45.03812 | 2026-09-07 04:27:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 46976ba8-89ad-36f0-a3d6-c47fa46fd012 | -5.30317 | -60.13476 | 2026-09-07 04:27:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 9e32e490-7335-3808-9564-552e6ee10486 | -12.75944 | -52.84885 | 2026-09-07 04:27:00 | NOAA-21 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| c6552178-c2e0-38c8-a7b5-402f26abe33a | -12.76219 | -52.85662 | 2026-09-07 04:27:00 | NOAA-21 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 65c05794-bd76-3446-96ea-f0b375ec9928 | -5.29471 | -60.14054 | 2026-09-07 04:27:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| bcc6b481-0e7a-33d3-b959-3558092d7a23 | -7.69758 | -55.38479 | 2026-09-07 04:27:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 59f590cf-5ecd-31ab-bbac-0bacca3bc9bf | -11.32311 | -45.09637 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 51cc5ec2-5358-3ea1-aa7a-797238fc3688 | -9.51711 | -41.99004 | 2026-09-07 04:27:00 | NOAA-21 | REMANSO | BAHIA | Brasil | 2926004 | 29 | 33 | nan | nan | nan | Caatinga | 4.0 |
-| 5421621b-e9a0-3c43-bfcc-562741525311 | -11.32763 | -45.06535 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 29.2 |
-| dca8f985-ea4a-3712-9c34-d68ab7b02cb7 | -5.30768 | -60.15014 | 2026-09-07 04:27:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| d3f856b5-23d9-3510-804d-a5a062f9c0e8 | -11.32124 | -45.0602 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| ecd38527-32a4-37bd-af41-03f529f965e6 | -9.73771 | -43.38557 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| d4a46e73-7e91-3e1c-8127-6d3f50241a4f | -5.30477 | -60.14951 | 2026-09-07 04:27:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 090d9cef-5cb0-3a6c-a9b3-7531f857ba2d | -11.3189 | -45.05164 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 365f1131-3c41-331b-a86e-e2aa0b66a8e3 | -12.76158 | -52.86013 | 2026-09-07 04:27:00 | NOAA-21 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 617cf754-7e19-3654-a5e7-02456dcc4ce7 | -11.03508 | -44.34106 | 2026-09-07 04:27:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| a0a2471b-85d6-3fdf-9b7e-3c77c3bc84b6 | -12.75547 | -52.84811 | 2026-09-07 04:27:00 | NOAA-21 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 581989bb-219b-3598-9d6c-cd7cd6cf4312 | -11.32067 | -45.06409 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 50ae7436-d14b-381b-9c37-4ea35819d3ef | -13.29843 | -45.23235 | 2026-09-07 04:27:00 | NOAA-21 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 77ab247b-c73b-3a39-bf67-a838d0fe6a84 | -10.67512 | -45.17242 | 2026-09-07 04:27:00 | NOAA-21 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 9135946d-7b3c-3444-bb2b-17cbc0f4fd31 | -5.28717 | -60.12437 | 2026-09-07 04:27:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 552c1552-0521-35ac-9f88-e4354fd009ef | -11.28254 | -45.09517 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 1898b18e-b78c-311b-a51a-053cc4fad746 | -11.19256 | -44.62483 | 2026-09-07 04:27:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 9e686a0e-bd92-37ba-98d9-25610377e3f8 | -11.52626 | -49.62226 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| ded7b4c9-8172-3828-90fb-f1b16e616646 | -11.31719 | -45.06347 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| c00ea0e3-3701-3c3b-bfe9-66ef3a913399 | -8.84627 | -47.08019 | 2026-09-07 04:27:00 | NOAA-21 | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| f497243f-26a4-3aa0-ba90-a8fd33981ab7 | -9.98765 | -50.27758 | 2026-09-07 04:27:00 | NOAA-21 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 0f219f14-e082-3ecc-b2ed-7f474179242d | -10.6682 | -45.17137 | 2026-09-07 04:27:00 | NOAA-21 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 6f97f3f8-3cd7-303d-983d-e477f22dd2fa | -9.7382 | -43.40887 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| a304a389-ea9d-340a-8ca8-6ced5d80a011 | -6.05772 | -57.79105 | 2026-09-07 04:27:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 7.7 |
-| 494cf47a-5078-3417-bdb5-5fff71fa93b3 | -9.7364 | -43.39481 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| b8430e4f-628b-33f5-a2b0-fa4e5e233e00 | -9.73321 | -43.41718 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 28.5 |
-| 0fa2cd1c-dcfe-3f65-8e3f-38d053472106 | -7.10889 | -56.50827 | 2026-09-07 04:27:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 464bec14-fe4f-3504-86eb-f41fa1b1e0be | -5.28307 | -60.12391 | 2026-09-07 04:27:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 1d660480-a1fc-35a0-98d1-e2182941f76a | -11.32716 | -45.09307 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 3549a23d-bb95-3a63-a63d-09cbd7470d1d | -11.50911 | -49.61942 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 21.5 |
-| 353e3124-d5e3-39b0-ae5b-ee9197968f2c | -13.31315 | -45.23049 | 2026-09-07 04:27:00 | NOAA-21 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 140.9 |
-| ea387518-d8ec-3f3d-bd07-bea6ac8f1df2 | -6.06393 | -57.79178 | 2026-09-07 04:27:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 6c080a29-f9a6-3e80-9e16-5e5a16242bcd | -11.51254 | -49.61998 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 21.5 |
-| 312951a7-aa2c-3da5-8469-1d0c358cfb7f | -6.12949 | -57.74189 | 2026-09-07 04:27:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 03ca11c3-02cc-3826-ae80-5394a8f5288f | -12.75669 | -52.8411 | 2026-09-07 04:27:00 | NOAA-21 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d889ce6f-c78e-38a7-94fa-566ba951423d | -7.11382 | -56.51291 | 2026-09-07 04:27:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 256ac506-79de-3f33-96b8-dfc52196820c | -10.74251 | -45.07625 | 2026-09-07 04:27:00 | NOAA-21 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 84e063ca-7046-35d7-9697-526aede803d6 | -9.74452 | -43.39119 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 5.6 |
-| 07ff29cc-d3cc-38e6-87ec-218a88170a66 | -9.73705 | -43.39016 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 3.6 |
-| 46795089-44b6-30b9-a62f-aebdb5b4583f | -5.29889 | -60.14115 | 2026-09-07 04:27:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| d2fdd22a-3864-37d9-8e8c-ad91b7aa1a5f | -5.36068 | -56.02777 | 2026-09-07 04:27:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| f274f41d-7635-3e16-86b6-9b71c541c89d | -10.37642 | -45.01459 | 2026-09-07 04:27:00 | NOAA-21 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 95318266-07c7-3adc-a2d2-cba577189682 | -5.99233 | -57.69611 | 2026-09-07 04:27:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| e69d22fc-bbaa-3326-9196-53f5248af845 | -11.3445 | -45.07208 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 5e46888e-1fd1-3484-a279-aa29aa4f14f9 | -10.73846 | -45.07959 | 2026-09-07 04:27:00 | NOAA-21 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 5e959b19-590a-3a51-860b-25c37beb983a | -12.76402 | -52.84608 | 2026-09-07 04:27:00 | NOAA-21 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 0f895229-1672-3400-a688-a60555f412b6 | -5.99759 | -57.70201 | 2026-09-07 04:27:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| bea958b0-ffeb-33ad-9c74-026cf596a6f2 | -9.23793 | -46.68291 | 2026-09-07 04:27:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| c9def4e1-1f89-32de-b210-3861689a249b | -13.38226 | -43.67939 | 2026-09-07 04:27:00 | NOAA-21 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| e0fc916f-0527-3383-b79a-919e9de1f488 | -11.31568 | -45.06432 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 84ca0afd-3873-30aa-b622-e281201eb516 | -6.0551 | -57.8028 | 2026-09-07 04:27:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| ba86ae27-5d57-32f6-913d-2c3a73c244e3 | -5.31839 | -55.87852 | 2026-09-07 04:27:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| b909751f-66e0-3fc0-84f0-393355ab39f2 | -13.85385 | -43.6507 | 2026-09-07 04:27:00 | NOAA-21 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| af54869f-0c84-3589-994f-8ae1de8a6b4a | -9.74761 | -43.39624 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 5.6 |
-| 07258f4c-981c-36ac-acf4-581bd15a373d | -11.51535 | -49.62435 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| ff8b376a-71b1-3b1f-8cef-0cfe2d667132 | -5.29021 | -60.12516 | 2026-09-07 04:27:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 365ed818-fdc0-3261-ac4a-8c3dacee5f3d | -7.11946 | -56.51351 | 2026-09-07 04:27:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 430ced3e-b92d-3c56-9ef3-b9be1b57c397 | -7.91394 | -47.66406 | 2026-09-07 04:27:00 | NOAA-21 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| c52030f4-b91d-3b9a-9d2a-31f781922e08 | -9.74503 | -43.41427 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 16.8 |
-| 5984532b-ea4e-35fa-8555-f39a83d97a8d | -11.33227 | -45.05799 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 3d6f15a8-1de0-38ff-85d4-0533df64e7ad | -9.52116 | -41.99063 | 2026-09-07 04:27:00 | NOAA-21 | REMANSO | BAHIA | Brasil | 2926004 | 29 | 33 | nan | nan | nan | Caatinga | 4.0 |
-| 5293be25-2efe-30fa-8ee7-ea58af1882b7 | -5.36687 | -56.02508 | 2026-09-07 04:27:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 5114df3f-e40b-3bb4-a2db-2929988e2dfa | -12.76005 | -52.84535 | 2026-09-07 04:27:00 | NOAA-21 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 864e41e7-74b5-3740-94fd-634c691ee72f | -7.10127 | -56.51874 | 2026-09-07 04:27:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e71fa593-8e2c-325e-a2fe-f288c1b6fd87 | -5.30017 | -60.13406 | 2026-09-07 04:27:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| d08bfb95-f21d-3f67-aef6-a0c2993d92c2 | -9.74002 | -43.42277 | 2026-09-07 04:27:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 15.3 |
-| 91f4ac15-4992-3d6a-8901-f4789e20b110 | -7.69246 | -55.38386 | 2026-09-07 04:27:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 2c33e961-2a42-3b2b-979b-67ffdedbb1f2 | -6.06306 | -57.79398 | 2026-09-07 04:27:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| fd884206-d385-312f-8878-06cab38e3aa2 | -11.32181 | -45.05626 | 2026-09-07 04:27:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 36de4e45-94e5-3a47-b17d-e7127862d9d2 | -5.36004 | -56.03148 | 2026-09-07 04:27:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9eec946b-ce69-3c63-8e23-efddf3abdbb7 | -11.31502 | -45.06333 | 2026-09-08 04:46:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 5d68bbbf-747c-3b3b-a947-4b3bef665612 | -9.72556 | -43.47097 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 9b064eee-5b9d-3d06-a2c2-9484b677e358 | -9.76978 | -43.42508 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 8545a5bc-ed06-311d-b4cd-2738dbb6e6dd | -13.43412 | -43.81608 | 2026-09-08 04:46:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| be7e3773-0bb1-3666-839a-c7b9a63fd48e | -13.43043 | -43.8115 | 2026-09-08 04:46:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| affa8353-f639-33aa-9173-153ea78a43ac | -13.22298 | -61.71581 | 2026-09-08 04:46:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 3b91c51a-1f6a-3ccd-be6e-9c7b0d4a51e3 | -11.13165 | -41.85671 | 2026-09-08 04:46:00 | NPP-375D | SÃO GABRIEL | BAHIA | Brasil | 2929255 | 29 | 33 | nan | nan | nan | Caatinga | 5.2 |
+| ded8b09f-71dc-3075-86ce-b99b6c33053c | -9.71128 | -43.42411 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 39bf7743-5388-3441-8dea-533c18dea467 | -9.76198 | -43.45012 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 236a9704-010e-3ee3-ad6a-5d6af7cd9f54 | -13.25795 | -61.70715 | 2026-09-08 04:46:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 6b116ce9-600c-34b7-876b-549eae0f7d8e | -11.36984 | -45.74056 | 2026-09-08 04:46:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| b118cdfe-ee1d-34ad-aee1-f7182f36880a | -9.7184 | -43.46258 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| fc87f327-d005-375c-804f-321726331e86 | -9.71282 | -43.41315 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 5.7 |
+| 78d66e1d-3c68-356c-bce5-8b2b63bf9d89 | -9.71225 | -43.44699 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| eecb7467-017e-3cc8-9a1e-238d376a9786 | -9.09031 | -47.81712 | 2026-09-08 04:46:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 6a1a7147-4536-38f1-bc00-75204cace126 | -10.77035 | -60.78416 | 2026-09-08 04:46:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| d8adad5f-c4a2-36c2-a428-280f1ae4f1d6 | -13.27406 | -61.78796 | 2026-09-08 04:46:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 17d8ac8c-ea73-3923-b052-7797d9688761 | -10.76933 | -60.78923 | 2026-09-08 04:46:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 42b4138d-f1f0-30cc-946d-672253338c16 | -9.76607 | -43.45072 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| c8842298-eee0-3067-bc69-b5c5d14996ff | -9.73619 | -43.51338 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 41896b96-3a05-3f68-a95a-044cb6bb8124 | -9.76026 | -43.49097 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 97d50539-2377-3a0c-90a4-33899117fc90 | -9.74444 | -43.48488 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 0981a9cf-e575-3ff3-8d3d-4e3f11f68975 | -9.72301 | -43.45951 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 3e462703-4b25-3d98-ac75-fd9905875149 | -14.27977 | -42.69261 | 2026-09-08 04:46:00 | NPP-375D | GUANAMBI | BAHIA | Brasil | 2911709 | 29 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 607e2bef-4b21-310b-80ec-72cf23ab3c7a | -9.75893 | -43.4422 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 2317569a-5f9d-331d-8308-c8e1ed8a522e | -9.71025 | -43.43149 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 4.7 |
+| ba22cff8-ed37-3d34-bb47-8cc327d55d5a | -6.63992 | -59.44273 | 2026-09-08 04:46:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| ed4cfbf9-61ab-3850-89e0-b93213ea72e4 | -11.31549 | -45.08699 | 2026-09-08 04:46:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 7e018926-6370-3177-adfc-97386996b823 | -9.73879 | -43.49522 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 1c2474a2-41b9-3f6b-94b2-16d8a33bdfd3 | -11.38682 | -45.75183 | 2026-09-08 04:46:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 749ded65-d85f-32af-987f-edbf1d482c86 | -12.73289 | -44.84249 | 2026-09-08 04:46:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| f8778102-5134-33b6-a6ad-e894f26069b1 | -9.71334 | -43.4095 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 5.7 |
+| a257b2e4-98fe-3ef9-97eb-9f4233fdf93a | -15.05172 | -41.33014 | 2026-09-08 04:46:00 | NPP-375D | TREMEDAL | BAHIA | Brasil | 2931806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 8cf04f20-ca14-3af3-b8bf-cbd2b824903b | -11.31616 | -45.08236 | 2026-09-08 04:46:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 176270b1-3052-362c-8afc-da940b0704cf | -9.7097 | -43.46507 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| d59e6c24-0755-3144-b2e7-13420826cf29 | -11.1323 | -41.85183 | 2026-09-08 04:46:00 | NPP-375D | SÃO GABRIEL | BAHIA | Brasil | 2929255 | 29 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 9c5e69fc-af16-3b1f-999c-1de0cd1665ee | -13.26236 | -61.70922 | 2026-09-08 04:46:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| b23eed5d-dd4f-3058-961b-a5b778ff8e5b | -11.93116 | -49.74275 | 2026-09-08 04:46:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 7003d34e-7ec7-3996-9e1c-7b0336adf6eb | -9.71897 | -43.39924 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 8.2 |
+| d129ce6c-4ebb-3916-816f-483e2d1ada73 | -13.26316 | -61.71379 | 2026-09-08 04:46:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 839e08f9-b5e3-3957-9de6-b8199e02e0b5 | -9.70919 | -43.46868 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 388ca142-6157-36ed-950c-7fc13af6b0b2 | -8.67795 | -49.40493 | 2026-09-08 04:46:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| ed43b242-2a9a-3d36-a1c4-fc10c376a082 | -9.76183 | -43.48006 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 2434564d-a29c-3d6b-af82-02d92f87f310 | -13.43464 | -43.81215 | 2026-09-08 04:46:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| c693fccc-6120-3c0b-9e46-a3211224b70e | -9.73775 | -43.50251 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 1c13791d-92d8-3152-8e1c-f0c815cb56ab | -9.71949 | -43.39554 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 8.2 |
+| 371c1c6c-5193-34c5-8bef-36b5db5ea139 | -9.72874 | -43.38942 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 4.5 |
+| ad59ca43-f8cc-375f-aea9-60aac258c709 | -9.71431 | -43.46202 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 9a71162b-7275-380a-8e9e-369ba54f68b2 | -13.2774 | -61.77208 | 2026-09-08 04:46:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 8.0 |
+| d79b98ad-be65-3386-a3dc-12498d67f5f3 | -9.7281 | -43.48248 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 40f43805-9636-3536-8907-9a5a9179d5c6 | -13.27629 | -61.77737 | 2026-09-08 04:46:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 8.0 |
+| aa6d59fb-f5fd-338c-84a0-73411e437ca8 | -14.91205 | -44.66805 | 2026-09-08 04:46:00 | NPP-375D | CÔNEGO MARINHO | MINAS GERAIS | Brasil | 3117836 | 31 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 4ed8972e-605e-3db4-bf31-b005044e6716 | -11.9484 | -49.74196 | 2026-09-08 04:46:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| b05839f2-07f1-3904-9d7e-cfd6ee411b96 | -9.74497 | -43.48123 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 1552bc55-7215-3837-80a3-17e51edad226 | -13.42622 | -43.81087 | 2026-09-08 04:46:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| d3c177f2-0450-31bf-b667-394237dd7e1d | -11.34922 | -45.72852 | 2026-09-08 04:46:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 5aef0b5b-dbb6-3cae-8f88-2eff3670ec67 | -14.91107 | -44.67541 | 2026-09-08 04:46:00 | NPP-375D | CÔNEGO MARINHO | MINAS GERAIS | Brasil | 3117836 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| cd706328-b084-374a-9ac8-907073b9b181 | -9.70459 | -43.47171 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 52bb8180-e738-31eb-8704-f25cadc8d36c | -12.73358 | -44.83748 | 2026-09-08 04:46:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 34ba00b9-3eb5-3828-876d-c84dd9ec5617 | -9.74036 | -43.48426 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 3fe1680c-52ae-3dbb-824d-f5ed4a90088c | -11.31437 | -45.06787 | 2026-09-08 04:46:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 2c37857f-0987-3cbf-bcbd-fbb5db07bbc8 | -13.24864 | -61.7116 | 2026-09-08 04:46:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| cb248d8f-accb-348d-ade9-41ece0f0db8d | -9.95351 | -48.17396 | 2026-09-08 04:46:00 | NPP-375D | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 40a1da43-f8fb-311b-bf7d-4271f2354134 | -9.08976 | -47.82066 | 2026-09-08 04:46:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 2af95c53-2ef9-3bde-a498-2fd5957b91cc | -9.74486 | -43.51101 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 596dd39b-c8f8-36f0-82fe-5fbade4e390b | -9.70972 | -43.43523 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 4.7 |
+| 8fe4b5ca-444b-312a-9ee8-eede39844ef6 | -9.71845 | -43.40292 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 10.4 |
+| 028c774f-22d8-38de-b933-1f783e9c1063 | -13.27517 | -61.78265 | 2026-09-08 04:46:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| cf892792-8226-344a-9002-f5d3ae74a979 | -9.71385 | -43.40586 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 85fcc888-3acd-3b5e-98b1-e71851dfec78 | -13.25604 | -61.70779 | 2026-09-08 04:46:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e42db5cc-28e0-326d-ba9e-f4e759f59635 | -9.76713 | -43.4434 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| cf24b9fe-c8c0-3eaa-a032-dd3c58c835a1 | -11.94116 | -49.7444 | 2026-09-08 04:46:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| e1d3b4ff-3ba6-33a3-aa73-4fa15d5bc8c2 | -9.72096 | -43.47403 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 349b9bda-1601-3004-9100-ede7f4c22b77 | -14.91156 | -44.67173 | 2026-09-08 04:46:00 | NPP-375D | CÔNEGO MARINHO | MINAS GERAIS | Brasil | 3117836 | 31 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 8b598e87-5fc9-37df-bc86-c484497d5492 | -11.31926 | -45.08763 | 2026-09-08 04:46:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 084d9987-7071-36a2-b5a9-fcf185e0dbb5 | -13.27851 | -61.76679 | 2026-09-08 04:46:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 903e8663-106c-3585-bcea-0b316817b648 | -11.34557 | -45.72795 | 2026-09-08 04:46:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 98b3cc10-8dd4-3abe-8cd9-f2bb3472741a | -9.72358 | -43.39631 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 8.2 |
+| 660d9630-c99c-3df7-8239-ee7283c4572e | -9.71231 | -43.41679 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 10.9 |
+| a6d8607b-e984-39fc-81f6-ab654ea4cdb9 | -9.71892 | -43.45895 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 9ba95578-a42f-3181-93a8-53c5d56ddb44 | -9.70868 | -43.4723 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 416cd37b-827f-3ae4-a0b7-699f06be4815 | -9.76395 | -43.4654 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| cc71ebc3-be4f-3f8a-af6c-7d4c7c0abcee | -9.5075 | -41.99553 | 2026-09-08 04:46:00 | NPP-375D | REMANSO | BAHIA | Brasil | 2926004 | 29 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 3223d2b4-f8ec-3927-93b7-2a95614d33c4 | -9.95158 | -48.17323 | 2026-09-08 04:46:00 | NPP-375D | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 5c6216b4-203a-37e6-b0cd-2b0c80e2bb31 | -9.76131 | -43.4837 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 922d1cf2-6776-3ddb-9fee-b2a044c092d0 | -9.71794 | -43.40656 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 10.4 |
+| be34842b-8ba8-362b-b4c7-075737aa8e63 | -9.76448 | -43.46172 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| ae6ca503-d203-3c67-9103-224d39a23e18 | -13.2293 | -61.71722 | 2026-09-08 04:46:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 08ca23f3-ab7d-35ab-85dc-640e57eed12f | -9.95406 | -48.17044 | 2026-09-08 04:46:00 | NPP-375D | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| e1500d20-10de-334d-9d3f-91a953a16d93 | -11.93783 | -49.74385 | 2026-09-08 04:46:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 2efaab53-8535-3fcc-8886-51bd74abfe42 | -9.71071 | -43.45789 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| c9993f51-020b-3bfa-bf7c-97327e62719f | -14.91513 | -44.676 | 2026-09-08 04:46:00 | NPP-375D | CÔNEGO MARINHO | MINAS GERAIS | Brasil | 3117836 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 5d8eb7dd-19b0-3c0f-a986-303b97be5312 | -6.6357 | -59.43939 | 2026-09-08 04:46:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 7.4 |
+| 688b1aad-2db6-3c0c-a9ca-c0a1aa4db3ff | -12.9447 | -44.72639 | 2026-09-08 04:46:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 9b5cec7e-5e69-3d06-85fc-e91f3397f85f | -9.73671 | -43.50977 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 8606174b-8845-3a7f-884e-52b10762e9e5 | -9.72305 | -43.40002 | 2026-09-08 04:46:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 8.2 |
+| de307f0d-cc0f-36e2-86e3-0b4e47385673 | -13.43832 | -43.81674 | 2026-09-08 04:46:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 9003e838-efd4-3f6c-9b26-80c7aff1a94c | -6.63478 | -59.44456 | 2026-09-08 04:46:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 93ab4200-0787-3bde-be08-4d00acb6f514 | -13.4299 | -43.81545 | 2026-09-08 04:46:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| b5ce40fe-7019-349a-966c-39d96b4b5caf | -11.93449 | -49.7433 | 2026-09-08 04:46:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
 
 
 [Clique aqui para ver as próximas entradas](README17.md)
