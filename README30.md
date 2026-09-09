@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| fcbffeb5-39af-3d87-8f20-5af18a14c275 | -5.15789 | -35.63603 | 2026-09-08 15:03:00 | NOAA-21 | TOUROS | RIO GRANDE DO NORTE | Brasil | 2414407 | 24 | 33 | nan | nan | nan | Caatinga | 9.3 |
-| 5f468262-ec0c-3c2c-827e-6bb2a19a082b | -8.78139 | -36.89526 | 2026-09-08 15:03:00 | NOAA-21 | PEDRA | PERNAMBUCO | Brasil | 2610806 | 26 | 33 | nan | nan | nan | Caatinga | 11.1 |
-| cf1440cb-cfdb-36ab-a42f-d96955d0ffdf | -8.6438 | -36.8244 | 2026-09-08 15:03:00 | NOAA-21 | VENTUROSA | PERNAMBUCO | Brasil | 2616001 | 26 | 33 | nan | nan | nan | Caatinga | 4.9 |
-| fac88d70-2262-37f8-a987-7983f2a5eb84 | -8.77879 | -36.8953 | 2026-09-08 15:03:00 | NOAA-21 | PEDRA | PERNAMBUCO | Brasil | 2610806 | 26 | 33 | nan | nan | nan | Caatinga | 7.4 |
-| 5c933796-a7e5-3cf6-ade5-ba686563a154 | -9.7332 | -43.3932 | 2026-09-08 15:10:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 116.3 |
-| e222f3c0-4741-342c-a832-98a2788fb99b | -2.7398 | -49.4776 | 2026-09-08 15:10:00 | GOES-19 | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 73.8 |
-| c69d2dc7-10ac-37ec-a4cc-cebd168ba045 | -7.6968 | -44.3247 | 2026-09-08 15:10:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 99.0 |
-| 7a5194ad-94f5-34d3-86f7-4d8772e2d018 | -8.5506 | -63.8786 | 2026-09-08 15:10:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 60.3 |
-| c7100b58-e9cc-3ead-a095-78442ad571ed | -3.9439 | -49.0104 | 2026-09-08 15:10:00 | GOES-19 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 75.0 |
-| de2eb8b0-4bb9-34b5-8c57-a0c77f9f728d | -8.5322 | -63.8604 | 2026-09-08 15:10:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 59.8 |
-| b1873a8d-bf47-36b1-aafe-81a6b11fde9c | -7.2158 | -43.6069 | 2026-09-08 15:10:00 | GOES-19 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 81.3 |
-| 2c790216-e077-3f88-ae67-99645ce245eb | -1.2174 | -55.7302 | 2026-09-08 15:10:00 | GOES-19 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 87.5 |
-| 6d7670e0-3865-3692-b01a-4cc70382b71e | -5.2899 | -60.1059 | 2026-09-08 15:10:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 90.9 |
-| 79cf46e6-35a8-3579-b990-c2697e918fbd | -8.5321 | -63.8792 | 2026-09-08 15:10:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 63.0 |
-| fc8a7593-e578-340b-a815-aaf6663f1ba8 | -8.8175 | -62.4898 | 2026-09-08 15:10:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 52.6 |
-| d29fa6ee-b551-3427-919a-7162232e22c6 | -10.0964 | -45.728 | 2026-09-08 15:10:00 | GOES-19 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 160.1 |
-| 476a35b7-26e3-31b8-8783-e04c94cfcdaa | -9.72 | -43.46 | 2026-09-08 15:15:00 | MSG-03 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| be7f85bb-5fdd-3a3a-9c7f-5b630ef013a1 | -8.5506 | -63.8786 | 2026-09-08 15:20:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 65.1 |
-| 1b744063-fc89-3aa6-b92c-bfbe686f5d7e | -7.6968 | -44.3247 | 2026-09-08 15:20:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 99.3 |
-| 7b5c9bb7-9575-31f1-a1f8-27390f93a1dd | -8.5321 | -63.8792 | 2026-09-08 15:20:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 62.5 |
-| decc2831-adb7-3755-88dc-fbd3f01690a7 | -10.1151 | -45.7484 | 2026-09-08 15:20:00 | GOES-19 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 128.4 |
-| 27dca89a-d8aa-39d3-860f-38d57e09647e | -3.4058 | -59.2538 | 2026-09-08 15:20:00 | GOES-19 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 137.0 |
-| 3bde213a-731a-3b34-8592-76171396b6b3 | -8.5322 | -63.8604 | 2026-09-08 15:20:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 58.1 |
-| 9cae0f09-df36-36ff-9a87-7b22226ae150 | -7.2158 | -43.6069 | 2026-09-08 15:20:00 | GOES-19 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 81.8 |
-| f8ae2752-35e9-3920-9249-2577e053cc3c | -9.7138 | -43.4192 | 2026-09-08 15:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 367.7 |
-| cf365e2e-c32a-3f4a-9567-5ed8c2faf350 | -10.1155 | -45.7257 | 2026-09-08 15:20:00 | GOES-19 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 176.5 |
-| ce2c5eb6-5c17-3f4d-b2b5-8c5d6170cbb5 | -8.8175 | -62.4898 | 2026-09-08 15:20:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 49.6 |
-| e2971358-2d3d-3dd7-be0d-8dc94fd277cd | -9.7328 | -43.4168 | 2026-09-08 15:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 142.8 |
-| 6f2b933a-1d00-3e85-b1b2-83675aeb9f05 | -10.0964 | -45.728 | 2026-09-08 15:20:00 | GOES-19 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 239.4 |
-| 85d495bd-36b0-300c-ab10-073543949a28 | -10.1155 | -45.7257 | 2026-09-08 15:30:00 | GOES-19 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 121.8 |
-| 4428dc5d-a99b-3a7c-83f5-5cb5327f4e77 | -7.7156 | -44.3228 | 2026-09-08 15:30:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 94.4 |
-| 5a9d160f-6dce-3cb0-aa84-0463b092deaa | -7.6779 | -44.3266 | 2026-09-08 15:30:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 91.7 |
-| 0804da9d-571e-32d2-b9c6-7bec716cb5b5 | -7.6968 | -44.3247 | 2026-09-08 15:30:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 111.8 |
-| 8c4ca729-ebba-3078-bc94-8ddb15bf8009 | -1.4211 | -54.2171 | 2026-09-08 15:30:00 | GOES-19 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 56.1 |
-| 0eeff665-e15e-3ea0-bb5a-5e48738b78a8 | -8.7066 | -62.4374 | 2026-09-08 15:30:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 62.7 |
-| ac291885-a606-3a20-970a-374656c25c28 | -8.7437 | -62.4359 | 2026-09-08 15:30:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 64.4 |
-| af8932ab-fdbe-35b5-8cab-b04613b0f9b4 | -8.7622 | -62.4351 | 2026-09-08 15:30:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 53.2 |
-| aeb7dca3-4da8-3a47-a394-c594e2a86901 | -10.0964 | -45.728 | 2026-09-08 15:30:00 | GOES-19 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 193.2 |
-| 238c2e03-d97d-3b4f-a359-1ea4ae872876 | -3.8289 | -53.7634 | 2026-09-08 15:30:00 | GOES-19 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 112.7 |
-| ace49b6b-b750-3ff3-8cde-e0b4b8589c64 | -9.7325 | -43.4403 | 2026-09-08 15:30:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 122.1 |
-| 0a79291a-f962-36f4-8cc6-8b35003bed25 | -8.5322 | -63.8604 | 2026-09-08 15:30:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 60.4 |
-| 88508f1d-53bf-3598-a658-8fd8955b475e | -8.7252 | -62.4367 | 2026-09-08 15:30:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 73.8 |
-| 568fa43d-1562-3c2b-afb9-4a13264f2b7f | -10.1151 | -45.7484 | 2026-09-08 15:30:00 | GOES-19 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 115.0 |
-| 6ded5a92-a12f-3511-a8d5-705ba8fb07b5 | -9.0058 | -65.4373 | 2026-09-08 15:30:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 50.0 |
-| c71e6e5c-432a-317c-8fa2-ccf45a979d44 | -9.7328 | -43.4168 | 2026-09-08 15:30:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 140.7 |
-| 68b3cf24-fc33-3c8d-952d-70091f718f3b | -8.5506 | -63.8786 | 2026-09-08 15:30:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 65.7 |
-| 60f4c09b-b695-31d5-b6a0-8ee2d232f09e | -1.1991 | -55.7304 | 2026-09-08 15:30:00 | GOES-19 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 74.1 |
-| 1e3fa787-a2d2-3ad4-9a5f-7d91e501e32e | -6.3847 | -55.1851 | 2026-09-08 15:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 53.0 |
-| d84ce078-3323-35c3-9d7f-c75cd34ac721 | -3.4058 | -59.2538 | 2026-09-08 15:30:00 | GOES-19 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 81.0 |
-| e0ba4727-f481-3f10-af6e-05185cfe8d59 | -8.5321 | -63.8792 | 2026-09-08 15:30:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 64.0 |
-| 86f738a3-cba7-3e30-8854-ad89508b598a | -7.1372 | -42.2484 | 2026-09-08 15:30:00 | GOES-19 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 98.4 |
-| a9b26e35-d98d-3b25-8cc4-9579b7722a40 | -8.688 | -62.4572 | 2026-09-08 15:30:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 75.3 |
-| 5e3b267f-7e06-3487-acee-cd0c66e4c161 | -3.4241 | -59.2535 | 2026-09-08 15:40:00 | GOES-19 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 150.3 |
-| a3374333-eb0d-3e46-bead-2e9a10cee5eb | -9.0982 | -65.4904 | 2026-09-08 15:40:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 49.9 |
-| 0d7c85a3-2a70-3537-8833-c4491b959010 | -8.5321 | -63.8792 | 2026-09-08 15:40:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 68.0 |
-| bbcdf12f-f682-384c-9177-da8bb87b804b | -7.1372 | -42.2484 | 2026-09-08 15:40:00 | GOES-19 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 107.9 |
-| 14edfab5-7334-3e5a-9eb0-855e766d0694 | -2.8839 | -50.4428 | 2026-09-08 15:40:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 52.0 |
-| 28c2376b-7895-3602-be31-1531b21868ee | -10.1151 | -45.7484 | 2026-09-08 15:40:00 | GOES-19 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 114.8 |
-| 147b796d-327c-3d1c-82b7-035c500b150a | -8.5506 | -63.8786 | 2026-09-08 15:40:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 63.6 |
-| 2431ab17-efad-3089-9c0f-79aef509a5fb | -8.5137 | -63.8611 | 2026-09-08 15:40:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 52.0 |
-| 4d748e83-47af-34f0-a881-faa9218b0264 | -2.8654 | -50.4643 | 2026-09-08 15:40:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 64.8 |
-| b258bb3a-a155-3ee5-b947-9992b45cd2b3 | -10.2563 | -45.2062 | 2026-09-08 15:40:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 160.7 |
-| d6b8f45f-010f-3c32-92ed-1c1011b50b57 | -4.0613 | -55.3573 | 2026-09-08 15:40:00 | GOES-19 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 55.7 |
-| ff0fe509-0b74-3fcb-9178-79282633a6c2 | -1.4751 | -54.8555 | 2026-09-08 15:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 68.3 |
-| c9829422-7fdb-3874-8e86-a065b79986c3 | -7.7156 | -44.3228 | 2026-09-08 15:40:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 93.7 |
-| c0faed3c-af3d-3953-be5b-952fd076142c | -9.0058 | -65.4373 | 2026-09-08 15:40:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 50.8 |
-| 4fe7bdc9-88ea-31cb-a778-9b1f62fa144e | -8.5322 | -63.8604 | 2026-09-08 15:40:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 61.0 |
-| 19180dcf-bcd3-34f0-b3c1-1a929570fcac | -9.0982 | -65.4904 | 2026-09-08 15:50:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 49.6 |
-| d632801e-bfed-3b18-9a92-be66867e1f5d | -7.6968 | -44.3247 | 2026-09-08 15:50:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 103.2 |
-| 7e66da4b-6630-3391-a329-b5ef07e63938 | -9.0058 | -65.4373 | 2026-09-08 15:50:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 51.5 |
-| f73a0ce7-3926-34df-a413-2f86fcd0d900 | -9.0244 | -65.4181 | 2026-09-08 15:50:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 46.4 |
-| d201d9cc-81a5-37cf-a306-e061174232b8 | -1.4752 | -54.8157 | 2026-09-08 15:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 66.5 |
-| e402dab8-aca6-3f00-96e8-7a9c97cf9c8f | -1.3747 | -49.0177 | 2026-09-08 15:50:00 | GOES-19 | PONTA DE PEDRAS | PARÁ | Brasil | 1505700 | 15 | 33 | nan | nan | nan | Amazônia | 56.4 |
-| e2ccc359-99dd-33ea-84d7-10dbd2131028 | -9.0059 | -65.4186 | 2026-09-08 15:50:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 49.6 |
-| 8995fd4b-7745-3c1d-8175-dd247a16757b | -8.5322 | -63.8604 | 2026-09-08 15:50:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 67.1 |
-| 9367d722-b5a1-3ff5-abf1-58bcd7b8412f | -8.5506 | -63.8786 | 2026-09-08 15:50:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 68.4 |
-| ed195a45-e135-321a-87b8-72deaafdc43a | -10.2563 | -45.2062 | 2026-09-08 15:50:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 118.8 |
-| 1483385e-677b-3dc8-a66c-70b5e222f816 | -1.4751 | -54.8555 | 2026-09-08 15:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 55.7 |
-| 369d825f-7cea-333b-9974-f1d1937b957e | -8.5321 | -63.8792 | 2026-09-08 15:50:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 69.2 |
-| 219dd37a-0447-3c26-9f44-7b0db776f170 | -8.5137 | -63.8611 | 2026-09-08 15:50:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 49.5 |
-| f4a664d8-2d0e-37f0-bfd2-55d4472f5cff | -9.0244 | -65.4181 | 2026-09-08 16:00:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 50.8 |
-| bd40edbe-5a02-3093-bc6c-c6eb1a8c96a5 | -6.6526 | -45.355 | 2026-09-08 16:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 53.3 |
-| 4115a6c7-1cec-33a0-a2b6-e7e01b25f3b2 | -8.5137 | -63.8611 | 2026-09-08 16:00:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 50.3 |
-| 7733c6a4-8a50-399f-b532-fce999acdd05 | -8.5322 | -63.8604 | 2026-09-08 16:00:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 71.5 |
-| b30f4d08-fdad-35e8-b2a4-a8380b947016 | -9.0982 | -65.4904 | 2026-09-08 16:00:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 51.0 |
-| d8a611bd-2e28-3b8e-b7c9-25982f9c2472 | -8.5506 | -63.8786 | 2026-09-08 16:00:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 75.8 |
-| 55e614c7-a988-327b-a46e-5350cf6c90ae | -2.1118 | -49.5355 | 2026-09-08 16:00:00 | GOES-19 | CAMETÁ | PARÁ | Brasil | 1502103 | 15 | 33 | nan | nan | nan | Amazônia | 55.5 |
-| fc431917-e7bc-3e15-8a60-096f85696e8c | -10.2563 | -45.2062 | 2026-09-08 16:00:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 97.2 |
-| edea49dc-83ba-32e3-8d85-4106009f5cfa | -1.1991 | -55.7106 | 2026-09-08 16:00:00 | GOES-19 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 73.6 |
-| f3920817-32ba-33e9-ab7e-db4b541baa5a | -8.5321 | -63.8792 | 2026-09-08 16:00:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 70.0 |
-| 3d09f948-c7c2-3630-923c-bed95ed92500 | -7.6968 | -44.3247 | 2026-09-08 16:00:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 193.6 |
-| 6e860912-b1a4-31b8-bbb6-50f478664aab | -7.6779 | -44.3266 | 2026-09-08 16:00:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 128.8 |
-| 48569797-dbb4-39d1-a130-69cd3fce5860 | -3.4058 | -59.2538 | 2026-09-08 16:00:00 | GOES-19 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 89.1 |
-| dddb453a-1542-3d5c-96c7-c76a66453dfc | -9.0058 | -65.4373 | 2026-09-08 16:00:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 55.4 |
-| cc300b5a-2d11-3032-a4fb-3e7dfbae58c2 | -7.7156 | -44.3228 | 2026-09-08 16:00:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 92.8 |
-| bcbd5978-16ab-3acc-9e99-6c8edd28b743 | -8.6881 | -62.4382 | 2026-09-08 16:10:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 46.9 |
-| a7c2455d-c233-3259-a84f-823346429c61 | -8.5506 | -63.8786 | 2026-09-08 16:10:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 75.5 |
-| 948ea77d-ed9c-3757-a14e-acae0d7adc44 | -8.5322 | -63.8604 | 2026-09-08 16:10:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 77.0 |
-| 391fe9f1-2436-33a8-88b7-4f8b31d0d0cf | -8.688 | -62.4572 | 2026-09-08 16:10:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 77.1 |
-| 9fd2788f-9c87-3a6c-a382-afad99a32d71 | -8.5137 | -63.8611 | 2026-09-08 16:10:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 50.4 |
+| 73fcd87c-5249-3e90-b4ac-b04c3fea8c37 | -9.694 | -43.4688 | 2026-09-09 12:00:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 75.8 |
+| 47ec7301-e80c-3521-8ba9-fc07274f2a2a | -9.6937 | -43.4924 | 2026-09-09 12:00:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 92.3 |
+| c95dab63-42bc-37c2-b8cf-d01399bfff1d | -9.6944 | -43.4453 | 2026-09-09 12:00:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 107.4 |
+| cdd7219f-9bd5-3b0e-98d9-2556f89ec99e | -10.7186 | -46.0355 | 2026-09-09 12:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 103.2 |
+| fed3411b-8cc6-343b-971e-5059488b5885 | -10.7186 | -46.0355 | 2026-09-09 12:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 143.1 |
+| 418c1797-bfc5-31b9-b42e-5662d4ffe6da | -9.6944 | -43.4453 | 2026-09-09 12:10:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 103.4 |
+| a72d0eb1-8d59-3de6-9e43-48413aebe1ec | -9.694 | -43.4688 | 2026-09-09 12:10:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 96.8 |
+| d5f2b540-39c8-3241-83e1-62da0b52518f | -9.6944 | -43.4453 | 2026-09-09 12:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 112.6 |
+| 8036b1d9-600e-3dce-80b3-87c24d1338a4 | -9.694 | -43.4688 | 2026-09-09 12:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 110.9 |
+| d4e07322-1353-3373-a8fc-5fdf03949892 | -10.7186 | -46.0355 | 2026-09-09 12:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 91.8 |
+| 07d64f79-e73f-339f-a165-973a98a4ee48 | -9.6947 | -43.4217 | 2026-09-09 12:30:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 75.5 |
+| d8536dca-e967-3016-9acf-5a39fe51cdf8 | -10.7186 | -46.0355 | 2026-09-09 12:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 146.9 |
+| 38c8e718-9226-34da-a1bc-585f52851e81 | -10.7182 | -46.0582 | 2026-09-09 12:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 173.0 |
+| ba9f6d2f-079a-3e2a-9763-9d1c3e409824 | -6.8708 | -46.0126 | 2026-09-09 12:30:00 | GOES-19 | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 85.4 |
+| f14cdc7c-a4aa-3bb0-a91b-00ec3b05fcfc | -9.6944 | -43.4453 | 2026-09-09 12:30:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 102.0 |
+| 984945e3-e897-396e-a5c0-d64bbc944dbf | -9.694 | -43.4688 | 2026-09-09 12:30:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 96.1 |
+| af536c1b-8d45-3723-80f9-91afd277cbb6 | -9.6947 | -43.4217 | 2026-09-09 12:40:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 100.9 |
+| f9cad561-fe56-345b-bdbe-09b55f00e2a9 | -3.5406 | -48.1889 | 2026-09-09 12:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 67.1 |
+| db12c3f1-ae03-3caa-bd24-5030ca5e512b | -9.6937 | -43.4924 | 2026-09-09 12:40:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 90.0 |
+| b91b989c-831a-3c08-bbf9-c3801046b54a | -9.7138 | -43.4192 | 2026-09-09 12:40:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 98.7 |
+| 0dff36b6-f8be-3061-9663-5a6c65c31675 | -9.6944 | -43.4453 | 2026-09-09 12:40:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 108.3 |
+| 5565c505-f7ee-3814-9387-abcad218dea1 | -10.7186 | -46.0355 | 2026-09-09 12:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 157.6 |
+| 2b41a865-3984-3918-92a4-192bcf3cc363 | -10.7182 | -46.0582 | 2026-09-09 12:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 243.1 |
+| aff8ad57-1f61-31a3-86db-23cc4ab35223 | -9.7141 | -43.3956 | 2026-09-09 12:40:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 103.4 |
+| b0e8c5ba-256a-3dc1-970b-80e8cf716f38 | -9.6951 | -43.3981 | 2026-09-09 12:40:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 74.5 |
+| a53810fd-237c-3119-a9e6-46d160e2b6d0 | -9.694 | -43.4688 | 2026-09-09 12:40:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 119.2 |
+| 8b82e6b3-32d7-3141-a686-6e5148a1fc2f | -6.1726 | -44.6432 | 2026-09-09 12:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 69.5 |
+| b752adcd-6f28-311f-a17d-ec7abd29e76e | -9.6947 | -43.4217 | 2026-09-09 12:50:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 88.9 |
+| d2776aaf-7544-3a14-ab37-dfa5ca719d39 | -10.6995 | -46.038 | 2026-09-09 12:50:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 166.4 |
+| c88f7964-f8c9-357b-9b6c-7edf338a7cf0 | -9.7138 | -43.4192 | 2026-09-09 12:50:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 134.2 |
+| ac1da782-dfc7-3003-95ce-21d248061303 | -6.852 | -46.0141 | 2026-09-09 12:50:00 | GOES-19 | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 65.4 |
+| 5674525c-76e3-30fd-81ff-5899402b3ec2 | -3.5591 | -48.1882 | 2026-09-09 12:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 71.6 |
+| c3e08df8-45a6-3a59-aa0d-9aefd47495e1 | -9.6944 | -43.4453 | 2026-09-09 12:50:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 130.0 |
+| 908897e2-ed4c-31bf-9031-aa56da63eac5 | -10.7186 | -46.0355 | 2026-09-09 12:50:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 101.1 |
+| 3b693543-a715-3c92-94cf-28ab725256d9 | -9.7702 | -43.4589 | 2026-09-09 12:50:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 139.0 |
+| 1d05c6e1-0752-3580-a13f-594dc3473b9b | -9.694 | -43.4688 | 2026-09-09 12:50:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 123.1 |
+| 6ed629f5-7520-3fd6-9d47-d5fac350ffde | -6.8708 | -46.0126 | 2026-09-09 12:50:00 | GOES-19 | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 118.3 |
+| 0f4b5538-3fff-302b-aee8-0af51f882d7f | -9.7141 | -43.3956 | 2026-09-09 12:50:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 112.8 |
+| 6c25ca22-006c-3e13-9d76-52a5c5634724 | -10.7182 | -46.0582 | 2026-09-09 12:50:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 100.0 |
+| 68361fd6-d4fc-32e4-9e10-32a6f5b078a0 | -6.1538 | -44.6446 | 2026-09-09 12:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 70.7 |
+| d5b23cb1-97b1-3aaa-abbe-b8e59b0e0e4e | -9.6937 | -43.4924 | 2026-09-09 12:50:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 97.2 |
+| 4dcc17f1-e5f6-3036-8f21-96b9d3bc55a3 | -9.694 | -43.4688 | 2026-09-09 13:00:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 116.1 |
+| 3fd40d0f-7760-3526-9db9-4fe1483c41f2 | -9.6937 | -43.4924 | 2026-09-09 13:00:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 86.9 |
+| 926c3d9e-5c3e-3556-8950-7fa2937a3689 | -9.7138 | -43.4192 | 2026-09-09 13:00:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 117.7 |
+| cafb5c6d-2f40-3159-a523-2d21978979b1 | -9.7702 | -43.4589 | 2026-09-09 13:00:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 137.9 |
+| 8b831eeb-caf2-3bea-8590-adfaa167748a | -10.2372 | -45.2087 | 2026-09-09 13:00:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 78.4 |
+| 9e9973fb-97cf-3b5e-bc47-97de7c275a55 | -10.7182 | -46.0582 | 2026-09-09 13:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 104.2 |
+| 1d7e326a-4b51-3022-a863-98dc84228f48 | -10.2563 | -45.2062 | 2026-09-09 13:00:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 110.1 |
+| b810c7b2-8006-3a09-8f36-d81601d3bb85 | -10.2559 | -45.2292 | 2026-09-09 13:00:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 85.2 |
+| 03e53990-cb8a-3ee6-8855-2cdf1b5335ee | -12.5834 | -45.4516 | 2026-09-09 13:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 87.7 |
+| 969b9603-ccb9-329c-b6af-6e4ceed2a977 | -3.2731 | -50.0741 | 2026-09-09 13:00:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 67.4 |
+| b1aa46ae-be09-34f2-bbd4-a5c2c4b3d8f0 | -9.7141 | -43.3956 | 2026-09-09 13:00:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 120.9 |
+| c7c5b897-fff7-3f1e-8050-25528e0850c6 | -9.6944 | -43.4453 | 2026-09-09 13:00:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 145.5 |
+| 3dfbdd4b-8244-32f2-87e8-1b05af08c770 | -10.6995 | -46.038 | 2026-09-09 13:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 154.9 |
+| 15e370c5-5802-37c1-abd1-d05d548a853b | -10.7578 | -45.9624 | 2026-09-09 13:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 101.5 |
+| 4f47f81f-2591-385f-a3b8-8495703a033c | -6.1726 | -44.6432 | 2026-09-09 13:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 70.6 |
+| 89e9b526-56ae-39e1-a45d-c80518a53210 | -9.7889 | -43.48 | 2026-09-09 13:00:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 89.1 |
+| 0a273c29-b6bd-34a3-a32a-42530e48c53b | -9.6947 | -43.4217 | 2026-09-09 13:00:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 98.1 |
+| 038663aa-42ab-3ecf-a6b3-952cb364f744 | -6.3304 | -43.8253 | 2026-09-09 13:00:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 70.5 |
+| 0f2cafd9-b634-3cc6-8d7f-d0f14c382af5 | -10.7391 | -45.9422 | 2026-09-09 13:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 108.4 |
+| 89dfa2bb-e088-3c36-bd73-8ce0160e0c35 | -6.8708 | -46.0126 | 2026-09-09 13:00:00 | GOES-19 | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 143.4 |
+| b02ec87c-30b8-3e2f-af63-ffe03488d00a | 0.65119 | -58.20141 | 2026-09-09 13:04:00 | TERRA_M-T | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 14.3 |
+| 486a05f7-e50c-3abf-a082-4976db323435 | 0.65243 | -58.19582 | 2026-09-09 13:04:00 | TERRA_M-T | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 14.3 |
+| 3425b764-33d3-36ca-bac9-3f8c2b617d31 | -6.89956 | -62.95649 | 2026-09-09 13:06:00 | TERRA_M-T | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 11.1 |
+| 599b5de1-2fc8-370b-ba8b-36e2d0a34761 | -6.56449 | -62.88833 | 2026-09-09 13:06:00 | TERRA_M-T | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 38.7 |
+| 8a039bda-d764-3330-8e92-063152007a84 | -6.56395 | -62.8941 | 2026-09-09 13:06:00 | TERRA_M-T | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 45.1 |
+| 243bea7f-3aef-35f0-ba9d-4f98fc50c195 | -6.56245 | -62.90325 | 2026-09-09 13:06:00 | TERRA_M-T | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 15.3 |
+| 181d49be-770a-3b7f-8360-c5616e5d2055 | -5.77539 | -60.40079 | 2026-09-09 13:06:00 | TERRA_M-T | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 13.0 |
+| 6d55cd6d-82fd-3fd8-8740-31d06aabd089 | -9.23911 | -65.7511 | 2026-09-09 13:08:00 | TERRA_M-T | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| a9133ce7-1fa2-3f22-a0a5-2f9aad5af1d0 | -10.12041 | -67.5137 | 2026-09-09 13:08:00 | TERRA_M-T | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| f79680a6-b8aa-352a-981f-ff160bc00d9c | -12.5834 | -45.4516 | 2026-09-09 13:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 89.7 |
+| 722c429a-01ed-3321-9fbe-feb9ae705162 | -9.694 | -43.4688 | 2026-09-09 13:10:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 117.8 |
+| eae07adb-8b5c-338a-a22d-3c3c40a163e3 | -9.6947 | -43.4217 | 2026-09-09 13:10:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 157.7 |
+| ac56a8b4-fbbb-3b2f-9a7e-0d0876e17969 | -9.6937 | -43.4924 | 2026-09-09 13:10:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 120.4 |
+| f810b42f-f640-3293-ad6a-3297d635420e | -9.7141 | -43.3956 | 2026-09-09 13:10:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 118.2 |
+| 252a2314-c650-31fe-88b2-f3e62bb3f8f0 | -6.852 | -46.0141 | 2026-09-09 13:10:00 | GOES-19 | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 76.0 |
+| f216a441-dcb6-35f0-bbe7-7e99286127c9 | -3.2731 | -50.0741 | 2026-09-09 13:10:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 69.9 |
+| 9444b1f7-ebcc-3eb6-9241-6c557ae635a5 | -10.7391 | -45.9422 | 2026-09-09 13:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 120.2 |
+| 777aeef4-785d-33af-a824-3cd9bddbf956 | -6.1538 | -44.6446 | 2026-09-09 13:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 65.8 |
+| bd72562d-a16c-3dec-91ba-321ece7f5502 | -9.6944 | -43.4453 | 2026-09-09 13:10:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 212.7 |
+| 25b9b358-dc0d-3c5e-95f2-a630231a7d9b | -10.6995 | -46.038 | 2026-09-09 13:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 174.6 |
+| de405447-1e7d-3883-8eca-c459708034d2 | -9.7138 | -43.4192 | 2026-09-09 13:10:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 147.8 |
+| d0d76315-aa1d-3d6d-9f39-1c4108c18d72 | -6.8708 | -46.0126 | 2026-09-09 13:10:00 | GOES-19 | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 154.5 |
+| beaff1b6-fc8b-380e-b95a-1da422b22ce3 | -3.5591 | -48.1882 | 2026-09-09 13:20:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 67.1 |
+| a8cfa1bc-a141-389e-87d0-732c719f9406 | -10.7391 | -45.9422 | 2026-09-09 13:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 148.4 |
+| 22af8cad-5ee4-3d68-a198-d8b129841999 | -9.7141 | -43.3956 | 2026-09-09 13:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 112.9 |
+| 5545d277-95a3-30a6-a2aa-b50310c8c8b4 | -9.6937 | -43.4924 | 2026-09-09 13:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 127.2 |
+| b1b1aad8-db23-3524-9019-1fd0aed720b9 | -9.6947 | -43.4217 | 2026-09-09 13:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 112.6 |
+| 189f338d-674a-3a08-9673-da3c53d26a95 | -6.1538 | -44.6446 | 2026-09-09 13:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 82.2 |
+| 932d5238-af24-3c4d-9bae-8376fbb77a65 | -3.2546 | -50.0747 | 2026-09-09 13:20:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 66.3 |
+| 799207f5-c6a5-3f98-ab1f-3e0bb87e702a | -9.7138 | -43.4192 | 2026-09-09 13:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 141.3 |
+| 6da7b8f3-da82-32a5-ae11-7fcd2974732a | -9.7131 | -43.4664 | 2026-09-09 13:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 108.4 |
+| 8411bc5f-adeb-3a33-99b7-80ffc1ee23e7 | -9.6944 | -43.4453 | 2026-09-09 13:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 152.7 |
+| ae9e038b-9f94-3b43-a691-adf99d00811f | -10.2563 | -45.2062 | 2026-09-09 13:20:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 84.9 |
+| afaa125a-e2b8-388c-9b78-b9a32fe0d196 | -6.8708 | -46.0126 | 2026-09-09 13:20:00 | GOES-19 | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 147.6 |
+| 9c9b8308-c794-3803-b930-eba0ff36efb7 | -10.7578 | -45.9624 | 2026-09-09 13:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 155.7 |
+| 7953312b-970e-3f26-9b92-7b5dc68ee46f | -10.2559 | -45.2292 | 2026-09-09 13:20:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 63.8 |
+| 4f75ef23-e031-3243-a0e9-14465ac0ffe2 | -6.852 | -46.0141 | 2026-09-09 13:20:00 | GOES-19 | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 79.8 |
+| 1d64b513-91b2-30da-a85b-2fe9f4d4da55 | -10.2372 | -45.2087 | 2026-09-09 13:20:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 73.0 |
+| 119b96de-775c-373f-9eff-e1c593357df3 | -9.694 | -43.4688 | 2026-09-09 13:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 123.9 |
 
 
 [Clique aqui para ver as próximas entradas](README31.md)
