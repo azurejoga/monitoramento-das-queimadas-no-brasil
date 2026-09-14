@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a9c6f8dc-8d15-3cf9-8dc1-536324963ca8 | -10.63242 | -46.10395 | 2026-09-13 00:03:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 3ce3a5f0-a1b3-3973-a3a1-77927d198b87 | -10.69488 | -54.17626 | 2026-09-13 00:03:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 92.8 |
-| bb750236-2532-35b5-8245-b80c48ae52c4 | -13.55528 | -49.48401 | 2026-09-13 00:03:00 | TERRA_M-M | PORANGATU | GOIÁS | Brasil | 5218003 | 52 | 33 | nan | nan | nan | Cerrado | 32.7 |
-| 4dd270ec-38ca-3376-a9e1-05bd76a19ffb | -12.17778 | -44.00905 | 2026-09-13 00:03:00 | TERRA_M-M | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 14.2 |
-| 062747d8-86be-3082-9654-745ab263aaca | -15.63457 | -43.32937 | 2026-09-13 00:03:00 | TERRA_M-M | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Caatinga | 27.2 |
-| b1c24fa8-1d6c-3f0a-b5fe-6d3b686b210a | -11.19288 | -42.79217 | 2026-09-13 00:03:00 | TERRA_M-M | GENTIO DO OURO | BAHIA | Brasil | 2911303 | 29 | 33 | nan | nan | nan | Caatinga | 32.2 |
-| c588889a-606b-37e0-963d-bb93b63bea8f | -12.76481 | -48.80953 | 2026-09-13 00:03:00 | TERRA_M-M | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 6e54c666-a29d-37f1-9ef2-4e1d99845d42 | -10.98069 | -49.71616 | 2026-09-13 00:03:00 | TERRA_M-M | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| ed8e5ad1-4f0a-36d8-82f3-3d5ec0e70ecb | -8.80458 | -45.86929 | 2026-09-13 00:03:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| e0694402-9cec-3e11-8cec-9df08ce46aea | -10.93318 | -47.91214 | 2026-09-13 00:03:00 | TERRA_M-M | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| 4e713696-d16f-3e9b-8040-d74d246cd02c | -10.48858 | -48.09398 | 2026-09-13 00:03:00 | TERRA_M-M | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 13.4 |
-| e849c660-3611-3a9f-a54a-196449409b85 | -13.14707 | -48.58252 | 2026-09-13 00:03:00 | TERRA_M-M | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 231ab6ae-f5eb-35a6-b8e7-cac426749dd7 | -10.47286 | -48.63895 | 2026-09-13 00:03:00 | TERRA_M-M | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 21.8 |
-| b9a23c02-b255-397c-adeb-82ec86d4dd4c | -11.32625 | -48.55074 | 2026-09-13 00:03:00 | TERRA_M-M | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 27.1 |
-| 93044446-b77b-3d00-aa7e-7b32e6e43e9c | -9.38688 | -50.12484 | 2026-09-13 00:03:00 | TERRA_M-M | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 19.2 |
-| 3e3fec71-2a40-3031-9924-ab2312bae6aa | -11.84055 | -46.38871 | 2026-09-13 00:03:00 | TERRA_M-M | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| e6d64a23-35b4-324d-9a10-6b166ec52ae4 | -13.3068 | -51.72003 | 2026-09-13 00:03:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 18.5 |
-| f6ab0e5c-13c6-3a14-b5e4-a8d50978637c | -10.96829 | -48.35497 | 2026-09-13 00:03:00 | TERRA_M-M | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| ca1a04b3-69c4-356d-b8a3-ab2d281a253b | -10.95065 | -57.20841 | 2026-09-13 00:03:00 | TERRA_M-M | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 26.1 |
-| e733120a-0492-3e5f-9473-f8f4a30f98e3 | -10.68349 | -54.17765 | 2026-09-13 00:03:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 306.1 |
-| 18c60e61-6114-3b37-9ce8-2170a852302c | -10.93786 | -48.33163 | 2026-09-13 00:03:00 | TERRA_M-M | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| d26d2065-c4b3-3a7b-a4d2-2b6c9879b1cd | -9.53921 | -45.44338 | 2026-09-13 00:03:00 | TERRA_M-M | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 6ab3fbf8-6fff-3460-9555-8fbdbbebc2dc | -10.29466 | -45.27725 | 2026-09-13 00:03:00 | TERRA_M-M | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 105932fb-0253-3463-966f-a67797219ddd | -12.66616 | -54.73668 | 2026-09-13 00:03:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 68.1 |
-| eab06fe4-0e30-39fc-93e5-02f08f77a3c3 | -13.74617 | -42.59687 | 2026-09-13 00:03:00 | TERRA_M-M | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 23.5 |
-| a97a1488-13a4-35e7-955f-9665d8832010 | -11.34771 | -48.17245 | 2026-09-13 00:03:00 | TERRA_M-M | SANTA ROSA DO TOCANTINS | TOCANTINS | Brasil | 1718907 | 17 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| f144fcd7-134f-376f-98aa-985ed87b7dd4 | -10.61882 | -50.7271 | 2026-09-13 00:03:00 | TERRA_M-M | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 1062245e-9cb4-381b-90bf-3622de49dc01 | -10.51723 | -47.90346 | 2026-09-13 00:03:00 | TERRA_M-M | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| a20f8b33-ec7a-3cf1-b438-05bd4b83edfb | -10.30699 | -45.28831 | 2026-09-13 00:03:00 | TERRA_M-M | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 18.4 |
-| 4bbbfb84-246c-38cc-9be4-6186e3bdd3e9 | -10.69504 | -54.18606 | 2026-09-13 00:03:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 41.4 |
-| 4414f64f-3edf-3d94-8125-79f2a722bd05 | -10.3001 | -45.26969 | 2026-09-13 00:03:00 | TERRA_M-M | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| 9fff180f-3b1c-3287-a7fc-fcb31165f276 | -10.21532 | -45.249 | 2026-09-13 00:03:00 | TERRA_M-M | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| d9b7141d-5042-3f0e-987f-3e0ac8bc9ec6 | -10.53841 | -51.37706 | 2026-09-13 00:03:00 | TERRA_M-M | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 18.6 |
-| d07185e0-693b-396a-945a-4ec9cb20c1e3 | -11.25249 | -54.15877 | 2026-09-13 00:03:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 10.3 |
-| daa11391-9b6a-3dc6-83bc-be186ac7f902 | -14.96403 | -47.53424 | 2026-09-13 00:03:00 | TERRA_M-M | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 17.6 |
-| 1f813d2a-81ed-322c-8cd3-085d3e697952 | -9.84644 | -48.51582 | 2026-09-13 00:03:00 | TERRA_M-M | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| 61305790-a3b6-3c2f-8386-be003726ad08 | -10.30505 | -45.27507 | 2026-09-13 00:03:00 | TERRA_M-M | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 15.4 |
-| d81f9cc3-1d53-367d-b6cc-5bf973ddce9c | -10.63411 | -46.11519 | 2026-09-13 00:03:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 35.3 |
-| 4118dbc9-26c3-3d21-a594-7ada8612c11a | -13.54501 | -44.04508 | 2026-09-13 00:03:00 | TERRA_M-M | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| 422b8804-00c8-34fc-9016-e95f3ca645d3 | -13.4498 | -48.49525 | 2026-09-13 00:03:00 | TERRA_M-M | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 2c9ea165-418f-3904-b292-e7678922963f | -13.31667 | -51.71876 | 2026-09-13 00:03:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| 40c60b19-38a2-3b07-8b3b-eb11b194e58e | -13.45859 | -48.49396 | 2026-09-13 00:03:00 | TERRA_M-M | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 20.8 |
-| e726d64f-722c-31b3-8cdc-d67252eb5488 | -10.34017 | -48.09046 | 2026-09-13 00:03:00 | TERRA_M-M | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 20a2d88e-294a-3b76-afb6-19217552c089 | -14.12441 | -42.11941 | 2026-09-13 00:03:00 | TERRA_M-M | LAGOA REAL | BAHIA | Brasil | 2918753 | 29 | 33 | nan | nan | nan | Caatinga | 19.4 |
-| 914f9775-c08d-3553-a54a-05ed89c7a894 | -10.81199 | -48.55567 | 2026-09-13 00:03:00 | TERRA_M-M | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 16.1 |
-| 665f2b95-c6b0-3bcf-814f-5f7d54f695d8 | -9.75457 | -48.18489 | 2026-09-13 00:03:00 | TERRA_M-M | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| 125685bb-2089-370c-b2da-5e7b3b1b85d9 | -9.65897 | -46.03926 | 2026-09-13 00:03:00 | TERRA_M-M | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 20.7 |
-| 77b897b6-6328-3c9d-9e1d-0ce74ccac582 | -9.41588 | -50.13906 | 2026-09-13 00:03:00 | TERRA_M-M | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 45.3 |
-| 0acdbbe2-a1fa-3449-8134-7a2945750053 | -10.47411 | -48.64799 | 2026-09-13 00:03:00 | TERRA_M-M | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| c2408025-f45e-38a4-8c3e-f13de9f65349 | -15.55358 | -53.79201 | 2026-09-13 00:03:00 | TERRA_M-M | GENERAL CARNEIRO | MATO GROSSO | Brasil | 5103908 | 51 | 33 | nan | nan | nan | Cerrado | 19.1 |
-| 754878a0-64f8-3ac8-8e95-2627ac704cb6 | -12.49569 | -47.16163 | 2026-09-13 00:03:00 | TERRA_M-M | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| a2402704-c95e-34f3-95c1-f706d4d6f0ec | -13.01856 | -48.64398 | 2026-09-13 00:03:00 | TERRA_M-M | MONTIVIDIU DO NORTE | GOIÁS | Brasil | 5213772 | 52 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| b7742e42-47cf-3377-aab6-729e01be0466 | -11.325 | -48.54176 | 2026-09-13 00:03:00 | TERRA_M-M | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| a74dea72-ee20-3797-a19d-54477ea7aa89 | -16.9839 | -49.73828 | 2026-09-13 00:03:00 | TERRA_M-M | VARJÃO | GOIÁS | Brasil | 5221908 | 52 | 33 | nan | nan | nan | Cerrado | 29.1 |
-| 9d64fe3e-0ed6-359c-8b78-52d0f1090534 | -14.95518 | -47.5357 | 2026-09-13 00:03:00 | TERRA_M-M | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 11.0 |
-| 6cd422cc-aa71-3026-84af-ab01b136b1e5 | -11.72116 | -46.72955 | 2026-09-13 00:03:00 | TERRA_M-M | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 20.8 |
-| a29fec18-c520-3847-a9e7-380c8a8d453a | -10.6501 | -48.91095 | 2026-09-13 00:03:00 | TERRA_M-M | NOVA ROSALÂNDIA | TOCANTINS | Brasil | 1715002 | 17 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 59c44b75-50f1-35ad-8d10-be76284112db | -9.8819 | -47.5864 | 2026-09-13 00:03:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 447d1fbb-6c05-3fcd-95b9-b411c36698dd | -16.31964 | -46.55899 | 2026-09-13 00:03:00 | TERRA_M-M | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| fb49cd8c-1cf8-3b49-b277-5595cd655f47 | -10.69319 | -54.17059 | 2026-09-13 00:03:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 261.6 |
-| 64215398-1a2b-3c28-a483-0e82c8584d5e | -12.85098 | -44.39533 | 2026-09-13 00:03:00 | TERRA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 31.4 |
-| 81be6728-ac5b-314a-bb8c-cec2969e3038 | -13.30825 | -51.73133 | 2026-09-13 00:03:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 23.5 |
-| d0781336-4399-3288-b21c-1807a83ffd82 | -11.1941 | -42.78564 | 2026-09-13 00:03:00 | TERRA_M-M | GENTIO DO OURO | BAHIA | Brasil | 2911303 | 29 | 33 | nan | nan | nan | Caatinga | 44.8 |
-| 510a3d78-a15a-33e6-a82e-f85575f06154 | 0.14513 | -51.45951 | 2026-09-13 00:05:00 | TERRA_M-M | SANTANA | AMAPÁ | Brasil | 1600600 | 16 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 1836a7fe-a563-3aca-933b-74254cd187bb | -6.10563 | -57.67916 | 2026-09-13 00:05:00 | TERRA_M-M | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 14.0 |
-| 9232352f-c84c-38e9-a32e-3eec3b35a5ce | -6.10376 | -55.66392 | 2026-09-13 00:05:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 31.0 |
-| 310b508e-29b9-33f3-befa-9db8e4b80040 | -8.55101 | -54.70566 | 2026-09-13 00:05:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 12.8 |
-| db6f52cf-a360-3bcb-b2e3-5adc453227da | -7.60099 | -46.96976 | 2026-09-13 00:05:00 | TERRA_M-M | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 13.5 |
-| fa108d62-1d9c-3e90-9070-fdcddfd0efee | -6.72705 | -50.82626 | 2026-09-13 00:05:00 | TERRA_M-M | ÁGUA AZUL DO NORTE | PARÁ | Brasil | 1500347 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| e1ef3dcb-31a3-3337-afdc-e2eda81f7ee3 | -8.21611 | -47.87418 | 2026-09-13 00:05:00 | TERRA_M-M | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 20.5 |
-| a3bd8f93-75b3-3d29-b9e4-104a5af05be3 | -3.19675 | -51.01777 | 2026-09-13 00:05:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 18ae757b-34ae-30de-8b36-938851f56bb5 | -6.78728 | -48.65802 | 2026-09-13 00:05:00 | TERRA_M-M | ARAGOMINAS | TOCANTINS | Brasil | 1701309 | 17 | 33 | nan | nan | nan | Amazônia | 33.2 |
-| 19808a78-32a2-3745-9570-36329b4c83b3 | -2.94588 | -50.40465 | 2026-09-13 00:05:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 14.9 |
-| fbe6c5c4-8e70-3878-8b0f-af48a3337cc9 | -4.34872 | -54.78319 | 2026-09-13 00:05:00 | TERRA_M-M | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| 37ddfb92-9b13-3af9-9640-bf462d90980c | -5.01842 | -49.99141 | 2026-09-13 00:05:00 | TERRA_M-M | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| 88638cb5-eece-3723-bcce-bc4901922a64 | -6.00205 | -44.25439 | 2026-09-13 00:05:00 | TERRA_M-M | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 30.1 |
-| 11d497de-ee53-3ee3-8d99-70fc7e14c17e | -6.51684 | -47.6036 | 2026-09-13 00:05:00 | TERRA_M-M | PALMEIRAS DO TOCANTINS | TOCANTINS | Brasil | 1713809 | 17 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 2a2749ce-349b-3757-a88a-d28615082a57 | -8.54154 | -54.72274 | 2026-09-13 00:05:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 38.2 |
-| 51d437cd-3602-3563-a6ba-712b49bf2ac6 | -5.29543 | -49.20009 | 2026-09-13 00:05:00 | TERRA_M-M | NOVA IPIXUNA | PARÁ | Brasil | 1504976 | 15 | 33 | nan | nan | nan | Amazônia | 13.6 |
-| d6ef5be7-1d94-3d32-bad4-cc3bb42ab8d9 | -3.33548 | -42.31096 | 2026-09-13 00:05:00 | TERRA_M-M | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 118.0 |
-| 9f82ea97-9354-3a0c-9a17-39f6607d55cb | -6.72583 | -50.8173 | 2026-09-13 00:05:00 | TERRA_M-M | ÁGUA AZUL DO NORTE | PARÁ | Brasil | 1500347 | 15 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| cea9721d-bbd4-3461-bd21-6be36c9d10ca | -6.30748 | -52.93394 | 2026-09-13 00:05:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| 68b82179-28d1-3408-bb74-bed6557e39d3 | -5.80925 | -53.81381 | 2026-09-13 00:05:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 33.3 |
-| 752141c2-3035-304a-b063-7215fb67b3e3 | -4.92081 | -45.83827 | 2026-09-13 00:05:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 49.9 |
-| 2fa8d276-ffeb-3524-abb6-6659b47b391c | -3.40796 | -48.88831 | 2026-09-13 00:05:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 35.7 |
-| a8e5f6d5-a29f-3a5b-b21e-1acccc106ffc | -6.22784 | -51.69503 | 2026-09-13 00:05:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 58.5 |
-| fe1a5f83-c557-3eaa-8f1e-32f4eaa465af | -7.76715 | -46.68891 | 2026-09-13 00:05:00 | TERRA_M-M | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| f13b1768-d585-3aa9-9476-1573823d7545 | -7.53128 | -47.33332 | 2026-09-13 00:05:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 35.1 |
-| 41dc5466-6bb7-3ea9-8b60-c0fb726e6795 | -4.45123 | -50.16756 | 2026-09-13 00:05:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 8f29825e-65bf-357b-8248-49e7ebe86f5a | -2.9483 | -50.42222 | 2026-09-13 00:05:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| e5e0273e-7bc4-3b1e-a9d4-ded6a5297870 | -1.46202 | -52.96513 | 2026-09-13 00:05:00 | TERRA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 14.7 |
-| 4eccc38f-ad24-3a5a-bf3d-819c3acd07e8 | -1.22202 | -54.12761 | 2026-09-13 00:05:00 | TERRA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 12.4 |
-| 357884db-fce5-3e58-a6c4-16d717f5c004 | -1.21914 | -54.12318 | 2026-09-13 00:05:00 | TERRA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 186a045e-e95c-3475-9974-d4277b19cd6f | -3.15605 | -48.60845 | 2026-09-13 00:05:00 | TERRA_M-M | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 6a579ff0-fa90-3158-a6ee-9cca427d878a | -2.61428 | -54.75455 | 2026-09-13 00:05:00 | TERRA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 21.2 |
-| dc637b73-b45f-3ab4-a127-58b99f3e52f6 | -9.13437 | -51.60473 | 2026-09-13 00:05:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 6bffb333-4cf0-372d-a341-a5bd4793b935 | -8.54871 | -54.70031 | 2026-09-13 00:05:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 24.5 |
-| 9c996659-8390-3c0e-b9ae-30c07f73f079 | -5.79899 | -53.81511 | 2026-09-13 00:05:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| f591a28d-835c-35e7-9a3f-0d941d9d6d33 | -6.66495 | -50.91438 | 2026-09-13 00:05:00 | TERRA_M-M | ÁGUA AZUL DO NORTE | PARÁ | Brasil | 1500347 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 910555a9-e896-3300-b4c2-6f098cd3d838 | -4.46162 | -50.16018 | 2026-09-13 00:05:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 25.0 |
+| 13895f15-bde7-3f55-ac5e-0b5c63d54863 | -12.135 | -57.19526 | 2026-09-14 00:41:00 | TERRA_M-M | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 10.6 |
+| b896f2a2-9047-309a-b5b8-93374595edd1 | -6.30976 | -55.27568 | 2026-09-14 00:41:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 10.6 |
+| 9c73902d-4b8b-39fc-8c08-0f08c28a98ab | -10.25077 | -57.69336 | 2026-09-14 00:41:00 | TERRA_M-M | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 158115a6-a070-3c48-9393-97ce122f7174 | -6.2877 | -55.27924 | 2026-09-14 00:41:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 72.2 |
+| 35b75217-d7ed-3c6c-a7db-760e15656c04 | -10.656 | -54.16228 | 2026-09-14 00:41:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 32.1 |
+| 422d5562-eba3-3582-9f93-b13b42bd3fe1 | -6.85644 | -55.55969 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 10.0 |
+| 89c48578-c629-34b8-a495-2813e4748f87 | -6.58495 | -58.84055 | 2026-09-14 00:41:00 | TERRA_M-M | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 32.8 |
+| c66489ec-58fc-3d9e-833e-21b0f574de26 | -6.1573 | -59.94277 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| 73917438-5edb-36aa-919b-c2f86875bc64 | -6.29333 | -59.93524 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 48.5 |
+| b44c7c6c-ee1a-32ba-bb28-f3b903376f88 | -6.13839 | -57.69347 | 2026-09-14 00:41:00 | TERRA_M-M | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 10.5 |
+| 6b616ad5-22ab-34ac-a835-45a07a791e94 | -9.71011 | -54.38111 | 2026-09-14 00:41:00 | TERRA_M-M | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | 16.0 |
+| c9cb919a-5f92-3d12-8ce6-5c517b41e3ff | -6.59637 | -58.85736 | 2026-09-14 00:41:00 | TERRA_M-M | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 12.1 |
+| bd45b25a-93ef-3a4f-a79f-086d1569e91f | -6.32586 | -60.02341 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 15.4 |
+| c2655248-fdf4-3313-944b-f5e2169d3058 | -6.29454 | -59.94403 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 23.3 |
+| f93ddf4c-8da9-386f-9138-217504bc1605 | -6.9168 | -55.63953 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 9.5 |
+| 92aee810-b428-3b6b-984b-ff2385276ab5 | -10.67829 | -54.15846 | 2026-09-14 00:41:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 330.8 |
+| 7ccfff6b-a081-3026-89f9-67c233e6ee9e | -9.39845 | -50.18875 | 2026-09-14 00:41:00 | TERRA_M-M | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 46.4 |
+| a06a9ee6-b0ff-32be-993d-54b0d76e9c1b | -6.79056 | -62.97993 | 2026-09-14 00:41:00 | TERRA_M-M | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 8.9 |
+| e2031ca5-98a6-3931-9250-c57934bc06c8 | -6.29575 | -59.95282 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 23.2 |
+| ab8c372a-7e1c-3062-9879-718e5aeec3e7 | -6.6221 | -58.37893 | 2026-09-14 00:41:00 | TERRA_M-M | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 80dd38ca-e935-366c-bfa9-82419471a143 | -6.34204 | -55.82303 | 2026-09-14 00:41:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 10.5 |
+| e26286e4-3833-3048-9ed6-e1368128f4aa | -10.66483 | -54.14544 | 2026-09-14 00:41:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1175.3 |
+| b865d9cf-05a3-3b7d-85e4-1393ba95861b | -10.68717 | -54.14168 | 2026-09-14 00:41:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 14.0 |
+| aae5c10d-f345-323c-a80c-86948d9b393b | -10.68947 | -54.15672 | 2026-09-14 00:41:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 43.9 |
+| 54741e54-4957-3fd7-8d44-572ef880507b | -6.84769 | -55.57475 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 49.9 |
+| 672931ec-d3ee-3692-8d8c-bfa5bb414295 | -10.65368 | -54.14737 | 2026-09-14 00:41:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 184.2 |
+| 5b253aad-1376-301c-ba2b-3161b9096a42 | -6.28453 | -59.93648 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 31.4 |
+| 02d4e6e6-0ecd-31bf-9ecc-3f5f0866e693 | -6.28333 | -59.92768 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 15.0 |
+| 919afb2c-3177-32df-9bc1-93911e06a72b | -7.10117 | -55.6399 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 10.8 |
+| b01f5c7f-d688-33ea-952e-55de94f42357 | -6.28553 | -55.26485 | 2026-09-14 00:41:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 10.6 |
+| 226dc37f-3828-3957-bdab-479eb22a5449 | -6.28574 | -59.94527 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 14.6 |
+| 73cb7962-9048-32a1-8630-78a2fd233c70 | -10.66943 | -54.17514 | 2026-09-14 00:41:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 83.4 |
+| bb1034f1-b99e-3a38-bd00-f8e6ad256ba7 | -10.8078 | -58.58147 | 2026-09-14 00:41:00 | TERRA_M-M | CASTANHEIRA | MATO GROSSO | Brasil | 5102850 | 51 | 33 | nan | nan | nan | Amazônia | 7.3 |
+| cb8c1964-e906-3d71-8f04-41182ff111df | -11.26148 | -54.13235 | 2026-09-14 00:41:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 27.3 |
+| b34b575d-9dab-376c-8a27-9a0358c4bfd5 | -6.58872 | -58.86767 | 2026-09-14 00:41:00 | TERRA_M-M | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| 8219f1c9-ec00-3657-9fe6-6608ae624405 | -11.26422 | -54.14032 | 2026-09-14 00:41:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 13.0 |
+| 2950efc8-bc06-3b4c-8f9e-9fb3c95fa084 | -9.42447 | -50.15118 | 2026-09-14 00:41:00 | TERRA_M-M | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 40.8 |
+| dd53aba2-35c4-3d5f-a23b-bea45bb9302f | -10.43983 | -48.66795 | 2026-09-14 00:41:00 | TERRA_M-M | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 38.7 |
+| c308f7cc-ddfd-3f37-ac68-095bc4b102fc | -6.84573 | -55.56131 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 29.0 |
+| 111d11ab-4de2-3f5d-b85e-bf69271ec68c | -6.28989 | -55.29374 | 2026-09-14 00:41:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 14.6 |
+| d9fb986f-ac2d-31a8-87b9-7607607813d2 | -6.37691 | -55.26023 | 2026-09-14 00:41:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 21.5 |
+| 02cbadf0-9e79-31e9-b584-901ff6316188 | -7.09922 | -55.62682 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 18.5 |
+| 3083acec-bed3-3116-b1d8-3f45276fa8db | -9.41408 | -50.18596 | 2026-09-14 00:41:00 | TERRA_M-M | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 54.0 |
+| 25edfbd8-fdb4-3acb-8493-7388c8c3c0ae | -11.26191 | -54.12581 | 2026-09-14 00:41:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 20.3 |
+| 585c2252-be64-362a-ad16-982d067aea3a | -6.31862 | -59.97063 | 2026-09-14 00:41:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 15.5 |
+| e4ff10c9-ccfe-3d61-9891-1e9ce8d47832 | -3.38113 | -50.38698 | 2026-09-14 00:43:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 44.5 |
+| ec32cc4b-6249-3ad4-8a86-f2c381464e8a | -3.37257 | -61.345 | 2026-09-14 00:43:00 | TERRA_M-M | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| 7b3a258a-0fde-3977-9129-54da799dbfbc | -3.72279 | -60.60038 | 2026-09-14 00:43:00 | TERRA_M-M | MANAQUIRI | AMAZONAS | Brasil | 1302553 | 13 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| 1e29dc85-731e-38b5-aa91-9f2d96d1e137 | -3.05985 | -59.28209 | 2026-09-14 00:43:00 | TERRA_M-M | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 2a3238d5-888a-335a-a42b-7eacbb686756 | -2.23417 | -60.047 | 2026-09-14 00:43:00 | TERRA_M-M | MANAUS | AMAZONAS | Brasil | 1302603 | 13 | 33 | nan | nan | nan | Amazônia | 15.4 |
+| 84e255b6-2e3f-3b5d-b8cf-ba58b8d3190b | -2.22532 | -60.04825 | 2026-09-14 00:43:00 | TERRA_M-M | MANAUS | AMAZONAS | Brasil | 1302603 | 13 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 0d34500a-3b42-35e7-a00e-28648730b90e | -2.90952 | -50.41494 | 2026-09-14 00:43:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 127.9 |
+| 281aedb1-f4fc-36f8-969f-7394d994c8a2 | -2.68165 | -57.57479 | 2026-09-14 00:43:00 | TERRA_M-M | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 15.2 |
+| 1b7ef230-a31b-3ee4-9566-2ceef7822967 | -3.84707 | -58.90838 | 2026-09-14 00:43:00 | TERRA_M-M | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 1a2a1cd2-cca9-3796-b2db-059fc5336cdc | -6.01721 | -59.9389 | 2026-09-14 00:43:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 9.8 |
+| 6069f626-5a0e-3624-b689-ba6a27cce7b3 | -3.87323 | -58.89827 | 2026-09-14 00:43:00 | TERRA_M-M | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| a97183f1-f950-3b45-ad2a-b1578fa1b23f | -3.07782 | -61.07889 | 2026-09-14 00:43:00 | TERRA_M-M | MANACAPURU | AMAZONAS | Brasil | 1302504 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 0aad9ba4-8729-36a4-b4c3-cec648f1c189 | -2.90014 | -50.45203 | 2026-09-14 00:43:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 209.5 |
+| f98a0247-985c-359d-b01b-cac44851f7e0 | -4.12056 | -60.68148 | 2026-09-14 00:43:00 | TERRA_M-M | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| 62cdfa7b-b3c2-3932-a15e-3d84777635e1 | -3.64093 | -58.62477 | 2026-09-14 00:43:00 | TERRA_M-M | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| b78a0e13-56cb-301f-8ffc-b7938108486e | -2.90369 | -50.37495 | 2026-09-14 00:43:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 80.0 |
+| 5019052a-9efa-35fc-a81a-2f96216a29e5 | -6.01842 | -59.94769 | 2026-09-14 00:43:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 33.2 |
+| bd65a435-051c-3f98-82c7-5a43410f0f22 | -5.5897 | -60.18156 | 2026-09-14 00:43:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 7.4 |
+| bc7cd365-d385-3f51-b604-947bb7ce0fdc | -2.92674 | -50.4123 | 2026-09-14 00:43:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 46.6 |
+| e7e0f1b1-f8c4-394b-905f-87689f925996 | -2.99913 | -57.93239 | 2026-09-14 00:43:00 | TERRA_M-M | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 9.0 |
+| 51f633b5-3171-3641-befa-bde9a6608c02 | -4.13687 | -54.01944 | 2026-09-14 00:43:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 20.7 |
+| db32efc2-bdb7-302d-98c9-41619074d89e | -4.12297 | -60.69904 | 2026-09-14 00:43:00 | TERRA_M-M | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| b1a62787-9e17-38bd-8f7f-812d9a0cdcdc | -3.72399 | -60.60914 | 2026-09-14 00:43:00 | TERRA_M-M | MANAQUIRI | AMAZONAS | Brasil | 1302553 | 13 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| a18b378b-cae7-3ba2-8091-ce2b4152fe1a | -2.23295 | -60.03813 | 2026-09-14 00:43:00 | TERRA_M-M | MANAUS | AMAZONAS | Brasil | 1302603 | 13 | 33 | nan | nan | nan | Amazônia | 12.1 |
+| e6490858-6e10-3c21-b715-2ba07ea77a60 | -3.59243 | -59.06677 | 2026-09-14 00:43:00 | TERRA_M-M | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| fe4b3b75-578d-3e15-a33c-daca32cce756 | -3.35 | -59.38129 | 2026-09-14 00:43:00 | TERRA_M-M | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 7dd4f4e0-e490-3eb1-8805-2a2f78104393 | -3.87454 | -58.9076 | 2026-09-14 00:43:00 | TERRA_M-M | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| 3a8ee7fe-c2d3-3467-9eb3-b9d1b93a9d13 | -3.35871 | -59.83714 | 2026-09-14 00:43:00 | TERRA_M-M | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| edbb9bd1-d4d5-3855-8a32-3751dd1119bc | -3.17436 | -58.65284 | 2026-09-14 00:43:00 | TERRA_M-M | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 16.6 |
+| 20c18886-e673-355c-a50a-5c4efc19ccdc | -3.18348 | -61.11223 | 2026-09-14 00:43:00 | TERRA_M-M | MANACAPURU | AMAZONAS | Brasil | 1302504 | 13 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 520ffa94-ccfa-39c1-8215-5ffffb92e8e0 | -3.36408 | -61.28263 | 2026-09-14 00:43:00 | TERRA_M-M | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| e3b8ee06-9ed7-38fc-b8ba-86e94d23cefc | -3.16545 | -61.17775 | 2026-09-14 00:43:00 | TERRA_M-M | MANACAPURU | AMAZONAS | Brasil | 1302504 | 13 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 0e8464b0-6ab4-36f1-816d-e992cde9cea4 | -2.89404 | -50.41243 | 2026-09-14 00:43:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 105.2 |
+| 1a4379b2-407a-3584-b957-fdbbd58126dd | -3.5937 | -59.07602 | 2026-09-14 00:43:00 | TERRA_M-M | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 7.3 |
+| 338c8d12-5b88-3147-a48b-750d10c92f48 | -2.66215 | -57.50863 | 2026-09-14 00:43:00 | TERRA_M-M | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 13.3 |
+| 5a39bb07-f346-34f3-921c-4fc4a9140682 | -2.68006 | -57.56357 | 2026-09-14 00:43:00 | TERRA_M-M | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 37.6 |
+| 87905728-b4e6-3fb2-b747-c50e266e6c45 | -3.17466 | -61.11346 | 2026-09-14 00:43:00 | TERRA_M-M | MANACAPURU | AMAZONAS | Brasil | 1302504 | 13 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| b4e84d27-693f-3ea3-9207-89cd8de0fca8 | -3.60336 | -59.07823 | 2026-09-14 00:43:00 | TERRA_M-M | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 16.8 |
+| e7d4ba98-4360-383f-bad6-a691fba9ad94 | -3.54101 | -53.98138 | 2026-09-14 00:43:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 67.0 |
+| 7c6ab036-8a1c-313a-94d2-645c4929aae1 | -3.41785 | -58.21695 | 2026-09-14 00:43:00 | TERRA_M-M | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 21.9 |
+| cc6f5e27-0058-345d-b423-7d20e8e06cba | -2.67847 | -57.55233 | 2026-09-14 00:43:00 | TERRA_M-M | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 41.1 |
+| ccfed003-28ce-364b-8461-8e4d186741a9 | -5.13038 | -55.94806 | 2026-09-14 00:43:00 | TERRA_M-M | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 26.3 |
+| 9a3cb8ac-9554-369d-a229-17f0e62453eb | -3.06758 | -59.27164 | 2026-09-14 00:43:00 | TERRA_M-M | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| f2dd482d-5571-3e3f-a94b-53c472727308 | -5.11964 | -55.94936 | 2026-09-14 00:43:00 | TERRA_M-M | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 41.9 |
+| 170c2e8b-933b-308c-be5f-4b1319c0eee4 | -3.41642 | -58.20684 | 2026-09-14 00:43:00 | TERRA_M-M | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 44.3 |
+| d3c6946b-3043-3499-a486-63432e14bb7d | -4.12176 | -60.69026 | 2026-09-14 00:43:00 | TERRA_M-M | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 47.7 |
+| 0cd9f1f5-7d58-3d8a-9814-80ed6d4fbd1d | -5.59091 | -60.19035 | 2026-09-14 00:43:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 15.2 |
+| 03c1da61-76cb-30a6-a356-56858093266d | -2.89813 | -50.45726 | 2026-09-14 00:43:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 197.2 |
+| 37d3d366-f359-3653-a644-e0f4925d099f | -5.72586 | -60.22187 | 2026-09-14 00:43:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 9.4 |
+| 882fa169-366a-3250-8d7a-64559695984d | -3.46457 | -58.41381 | 2026-09-14 00:43:00 | TERRA_M-M | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| aeb47a2d-6ad1-34b9-a4f9-254514ae53e7 | -3.18469 | -61.12106 | 2026-09-14 00:43:00 | TERRA_M-M | MANACAPURU | AMAZONAS | Brasil | 1302504 | 13 | 33 | nan | nan | nan | Amazônia | 9.8 |
+| 8890c62e-e5bb-3428-8f14-a80cd1ae323b | -3.7212 | -58.86519 | 2026-09-14 00:43:00 | TERRA_M-M | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 9.4 |
+| 87916a51-eb8c-364c-86aa-47e263352159 | -3.84836 | -58.91773 | 2026-09-14 00:43:00 | TERRA_M-M | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 27c35490-2bf6-31db-85fd-a536d8ae1795 | -3.60206 | -59.06898 | 2026-09-14 00:43:00 | TERRA_M-M | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 44.1 |
+| b2d52626-084d-3d61-b48f-e61c9c4ba2af | -3.89512 | -60.59724 | 2026-09-14 00:43:00 | TERRA_M-M | MANAQUIRI | AMAZONAS | Brasil | 1302553 | 13 | 33 | nan | nan | nan | Amazônia | 16.8 |
 
 
 [Clique aqui para ver as próximas entradas](README4.md)
