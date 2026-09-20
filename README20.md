@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| ce77c8b3-a03d-399a-b581-00ab6c648394 | -12.6993 | -45.9445 | 2026-09-19 00:41:00 | METOP-C | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 138219d3-9a91-344c-980b-63094a48fa43 | -11.3686 | -44.133202 | 2026-09-19 00:41:00 | METOP-C | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 6f6f9d0d-179c-3e6c-94fe-f7d3112290bc | -12.8574 | -44.388 | 2026-09-19 00:41:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| fb836fb7-4c60-3792-baca-cd7050808001 | -14.6786 | -46.688801 | 2026-09-19 00:41:00 | METOP-C | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| d94e31d5-4fc2-35a2-ad0f-918c6aea8303 | -10.8516 | -54.107101 | 2026-09-19 00:41:00 | METOP-C | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 77b3a849-3060-32ba-89dd-1b4966a10fbe | -18.408001 | -49.1567 | 2026-09-19 00:41:00 | METOP-C | ITUMBIARA | GOIÁS | Brasil | 5211503 | 52 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| a4dce883-edbb-3915-9400-f428055e016f | -12.1547 | -46.978699 | 2026-09-19 00:41:00 | METOP-C | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| b4d0c89a-2def-3a82-a680-d2ce1fb099a0 | -7.6583 | -46.1208 | 2026-09-19 00:41:00 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 1cc772bb-33da-362c-9c6c-1ae10c387c6f | -11.4133 | -51.453999 | 2026-09-19 00:41:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1b2498f8-97d4-3052-abf1-58bb22adf664 | -10.8679 | -56.2117 | 2026-09-19 00:41:00 | METOP-C | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3acbafc6-40cb-3a36-9f67-172f57ceea86 | -6.3491 | -51.735001 | 2026-09-19 00:41:00 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 45c7b29b-37e8-3d8a-ba53-ceeb286f5476 | -7.8772 | -46.4361 | 2026-09-19 00:41:00 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| a4ca33d9-b5d6-39d9-9a82-2a17b5229bef | -10.8319 | -50.903801 | 2026-09-19 00:41:00 | METOP-C | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| ddc9cd95-923d-35ec-b4df-cd550d253eb3 | -4.5702 | -42.953999 | 2026-09-19 00:41:00 | METOP-C | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 43880781-9fcf-365b-a9b3-338d4efd52cc | -14.1334 | -45.186401 | 2026-09-19 00:41:00 | METOP-C | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| efabb85f-ea57-3dab-af90-b76407ca2d7e | -17.9538 | -45.124901 | 2026-09-19 00:41:00 | METOP-C | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| c781eddd-d636-376d-b895-5ad24666fd4a | -15.0286 | -48.573101 | 2026-09-19 00:41:00 | METOP-C | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 53074b8e-0d47-3e42-a8da-b3c1bb6c5f0c | -9.5531 | -46.5807 | 2026-09-19 00:41:00 | METOP-C | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 1d6e73c8-51fa-3f64-906a-56896bdfb8b9 | -12.2889 | -49.165199 | 2026-09-19 00:41:00 | METOP-C | ALVORADA | TOCANTINS | Brasil | 1700707 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 58f501d9-4761-3891-8146-fcc064edcdba | -10.8485 | -50.185299 | 2026-09-19 00:41:00 | METOP-C | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 1a9834a6-31bd-3c3f-ac56-611390719f8c | -8.3769 | -47.2038 | 2026-09-19 00:41:00 | METOP-C | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 32c4eb23-f66b-3526-9f0f-2259473d2bee | -7.6545 | -46.104698 | 2026-09-19 00:41:00 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| b221a0eb-d3af-32af-8e9a-c80a128b3e36 | -12.5512 | -47.087101 | 2026-09-19 00:41:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 94fc8362-f31c-3152-a650-89c9da16e31c | -4.606 | -42.9743 | 2026-09-19 00:41:00 | METOP-C | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 053e9f6f-280a-3a27-8f56-73198cd77bd8 | -11.3259 | -47.6833 | 2026-09-19 00:41:00 | METOP-C | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| a12e811c-4bc7-35cf-86c7-e22203dd2f62 | -11.3086 | -51.729301 | 2026-09-19 00:41:00 | METOP-C | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e85c913c-52cc-398b-84cf-235fbad141e9 | -10.0643 | -45.6367 | 2026-09-19 00:41:00 | METOP-C | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 1e5acc1e-9c0b-309c-a423-301a8890fd2b | -9.8999 | -46.562 | 2026-09-19 00:41:00 | METOP-C | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 166e327e-c4d1-3fbe-8a24-7f251c144d65 | -15.0757 | -49.594299 | 2026-09-19 00:41:00 | METOP-C | NOVA GLÓRIA | GOIÁS | Brasil | 5214861 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| e543b447-f80b-3157-816a-ed2dd7b6fa24 | -14.6819 | -46.658001 | 2026-09-19 00:41:00 | METOP-C | ALVORADA DO NORTE | GOIÁS | Brasil | 5200803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 3cbea4cc-1287-315b-9bd2-7e2a7fdc9503 | -3.7595 | -44.3839 | 2026-09-19 00:41:00 | METOP-C | MATÕES DO NORTE | MARANHÃO | Brasil | 2106631 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 3e99a349-eb17-3380-a37e-4638128db51b | -14.6737 | -46.6675 | 2026-09-19 00:41:00 | METOP-C | ALVORADA DO NORTE | GOIÁS | Brasil | 5200803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 1f5c3091-6d07-3e33-8e52-f955ebb41fac | -13.6165 | -46.962898 | 2026-09-19 00:41:00 | METOP-C | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 8ce9e7b6-8420-3955-9035-78bddfd3dbab | -0.521 | -49.148701 | 2026-09-19 00:41:00 | METOP-C | CACHOEIRA DO ARARI | PARÁ | Brasil | 1502004 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 0061fa53-5720-33db-a170-edc77fbabd3a | -5.2521 | -48.192699 | 2026-09-19 00:41:00 | METOP-C | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| c12ee3e8-87b0-31ff-9e9f-067995619143 | -11.08 | -50.676498 | 2026-09-19 00:41:00 | METOP-C | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 5a216530-6218-3293-82c4-d5c09628406b | -12.1515 | -47.009399 | 2026-09-19 00:41:00 | METOP-C | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ae9ccef8-ba29-320e-a6da-d7e4d2c00c7a | -3.8944 | -49.058998 | 2026-09-19 00:41:00 | METOP-C | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 88fbbece-7028-36ac-985b-aeb688dd692b | -4.5605 | -42.956299 | 2026-09-19 00:41:00 | METOP-C | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 78f6c08a-03fd-38d9-bdc1-1abd2cfca718 | -5.4696 | -49.000301 | 2026-09-19 00:41:00 | METOP-C | SÃO JOÃO DO ARAGUAIA | PARÁ | Brasil | 1507508 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| d3c58416-428c-30b6-9e0c-1e95488b08b7 | -11.3142 | -47.272598 | 2026-09-19 00:41:00 | METOP-C | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 908bef9f-7d64-3317-b09f-e2e6d5c6f4fc | -12.1629 | -46.969299 | 2026-09-19 00:41:00 | METOP-C | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| faf3ce88-1e45-3d77-87a7-c92fa149a15b | -1.5884 | -54.429401 | 2026-09-19 00:41:00 | METOP-C | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 04504573-352e-3034-a506-f6d6ef3aa1c7 | -11.3663 | -44.124001 | 2026-09-19 00:41:00 | METOP-C | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 8ddff532-7eea-3315-badf-2ecd78223185 | -10.53 | -46.7397 | 2026-09-19 00:41:00 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| a0241beb-c462-39c9-8d18-6a1798383046 | -11.3125 | -47.265499 | 2026-09-19 00:41:00 | METOP-C | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 7c0a4046-a75a-30e9-a63a-2ed51ce4c387 | -6.667 | -50.906101 | 2026-09-19 00:41:00 | METOP-C | ÁGUA AZUL DO NORTE | PARÁ | Brasil | 1500347 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c5f555e7-1e9f-3db6-b618-6e58b472b8ed | -11.0576 | -48.315601 | 2026-09-19 00:41:00 | METOP-C | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 3b23ddee-fdba-35c8-b9ea-7f720c235c67 | -8.7688 | -48.678501 | 2026-09-19 00:41:00 | METOP-C | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Amazônia | nan |
-| 74468f25-3cc1-3276-9766-be1dcff60269 | -6.9502 | -46.974098 | 2026-09-19 00:41:00 | METOP-C | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 638d2ac9-c2d3-347b-b30a-20981e4ca82f | -5.5132 | -43.7906 | 2026-09-19 00:41:00 | METOP-C | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ec989e96-fc28-3a38-b953-d16a9dd2c5e5 | -12.5414 | -47.089401 | 2026-09-19 00:41:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 6e472038-f472-3a10-b0ce-afcba4747f1c | -8.4495 | -45.711102 | 2026-09-19 00:41:00 | METOP-C | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 54ce2d96-3241-3995-bef1-e5f3e31e01b4 | -13.615 | -48.3246 | 2026-09-19 00:41:00 | METOP-C | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| b563d739-b213-3deb-ab39-dc5811730de7 | -11.9351 | -50.124802 | 2026-09-19 00:41:00 | METOP-C | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 6e90e98c-d664-3b01-9271-b0fd771184eb | -3.1515 | -53.931702 | 2026-09-19 00:41:00 | METOP-C | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a6f87075-0a83-393b-946f-8aad2a69da99 | -3.0337 | -51.375801 | 2026-09-19 00:41:00 | METOP-C | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| cf3acae5-4298-3d07-baf7-31858bc127ee | -0.2676 | -48.407501 | 2026-09-19 00:41:00 | METOP-C | SOURE | PARÁ | Brasil | 1507904 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 92f0768e-26af-37ee-9ec7-7df2f344b70d | 1.2301 | -50.997501 | 2026-09-19 00:41:00 | METOP-C | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| ba60bf77-1dfc-3f74-8bd8-5ee5bf7d3fda | -9.6112 | -45.382401 | 2026-09-19 00:41:00 | METOP-C | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 812ebb4e-6dbc-3a2e-bfae-2e41ffd02d8e | -4.2604 | -48.544201 | 2026-09-19 00:41:00 | METOP-C | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 555db79c-4ac0-33ad-bac2-dfa252e8be9d | -10.8646 | -56.195202 | 2026-09-19 00:41:00 | METOP-C | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| bb28f1ea-6d79-3439-8d9c-767ccc0644b9 | -9.9149 | -46.582001 | 2026-09-19 00:41:00 | METOP-C | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 420451df-25ea-3b9c-8561-da62e9a922de | -8.1263 | -44.831402 | 2026-09-19 00:41:00 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| de7c2cc0-aa0b-37e3-a76e-953c059bd8ad | -6.4901 | -43.8223 | 2026-09-19 00:41:00 | METOP-C | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 3b2ae994-e286-3566-91ea-f6ae40085f99 | -2.8345 | -50.460602 | 2026-09-19 00:41:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 7748f7ea-c774-3359-a264-5069ee9d90d0 | -11.1266 | -45.279499 | 2026-09-19 00:41:00 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 277942d9-6030-326f-abd6-383cea8fe496 | -8.7672 | -48.6716 | 2026-09-19 00:41:00 | METOP-C | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Amazônia | nan |
-| 368450e1-6925-308a-a5a0-2bd2d7e58f6c | -4.5963 | -42.976601 | 2026-09-19 00:41:00 | METOP-C | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7724088c-01ef-37c0-9fb4-9ad178212648 | -12.1188 | -47.002102 | 2026-09-19 00:41:00 | METOP-C | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 79429764-003f-3865-81b2-c767dac21ff9 | -7.6876 | -46.113899 | 2026-09-19 00:41:00 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| aea3ce9d-dbea-3f48-b680-4bca703980ba | -3.3665 | -50.4422 | 2026-09-19 00:41:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 408ec651-d57a-3409-aa16-d65e16483110 | -21.0247 | -48.239601 | 2026-09-19 00:41:00 | METOP-C | PITANGUEIRAS | SÃO PAULO | Brasil | 3539509 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| e3314832-f14b-3aba-ad0d-b4bbf547a7df | -12.1498 | -47.0023 | 2026-09-19 00:41:00 | METOP-C | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 2a8227bf-8583-3d4d-86e0-0f889715dfd1 | -5.295 | -50.082802 | 2026-09-19 00:41:00 | METOP-C | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 24f28717-311b-39ab-8319-ec7fce39d50a | -6.581 | -44.157101 | 2026-09-19 00:41:00 | METOP-C | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 01ddfdc8-4479-376d-b0e4-6cede216ff51 | -13.2349 | -46.918701 | 2026-09-19 00:41:00 | METOP-C | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 8eff4e27-9b2d-3f03-94c1-c3be354cb96a | -4.5042 | -54.971001 | 2026-09-19 00:41:00 | METOP-C | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c200ce60-913f-3f3d-81d8-efbe349aba5e | -8.4905 | -57.615299 | 2026-09-19 00:41:00 | METOP-C | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 036c4504-d92a-36b1-bc04-8445f41b3ea0 | -13.6818 | -48.578098 | 2026-09-19 00:41:00 | METOP-C | CAMPINAÇU | GOIÁS | Brasil | 5204656 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 1201ac9a-2a02-32a0-8e57-fe660d13159f | -6.0268 | -51.7658 | 2026-09-19 00:41:00 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ae24717d-b1f3-3616-aa9f-5d03e83818a9 | -4.5897 | -42.949402 | 2026-09-19 00:41:00 | METOP-C | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 0e58c0d8-8b9d-30a7-a69d-3d132bcca55a | -3.549 | -50.293701 | 2026-09-19 00:41:00 | METOP-C | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e0235138-104c-3294-bc77-49a6962f6c07 | -8.3705 | -47.220501 | 2026-09-19 00:41:00 | METOP-C | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 002181b8-d5bc-3e8f-a179-464f308d68ab | -11.0643 | -49.7668 | 2026-09-19 00:41:00 | METOP-C | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ca2640b0-bd10-3d0a-ac5b-4f9cf65f88af | -9.9454 | -45.2672 | 2026-09-19 00:41:00 | METOP-C | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| c4268eaa-eea7-3e4b-8923-71bc0666babd | -13.2333 | -46.911598 | 2026-09-19 00:41:00 | METOP-C | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 1b16e22a-de7f-3665-8736-b19b845d6bda | -6.649 | -50.917702 | 2026-09-19 00:41:00 | METOP-C | ÁGUA AZUL DO NORTE | PARÁ | Brasil | 1500347 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f2ae3f47-4ea2-3bc3-a9b8-e0109b08f4ce | -7.6955 | -46.1036 | 2026-09-19 00:41:00 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| c2f444fd-ddf5-36ae-a5e8-6281f38ed6f6 | -10.8338 | -50.165199 | 2026-09-19 00:41:00 | METOP-C | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| acbc4d92-8e6a-36c6-a502-7f02318714c3 | -10.8354 | -50.1726 | 2026-09-19 00:41:00 | METOP-C | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 0ede4976-6417-3bff-95b2-4fc56500b9ba | -9.9474 | -45.2756 | 2026-09-19 00:41:00 | METOP-C | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 693ce05e-4d82-3531-81df-927690e772be | -11.493 | -50.733501 | 2026-09-19 00:41:00 | METOP-C | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 40843d32-fb96-32e8-9680-12886441ce42 | -10.5275 | -44.8484 | 2026-09-19 00:41:00 | METOP-C | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 4d133901-7d98-3f65-814d-467e38ea966d | -13.6315 | -48.306 | 2026-09-19 00:41:00 | METOP-C | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 6cb65fb3-47d7-3a86-908a-dca0e071ade0 | -8.9998 | -44.985199 | 2026-09-19 00:41:00 | METOP-C | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| b4e0297e-5358-3d7e-8499-dc3fa3aa51b1 | -4.0615 | -56.248402 | 2026-09-19 00:41:00 | METOP-C | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fc6e01a6-47e4-30db-a48d-e81e903ee756 | -9.9281 | -46.594501 | 2026-09-19 00:41:00 | METOP-C | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| aefb4bae-11d3-3ea4-b725-d004dc0d9f8d | -13.6003 | -46.936901 | 2026-09-19 00:41:00 | METOP-C | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 575437a8-bd6e-31f2-b02e-b02e9c186e24 | -13.6201 | -48.301102 | 2026-09-19 00:41:00 | METOP-C | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| ef950daf-6b99-3d30-b1b6-65cc463107b4 | -12.75875 | -46.12688 | 2026-09-20 03:45:00 | NOAA-21 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| b3d2038a-2db4-361b-b681-750a7650c071 | -10.47112 | -45.0917 | 2026-09-20 03:45:00 | NOAA-21 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| d039b7a4-ebf2-30c2-a056-70e40d0beef5 | -9.79082 | -45.0741 | 2026-09-20 03:45:00 | NOAA-21 | MONTE ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2206605 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 26d5ce7a-fdec-3ea5-8eed-c6d441c1ddcf | -7.28254 | -45.54895 | 2026-09-20 03:45:00 | NOAA-21 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 3035bb48-d336-3d97-81a1-d579f3d6baef | -11.45261 | -45.72175 | 2026-09-20 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 69c2d982-6b57-3e25-926e-d2f67907f853 | -10.85397 | -50.17091 | 2026-09-20 03:45:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| a5795fff-8335-3604-832d-f9cba66a4c41 | -10.60402 | -46.52975 | 2026-09-20 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 7af557d3-5ec1-30bc-ad04-a7b624294e47 | -6.56173 | -45.58726 | 2026-09-20 03:45:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| e73c34c3-6e0d-3b2c-899c-ef3c200ce543 | -7.88265 | -44.85801 | 2026-09-20 03:45:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 67d82094-c1ca-3c9e-9ed6-807274b02d8e | -7.59185 | -46.97769 | 2026-09-20 03:45:00 | NOAA-21 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 41410af0-8e7e-31a7-a336-7087248d09fe | -10.29948 | -45.42789 | 2026-09-20 03:45:00 | NOAA-21 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| f34cba34-044c-3cb2-abc5-5270efe221e1 | -7.7502 | -46.76847 | 2026-09-20 03:45:00 | NOAA-21 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 177281d8-0313-30d5-803e-881cc5c05f33 | -11.44622 | -45.32436 | 2026-09-20 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 04beb62e-dff9-323d-847c-3423119cf0cc | -7.53628 | -45.43348 | 2026-09-20 03:45:00 | NOAA-21 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 22.7 |
+| edf4ac34-f6b7-36ed-beec-7d0e9af3b92b | -10.23814 | -45.35141 | 2026-09-20 03:45:00 | NOAA-21 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| cd9ff6b0-fda6-3178-b2ae-b2d9684f2846 | -7.54735 | -45.43541 | 2026-09-20 03:45:00 | NOAA-21 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 081cd9fc-4f40-3822-bd17-fd03744d65de | -9.72895 | -46.09281 | 2026-09-20 03:45:00 | NOAA-21 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| dda77b1a-2ea2-3003-aecc-9a0db3cb31b2 | -11.32436 | -47.28741 | 2026-09-20 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 4731bb3e-f3c1-344f-afa8-6a25fb747ff2 | -8.78443 | -48.71022 | 2026-09-20 03:45:00 | NOAA-21 | COLMÉIA | TOCANTINS | Brasil | 1716703 | 17 | 33 | nan | nan | nan | Amazônia | 13.7 |
+| 179f292f-2beb-3af1-b7a3-be4a834a0eae | -11.03166 | -48.30695 | 2026-09-20 03:45:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 89151c1e-6c1e-3837-8f13-96d944dd4df7 | -10.30557 | -50.26201 | 2026-09-20 03:45:00 | NOAA-21 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 17.6 |
+| 15c5db44-a852-3420-8ae6-20e80e19dc16 | -6.31196 | -47.63409 | 2026-09-20 03:45:00 | NOAA-21 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 14.2 |
+| 0cab2c74-01b7-3e95-9496-66b1fbab22a3 | -6.29736 | -47.60527 | 2026-09-20 03:45:00 | NOAA-21 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| 37119d39-3806-3954-9b58-c3ac792ff9a2 | -10.56369 | -46.55769 | 2026-09-20 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 38e9cad8-0515-3512-b18e-e5ab39da54dc | -10.30433 | -45.43111 | 2026-09-20 03:45:00 | NOAA-21 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 61b948d2-d068-3660-86f7-84c236927979 | -9.79256 | -45.06446 | 2026-09-20 03:45:00 | NOAA-21 | MONTE ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2206605 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 9fae6b8f-b37c-3359-a9d8-4b41ae670121 | -8.04726 | -46.25331 | 2026-09-20 03:45:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 933ce211-3670-316a-9a7c-9f0ab898670f | -9.26473 | -46.19631 | 2026-09-20 03:45:00 | NOAA-21 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 6c031e9f-e0cd-3e26-a25e-6c76dfc81264 | -7.43339 | -44.73804 | 2026-09-20 03:45:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 18caa5e2-1bb0-36ec-b8f6-0929819da02a | -8.50079 | -47.43534 | 2026-09-20 03:45:00 | NOAA-21 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| de76cfe1-54ee-3ab9-9642-3b78b83898b2 | -12.29003 | -47.11091 | 2026-09-20 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| db279a5f-f0cb-333e-843b-f907059353de | -12.11529 | -47.01745 | 2026-09-20 03:45:00 | NOAA-21 | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b858984d-bd41-39ec-8ba3-13339bd35f02 | -10.78241 | -46.33316 | 2026-09-20 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 0cb05cd9-032e-3844-a7d3-b2db48350700 | -10.77619 | -46.33563 | 2026-09-20 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 8bbc2a21-742a-3af8-8c4a-7ac5f6680ef6 | -8.77158 | -44.25698 | 2026-09-20 03:45:00 | NOAA-21 | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| ea70a184-781c-3150-a2a9-81c7097e6a5b | -6.30275 | -47.61217 | 2026-09-20 03:45:00 | NOAA-21 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| c65ee9be-499a-31ab-a6f5-084376f8cabb | -7.55226 | -45.43991 | 2026-09-20 03:45:00 | NOAA-21 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 3a95958e-9d0b-325d-b1d7-e05f6643fbff | -10.77831 | -46.32468 | 2026-09-20 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 271b7c5e-e030-344a-bb19-92ce11e06874 | -9.61609 | -45.8771 | 2026-09-20 03:45:00 | NOAA-21 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 26b9a78c-255a-33ea-ab1b-ba6e51d7bf3a | -10.13531 | -45.5595 | 2026-09-20 03:45:00 | NOAA-21 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 73b4eb45-1ebf-3ffc-9b02-2128aeb5de66 | -12.12018 | -47.02248 | 2026-09-20 03:45:00 | NOAA-21 | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| e0c38ba2-8183-3fd8-9e27-3f2e9fc0f928 | -10.29956 | -50.27132 | 2026-09-20 03:45:00 | NOAA-21 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 27.8 |
+| ad8d04b9-6853-39a9-88cd-e0e05719c447 | -12.312 | -50.73308 | 2026-09-20 03:45:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| a5eb596d-9667-3268-8019-4c4b059098c7 | -10.4039 | -48.36275 | 2026-09-20 03:45:00 | NOAA-21 | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| e738da3b-6842-3dbd-b2ed-4352572391de | -13.03115 | -46.90784 | 2026-09-20 03:45:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| b6015a8e-7dc5-38cc-8e11-bb985d56b37c | -11.44384 | -45.33707 | 2026-09-20 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 324ae04f-09cc-3698-86bd-dc96f7a81c7f | -11.06308 | -44.68697 | 2026-09-20 03:45:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| ec23f56b-4ac7-366f-8073-ea60177695e6 | -12.12623 | -47.03479 | 2026-09-20 03:45:00 | NOAA-21 | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| dbf32542-c18e-3b24-9e81-73a62a5b0e6f | -10.2369 | -45.35806 | 2026-09-20 03:45:00 | NOAA-21 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 7edab55e-5f99-32df-bb29-50fe9ab1b2ef | -7.88324 | -44.85468 | 2026-09-20 03:45:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| ae5f377e-1909-3edd-be4a-22f2a0f01175 | -9.9047 | -45.10214 | 2026-09-20 03:45:00 | NOAA-21 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 9f45a383-20c4-38f6-99ca-c02ec3bf8bad | -8.65589 | -45.44063 | 2026-09-20 03:45:00 | NOAA-21 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 8ef9a4a5-4284-3ec5-86e3-e86f8294175a | -6.30291 | -47.61018 | 2026-09-20 03:45:00 | NOAA-21 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| 817e654c-f60b-3a02-9c46-67af5741a561 | -7.76347 | -44.88945 | 2026-09-20 03:45:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| c3309848-8da4-3fb6-8622-1987458ccb8b | -11.45633 | -45.70226 | 2026-09-20 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| d7e8288c-ae48-311c-9c31-6e7e4ab700b2 | -11.45509 | -45.70875 | 2026-09-20 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| af466892-94cb-3cf6-900c-3081899aa18c | -11.48254 | -47.78899 | 2026-09-20 03:45:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 69508555-0956-3960-9782-ec270461bccf | -9.73142 | -46.08578 | 2026-09-20 03:45:00 | NOAA-21 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| b17782de-b1a7-3fa4-826a-e07a28813de1 | -6.30373 | -47.60691 | 2026-09-20 03:45:00 | NOAA-21 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| db128354-591e-33fc-b912-1c5897172e8a | -12.15419 | -47.02881 | 2026-09-20 03:45:00 | NOAA-21 | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 177190a0-5d02-3ade-ae58-f09c95861038 | -10.30009 | -45.42466 | 2026-09-20 03:45:00 | NOAA-21 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 87671ac4-6159-304a-b279-d212d697f3f7 | -7.53562 | -45.43716 | 2026-09-20 03:45:00 | NOAA-21 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 26.6 |
+| d3ded83c-1498-3939-82ca-e02545ef92ba | -13.02799 | -46.92709 | 2026-09-20 03:45:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| f76b7d10-7e3d-3700-bd58-545534238520 | -7.75263 | -46.76731 | 2026-09-20 03:45:00 | NOAA-21 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| d5ce940f-8a24-363d-a3c5-0b8652df4308 | -8.49866 | -47.44018 | 2026-09-20 03:45:00 | NOAA-21 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 20.3 |
+| 3fae81a1-803f-3ec7-8973-8e1cb764245a | -11.4494 | -45.39283 | 2026-09-20 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 9386a63d-3b23-3354-88f2-7d9bf31926e5 | -11.83612 | -46.85889 | 2026-09-20 03:45:00 | NOAA-21 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| a43f1f78-6806-347b-8db7-2209cfa3f566 | -9.82514 | -46.43128 | 2026-09-20 03:45:00 | NOAA-21 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| f646af9d-1ea0-343f-a267-6b5ba41c26e6 | -10.30238 | -50.29385 | 2026-09-20 03:45:00 | NOAA-21 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 4238c4ef-5e78-390f-8ccd-6d5dff770a71 | -7.41083 | -46.62077 | 2026-09-20 03:45:00 | NOAA-21 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 241136c0-751b-3dd0-972f-e0449f715711 | -8.71087 | -45.44677 | 2026-09-20 03:45:00 | NOAA-21 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| d02fed2a-730b-34a5-9548-d671b929e7fa | -8.38124 | -47.19284 | 2026-09-20 03:45:00 | NOAA-21 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 9f63a435-b461-3d7a-a716-4b1330317915 | -7.5342 | -45.88102 | 2026-09-20 03:45:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| baeffbfb-03b2-3f0e-a7ac-40e50a9c018b | -6.56533 | -45.58081 | 2026-09-20 03:45:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 08802569-7fa5-39ea-825d-1d1933ab47d8 | -7.76623 | -44.05165 | 2026-09-20 03:45:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| ae458bda-f9dd-3aa6-8ed9-f59b41cec301 | -11.48349 | -47.78418 | 2026-09-20 03:45:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| fcd5cd29-c5a3-3068-bce9-b09484a0ed63 | -9.73536 | -47.26371 | 2026-09-20 03:45:00 | NOAA-21 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| ddf991f4-aa51-355a-b9a0-e436425f3d96 | -11.45571 | -45.3876 | 2026-09-20 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 141f8b87-ddb9-3c37-b65c-84feac948fe6 | -8.39348 | -45.62839 | 2026-09-20 03:45:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 906340c2-3252-319f-ba0f-435a24735022 | -8.65456 | -45.44011 | 2026-09-20 03:45:00 | NOAA-21 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 00b52fe0-ebcc-3749-92c8-1e36085b562a | -7.53496 | -45.44083 | 2026-09-20 03:45:00 | NOAA-21 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 26.6 |
+| 3a853107-3aad-3783-82f2-89dbb3131b37 | -13.95238 | -47.85797 | 2026-09-20 03:47:00 | NOAA-21 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 73a20408-b4fc-3740-98ff-715ab9398d69 | -15.48052 | -48.42313 | 2026-09-20 03:47:00 | NOAA-21 | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| ae9c0900-547a-3313-b9f3-27208d7f2aae | -14.69251 | -46.69614 | 2026-09-20 03:47:00 | NOAA-21 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 10.5 |
+| b1c2e98c-4584-3194-8189-7f13af48ef68 | -14.79423 | -48.53303 | 2026-09-20 03:47:00 | NOAA-21 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| a10951d9-1c6c-3547-b81c-0e38504d6524 | -14.92433 | -49.91741 | 2026-09-20 03:47:00 | NOAA-21 | CRIXÁS | GOIÁS | Brasil | 5206404 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 6f0994d9-2d38-3d01-bda1-83595cc73230 | -20.77729 | -47.16503 | 2026-09-20 03:47:00 | NOAA-21 | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 95241dea-a6d9-32ba-9a48-421dc431be62 | -17.03802 | -47.28561 | 2026-09-20 03:47:00 | NOAA-21 | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 6f1a2a45-6a1c-353d-a349-c3ee22ea9657 | -17.02167 | -47.15279 | 2026-09-20 03:47:00 | NOAA-21 | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| 7766ab37-0b39-3982-9b35-70ac65422fb3 | -15.17266 | -48.16545 | 2026-09-20 03:47:00 | NOAA-21 | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 2e20cb63-c0b0-3e30-abad-5a77e142b682 | -15.32272 | -49.56504 | 2026-09-20 03:47:00 | NOAA-21 | RIALMA | GOIÁS | Brasil | 5218607 | 52 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| eb6a6314-9199-3ae0-8b39-25d0308db90e | -17.0387 | -47.28232 | 2026-09-20 03:47:00 | NOAA-21 | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 5d4da930-7b10-3c75-afe6-f0f84e907c63 | -14.91832 | -49.91848 | 2026-09-20 03:47:00 | NOAA-21 | CRIXÁS | GOIÁS | Brasil | 5206404 | 52 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 7607bc81-825e-390d-ab91-09d34e7a42da | -14.612 | -48.10735 | 2026-09-20 03:47:00 | NOAA-21 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| a14e7cb7-c303-3292-a303-010aa5ca6cc9 | -13.73522 | -48.78261 | 2026-09-20 03:47:00 | NOAA-21 | CAMPINORTE | GOIÁS | Brasil | 5204706 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 7757154d-30e3-31cc-9665-f15a64e0fd5f | -14.92591 | -49.91438 | 2026-09-20 03:47:00 | NOAA-21 | CRIXÁS | GOIÁS | Brasil | 5206404 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| efb906b3-67a6-3f81-b2aa-d0dcc99ffc23 | -14.69461 | -46.69242 | 2026-09-20 03:47:00 | NOAA-21 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 12.7 |
+| 321e3c8e-e98d-3bc3-bce5-5caaa7836457 | -16.59126 | -45.33339 | 2026-09-20 03:47:00 | NOAA-21 | SANTA FÉ DE MINAS | MINAS GERAIS | Brasil | 3157609 | 31 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| 156c389a-f6d8-3af7-af0d-ba475fe3000c | -14.68337 | -46.69366 | 2026-09-20 03:47:00 | NOAA-21 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 88bc65ef-6ee1-3f2b-b5ef-3a3ee3d3710e | -16.58266 | -51.6293 | 2026-09-20 03:47:00 | NOAA-21 | PIRANHAS | GOIÁS | Brasil | 5217203 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
 
 
 [Clique aqui para ver as próximas entradas](README21.md)
