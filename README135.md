@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 1a0160ab-9699-329e-a734-7506c1a395b4 | -10.5908 | -53.9713 | 2026-09-22 14:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 66.5 |
-| 53e8d5a2-9b74-3aa2-b9c6-8ecb7d52cc57 | -9.8858 | -45.8669 | 2026-09-22 14:10:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 67.7 |
-| e0ed2b53-8354-34b2-8873-9bbf45900f9f | -2.9525 | -57.72 | 2026-09-22 14:10:00 | GOES-19 | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 96.8 |
-| 48fca9d8-6038-341a-9650-a3dcefb89b14 | -14.6492 | -45.66 | 2026-09-22 14:10:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 163.2 |
-| 96ffcf06-f2a2-3a8d-9209-b82e89a65325 | -12.1458 | -47.3974 | 2026-09-22 14:10:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 166.7 |
-| fc093e91-f256-3bf8-a9fb-afe12a8dc241 | -11.7079 | -50.9811 | 2026-09-22 14:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 129.9 |
-| ca28d6ca-17d4-3f26-a79d-a9ff3778a99d | -10.7437 | -50.8089 | 2026-09-22 14:10:00 | GOES-19 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 105.2 |
-| b3fdd660-7148-3305-8324-20503e1be1ca | -6.2761 | -47.6287 | 2026-09-22 14:10:00 | GOES-19 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 72.7 |
-| d3d2267c-8372-389f-a6ce-3f64c1b0cacb | -3.4009 | -61.0629 | 2026-09-22 14:10:00 | GOES-19 | MANACAPURU | AMAZONAS | Brasil | 1302504 | 13 | 33 | nan | nan | nan | Amazônia | 49.1 |
-| c1a59a27-1305-3fa4-ad48-816ae4e1ba68 | -7.4883 | -46.1165 | 2026-09-22 14:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 119.7 |
-| 2b2c698e-0ce9-3a77-b629-5ffcfcde84f7 | -13.2983 | -51.7713 | 2026-09-22 14:10:00 | GOES-19 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 80.1 |
-| 1728919d-3ce5-3e00-9ae6-7a66af804045 | 4.0425 | -60.4812 | 2026-09-22 14:10:00 | GOES-19 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 74.7 |
-| b3258b47-ec0b-3f09-81cc-802e43a8de11 | -3.3492 | -59.867 | 2026-09-22 14:10:00 | GOES-19 | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 65.0 |
-| 9d0f07d2-9a35-3109-b070-5ef489e6b38e | -2.8791 | -57.8184 | 2026-09-22 14:10:00 | GOES-19 | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 70.0 |
-| 22b9d083-21dc-3eb0-96bd-4eebe6001680 | -8.6507 | -62.4966 | 2026-09-22 14:10:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 53.8 |
-| a86607f4-601c-3bca-b126-f6cac7f3d661 | -10.8858 | -56.196 | 2026-09-22 14:10:00 | GOES-19 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 55.5 |
-| b9340b29-d836-327e-8def-dc9e862d23d0 | -7.822 | -61.8084 | 2026-09-22 14:10:00 | GOES-19 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 58.3 |
-| 1c570b72-8d97-3e22-9513-e0dd90a6cd06 | -11.1183 | -54.0062 | 2026-09-22 14:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 67.9 |
-| 07bd1943-80a8-33c2-a7b0-999d5b41de10 | -7.2994 | -59.5343 | 2026-09-22 14:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 104.5 |
-| 66031d30-0a73-3c9e-bf1c-5151e0c39b75 | -10.6875 | -50.7722 | 2026-09-22 14:10:00 | GOES-19 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 87.9 |
-| c7cb31d0-1d47-3d42-ad48-ca96ab252af0 | -7.5247 | -46.2252 | 2026-09-22 14:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 86.9 |
-| 50fa3bf6-c1ca-3eba-95ca-4b1313558ed4 | -6.2946 | -47.6493 | 2026-09-22 14:10:00 | GOES-19 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 58.8 |
-| f914e54e-7522-3815-b026-bd8f59c32a16 | -5.1439 | -55.9543 | 2026-09-22 14:10:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 64.5 |
-| ae2a31bb-ba1e-31a8-8d8b-2d3b6ce7db13 | -11.7675 | -50.804 | 2026-09-22 14:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 62.2 |
-| 60a3de32-dc48-3655-ad23-cec3fa1c55c2 | -12.6799 | -50.9526 | 2026-09-22 14:10:00 | GOES-19 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 136.1 |
-| fa5fdd7d-e7bf-3266-8777-b84e03f0c3bd | -8.8105 | -44.2757 | 2026-09-22 14:10:00 | GOES-19 | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 89.7 |
-| 072353bd-52ed-3720-80e4-0d74db687220 | -12.3484 | -50.1779 | 2026-09-22 14:10:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 198.1 |
-| ef0f8029-dea8-3729-a3d7-b36f4a50ef82 | -11.3925 | -46.7598 | 2026-09-22 14:10:00 | GOES-19 | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 419.7 |
-| fdf045d5-c99a-3024-989f-b6eeaa476d3d | -9.3871 | -47.7526 | 2026-09-22 14:10:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 44.7 |
-| 13fab148-f3db-3b81-a70a-a1cf806e93b4 | -3.3183 | -57.8677 | 2026-09-22 14:10:00 | GOES-19 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 59.7 |
-| c07dff1d-2aba-3d1e-bb29-b98fae4d643e | -3.2899 | -42.6683 | 2026-09-22 14:10:00 | GOES-19 | SANTANA DO MARANHÃO | MARANHÃO | Brasil | 2110237 | 21 | 33 | nan | nan | nan | Cerrado | 100.7 |
-| a0180a0e-7953-30d5-9ef5-472297c20acf | -7.1555 | -47.4751 | 2026-09-22 14:10:00 | GOES-19 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 51.2 |
-| 71a45035-be7b-335b-87d3-a34ba2da5e9f | -9.9058 | -48.4867 | 2026-09-22 14:10:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 65.6 |
-| 03ffcc93-6301-3337-9ebc-b2b27bc01244 | -11.6017 | -46.7993 | 2026-09-22 14:10:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 36.0 |
-| 17df5a72-7107-3688-a087-eb93b3b2441b | -6.7989 | -43.9008 | 2026-09-22 14:10:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 97.7 |
-| bb0e4408-8077-300c-9065-7e045e7be9e9 | -5.5717 | -42.7414 | 2026-09-22 14:10:00 | GOES-19 | MONSENHOR GIL | PIAUÍ | Brasil | 2206407 | 22 | 33 | nan | nan | nan | Caatinga | 76.8 |
-| c56f2bd6-dd4e-3b76-b0de-547f315c670a | -9.2759 | -46.1852 | 2026-09-22 14:10:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 193.2 |
-| 2537e3d9-2ba5-3569-926a-5c0e1f81d171 | -3.405 | -59.522 | 2026-09-22 14:10:00 | GOES-19 | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 164.1 |
-| 87983fb4-44c5-3129-9e42-e50b13d3af9f | -5.9985 | -45.2476 | 2026-09-22 14:10:00 | GOES-19 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 94.2 |
-| cc999f9d-1ecc-3415-81e0-572cb7be2781 | -2.934 | -57.8174 | 2026-09-22 14:10:00 | GOES-19 | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 79.3 |
-| a41c8a1d-c53b-3174-a3b1-d378b199bf5e | -8.6136 | -62.4981 | 2026-09-22 14:10:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 48.5 |
-| c163112c-cbec-3563-884d-5ab1e3e68222 | -13.2033 | -51.7193 | 2026-09-22 14:10:00 | GOES-19 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 94.3 |
-| eb18f4bb-6bdf-3b1b-887b-07f356291524 | -12.0833 | -50.0594 | 2026-09-22 14:10:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 98.3 |
-| 24888b7c-20b8-3a1d-95d0-f0706d2e8a96 | -7.0352 | -44.6396 | 2026-09-22 14:10:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 117.6 |
-| 2d54bbe0-a184-3fd9-a7ae-92c6aa255786 | -3.3001 | -57.8487 | 2026-09-22 14:10:00 | GOES-19 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 81.6 |
-| b73d684a-ed79-3e4d-a55b-113ca105f869 | -8.7729 | -44.2568 | 2026-09-22 14:10:00 | GOES-19 | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 91.6 |
-| a92386c9-1049-3f67-bf1f-1e3759b9eba0 | -2.934 | -57.798 | 2026-09-22 14:10:00 | GOES-19 | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 172.3 |
-| 0c1c406e-644c-3634-acdd-fc19069756db | -6.3198 | -59.9572 | 2026-09-22 14:10:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 52.3 |
-| 97dd86b1-8dba-3edb-8b11-87815f85f941 | -8.7916 | -44.2778 | 2026-09-22 14:10:00 | GOES-19 | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 224.1 |
-| bf621588-fbf1-33cc-9b44-c6770b84b407 | -3.2818 | -57.8491 | 2026-09-22 14:10:00 | GOES-19 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 102.6 |
-| 91580c92-dd1a-30eb-ac38-9634879fcc9b | -3.4049 | -59.5794 | 2026-09-22 14:10:00 | GOES-19 | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 51.9 |
-| 4b11d95b-2ce3-3560-b816-920e1ad84710 | -7.1745 | -47.4517 | 2026-09-22 14:10:00 | GOES-19 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 52.3 |
-| adc95488-657e-3e13-83bd-dab4dc767194 | -13.3171 | -51.7902 | 2026-09-22 14:10:00 | GOES-19 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 100.2 |
-| 4193002c-607b-3854-ab0f-320f0104a052 | -6.1651 | -47.5271 | 2026-09-22 14:10:00 | GOES-19 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 67.6 |
-| 1973486c-0581-391a-961e-3e945943942d | -6.1653 | -47.5052 | 2026-09-22 14:10:00 | GOES-19 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 62.3 |
-| 25d6793d-c318-3a36-b65f-d2b060675bc5 | -6.2165 | -45.9518 | 2026-09-22 14:10:00 | GOES-19 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 85.8 |
-| 010dd3ba-391a-320b-9bda-c6586b97e477 | -8.6135 | -62.5171 | 2026-09-22 14:10:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 68.2 |
-| 36b34de6-0d6b-3f1d-aba8-fd3b09f3a78a | -8.7912 | -44.301 | 2026-09-22 14:10:00 | GOES-19 | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 94.1 |
-| 102fe98a-f0e2-3c1c-8439-28caf85f9b7d | -5.9333 | -59.9899 | 2026-09-22 14:10:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 60.7 |
-| 24eab75a-a039-30a8-a2f8-264d50832568 | -12.3293 | -50.1802 | 2026-09-22 14:10:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 113.7 |
-| 33a741b0-2934-36ee-8ee7-ce974dc91660 | -11.269 | -54.0334 | 2026-09-22 14:10:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 66.5 |
-| 6b99f349-c894-39ed-b832-beafe6c4fe8a | -12.7995 | -44.2308 | 2026-09-22 14:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 155.4 |
-| 906a4307-f44a-3156-bfe4-7fc92c3b48da | -11.6793 | -43.4684 | 2026-09-22 14:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 122.5 |
-| 8f8414d8-08a8-341d-aaa9-b2355641d67b | -8.4797 | -57.6282 | 2026-09-22 14:10:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 63.8 |
-| 30378ddc-afa3-33af-a9f1-9c8c70a88de1 | -9.9064 | -48.443 | 2026-09-22 14:10:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 147.3 |
-| 15a07e2e-a54c-34c8-a16c-aa75e6018974 | -11.71 | -50.98 | 2026-09-22 14:15:00 | MSG-03 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| e53b97f8-a4c8-3655-b351-67379859b23c | -6.64 | -59.9 | 2026-09-22 14:15:00 | MSG-03 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 63b87a51-1118-35b7-bbc6-10a9c3f0467c | -9.8665 | -45.8918 | 2026-09-22 14:20:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 73.8 |
-| 8f349d6c-362b-343c-a553-bbe8ddbad07d | -10.6878 | -50.751 | 2026-09-22 14:20:00 | GOES-19 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 157.3 |
-| e62db25b-3f66-34b5-951b-13e914685fe1 | -12.4208 | -47.0002 | 2026-09-22 14:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 188.5 |
-| 0bb2d496-e6f8-39c1-92e2-12efbde9e004 | -11.6793 | -43.4684 | 2026-09-22 14:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 110.3 |
-| 68ed0763-38b3-33bf-8122-2ae696c707fa | -5.8675 | -49.7864 | 2026-09-22 14:20:00 | GOES-19 | CURIONÓPOLIS | PARÁ | Brasil | 1502772 | 15 | 33 | nan | nan | nan | Amazônia | 55.8 |
-| 651d58c7-fa23-3fb9-bcf3-b8ef91f0155b | -10.4539 | -51.3038 | 2026-09-22 14:20:00 | GOES-19 | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 66.5 |
-| 825486ad-2e01-3205-a578-c1136522f58a | -5.1439 | -55.9543 | 2026-09-22 14:20:00 | GOES-19 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 61.6 |
-| a2befdf5-ffb0-361c-8801-26b3bcdbe6f4 | -9.8676 | -54.8249 | 2026-09-22 14:20:00 | GOES-19 | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | 58.3 |
-| 43f9008d-d39c-3fa0-a4f7-1cb3380f7a87 | -3.2712 | -42.6692 | 2026-09-22 14:20:00 | GOES-19 | SANTANA DO MARANHÃO | MARANHÃO | Brasil | 2110237 | 21 | 33 | nan | nan | nan | Cerrado | 80.3 |
-| d1be3ba0-fe83-3912-81af-bc9909a243a2 | -6.9414 | -42.907 | 2026-09-22 14:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 155.0 |
-| b411322d-93ca-31c2-8379-b3b5707671e4 | -9.2762 | -46.1627 | 2026-09-22 14:20:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 432.1 |
-| 763952d0-b8d6-3eed-b57f-19bba1f56625 | -6.9416 | -42.8834 | 2026-09-22 14:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 127.2 |
-| 25337180-9b1a-34f7-b4f5-d1ec61716dd6 | -3.3 | -57.8681 | 2026-09-22 14:20:00 | GOES-19 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 109.5 |
-| 4acba0f1-192c-39e3-922d-d332354fd2c0 | -2.9525 | -57.72 | 2026-09-22 14:20:00 | GOES-19 | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 87.9 |
-| 5ddd33c3-a72c-3d22-95d7-3c55929fd926 | -6.0925 | -57.6847 | 2026-09-22 14:20:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 176.3 |
-| 4b73b160-ff0a-389b-b11c-8f304071508f | -12.8056 | -54.0462 | 2026-09-22 14:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 99.8 |
-| 11f3b24e-4499-30cb-a7c8-8bd77f40d07c | -3.7364 | -58.8626 | 2026-09-22 14:20:00 | GOES-19 | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 74.3 |
-| 986fe7da-d7d7-3e48-95a3-23628e0374cf | -10.4541 | -51.2827 | 2026-09-22 14:20:00 | GOES-19 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 61.1 |
-| 7538fbb1-7c95-33a8-9a63-46a41f793a7f | -10.6881 | -50.7297 | 2026-09-22 14:20:00 | GOES-19 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 123.2 |
-| bb90d4de-dd83-31d5-84cb-495ecf540149 | -9.977 | -50.248 | 2026-09-22 14:20:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 73.1 |
-| 793336b4-78b9-39bd-a2bf-c419f9f9866d | -6.9683 | -47.4899 | 2026-09-22 14:20:00 | GOES-19 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 55.8 |
-| fdb3a787-76ae-3a93-bf73-0ce23a3d9011 | -6.1111 | -57.6645 | 2026-09-22 14:20:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 66.3 |
-| a8bfc934-caec-3f96-9088-fd3d0a99db0e | -2.8534 | -60.9206 | 2026-09-22 14:20:00 | GOES-19 | IRANDUBA | AMAZONAS | Brasil | 1301852 | 13 | 33 | nan | nan | nan | Amazônia | 59.6 |
-| d2a199fe-0686-33de-af62-9959416522f7 | -5.8676 | -49.7651 | 2026-09-22 14:20:00 | GOES-19 | CURIONÓPOLIS | PARÁ | Brasil | 1502772 | 15 | 33 | nan | nan | nan | Amazônia | 60.8 |
-| 82d41d3a-0a0d-34d0-8b6f-673e3037e036 | -10.8858 | -56.196 | 2026-09-22 14:20:00 | GOES-19 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 56.0 |
-| 7dd95d6b-952c-384e-8218-1c9cfc1a67f1 | -5.9334 | -59.9707 | 2026-09-22 14:20:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 81.8 |
-| 638a3c28-0c40-32d1-9a01-32f1767e221d | -9.152 | -50.0066 | 2026-09-22 14:20:00 | GOES-19 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 89.8 |
-| 9d431858-c843-3da7-a50b-f65184e6827a | -8.4983 | -57.6271 | 2026-09-22 14:20:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 64.4 |
-| 1faee498-6709-3895-bc2c-d614fe411410 | -11.0052 | -53.996 | 2026-09-22 14:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 88.2 |
-| 97516c47-f007-3c02-8e60-bacfeffc0044 | -11.3232 | -51.3414 | 2026-09-22 14:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 91.4 |
-| c9c608ae-fd13-3200-b461-312503ef364e | -4.6589 | -42.0726 | 2026-09-22 14:20:00 | GOES-19 | NOSSA SENHORA DE NAZARÉ | PIAUÍ | Brasil | 2206753 | 22 | 33 | nan | nan | nan | Caatinga | 125.4 |
-| dc1b812e-5f38-3aa1-864a-908185f4c6e3 | -6.3198 | -59.9572 | 2026-09-22 14:20:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 54.6 |
-| bebaebaa-031a-3bdc-bfbc-5eddae11bbac | -3.6452 | -58.7685 | 2026-09-22 14:20:00 | GOES-19 | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 56.3 |
+| e1768b86-c40e-308c-a7d0-47b20fd76236 | -8.0921 | -44.3538 | 2026-09-23 13:10:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 108.5 |
+| 4d521d3a-9cb9-3b50-a280-ce191ee27771 | -6.6129 | -43.7317 | 2026-09-23 13:10:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 338.6 |
+| 360f0674-1602-3034-84aa-4165709066e5 | -7.1581 | -42.0792 | 2026-09-23 13:10:00 | GOES-19 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 80.3 |
+| 109806e4-fcb5-31f8-b0ea-83581cff9412 | -6.5941 | -43.7333 | 2026-09-23 13:10:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 105.8 |
+| f034e090-68ea-3d50-89ae-4dde6569df52 | -6.1846 | -52.049 | 2026-09-23 13:10:00 | GOES-19 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 122.9 |
+| 82de9cb8-e711-3462-80b0-f8d52bfcd284 | -6.6127 | -43.7549 | 2026-09-23 13:10:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 68.5 |
+| 7d90a83f-bf28-3b1d-aa78-88b9980c5089 | -7.4288 | -44.718 | 2026-09-23 13:10:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 82.0 |
+| 1e9f9ba3-db2e-380a-9dd1-7f20c8757de1 | -9.5854 | -48.4549 | 2026-09-23 13:10:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 261.0 |
+| 3a4f4eaa-9e30-3ec3-86fb-14c2eca33b27 | -7.0164 | -44.6413 | 2026-09-23 13:10:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 118.0 |
+| f6934521-0534-3202-bf2e-97821751f626 | -8.0923 | -44.3307 | 2026-09-23 13:10:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 133.2 |
+| b9f07d28-33b9-349d-b217-8643a780ff46 | -11.3054 | -44.0198 | 2026-09-23 13:10:00 | GOES-19 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 128.5 |
+| 281a352d-6d2b-39db-8dcb-fd70b0259d6f | -11.3058 | -43.9963 | 2026-09-23 13:10:00 | GOES-19 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 180.4 |
+| ef3fdcb8-1129-37ec-9a12-d1530721d59e | -7.1395 | -42.0572 | 2026-09-23 13:10:00 | GOES-19 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 85.5 |
+| 7bc4f22b-dac4-3a59-800b-38c5929f4d89 | -6.6631 | -55.0512 | 2026-09-23 13:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 88.0 |
+| e9ebcfca-0306-3d9d-a9e5-d1f879540914 | -9.6043 | -48.4529 | 2026-09-23 13:10:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 114.6 |
+| f4952f9f-1925-34ac-8790-fc74fa62529a | -9.6111 | -43.9243 | 2026-09-23 13:10:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 98.6 |
+| 9088bd87-e08b-3082-abf8-29f7efc6f91a | -11.4782 | -47.3529 | 2026-09-23 13:10:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 146.2 |
+| 92b424eb-9cfb-3bd3-b88c-f24da8a0d324 | -7.1392 | -42.0811 | 2026-09-23 13:10:00 | GOES-19 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 103.9 |
+| b79b203d-8249-3d9d-960a-1a7827a4f777 | -8.9016 | -45.933 | 2026-09-23 13:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 286.0 |
+| 8818b839-1db6-3142-a1b6-d68aff595cb5 | -6.2394 | -41.6875 | 2026-09-23 13:10:00 | GOES-19 | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 77.4 |
+| 2a8abd69-3236-3b8f-9877-98528084c41a | -7.41 | -44.7198 | 2026-09-23 13:10:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 64.9 |
+| ca047347-de4a-3248-ba3c-0d2e32821759 | -7.1277 | -43.0774 | 2026-09-23 13:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 79.9 |
+| 8f8f222c-3004-3c7f-b608-91c7e623599f | -7.0349 | -44.6625 | 2026-09-23 13:10:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 93.9 |
+| f0b1f0b7-5502-3cc9-aacc-6ce9a0c5411d | -6.2205 | -41.6891 | 2026-09-23 13:10:00 | GOES-19 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 108.1 |
+| d028faaa-c318-36e2-8b55-a9ed37ca3dc5 | -9.6108 | -43.9477 | 2026-09-23 13:10:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 101.1 |
+| bd231047-f0a3-3688-88b7-162f9a962407 | -8.9013 | -45.9556 | 2026-09-23 13:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 164.0 |
+| 65d6f5e3-4cd6-379c-898b-45ea8cf93003 | -11.699 | -43.4416 | 2026-09-23 13:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 86.8 |
+| 02331717-f9d1-311a-a793-d28c7fd3e5c9 | -6.9416 | -42.8834 | 2026-09-23 13:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 84.0 |
+| 53c4b46b-7c5e-3ff2-be24-d77c5598c6c6 | -7.4153 | -42.6479 | 2026-09-23 13:10:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 136.7 |
+| b6b15a06-4a71-3d4a-8a8d-15b5f5265002 | -8.9202 | -45.9536 | 2026-09-23 13:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 205.9 |
+| e6234fb2-f2b6-3c77-b606-e53524c28d78 | -8.92 | -45.9 | 2026-09-23 13:15:00 | MSG-03 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| e6627dcd-8f05-3e10-90c1-e03b3e1ed477 | -6.61 | -43.74 | 2026-09-23 13:15:00 | MSG-03 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 954d5c68-ffb0-33be-b4f2-4e15b3aa2207 | -8.92 | -45.95 | 2026-09-23 13:15:00 | MSG-03 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| cc795f48-2a8b-3f07-8018-401332d142c8 | -9.5921 | -43.9267 | 2026-09-23 13:20:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 90.1 |
+| cac338d8-b1b8-38f9-87e7-3f641859eae7 | -9.5332 | -45.3633 | 2026-09-23 13:20:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 75.4 |
+| 543da786-bb65-3db8-8983-366baf571b22 | -9.9163 | -45.0885 | 2026-09-23 13:20:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 135.7 |
+| 0384d19e-0eac-3e05-8ad1-7f27f2d50e09 | -7.0349 | -44.6625 | 2026-09-23 13:20:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 105.6 |
+| 64b361ed-8d36-329b-97b3-09af48971751 | -8.7735 | -45.6303 | 2026-09-23 13:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 82.4 |
+| 0a9f440a-cf96-30a7-bb12-f699f52f2069 | -9.5518 | -45.3839 | 2026-09-23 13:20:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 116.1 |
+| b9300ba2-4c3c-3684-a533-1af0b20b85c7 | -8.378 | -45.6036 | 2026-09-23 13:20:00 | GOES-19 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 95.4 |
+| a2a84727-b059-36d2-8ffd-36b5b94c1da8 | -10.5561 | -46.7095 | 2026-09-23 13:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 120.6 |
+| b6dde86b-1522-3fde-a756-6bec7e327635 | -7.4153 | -42.6479 | 2026-09-23 13:20:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 107.5 |
+| 68556142-b858-3891-825e-81cac1f2aa11 | -6.2394 | -41.6875 | 2026-09-23 13:20:00 | GOES-19 | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 76.6 |
+| 80773ef0-fb29-3e8d-8a66-c07ef67335f7 | -6.2205 | -41.6891 | 2026-09-23 13:20:00 | GOES-19 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 85.9 |
+| a67945a6-5ed3-3324-aa64-9c1999c76509 | -6.2396 | -41.6634 | 2026-09-23 13:20:00 | GOES-19 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 120.5 |
+| 98996efa-f1f7-35f6-9290-0d6ac99af3c1 | -12.3573 | -42.2307 | 2026-09-23 13:20:00 | GOES-19 | SEABRA | BAHIA | Brasil | 2929909 | 29 | 33 | nan | nan | nan | Caatinga | 93.4 |
+| 09746ad3-b236-3ce0-863e-4111518b8039 | -6.9416 | -42.8834 | 2026-09-23 13:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 90.2 |
+| 33b99f23-f182-3f9f-9110-d1f7b5168987 | -6.6317 | -43.73 | 2026-09-23 13:20:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 111.4 |
+| 1a02070f-a4c7-32e6-ab72-27db83cd47b5 | -6.2399 | -41.6394 | 2026-09-23 13:20:00 | GOES-19 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 83.7 |
+| c34ea572-29e1-3d8f-bc04-4439bb5ac3a9 | -6.6148 | -59.908 | 2026-09-23 13:20:00 | GOES-19 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 106.2 |
+| 90089099-fab2-3b98-9cab-5821a803a1fa | -7.0164 | -44.6413 | 2026-09-23 13:20:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 83.1 |
+| 938b6023-692f-3685-a3a2-2894b38be1ed | -8.4985 | -57.6075 | 2026-09-23 13:20:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 101.8 |
+| 748aa9ed-3cb1-3866-adaa-4d4fa87005d9 | -9.5329 | -45.3861 | 2026-09-23 13:20:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 99.6 |
+| f05b5f25-5844-30a4-9e1f-3e497550d93d | -8.8108 | -44.2525 | 2026-09-23 13:20:00 | GOES-19 | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 153.1 |
+| 43abeec2-c729-34e3-a8bf-63bd4bad6999 | -11.1541 | -42.8364 | 2026-09-23 13:20:00 | GOES-19 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 100.2 |
+| 102d4087-033c-3609-9ce2-da08b5a905f9 | -6.8985 | -41.6976 | 2026-09-23 13:20:00 | GOES-19 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 128.7 |
+| 2b45d437-008b-3805-9729-5ee4326d17fb | -6.9174 | -41.6957 | 2026-09-23 13:20:00 | GOES-19 | DOM EXPEDITO LOPES | PIAUÍ | Brasil | 2203404 | 22 | 33 | nan | nan | nan | Caatinga | 155.2 |
+| acb4424d-a0eb-3fd7-8681-e1750bce64b3 | -8.0923 | -44.3307 | 2026-09-23 13:20:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 126.4 |
+| 794bc576-c40c-3235-a88f-f1e7b56d72de | -8.0921 | -44.3538 | 2026-09-23 13:20:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 106.1 |
+| ca88487e-6eee-327f-bbf5-b29458f0428f | -9.5854 | -48.4549 | 2026-09-23 13:20:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 107.4 |
+| acbb0c46-baf3-368e-b8b5-b2657c27af6e | -6.166 | -52.05 | 2026-09-23 13:20:00 | GOES-19 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 68.9 |
+| 9b9dec15-7a70-3f1d-9393-693b200ad25f | -11.4005 | -44.0525 | 2026-09-23 13:20:00 | GOES-19 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 308.0 |
+| ea73ca98-a61f-3232-b638-8f9ea0c87f68 | -11.4782 | -47.3529 | 2026-09-23 13:20:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 155.7 |
+| 188faedf-bbc8-39db-8925-88a164d3f118 | -9.6111 | -43.9243 | 2026-09-23 13:20:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 134.5 |
+| 493fd511-4c22-374c-a8a3-22d58a97cfe4 | -9.5918 | -43.9501 | 2026-09-23 13:20:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 71.7 |
+| d824842d-991e-3c0d-b841-62c2cca85f51 | -6.2208 | -41.6651 | 2026-09-23 13:20:00 | GOES-19 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 129.2 |
+| 968ded16-7e94-311d-b4bc-95c264841d06 | -7.1392 | -42.0811 | 2026-09-23 13:20:00 | GOES-19 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 101.4 |
+| 45f71036-44cf-39f2-8237-42fc1c48fe45 | -9.6043 | -48.4529 | 2026-09-23 13:20:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 78.8 |
+| ded3f20d-c56c-348d-b62d-211af9b1e074 | -7.1274 | -43.1009 | 2026-09-23 13:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 76.3 |
+| e4c53945-b159-3469-99e1-3ed9f6f373af | -7.0885 | -52.7575 | 2026-09-23 13:20:00 | GOES-19 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 101.4 |
+| eb0adb6e-8af4-3c1f-ba65-0f85a3198f56 | -9.5735 | -46.5337 | 2026-09-23 13:20:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 154.9 |
+| b4b85283-beb6-31ea-9dba-021e012827b8 | -6.6129 | -43.7317 | 2026-09-23 13:20:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 360.6 |
+| 1a47896a-b326-39ce-8426-e4a42077a33f | -6.6127 | -43.7549 | 2026-09-23 13:20:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 87.9 |
+| be387c35-c0db-356e-a1eb-74c8df709090 | -8.3591 | -45.6056 | 2026-09-23 13:20:00 | GOES-19 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 117.3 |
+| de7b61cb-5928-3645-8aaa-b9bf333b344a | -7.1277 | -43.0774 | 2026-09-23 13:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 81.0 |
+| 2e3aab47-1022-34c0-900d-aa568cf2ef13 | -9.5857 | -48.433 | 2026-09-23 13:20:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 105.6 |
+| 3c0145fd-c550-3375-97ef-8904c953cf07 | -7.4288 | -44.718 | 2026-09-23 13:20:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 87.8 |
+| 176f1ebf-5982-38a0-b7a9-cb5817f391ef | -8.8105 | -44.2757 | 2026-09-23 13:20:00 | GOES-19 | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 145.5 |
+| db9d2c91-80d5-3481-8bff-86d6585cd353 | -11.305 | -44.0432 | 2026-09-23 13:20:00 | GOES-19 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 117.0 |
+| 47e2e862-2e9f-3ce4-b496-b41383d5626d | -6.6331 | -59.9265 | 2026-09-23 13:20:00 | GOES-19 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 138.1 |
+| 3f26fc19-051f-3122-af7a-d0e806584f7d | -6.8988 | -41.6735 | 2026-09-23 13:20:00 | GOES-19 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 95.2 |
+| db97da70-c2c7-3073-b681-759a74728c6f | -8.9202 | -45.9536 | 2026-09-23 13:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 81.4 |
+| 962f4917-be24-35b0-8003-d207b7e85e6c | -11.4009 | -44.029 | 2026-09-23 13:20:00 | GOES-19 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 270.6 |
+| 0076f3d2-076b-3436-9e03-e8b37d4f9245 | -7.41 | -44.7198 | 2026-09-23 13:20:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 75.2 |
+| e07b899d-35c5-376d-ae33-e6e0c327813c | -9.6108 | -43.9477 | 2026-09-23 13:20:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 94.3 |
+| f0600a37-298d-3072-9735-770143957613 | -7.0352 | -44.6396 | 2026-09-23 13:20:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 179.3 |
+| 88684fd8-d317-30e7-b3e0-beb8c7c01460 | -6.6127 | -43.7549 | 2026-09-23 13:30:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 106.6 |
+| efe68f98-30b3-3f6d-b233-5f4e52170cbc | -7.0352 | -44.6396 | 2026-09-23 13:30:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 161.1 |
+| 6a5c5229-f6be-37f6-a18d-fee45495f0e5 | -9.5731 | -47.9529 | 2026-09-23 13:30:00 | GOES-19 | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 81.7 |
+| 8a49d158-b588-3dd7-959a-b9b95224a089 | -7.0349 | -44.6625 | 2026-09-23 13:30:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 138.4 |
+| 64c71e23-b10a-3540-84f3-1b7156903093 | -8.0923 | -44.3307 | 2026-09-23 13:30:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 174.3 |
+| c3c8f5a5-12db-3f3e-8df2-9b1b8888066d | -6.9414 | -42.907 | 2026-09-23 13:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 71.6 |
+| 44d0628b-dd2e-34c8-ac06-1d22f64b0f2f | -7.1277 | -43.0774 | 2026-09-23 13:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 74.1 |
+| 6b7604ba-0415-3b6e-aa3d-085501dc09bc | -8.8261 | -45.9411 | 2026-09-23 13:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 103.3 |
+| 7749e7a6-93c9-3ad7-a502-498dbb5b5f16 | -11.3976 | -44.2167 | 2026-09-23 13:30:00 | GOES-19 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 236.5 |
+| 4a4ab3c5-ca92-32a9-8488-befda50b3b0d | -11.4005 | -44.0525 | 2026-09-23 13:30:00 | GOES-19 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 248.4 |
+| 3c3f5144-911c-364e-8ebf-34a213b512a8 | -8.8108 | -44.2525 | 2026-09-23 13:30:00 | GOES-19 | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 93.1 |
+| 72eda2ec-d309-33d2-883c-01fac843e8c2 | -8.4985 | -57.6075 | 2026-09-23 13:30:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 147.1 |
+| 5b6a5659-affa-325f-ae0d-14073772fe59 | -9.6111 | -43.9243 | 2026-09-23 13:30:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 165.3 |
+| ee7f4657-50c1-3120-980a-012812b60489 | -9.5735 | -46.5337 | 2026-09-23 13:30:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 141.3 |
 
 
 [Clique aqui para ver as próximas entradas](README136.md)

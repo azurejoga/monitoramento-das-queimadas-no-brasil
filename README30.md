@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2db38824-259c-3440-b666-33f05220cf6d | -17.86645 | -44.40407 | 2026-09-22 03:45:00 | NPP-375D | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| da49687e-e66d-3514-967e-3f72ebc69958 | -12.59998 | -45.0899 | 2026-09-22 03:45:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| ea920d3a-2e33-3d98-8322-c8e148f16377 | -12.14934 | -47.39475 | 2026-09-22 03:45:00 | NPP-375D | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 6b879936-df0a-35a5-86a1-04ccfcfde3db | -12.56309 | -45.96635 | 2026-09-22 03:45:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| 021a8a87-1905-384e-ad69-33716167feed | -11.84958 | -46.81268 | 2026-09-22 03:45:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 7c8a602c-41c7-3311-80de-9e69541d1f47 | -11.93971 | -46.51959 | 2026-09-22 03:45:00 | NPP-375D | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| de7205ae-30e4-3c0b-9fdf-8ecbf5b2ca4a | -12.13939 | -47.38844 | 2026-09-22 03:45:00 | NPP-375D | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 679b0d3d-096b-3b40-91ac-c6f466f98a63 | -15.44908 | -43.81611 | 2026-09-22 03:45:00 | NPP-375D | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| a578c0f4-bc8e-3798-b996-903a3e9adea8 | -12.84776 | -44.33515 | 2026-09-22 03:45:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| 751db134-cb74-3cce-8438-bf0b33877636 | -11.3897 | -46.76046 | 2026-09-22 03:45:00 | NPP-375D | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| dfb66ed4-9bf8-3fb9-8a35-e8fa7c0dcc03 | -12.02426 | -47.81424 | 2026-09-22 03:45:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 186761f4-f37e-3dad-842d-1c7a6d1c3124 | -14.76999 | -48.44583 | 2026-09-22 03:45:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| a6874f73-26ba-3878-b6cf-293e9400be2f | -15.99239 | -43.27996 | 2026-09-22 03:45:00 | NPP-375D | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 5ba4bb78-795c-3146-ace1-ac3b0b240394 | -12.01975 | -47.80021 | 2026-09-22 03:45:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| d4d994bf-7ab4-3b7d-9bbb-f56108e9022e | -14.66244 | -45.66779 | 2026-09-22 03:45:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| ca8840f3-8f9e-344b-a73a-0a0b6dc0bbe1 | -17.35769 | -41.19281 | 2026-09-22 03:45:00 | NPP-375D | NOVO ORIENTE DE MINAS | MINAS GERAIS | Brasil | 3145356 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 54052b2f-55cb-3101-8490-ed2a978bda83 | -12.03137 | -47.81301 | 2026-09-22 03:45:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 7d607359-22f7-3433-9ee6-50bd6490dc9c | -15.36235 | -48.11854 | 2026-09-22 03:45:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 6f102292-dc69-3fe1-81f6-f843fcf58af6 | -11.15068 | -42.84124 | 2026-09-22 03:45:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| ecc9ad1c-230d-3385-b60a-257e54390175 | -15.62449 | -48.31843 | 2026-09-22 03:45:00 | NPP-375D | COCALZINHO DE GOIÁS | GOIÁS | Brasil | 5205513 | 52 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| a47ee1e8-1c90-3d83-a01f-6ff2325d3593 | -11.14659 | -42.83291 | 2026-09-22 03:45:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 5be730cb-2118-34b8-b710-4c9d95dcd9a3 | -11.66357 | -43.46358 | 2026-09-22 03:45:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 8cfc6053-c5f3-394c-ab5b-29970670347c | -14.67363 | -45.67553 | 2026-09-22 03:45:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 6b6fb5d2-9928-3461-80fb-6b8c22dbc08e | -15.98722 | -43.27888 | 2026-09-22 03:45:00 | NPP-375D | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| fad94d41-29ea-3663-a962-ceb48d0c0ef0 | -14.76768 | -48.45586 | 2026-09-22 03:45:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 9794f63d-d3e0-33b5-aa23-8bfb04615f2d | -12.84106 | -44.33819 | 2026-09-22 03:45:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 1c0da8a5-c09e-3707-9390-992d6034ca6c | -12.56958 | -45.96769 | 2026-09-22 03:45:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 8ca727bf-f69d-3580-8b19-c5707b2205cb | -11.40512 | -46.79753 | 2026-09-22 03:45:00 | NPP-375D | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 3ae9222d-3a38-3cb8-892b-bf200df8cb64 | -15.99303 | -43.27673 | 2026-09-22 03:45:00 | NPP-375D | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 93ee576e-44d4-3d02-89c0-9097a50a846a | -12.56842 | -45.97324 | 2026-09-22 03:45:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 290afee3-3921-3351-883f-9ae449549b65 | -11.67642 | -43.4581 | 2026-09-22 03:45:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| b1ca8373-8d78-3ba0-a03e-aadf73342d44 | -12.03289 | -47.80947 | 2026-09-22 03:45:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 87feb11d-49d5-3a89-9402-a4d922bf41fa | -15.74919 | -43.30681 | 2026-09-22 03:45:00 | NPP-375D | NOVA PORTEIRINHA | MINAS GERAIS | Brasil | 3145059 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 9a83c45a-92c5-3971-89f9-6f375d922f78 | -15.44144 | -48.44161 | 2026-09-22 03:45:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| b571a478-7433-3e54-b864-bba3530d7284 | -12.10445 | -45.6602 | 2026-09-22 03:45:00 | NPP-375D | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| ed49a4ee-26f2-3f57-9dba-31384eb8554d | -12.09919 | -45.65327 | 2026-09-22 03:45:00 | NPP-375D | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 60a03a83-1d64-3b56-bd17-55e7708019f5 | -11.67488 | -43.46592 | 2026-09-22 03:45:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 055733f6-5140-33fb-bc9e-e22e6cc69381 | -10.01969 | -45.21152 | 2026-09-22 03:45:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 80207029-0dc7-3696-80be-14e1d246785c | -12.14077 | -47.40043 | 2026-09-22 03:45:00 | NPP-375D | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| f357271b-48e4-3e17-a3b3-869b1730c33f | -11.44093 | -47.33253 | 2026-09-22 03:45:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| a6b03a15-4780-3bdd-9d43-02aa8a44587b | -12.84192 | -44.33391 | 2026-09-22 03:45:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 1f5c79d2-6cee-37a0-b121-9c59f11fd4ed | -11.41214 | -46.79853 | 2026-09-22 03:45:00 | NPP-375D | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 9f07629b-ece6-326c-99ca-9e3875380bc9 | -15.35517 | -48.1082 | 2026-09-22 03:45:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 78c68bb8-ee42-3b80-82e8-9a49c715ffdc | -12.60612 | -45.09125 | 2026-09-22 03:45:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 6e55f29f-84d1-3791-9712-5f2d4295d8d3 | -15.98778 | -43.27942 | 2026-09-22 03:45:00 | NPP-375D | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| fdd57d1d-1155-3e20-bbc8-0bfcc7ee286e | -12.14228 | -47.3932 | 2026-09-22 03:45:00 | NPP-375D | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 94f9a2c2-7c27-3819-b056-754896a6af53 | -15.7246 | -41.57447 | 2026-09-22 03:45:00 | NPP-375D | ÁGUAS VERMELHAS | MINAS GERAIS | Brasil | 3101003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 31439e71-f30d-3b84-a679-37c9b7c94646 | -12.09808 | -45.65862 | 2026-09-22 03:45:00 | NPP-375D | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 563dd676-d8b2-355f-8a04-6be072f73713 | -15.3519 | -48.09998 | 2026-09-22 03:45:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 11a177de-2225-3b15-9bb9-a910c843156f | -11.40341 | -46.79805 | 2026-09-22 03:45:00 | NPP-375D | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 760583e9-d24c-3af6-a537-0eca29d6b404 | -15.96117 | -42.95742 | 2026-09-22 03:45:00 | NPP-375D | RIACHO DOS MACHADOS | MINAS GERAIS | Brasil | 3154507 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 51dbe998-bf3e-3889-9b5b-5186ece12211 | -14.66751 | -45.67411 | 2026-09-22 03:45:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| b0bf2c25-fc5d-321f-8431-4e2463024248 | -11.14519 | -42.84012 | 2026-09-22 03:45:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| c90d797b-2599-38af-bc6a-2ac1ebaa0668 | -11.42896 | -47.35385 | 2026-09-22 03:45:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 7a1961a5-bc0f-3c09-8417-ea59c67a8cb9 | -11.39534 | -46.76791 | 2026-09-22 03:45:00 | NPP-375D | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 0f90fb74-db66-3da4-a290-d60cdf649268 | -10.02086 | -45.20572 | 2026-09-22 03:45:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 9d1fdfab-0235-3d10-ae07-7d1efebed2a1 | -12.02413 | -47.81142 | 2026-09-22 03:45:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 1e9d5996-eea8-3fd9-86f8-841821d99e56 | -10.25111 | -45.49752 | 2026-09-22 03:45:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 523fe72b-4c1f-3922-bcb9-c8330f2c7b96 | -15.98482 | -42.99725 | 2026-09-22 03:45:00 | NPP-375D | RIACHO DOS MACHADOS | MINAS GERAIS | Brasil | 3154507 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| b2b6522e-4651-3529-8afc-1315fd08250d | -15.44386 | -48.47563 | 2026-09-22 03:45:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| b26282fc-381f-329f-9ea3-566d8310f7d3 | -15.05195 | -38.99913 | 2026-09-22 03:45:00 | NPP-375D | ILHÉUS | BAHIA | Brasil | 2913606 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 0dda0ede-6df1-32ce-882d-a246127590e3 | -12.02541 | -47.8054 | 2026-09-22 03:45:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| c8a035b6-078a-3255-a564-fb95ecaa00ee | -15.96055 | -42.96048 | 2026-09-22 03:45:00 | NPP-375D | RIACHO DOS MACHADOS | MINAS GERAIS | Brasil | 3154507 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 1624e8f9-efb9-3668-82da-9529031446a8 | -13.62673 | -42.47968 | 2026-09-22 03:45:00 | NPP-375D | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| b60c45b8-7ea1-3edb-8628-32c63e5c1d54 | -10.25206 | -45.49273 | 2026-09-22 03:45:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| d7b517f4-b8f2-3e16-9ad8-6a9a355eef93 | -12.84691 | -44.33944 | 2026-09-22 03:45:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| 611d1365-f7b5-3c46-9df8-6a0382d2a1c8 | -12.1535 | -47.39156 | 2026-09-22 03:45:00 | NPP-375D | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 320273fe-76cd-3a15-80f5-5faf0534e3cb | -15.05595 | -38.99986 | 2026-09-22 03:45:00 | NPP-375D | ILHÉUS | BAHIA | Brasil | 2913606 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| ab844507-61e4-3cd9-b6ac-c2a404d26597 | -11.68208 | -43.45924 | 2026-09-22 03:45:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 1d2f48fd-d6c7-3c57-8648-52d3b6fbe917 | -12.5578 | -45.95935 | 2026-09-22 03:45:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| 3690ef03-a62c-39b5-8ddc-72c510793c3e | -12.84412 | -44.34084 | 2026-09-22 03:45:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 17.1 |
-| 46bedbec-6636-33c0-9fa5-d8086b6275ab | -14.76295 | -48.4437 | 2026-09-22 03:45:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| a9a9578a-953e-33a4-8f47-423dc2b810e8 | -11.14337 | -42.79094 | 2026-09-22 03:45:00 | NPP-375D | GENTIO DO OURO | BAHIA | Brasil | 2911303 | 29 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 1c29457c-c468-32f5-b625-678572e836a9 | -11.41042 | -46.79908 | 2026-09-22 03:45:00 | NPP-375D | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 4a6f7759-8e7f-39af-a255-66f797786b95 | -15.43986 | -48.44867 | 2026-09-22 03:45:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| bc6f886b-907a-3036-894e-932cbc7254d4 | -13.94155 | -42.96812 | 2026-09-22 03:45:00 | NPP-375D | MATINA | BAHIA | Brasil | 2921054 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 83c3a6aa-fcb0-35a6-b030-8e99a041744a | -11.15137 | -42.83763 | 2026-09-22 03:45:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 805e5e26-8fc1-31dc-95c0-17276a290bb7 | -14.63042 | -45.67326 | 2026-09-22 03:45:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 7c22a517-a2db-3e06-ba24-287389724a33 | -15.98786 | -43.27566 | 2026-09-22 03:45:00 | NPP-375D | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 99186b41-9a3e-330e-ad5d-da854698a374 | -15.99295 | -43.28048 | 2026-09-22 03:45:00 | NPP-375D | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| ee295924-6433-38a8-a5f0-1b7ab6e90c5a | -18.74751 | -45.59542 | 2026-09-22 03:47:00 | NPP-375D | BIQUINHAS | MINAS GERAIS | Brasil | 3107000 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 3e0f19c2-8da8-31b6-9615-ae4257d19745 | -20.84821 | -43.40779 | 2026-09-22 03:47:00 | NPP-375D | RIO ESPERA | MINAS GERAIS | Brasil | 3155207 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 484f9184-0c30-3287-8027-7aaea11f8fbe | -20.84738 | -43.40836 | 2026-09-22 03:47:00 | NPP-375D | RIO ESPERA | MINAS GERAIS | Brasil | 3155207 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| d726e944-59c5-3785-b847-7d626cbaf0ca | -21.593 | -41.25398 | 2026-09-22 03:47:00 | NPP-375D | CAMPOS DOS GOYTACAZES | RIO DE JANEIRO | Brasil | 3301009 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 7b0c8432-25bd-3ff0-84dd-b61578c69807 | -18.76943 | -45.11598 | 2026-09-22 03:47:00 | NPP-375D | FELIXLÂNDIA | MINAS GERAIS | Brasil | 3125705 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 04a6e02f-5dce-37fe-90d3-fe3130cd1bf0 | -18.73665 | -46.94868 | 2026-09-22 03:47:00 | NPP-375D | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 15.6 |
-| 380bbe63-3898-3378-8788-524712f8e8dd | -21.60041 | -41.215 | 2026-09-22 03:47:00 | NPP-375D | CAMPOS DOS GOYTACAZES | RIO DE JANEIRO | Brasil | 3301009 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| d3fd2b99-e007-32f0-ad58-e489d83475a2 | -20.39207 | -42.52474 | 2026-09-22 03:47:00 | NPP-375D | JEQUERI | MINAS GERAIS | Brasil | 3135506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| 4d10cd6a-be1b-3d0e-b56f-8b6a026ce3bc | -18.76858 | -45.11989 | 2026-09-22 03:47:00 | NPP-375D | FELIXLÂNDIA | MINAS GERAIS | Brasil | 3125705 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 51f1c09c-c00b-3749-b824-2a8c82cf33fb | -18.74196 | -45.59359 | 2026-09-22 03:47:00 | NPP-375D | BIQUINHAS | MINAS GERAIS | Brasil | 3107000 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 285ecbee-0a76-37f2-9ab6-3aa3cd23e5af | -17.84168 | -45.78382 | 2026-09-22 03:47:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 17b99e76-348b-39f6-8c1c-d0ce4e56fc31 | -17.84075 | -45.78815 | 2026-09-22 03:47:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 05db2ce2-5016-3b4b-8806-836cc24d0d5a | -18.0228 | -46.72776 | 2026-09-22 03:47:00 | NPP-375D | LAGAMAR | MINAS GERAIS | Brasil | 3137106 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| f00e7639-ed2d-3bf5-812e-1ceaf8d35d80 | -18.74329 | -45.59504 | 2026-09-22 03:47:00 | NPP-375D | BIQUINHAS | MINAS GERAIS | Brasil | 3107000 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| e8363b72-f800-332d-929c-f9307c93f8a1 | -18.73781 | -46.94358 | 2026-09-22 03:47:00 | NPP-375D | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 25.3 |
-| bbd02d5e-cd86-33bd-b4ac-485e90cf3efd | -21.58891 | -41.25306 | 2026-09-22 03:47:00 | NPP-375D | CAMPOS DOS GOYTACAZES | RIO DE JANEIRO | Brasil | 3301009 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| b871bc8a-c3e9-3b40-b6f4-e26afd9274c2 | -21.60115 | -41.21111 | 2026-09-22 03:47:00 | NPP-375D | CAMPOS DOS GOYTACAZES | RIO DE JANEIRO | Brasil | 3301009 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 3ebd1bd7-8b35-3400-ba75-5d7a90dc1aec | -18.73282 | -46.93711 | 2026-09-22 03:47:00 | NPP-375D | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 790ee6b4-eba9-3397-9b08-8d1cca5004cb | -18.02388 | -46.72295 | 2026-09-22 03:47:00 | NPP-375D | LAGAMAR | MINAS GERAIS | Brasil | 3137106 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 3d9c8d1d-07cf-3fd2-8e8e-49d5688dd5fc | -18.73893 | -46.93863 | 2026-09-22 03:47:00 | NPP-375D | PATROCÍNIO | MINAS GERAIS | Brasil | 3148103 | 31 | 33 | nan | nan | nan | Cerrado | 25.3 |
+| edbf6093-5c2c-386c-a967-b82a486c7506 | -8.2404 | -55.245399 | 2026-09-23 00:58:00 | METOP-C | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a9bd615b-bfb7-3dae-be1a-a8114503d513 | -11.7059 | -50.9034 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 2d04fa7e-b515-392c-8a23-cf6db84e5bef | -3.1013 | -60.694698 | 2026-09-23 00:58:00 | METOP-C | IRANDUBA | AMAZONAS | Brasil | 1301852 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| e149f3d0-3a19-358d-814d-6a7868ce6ab1 | -5.872 | -52.0532 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 26533820-4041-3c23-b593-7b8b4076fc82 | -7.3999 | -55.215 | 2026-09-23 00:58:00 | METOP-C | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 76546224-86b6-33ce-b136-b0f004e1cbb0 | -7.5631 | -57.6628 | 2026-09-23 00:58:00 | METOP-C | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a3c0d079-fd71-34ff-8b5d-981718f338b5 | -3.6786 | -60.529202 | 2026-09-23 00:58:00 | METOP-C | MANAQUIRI | AMAZONAS | Brasil | 1302553 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 6ee98514-bf82-3c25-8f0d-a7df816eadbf | -3.4758 | -59.5788 | 2026-09-23 00:58:00 | METOP-C | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 0ccd3519-01f7-3822-86ff-241caf94b7a6 | -10.7116 | -48.714699 | 2026-09-23 00:58:00 | METOP-C | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 184b41c4-b855-3fd3-8dcc-a85f155d628a | -11.8676 | -45.773399 | 2026-09-23 00:58:00 | METOP-C | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| fe9312c0-4853-37af-a781-ae34fbdc503c | -11.5217 | -45.347301 | 2026-09-23 00:58:00 | METOP-C | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| cf0a47d8-ae5d-3af9-b844-510887aa3a36 | -5.5131 | -51.708599 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6eb17a19-a8e7-33ec-8753-bf56d2ed4c6e | -10.2691 | -49.976501 | 2026-09-23 00:58:00 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| ad2cae43-32a6-31a2-abd7-75e2db538633 | -10.3028 | -50.5131 | 2026-09-23 00:58:00 | METOP-C | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2caa35fd-9844-356c-aea9-033fb41337fb | -8.0893 | -48.852402 | 2026-09-23 00:58:00 | METOP-C | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 4efbfa60-8854-3f05-a4ab-0e0ba0c73a7c | -3.2229 | -46.913101 | 2026-09-23 00:58:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 7ba0a3c9-58f5-3e47-92d2-71e3e1816872 | -7.7861 | -50.221901 | 2026-09-23 00:58:00 | METOP-C | PAU D'ARCO | PARÁ | Brasil | 1505551 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ec5da4c3-1279-32a3-bc3b-d77e69eb31bb | -6.5762 | -51.487598 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b1678b59-0554-342e-8752-84a4e3eae56a | -4.9718 | -56.955898 | 2026-09-23 00:58:00 | METOP-C | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ba27bf6f-5a03-34c6-8f0d-fc81ac79a9f3 | -2.4588 | -57.899101 | 2026-09-23 00:58:00 | METOP-C | SÃO SEBASTIÃO DO UATUMÃ | AMAZONAS | Brasil | 1303957 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 4bc3688f-32df-3cc7-b184-26eb6f94250b | -12.4867 | -47.006302 | 2026-09-23 00:58:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| eb406f27-a148-31ad-a392-9dfc2f7900cd | -5.879 | -52.1278 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 4e96dca8-1f02-39b3-ba58-cf8b522415e4 | -3.2498 | -53.965801 | 2026-09-23 00:58:00 | METOP-C | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 37986e1c-72c7-3fb2-ad8e-f387500816a4 | -8.2011 | -54.702599 | 2026-09-23 00:58:00 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c89f8f89-0a5d-3b86-ba84-baac1092ae89 | -12.815 | -50.877499 | 2026-09-23 00:58:00 | METOP-C | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 992313c6-b0c9-3206-9dc7-a8607117f0c5 | -8.7848 | -60.790401 | 2026-09-23 00:58:00 | METOP-C | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 8afca4ce-88b5-3200-b91b-5505b46a9bff | -10.6004 | -53.970402 | 2026-09-23 00:58:00 | METOP-C | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ad7f3f03-2496-3f17-a3f5-2220586454f8 | -5.8069 | -52.083401 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 565a46be-190a-3bde-9acf-e4274bdb3d39 | -11.7229 | -50.799198 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 65a812ed-641b-3696-9e73-a9b05de6c806 | -13.8611 | -48.564999 | 2026-09-23 00:58:00 | METOP-C | CAMPINAÇU | GOIÁS | Brasil | 5204656 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 91ca7c62-8783-358f-b501-18f6123e9755 | -3.5345 | -59.611698 | 2026-09-23 00:58:00 | METOP-C | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| db157359-2035-30ee-906a-6683d9ae2c8c | -11.7046 | -50.942101 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 59485bcf-331d-3639-b666-1df97a09feb5 | -11.5041 | -51.503201 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b26d9433-3ee6-3d4d-a620-736a21d8eafb | -6.0817 | -57.6917 | 2026-09-23 00:58:00 | METOP-C | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 08449207-0076-38fe-ba63-1d2486971f6b | -7.331 | -55.5956 | 2026-09-23 00:58:00 | METOP-C | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 668807cd-2705-3505-9e8b-e8fdb1290d2d | -6.6051 | -59.887299 | 2026-09-23 00:58:00 | METOP-C | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 1b1e3322-3170-34cf-9465-f01b3bbba405 | -11.6863 | -50.9081 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 525a1ae3-81ed-3e2b-99c5-b7da9766c6f7 | -10.2556 | -49.962799 | 2026-09-23 00:58:00 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 4c20d0c6-3f15-3c34-8505-cb15497c09fc | -6.7168 | -44.124901 | 2026-09-23 00:58:00 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| e97a2310-4bc7-3eae-962d-a335a9aa79fb | -5.2765 | -47.242802 | 2026-09-23 00:58:00 | METOP-C | SÃO FRANCISCO DO BREJÃO | MARANHÃO | Brasil | 2110856 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| d8720864-45b7-320b-bd22-9fe5bed16eef | -3.4636 | -59.57 | 2026-09-23 00:58:00 | METOP-C | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 55fac124-7cde-31e2-9a4b-e7f4244bf871 | -7.3293 | -55.5881 | 2026-09-23 00:58:00 | METOP-C | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 68e0f742-9e55-36b3-949b-292343b8ad3d | -8.4441 | -55.006302 | 2026-09-23 00:58:00 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a999ca03-8bb4-385e-9363-b07672502090 | -11.6628 | -43.454399 | 2026-09-23 00:58:00 | METOP-C | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| dcfe9aac-b42c-352f-9941-2bda0796e1e6 | -10.878 | -50.1483 | 2026-09-23 00:58:00 | METOP-C | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e9ffb6e1-7d4c-334a-8a12-d7dfaf39ad05 | -8.4657 | -48.700298 | 2026-09-23 00:58:00 | METOP-C | ITAPORÃ DO TOCANTINS | TOCANTINS | Brasil | 1711100 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 1faa6336-9007-3505-914d-75c4db6a645d | -3.2833 | -57.859901 | 2026-09-23 00:58:00 | METOP-C | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| eedc36cd-0d74-38db-9fcc-f4ac3b5904d1 | -12.8117 | -50.863098 | 2026-09-23 00:58:00 | METOP-C | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 45a4f5c0-86f9-3ecb-9713-75ba7fa9b091 | -7.0946 | -52.7421 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f2d40ccc-f9b9-366a-9e06-57ec7e50679f | -11.105 | -48.332199 | 2026-09-23 00:58:00 | METOP-C | IPUEIRAS | TOCANTINS | Brasil | 1709807 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 35dc4edc-4813-3a64-900e-4e83cda7c8f8 | -11.6931 | -50.937199 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 872a8e87-e643-302d-a81a-33836d5cec29 | -12.4093 | -46.944698 | 2026-09-23 00:58:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 0c2fe1d5-aa07-3f54-8687-9b474361ba14 | -12.7645 | -50.882 | 2026-09-23 00:58:00 | METOP-C | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| c809fa6a-c6a2-3cfc-8fc0-dbb6acaaf661 | -6.9243 | -46.567402 | 2026-09-23 00:58:00 | METOP-C | FEIRA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2104073 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 55b7421d-ca35-3e46-acd4-d0c4c7dd082a | -4.3012 | -56.265301 | 2026-09-23 00:58:00 | METOP-C | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 83ea3aa5-da92-3b9b-80ab-e26897ef1352 | -11.685 | -50.9468 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| d5f68dc1-4ff7-3601-bdb5-6bec88f46341 | -12.8006 | -50.9039 | 2026-09-23 00:58:00 | METOP-C | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 4fadff8f-607c-382a-9ab9-9e94cadadfbe | -8.8295 | -50.4856 | 2026-09-23 00:58:00 | METOP-C | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 541e7842-7b07-3787-be71-477727948350 | -6.686 | -55.062401 | 2026-09-23 00:58:00 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| af3b53cd-fb5c-391d-a8a7-5345c78303fc | -11.7029 | -50.934799 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 9c7a26be-37da-36e4-b67e-39dd6463a74d | -13.4481 | -46.253799 | 2026-09-23 00:58:00 | METOP-C | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 453a19c4-cc48-3183-9261-d9df91f59fe5 | -3.7792 | -60.750702 | 2026-09-23 00:58:00 | METOP-C | MANAQUIRI | AMAZONAS | Brasil | 1302553 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 76498c49-d665-39d3-9520-c46088345cfc | -6.1254 | -57.749298 | 2026-09-23 00:58:00 | METOP-C | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 54c2785a-2a7b-3d24-97bb-7633368a5987 | -4.1609 | -60.765301 | 2026-09-23 00:58:00 | METOP-C | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 03188500-2f40-3969-a11f-0e981decd432 | -5.8295 | -52.0476 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b663191e-5284-3956-b857-193fefa57170 | -3.6801 | -60.5821 | 2026-09-23 00:58:00 | METOP-C | MANAQUIRI | AMAZONAS | Brasil | 1302553 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 0589a008-85c7-3a99-88eb-1106fe1df40a | -3.8881 | -51.9533 | 2026-09-23 00:58:00 | METOP-C | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| aced7b10-576b-3807-825c-55f1f9eba3cb | -6.1564 | -57.704102 | 2026-09-23 00:58:00 | METOP-C | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c8f97989-4e0a-3db8-8853-593040189824 | -2.9531 | -57.719501 | 2026-09-23 00:58:00 | METOP-C | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 5ba71171-f16d-3623-bedf-5e1584feaea6 | -5.7579 | -45.094601 | 2026-09-23 00:58:00 | METOP-C | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 88c4a2ca-1271-3387-9ffa-ceb06f4c51a4 | -1.3262 | -54.661999 | 2026-09-23 00:58:00 | METOP-C | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 52bcd274-3547-3bf9-9948-cef45d2b93d7 | -4.0636 | -56.2164 | 2026-09-23 00:58:00 | METOP-C | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d37e9830-4f5c-38f3-bc75-96d77361dfa0 | -10.7094 | -48.705502 | 2026-09-23 00:58:00 | METOP-C | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9b1b7814-f5d6-32db-9f81-9e794f4d7089 | -6.5994 | -59.955299 | 2026-09-23 00:58:00 | METOP-C | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 867d8cc4-717d-3a8e-80b0-5b6eda324e0f | 4.1058 | -60.989498 | 2026-09-23 00:58:00 | METOP-C | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 0496d157-7b3e-3221-ab67-62e08e4e5db6 | -7.124 | -43.0634 | 2026-09-23 00:58:00 | METOP-C | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 38db4036-effc-3449-afd7-29135692ca20 | -4.3079 | -49.131199 | 2026-09-23 00:58:00 | METOP-C | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 51cb12d1-5285-34b3-9cea-716c3085348f | -6.6301 | -59.9086 | 2026-09-23 00:58:00 | METOP-C | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| ac80e4b2-deb4-387a-bb83-b5d566135179 | -7.4197 | -49.852798 | 2026-09-23 00:58:00 | METOP-C | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 51c14017-58b6-3ea9-9db3-6986fb02b292 | -6.0013 | -45.247601 | 2026-09-23 00:58:00 | METOP-C | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8b778905-a125-35ad-962f-f29eb66261ac | -3.6052 | -59.0131 | 2026-09-23 00:58:00 | METOP-C | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| f7697230-ccff-39cf-9938-e6a012b180f1 | -1.826 | -55.715401 | 2026-09-23 00:58:00 | METOP-C | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 71607ad8-affb-36d0-8a7f-7c6b18e1ab89 | -6.5977 | -43.694599 | 2026-09-23 00:58:00 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| b74b19de-9352-32ae-b68f-fb9bdfc1ba59 | -9.5332 | -45.368301 | 2026-09-23 00:58:00 | METOP-C | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 73c273af-3d1d-301f-a85f-d336e5133f4e | -7.4233 | -49.824402 | 2026-09-23 00:58:00 | METOP-C | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0cef6f10-3446-37a9-9313-5171c144f10e | -5.8919 | -52.094398 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 56083a49-e418-3c2a-ab68-3d906af7d646 | -11.7815 | -50.9622 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 2200fd99-1743-3b87-b1c7-a2204661404c | -2.2418 | -48.7537 | 2026-09-23 00:58:00 | METOP-C | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2a6833d6-c22c-38e8-bd65-7f3435dade52 | -8.461 | -48.680698 | 2026-09-23 00:58:00 | METOP-C | ITAPORÃ DO TOCANTINS | TOCANTINS | Brasil | 1711100 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| cb705eeb-5e8b-3a37-b17b-64b74e13287f | -5.8828 | -51.568199 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f1d675df-496a-32dc-a064-c5f231d76302 | -3.0081 | -54.170799 | 2026-09-23 00:58:00 | METOP-C | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 8bc22f87-5626-3115-a9ee-800aa0997927 | -7.4351 | -49.830799 | 2026-09-23 00:58:00 | METOP-C | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 7ed13303-2148-3d55-9534-879b477c9cbe | -6.6186 | -43.7369 | 2026-09-23 00:58:00 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| fc3a73b8-dc6f-3594-938d-dbb05912eb97 | -3.8443 | -58.660999 | 2026-09-23 00:58:00 | METOP-C | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 97fda889-4199-39fe-8c57-778d13897bd9 | -3.068 | -54.386398 | 2026-09-23 00:58:00 | METOP-C | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 75aae366-0bfc-3059-a35f-013558b0ee8b | -11.6769 | -50.956402 | 2026-09-23 00:58:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| ea707cd0-c2ad-3b56-993e-824ea451957e | -4.5558 | -54.9389 | 2026-09-23 00:58:00 | METOP-C | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 09efa880-1e9a-389d-bada-3090928cb990 | -10.3884 | -54.404701 | 2026-09-23 00:58:00 | METOP-C | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 9a49b62b-cca8-3f8f-af0b-cd82d1a305a0 | -6.4366 | -48.4613 | 2026-09-23 00:58:00 | METOP-C | XAMBIOÁ | TOCANTINS | Brasil | 1722107 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 668a1a8d-4453-31aa-9e8e-382eb38edd09 | -2.8696 | -49.6278 | 2026-09-23 00:58:00 | METOP-C | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | nan |
 
 
 [Clique aqui para ver as próximas entradas](README31.md)
