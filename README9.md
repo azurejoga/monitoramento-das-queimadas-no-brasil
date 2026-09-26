@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 63c3ad43-961a-392f-b269-473007c54050 | -9.1535 | -59.4834 | 2026-09-25 02:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 75.2 |
-| 40efdd95-40cb-31f1-b28d-15f468b955d7 | -3.2314 | -46.9376 | 2026-09-25 02:30:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 186.1 |
-| 526a419f-fd56-3806-9a3c-92a8bf7f48e0 | -9.4773 | -40.3116 | 2026-09-25 02:30:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 94.3 |
-| 74fcd037-c324-3191-bc15-356fc3d2a5b8 | -11.7849 | -50.9086 | 2026-09-25 02:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 125.7 |
-| 7225607b-75e2-3d55-b714-d1d9c7dbde86 | -11.2859 | -51.3031 | 2026-09-25 02:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 82.7 |
-| e10650eb-a505-35eb-8e4a-b67879af3eca | -3.25 | -46.9369 | 2026-09-25 02:30:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 127.7 |
-| 3a3511ab-95e6-3386-a2a2-47ee04bb3ac0 | -8.7741 | -45.5849 | 2026-09-25 02:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 151.3 |
-| aeed0acd-fca8-3dd3-a28c-c450d1feedb5 | -8.34 | -44.1427 | 2026-09-25 02:30:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 91.6 |
-| 99210eb4-312f-3fd3-b182-691df8a46438 | -9.1536 | -59.464 | 2026-09-25 02:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 63.7 |
-| 22640deb-b60e-3f35-a8ad-2668dacdcfe7 | -1.1461 | -54.0996 | 2026-09-25 02:30:00 | GOES-19 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 72.5 |
-| 55b40069-8dc1-3920-ab8e-b2ca7bbd653f | -11.3048 | -51.3011 | 2026-09-25 02:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 75.1 |
-| 6da0a4f8-6b8a-33d4-940e-9867b21b4d93 | -8.7738 | -45.6076 | 2026-09-25 02:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 135.0 |
-| c31f98ff-3ff4-3ee9-9ea6-2b055873507f | -8.3211 | -44.1447 | 2026-09-25 02:30:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 89.4 |
-| 0d126ec9-b441-3376-8928-90dfe4494beb | -3.2314 | -46.9376 | 2026-09-25 02:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 178.2 |
-| d746709b-2b78-3eb9-a933-06d84036b05d | -12.1685 | -50.7147 | 2026-09-25 02:40:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 77.9 |
-| 0f1fe09f-2e66-3149-9f1b-6da5ea9e849c | -12.1115 | -50.7001 | 2026-09-25 02:40:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 77.3 |
-| 326a8460-5e4a-3111-a43e-fbc29d80d0b7 | -12.1869 | -50.7553 | 2026-09-25 02:40:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 56.2 |
-| fd9a0c9b-d4bb-33ce-82c4-5e93279fe1b8 | -12.1872 | -50.7339 | 2026-09-25 02:40:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 183.3 |
-| 1279cd57-bd29-3f1b-a0d7-cdffca532c84 | -12.1681 | -50.7362 | 2026-09-25 02:40:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 83.0 |
-| 22356241-ed78-37c4-a50e-a8597cedebe1 | -12.1876 | -50.7125 | 2026-09-25 02:40:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 108.9 |
-| 25a6f027-c5cc-349e-b038-7a6425b5068e | -3.25 | -46.9369 | 2026-09-25 02:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 113.5 |
-| 6e94d5b5-7bf6-39f4-b48b-85276da4a202 | -8.3397 | -44.1658 | 2026-09-25 02:40:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 67.9 |
-| 102f19fc-4577-3a22-8c06-f0936ebebf1e | -9.4773 | -40.3116 | 2026-09-25 02:40:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 89.9 |
-| 76670847-5512-34b1-98bd-99eb2cdf9cee | -9.1535 | -59.4834 | 2026-09-25 02:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 65.0 |
-| 2ff917e7-47de-31a6-8b2f-83567707770e | -11.7849 | -50.9086 | 2026-09-25 02:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 123.1 |
-| 3204580a-2e46-3139-bb2b-ed8741118189 | -11.2859 | -51.3031 | 2026-09-25 02:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 91.6 |
-| 316ce03c-fade-3c83-93cb-3f079ba58cc2 | -9.4769 | -40.3365 | 2026-09-25 02:40:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 181.2 |
-| ffbd9d7b-6886-3bbf-a14e-63b6e76f8810 | -7.9082 | -54.7597 | 2026-09-25 02:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 55.2 |
-| 9de91812-f24b-3d94-be82-358016a2d2cb | -9.1536 | -59.464 | 2026-09-25 02:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 63.4 |
-| 3ee8cea3-1d62-360d-8aa3-7bf62d129545 | -8.3211 | -44.1447 | 2026-09-25 02:40:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 91.3 |
-| 5d3fc4c6-b9e2-3129-a704-50760ad3ce84 | -1.2189 | -54.5592 | 2026-09-25 02:40:00 | GOES-19 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 39.3 |
-| f3335f65-a7f5-3f17-8428-04746945b720 | -3.2047 | -53.4179 | 2026-09-25 02:40:00 | GOES-19 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 71.6 |
-| d730e428-aee5-341b-9edc-8df6d9c0cb31 | -8.34 | -44.1427 | 2026-09-25 02:40:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 119.4 |
-| fe086b25-6982-35c1-8d0e-bfa99f6ec2d7 | -5.7754 | -45.1053 | 2026-09-25 02:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 90.6 |
-| 34076ed8-e8d1-39c5-ad36-2e18746999a8 | -11.7849 | -50.9086 | 2026-09-25 02:50:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 244.2 |
-| 05c706e6-0f89-3962-a54b-57b8e16a16cf | -12.1869 | -50.7553 | 2026-09-25 02:50:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 106.6 |
-| 281981ae-195b-3f03-a4fd-b4650c6645a7 | -9.1535 | -59.4834 | 2026-09-25 02:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 67.8 |
-| 1c2b3e78-96bf-327b-b7ec-360a2f8fc458 | -12.1681 | -50.7362 | 2026-09-25 02:50:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 82.4 |
-| fd198b31-955a-3964-8817-731c40ecc405 | -11.6567 | -50.5817 | 2026-09-25 02:50:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 58.0 |
-| 8c05fcdd-23a1-3e67-b54b-7b0c426f30dc | -12.1872 | -50.7339 | 2026-09-25 02:50:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 172.4 |
-| 6b58c39d-bce6-30bd-8e4d-57a567eaee8b | -3.2047 | -53.4179 | 2026-09-25 02:50:00 | GOES-19 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 62.4 |
-| 51bbb446-9ffb-348a-9c7c-07c8f7e3c075 | -8.3208 | -44.1679 | 2026-09-25 02:50:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 98.5 |
-| 790ca5be-a7d9-3990-92bf-07b975334a6b | -1.1461 | -54.0996 | 2026-09-25 02:50:00 | GOES-19 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 58.4 |
-| d6a98262-9f47-3736-9f43-f2b9300286ef | -11.7853 | -50.8872 | 2026-09-25 02:50:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 108.7 |
-| 4df12038-4747-3622-bff3-18f3406751be | -11.6564 | -50.6031 | 2026-09-25 02:50:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 88.5 |
-| 86f9da13-fdc0-3917-870a-9086f5f0d5d0 | -12.1685 | -50.7147 | 2026-09-25 02:50:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 64.5 |
-| 5fa5dbc8-2860-3417-aa30-3b2503706358 | -4.4098 | -55.5446 | 2026-09-25 02:50:00 | GOES-19 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 51.7 |
-| afdf05c3-c32c-368a-8b6b-311f54540f4b | -9.4773 | -40.3116 | 2026-09-25 02:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 103.8 |
-| 192e7e72-2f4f-3045-84db-9f80464704b2 | -12.1876 | -50.7125 | 2026-09-25 02:50:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 113.2 |
-| 9dd3df77-640a-30d8-b77c-345d7f14f7ee | -8.3397 | -44.1658 | 2026-09-25 02:50:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 85.4 |
-| 4cc3c139-39d2-3073-ad65-475612955809 | -8.3211 | -44.1447 | 2026-09-25 02:50:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 152.1 |
-| 4c0451ad-8f0e-30aa-8b62-41a6e809f4be | -11.7659 | -50.9107 | 2026-09-25 02:50:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 95.7 |
-| 6ae1a040-5daf-310b-af9a-8f4bc14cf4fe | -12.206 | -50.7531 | 2026-09-25 02:50:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 67.9 |
-| cb58269d-bce2-3e66-b884-0a3148052041 | -7.9082 | -54.7597 | 2026-09-25 02:50:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 54.0 |
-| 747c5a0e-530e-3ba9-8b52-9d4ea62c418b | -11.7846 | -50.9299 | 2026-09-25 02:50:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 99.0 |
-| dc9902d0-3672-3d92-9f45-ff54e98ad6ec | -8.34 | -44.1427 | 2026-09-25 02:50:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 150.6 |
-| 65ad9751-a7fe-3fd7-8258-8e81efaf6cae | -3.25 | -46.9369 | 2026-09-25 02:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 114.4 |
-| d80d8582-0e01-3e1c-88ea-6ba39b173b77 | -9.4769 | -40.3365 | 2026-09-25 02:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 163.1 |
-| 7961519a-6306-37e4-904c-ce1b94999fe1 | -3.2314 | -46.9376 | 2026-09-25 02:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 171.8 |
-| 71b0220b-00d3-3494-a6fe-502857c364ba | -3.2047 | -53.4179 | 2026-09-25 03:00:00 | GOES-19 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 66.9 |
-| bf0f3064-c497-3662-a27a-51b1b8e5ae5f | -12.1872 | -50.7339 | 2026-09-25 03:00:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 100.4 |
-| 5d442bfa-de59-3f10-b1b1-390689521107 | -5.7754 | -45.1053 | 2026-09-25 03:00:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 84.6 |
-| 2aee4d23-e50c-3805-807f-6811d05611d4 | -11.7659 | -50.9107 | 2026-09-25 03:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 95.0 |
-| 0982dbd8-0f82-3d08-adad-4740988b0cb6 | -9.1535 | -59.4834 | 2026-09-25 03:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 63.5 |
-| 0174a416-a281-3610-aa32-843fb4a21137 | -11.6567 | -50.5817 | 2026-09-25 03:00:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 75.0 |
-| 6ece4d64-31b4-3477-801a-9524c42b2a11 | -11.6564 | -50.6031 | 2026-09-25 03:00:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 66.0 |
-| d699cf5b-6d0d-37c1-9ad3-7bbb22ab5768 | -11.7849 | -50.9086 | 2026-09-25 03:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 163.9 |
-| f64435ef-8a0e-30f2-9d62-10b94fd32449 | -3.2314 | -46.9376 | 2026-09-25 03:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 176.4 |
-| 050545bc-0883-38a2-9f4e-c40159085e9d | -9.4769 | -40.3365 | 2026-09-25 03:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 105.0 |
-| c41cd4db-1504-3af5-a541-049548fd4dbd | -1.1461 | -54.0996 | 2026-09-25 03:00:00 | GOES-19 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 56.1 |
-| 8fc5f4c9-256e-30fe-9d20-a294c03c6e23 | -9.1536 | -59.464 | 2026-09-25 03:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 56.6 |
-| 280399a0-9049-325c-ad47-eb983881fd3c | -8.3211 | -44.1447 | 2026-09-25 03:00:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 135.0 |
-| 60314768-c351-38d8-bffb-139bf22a472b | -12.1866 | -50.7767 | 2026-09-25 03:00:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 55.3 |
-| 0af3f198-08fe-380d-a284-29d91cd201d7 | -8.3397 | -44.1658 | 2026-09-25 03:00:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 110.9 |
-| d8087d9a-ebf0-320a-9206-98633834b4de | -12.206 | -50.7531 | 2026-09-25 03:00:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 101.6 |
-| a61177f5-ed64-3a68-919f-fe7ddfc75b00 | -12.1869 | -50.7553 | 2026-09-25 03:00:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 108.4 |
-| a2603992-876c-3eae-b9c1-384174fd8e51 | -11.7853 | -50.8872 | 2026-09-25 03:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 114.8 |
-| a89f0946-b6fa-3745-88b2-4ecd72f5eed3 | -8.34 | -44.1427 | 2026-09-25 03:00:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 208.1 |
-| ce27e371-6bc0-35a1-86e8-d5f971a0355a | -12.2063 | -50.7316 | 2026-09-25 03:00:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 76.2 |
-| bc7c13cf-d7c2-3a9e-a2f0-4c81af8a56c7 | -3.25 | -46.9369 | 2026-09-25 03:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 92.0 |
-| f67c838c-9968-37c5-8739-30b60d5d55b3 | -7.9082 | -54.7597 | 2026-09-25 03:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 51.9 |
-| 49e6e376-0cfe-3d58-a341-52342a81ed18 | -6.29372 | -35.24639 | 2026-09-25 03:04:00 | NOAA-20 | GOIANINHA | RIO GRANDE DO NORTE | Brasil | 2404200 | 24 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| 56fd6341-1ca9-3f40-97a4-d4990fb8b754 | -6.42732 | -35.25102 | 2026-09-25 03:04:00 | NOAA-20 | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 7f5c1797-bfbd-36eb-8251-0ad68e87a41d | -11.94539 | -38.29448 | 2026-09-25 03:06:00 | NOAA-20 | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| fb40bfdc-206d-305f-a761-c98957e5445f | -11.94463 | -38.29102 | 2026-09-25 03:06:00 | NOAA-20 | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| e3260d4e-5cd6-3904-9598-b182dd711ae7 | -11.92474 | -38.29534 | 2026-09-25 03:06:00 | NOAA-20 | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 7.6 |
-| f658d55e-619a-3652-ae35-d6b4d7669a02 | -11.93126 | -38.29684 | 2026-09-25 03:06:00 | NOAA-20 | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 7.6 |
-| df3c6a3a-e988-3c17-aeb7-32cc22d54b10 | -11.93776 | -38.29842 | 2026-09-25 03:06:00 | NOAA-20 | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 99380fee-9822-3f50-860e-e1badd65fa3f | -11.92357 | -38.30104 | 2026-09-25 03:06:00 | NOAA-20 | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
-| 8cc1b69c-19e7-3cad-b901-c7b46b3d8777 | -11.93572 | -38.30086 | 2026-09-25 03:06:00 | NOAA-20 | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
-| 68f743e6-bd90-3546-ad15-4584d9e66490 | -11.93694 | -38.29509 | 2026-09-25 03:06:00 | NOAA-20 | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 2bf465e0-66d1-3694-952a-0759b943ad3d | -11.93008 | -38.30258 | 2026-09-25 03:06:00 | NOAA-20 | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
-| 06eb851f-015a-3bff-b621-259f2373961c | -11.9466 | -38.28858 | 2026-09-25 03:06:00 | NOAA-20 | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 9cecdfd2-58c2-338c-a5ca-7ea262388441 | -15.51057 | -40.0163 | 2026-09-25 03:08:00 | NOAA-20 | ITARANTIM | BAHIA | Brasil | 2916807 | 29 | 33 | nan | nan | nan | Mata Atlântica | 10.2 |
-| cd918b11-e716-3ca7-a2d6-64e43438aca3 | -9.1535 | -59.4834 | 2026-09-25 03:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 65.9 |
-| 34ccc6a2-baa2-360b-88bf-5a302492e34d | -8.3397 | -44.1658 | 2026-09-25 03:10:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 91.0 |
-| bf1e7e7c-86ec-3684-9173-d7206c92904e | -8.34 | -44.1427 | 2026-09-25 03:10:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 153.6 |
-| 0ef06de0-181a-3fcd-ba74-b14a394f4926 | -3.2047 | -53.4179 | 2026-09-25 03:10:00 | GOES-19 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 67.9 |
-| 2b80bead-3a5f-3f9d-bad5-b8c0c3e0157e | -8.3211 | -44.1447 | 2026-09-25 03:10:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 94.9 |
-| c6dc8e96-0127-3815-9d57-5d8ea57e093a | -1.1461 | -54.0996 | 2026-09-25 03:10:00 | GOES-19 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 63.6 |
+| 29a43747-7c0f-306b-a4ae-d60090b71e4a | -12.01872 | -50.65142 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 35a06aba-f431-3256-9fa3-6f7896fc6367 | -11.85844 | -50.5473 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| c2da2926-c6fe-3596-8595-2ace7224eeca | -9.47859 | -40.35708 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| ce946444-e63d-31bf-80a1-95d335f4019b | -10.76132 | -50.84331 | 2026-09-26 04:08:00 | NPP-375D | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 5b18ea89-2167-3e1b-bd25-21f430517516 | -9.47196 | -40.33367 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 10.5 |
+| 4bb57dbf-cfc2-3508-ba46-debe08bfd203 | -11.77384 | -50.64598 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 8a916fe7-a72b-3b43-a90d-e99cfccc3c04 | -9.48606 | -40.33228 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| fa431661-48db-3558-86ce-30fecd3b0dc0 | -12.26257 | -50.72382 | 2026-09-26 04:08:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| c83fd04e-cbbc-3354-bcc8-383d91ed61bd | -7.40407 | -39.79156 | 2026-09-26 04:08:00 | NPP-375D | EXU | PERNAMBUCO | Brasil | 2605301 | 26 | 33 | nan | nan | nan | Caatinga | 13.8 |
+| 73ebbf67-2de6-3693-9d45-796708188a0e | -11.77979 | -50.64724 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| da480d18-3e8b-3893-ab44-c0b94831edc5 | -7.36551 | -42.09486 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 518c60c0-8fee-353b-93e7-55a03019a173 | -7.36255 | -42.08986 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| 67ac8024-2b00-3b56-81cc-439ee6c45d57 | -11.93086 | -50.58534 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| ce1a63e3-2cbc-37c0-b84d-04c83c25afcd | -7.40465 | -39.78798 | 2026-09-26 04:08:00 | NPP-375D | EXU | PERNAMBUCO | Brasil | 2605301 | 26 | 33 | nan | nan | nan | Caatinga | 19.6 |
+| bf56c643-8e26-36db-a286-852717b0aede | -12.2724 | -50.71921 | 2026-09-26 04:08:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 5669b5ae-3791-38da-b820-86bae06d2dec | -11.93416 | -50.59974 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| c2011bc5-4cf7-39f3-922f-f4e1959c5a0f | -7.35071 | -42.09241 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 5.2 |
+| ad98636e-1617-3e53-8281-62145cb99754 | -7.37217 | -42.07795 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 0873451d-8481-34e1-877f-a10bfc5c46a0 | -11.78485 | -50.65292 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 044a46c8-46ce-3242-9096-ea15a30ab1cc | -8.11821 | -40.7471 | 2026-09-26 04:08:00 | NPP-375D | BETÂNIA DO PIAUÍ | PIAUÍ | Brasil | 2201739 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 66921cd8-34b0-3c50-824b-6b4cba9c2793 | -7.40185 | -39.78384 | 2026-09-26 04:08:00 | NPP-375D | EXU | PERNAMBUCO | Brasil | 2605301 | 26 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| f95fd151-1d7e-37fc-9145-d13c261e95a8 | -12.41178 | -40.924 | 2026-09-26 04:08:00 | NPP-375D | LAJEDINHO | BAHIA | Brasil | 2919009 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 4f3f94a1-46c8-3a81-a1e6-cb9670d007cb | -9.47709 | -40.32337 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| f64609f9-b2ef-351a-b72d-16de0f08bf38 | -6.70698 | -45.99456 | 2026-09-26 04:08:00 | NPP-375D | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| c8e63c72-afae-3844-9424-56afc8efcf63 | -11.84913 | -50.54717 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 5aed5729-6082-37c6-8310-8b6fe6afa19f | -7.3581 | -42.08194 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| b8a4c435-7f40-3045-9f44-dee775f7a060 | -7.40697 | -42.62559 | 2026-09-26 04:08:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 2521986e-cf45-3239-8ccb-729288e4284c | -11.8618 | -50.54531 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 9c00664a-7f1f-3c9e-9320-d89def565083 | -11.92912 | -50.5941 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 776198d5-908d-337b-a043-4f07fd49162b | -8.34227 | -44.14028 | 2026-09-26 04:08:00 | NPP-375D | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 3cfb9c4e-3ab5-341b-93bb-4478d1329eec | -9.21623 | -40.55376 | 2026-09-26 04:08:00 | NPP-375D | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| 4a2912e1-5005-3f95-b734-765164b27ed9 | -10.75615 | -50.83727 | 2026-09-26 04:08:00 | NPP-375D | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 8c8b557a-351c-313d-92e3-84e0703f0361 | -9.47254 | -40.33005 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 193.4 |
+| e6c759ba-5687-3a1b-af98-403172f07680 | -7.24517 | -45.26033 | 2026-09-26 04:08:00 | NPP-375D | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 33551e9b-6d42-3e12-8e5e-dfc7f8e0d949 | -9.46182 | -40.33201 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 21.0 |
+| b928caf1-b8c5-3d5f-b675-daf9b8b58cc6 | -7.3522 | -42.08363 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| 94faca21-f090-36d3-95b9-03581f6c353d | -11.92803 | -38.29763 | 2026-09-26 04:08:00 | NPP-375D | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.1 |
+| 4ffba1dd-d9be-36c8-89b9-ed7aeba82b7f | -8.14653 | -44.4473 | 2026-09-26 04:08:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| b9ce9ffd-b62c-33e9-be01-3e5ceafdb38a | -7.37291 | -42.0736 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| e0cf1448-690b-31a7-b7cd-0933773ab37a | -12.26849 | -50.7251 | 2026-09-26 04:08:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 026d8059-3112-3b41-b5e1-9f88c2f4dc55 | -7.35296 | -42.0901 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| 742ce6c2-961d-3c9d-a5f5-fe41d641f80d | -10.76228 | -50.83853 | 2026-09-26 04:08:00 | NPP-375D | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| efa533b1-dc5a-378c-8eb9-9021f2cd8326 | -13.06759 | -43.27673 | 2026-09-26 04:08:00 | NPP-375D | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| cc034c4e-77a1-346b-bdaa-e36afa2091a0 | -13.57868 | -42.54322 | 2026-09-26 04:08:00 | NPP-375D | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 2c723d45-7d41-32f4-a46e-a5a5a40b63f5 | -12.25994 | -50.7371 | 2026-09-26 04:08:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 3df729e0-189d-3666-b3c5-0c57c7199415 | -9.47638 | -40.34927 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| 30784f13-b96e-3835-bf2e-035aded703f2 | -12.27067 | -50.34585 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1a4460a5-f450-3974-a273-24fa5e90f98d | -13.42541 | -43.67154 | 2026-09-26 04:08:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 5cd515e8-0b7b-3f8b-9793-06fd016c84fa | -12.34785 | -48.19814 | 2026-09-26 04:08:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 23d4c82c-c69c-349d-bfd2-2552cd62144d | -9.47871 | -40.33479 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 096ee2e9-2270-36a7-a554-cfaf76ad08d3 | -8.34162 | -44.14399 | 2026-09-26 04:08:00 | NPP-375D | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 8eacfb5d-cb59-3597-9f65-1a83c751cd04 | -13.42817 | -41.33428 | 2026-09-26 04:08:00 | NPP-375D | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 9fa67693-eb23-3c9b-8911-878e2bc3a456 | -12.26937 | -50.7207 | 2026-09-26 04:08:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| d3810023-fd0b-31d4-ab1c-85f8c33dea35 | -9.47813 | -40.33841 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 639ef796-d907-3465-b674-170d6ef6e017 | -9.46682 | -40.34398 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| d8866761-e5a4-3bcc-899d-fb1252958a3a | -7.35664 | -42.07988 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| 698975c0-0d95-3a82-a865-0f41f71f0c7f | -11.87941 | -50.56534 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 64e638b0-a7d9-3c67-bc5a-4b077b36481b | -9.48664 | -40.32866 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 8ceeba77-83be-3b55-b1bf-488134636c23 | -12.25602 | -50.73874 | 2026-09-26 04:08:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 6524e8e5-43a4-3c0d-a6a6-25c4189ce8fb | -11.76283 | -50.63904 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| a7fe537e-6fd4-3ac2-9fa6-5bab492f7d0f | -13.42878 | -41.33054 | 2026-09-26 04:08:00 | NPP-375D | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| bb60df44-ced9-3823-a5c7-30a7d10df2cd | -11.49668 | -42.33839 | 2026-09-26 04:08:00 | NPP-375D | IBIPEBA | BAHIA | Brasil | 2912400 | 29 | 33 | nan | nan | nan | Caatinga | 0.3 |
+| f78bf01c-15f3-3ce6-b1d1-735bd008b30e | -9.47079 | -40.34092 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 25564d08-6845-326d-af97-a9ef93d97ca3 | -7.3544 | -42.08132 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| b79c958c-9303-3497-a9bf-2cc03e54297e | -5.86003 | -46.25886 | 2026-09-26 04:08:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 2fa6cdc9-4c25-3325-940d-d0b6399752c2 | -7.35146 | -42.08801 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| fef076a1-f7c6-3d0b-9f6a-0a609e962116 | -9.48151 | -40.33897 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| f9f0ecab-d37f-32c4-af3b-3f680882d963 | -11.85164 | -50.55043 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| 2e6ea1d1-1036-3fd7-8e17-8ae749613f26 | -11.9393 | -38.29194 | 2026-09-26 04:08:00 | NPP-375D | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
+| 51f4ac76-4a20-3f5c-9d56-c37b7eda2cd2 | -9.48092 | -40.34258 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 3653b86b-ff9d-335c-9b2a-6855002eea3e | -9.48489 | -40.33952 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| ca03f505-d6e8-34fa-988d-98265657a5c5 | -8.52073 | -40.23152 | 2026-09-26 04:08:00 | NPP-375D | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| a1996c48-ca2d-318d-a85c-29d3e281bdee | -9.46637 | -40.32532 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 25.3 |
+| b5edb29f-7810-3694-b04d-6279af906ed1 | -8.34639 | -44.14101 | 2026-09-26 04:08:00 | NPP-375D | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| d307684d-d607-37cf-8a6c-a06a3c610dfd | -9.47592 | -40.33061 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 579ff589-d3ed-3e62-9cb1-5f8547aff752 | -12.65397 | -43.1602 | 2026-09-26 04:08:00 | NPP-375D | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 044a1840-a901-33a0-8215-2ba2fc961305 | -7.36034 | -42.08049 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 037535e5-4109-3492-aa02-351e43874948 | -11.92824 | -50.59848 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 64615a18-970e-3be0-b2a0-8052653092fc | -7.60934 | -46.45921 | 2026-09-26 04:08:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 4a824c2a-689a-3a39-bd93-346cf9f8c504 | -11.93197 | -38.29453 | 2026-09-26 04:08:00 | NPP-375D | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.1 |
+| b0afa8df-3170-3800-bcda-bf851db5047e | -11.8559 | -50.54407 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 1fc7d321-aed8-3e58-bbdc-2c3e94380275 | -8.33659 | -44.12405 | 2026-09-26 04:08:00 | NPP-375D | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 2ccf2120-2f15-36cf-82af-f280680a115d | -7.36922 | -42.09547 | 2026-09-26 04:08:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| ebae094f-5413-30e7-a6e4-7ee9251e8b9a | -9.47033 | -40.32225 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 8f16490a-f302-3e18-a143-e480dd50bf21 | -9.47579 | -40.3529 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| b8dafb3d-3275-3959-af0a-3885048d350a | -10.75696 | -50.83768 | 2026-09-26 04:08:00 | NPP-375D | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 06c035df-4b67-3afd-8467-cae0259945d9 | -9.4765 | -40.32698 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 3aad32e7-6684-3336-ad16-c71ed3a101c7 | -9.47417 | -40.34147 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| c0edcf60-13a6-37f6-9627-302a09025f91 | -12.03057 | -50.65395 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 93a0ee92-d3a7-31de-8b93-d579d9a3bf6e | -11.8584 | -50.85443 | 2026-09-26 04:08:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 84ee3052-e023-3655-95a0-79f3286953fe | -11.94324 | -38.28883 | 2026-09-26 04:08:00 | NPP-375D | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| fce6b864-1ed2-3dbc-9055-554d548ba765 | -9.47533 | -40.33423 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 54e0395e-e120-3066-9f97-a51ee8909b3f | -11.94663 | -38.28935 | 2026-09-26 04:08:00 | NPP-375D | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 2db60a32-8d81-32e4-8f06-069e6f901d3c | -11.76373 | -50.63461 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 0e0b4280-3a6c-3454-9c14-e94fbd5abea6 | -12.13538 | -50.30419 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 55fc71af-e8ba-3904-b10c-4719a5b9d6a9 | -9.48034 | -40.34621 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 8306c21d-d10a-3394-80ba-b11290534d4c | -9.47371 | -40.32281 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 503407cd-53d3-30cb-9438-8d3fd8575cfc | -7.38189 | -44.76867 | 2026-09-26 04:08:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 969393ba-fa79-3294-807f-4665bacc4060 | -11.93503 | -50.59536 | 2026-09-26 04:08:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 396dd787-9cda-3339-876e-7991102c0f7a | -9.47696 | -40.34565 | 2026-09-26 04:08:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
 
 
 [Clique aqui para ver as próximas entradas](README10.md)
