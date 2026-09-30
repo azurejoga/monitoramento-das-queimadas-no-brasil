@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 32f8edfa-ee62-34fc-80c3-6330cbf6fc66 | -10.4146 | -53.7769 | 2026-09-29 04:51:00 | NPP-375D | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 867b7748-cb8e-31df-a087-2efaee74fd6e | -12.63496 | -47.25664 | 2026-09-29 04:51:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 9a743e66-e924-3b83-a86c-558db8a980a4 | -12.0114 | -50.93893 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| ca762992-a156-396b-8797-fad0351d3105 | -14.12147 | -46.28977 | 2026-09-29 04:51:00 | NPP-375D | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| b6fde6e5-2509-3ca5-a17b-730b77da2583 | -12.7367 | -47.26999 | 2026-09-29 04:51:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 12.4 |
-| 438d4853-05ed-31e9-a700-a39ab9b23e37 | -11.43016 | -43.4592 | 2026-09-29 04:51:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 9c8265ba-91a6-30a5-8ce8-2152e91debff | -12.01243 | -50.97532 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| b7778e99-ec81-367b-869c-fe8f0543793b | -12.00945 | -50.9351 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 7033ce0b-f90e-3cd4-bc40-aaa9cb4e26d9 | -7.47833 | -45.81714 | 2026-09-29 04:51:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 778b9d9d-523f-3679-9a61-1baa782ca477 | -8.24815 | -45.44926 | 2026-09-29 04:51:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 94146b9f-56cc-3837-bb67-e8ef1d531267 | -6.51941 | -54.95759 | 2026-09-29 04:51:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| c11d9646-a2ac-395b-a259-9061dfc5a1cb | -12.90309 | -52.04782 | 2026-09-29 04:51:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 7940309a-b737-3fb3-a488-94d11f432dda | -13.52774 | -46.90238 | 2026-09-29 04:51:00 | NPP-375D | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| ee856862-d81f-3b13-b1b0-da3f6c0ae219 | -8.24605 | -45.46355 | 2026-09-29 04:51:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 7516d3a9-bc84-3ded-bdfc-da5cbba26859 | -12.90704 | -52.04476 | 2026-09-29 04:51:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 537a24ca-3ced-3f6d-8c03-88fafc48318f | -11.93452 | -50.91188 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 60ef528b-c348-37b5-8163-7c35a75a3ccd | -10.81869 | -48.73972 | 2026-09-29 04:51:00 | NPP-375D | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 8f3c418b-38e3-3710-bdd4-762477ece149 | -11.99986 | -50.99517 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 5ec1d19e-52b2-3ee4-ba7e-6d7d3d897169 | -10.78284 | -48.74544 | 2026-09-29 04:51:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 44865907-3179-31ef-a6a7-f291540c0521 | -11.17849 | -44.80214 | 2026-09-29 04:51:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| 596389cb-8769-3502-9be2-080cc182bf3d | -11.9667 | -50.92443 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 213c9c98-491f-31bf-95f3-12fc54000833 | -12.7185 | -46.99833 | 2026-09-29 04:51:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 16280e01-d81f-302a-aabb-41788881b524 | -9.77053 | -44.82607 | 2026-09-29 04:51:00 | NPP-375D | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| af57d323-ab31-31b7-88e6-92e2a920bef3 | -12.01972 | -50.95111 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| c6aec7e8-37a6-30a4-8f2e-081b22ff9e6e | -11.95891 | -50.9304 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| ea0c7703-b5d3-398c-81af-5a5605227d8d | -11.42347 | -43.43838 | 2026-09-29 04:51:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| 9d666ad0-69ba-39a8-9053-8b48b8bc3abf | -12.01406 | -50.98648 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 8986bf20-5617-30b4-b602-d59615bf4884 | -11.82898 | -55.21643 | 2026-09-29 04:51:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 9fb3103e-8b02-3d43-af80-e3ac13b9da2d | -12.55676 | -47.15586 | 2026-09-29 04:51:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 734a282c-5dca-315f-8b7b-2620b886d5b6 | -11.43814 | -43.47025 | 2026-09-29 04:51:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 05cbdc5f-429b-3647-9405-559f8e80cc9c | -11.3478 | -54.04602 | 2026-09-29 04:51:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 6f424145-3637-3786-93ac-bf5437373979 | -8.8549 | -49.88077 | 2026-09-29 04:51:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 49b88f55-07d2-3c94-b5ad-4d6b3b83d8d6 | -7.89369 | -54.7264 | 2026-09-29 04:51:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 809c17e7-95d6-39ba-825e-c778491266c0 | -11.3634 | -47.43705 | 2026-09-29 04:51:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| f5838111-6925-3574-854b-5178fe53cc8b | -12.01796 | -50.98349 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 14bdb833-bd5a-3168-9fbf-e7bb358faa5f | -6.13886 | -53.05931 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f0548347-fbe7-3de7-8b51-3023eed6eb5c | -13.08905 | -47.43497 | 2026-09-29 04:51:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 1fb0729f-cad3-3d2a-ab41-4565309a0ced | -11.35368 | -54.05614 | 2026-09-29 04:51:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 068b6581-1712-3cbd-9af1-7501ced5a5df | -9.07217 | -49.87582 | 2026-09-29 04:51:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 85445dca-3218-3397-987f-e01f727d26ee | -11.18017 | -44.79025 | 2026-09-29 04:51:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 18.2 |
-| 8857b1c0-2ff5-3595-af6d-a499db3031ee | -7.56825 | -47.3693 | 2026-09-29 04:51:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 33e222cd-ad65-3a92-9985-3f871a75ae98 | -10.42347 | -53.8367 | 2026-09-29 04:51:00 | NPP-375D | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 60451875-daa9-3706-8461-c5c901e3bfab | -7.76346 | -50.12837 | 2026-09-29 04:51:00 | NPP-375D | PAU D'ARCO | PARÁ | Brasil | 1505551 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2ec6cb2a-4f47-316d-8bff-f430d8e1bac9 | -13.48595 | -48.60425 | 2026-09-29 04:51:00 | NPP-375D | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 305bb45c-5b6f-3ed1-9bfd-b72cfbf6e196 | -10.79705 | -48.74401 | 2026-09-29 04:51:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 57dcae73-b992-332e-ad6f-ef0f15f35c46 | -6.15886 | -52.91268 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| d5fc9c39-a4ad-3f69-abe0-4043afc8e0c7 | -11.07318 | -48.8989 | 2026-09-29 04:51:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| b9ac3f56-4c80-37f0-87f9-53ce63101b20 | -11.86918 | -47.10072 | 2026-09-29 04:51:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 46915bcd-a3f9-33b9-9acb-2465b29aeef6 | -11.62843 | -46.79758 | 2026-09-29 04:51:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 82bb67ee-9e78-35d7-bb2c-168aa69a9032 | -13.17186 | -48.56281 | 2026-09-29 04:51:00 | NPP-375D | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| db8d3b4e-0338-3f81-ac44-ffc93a4d9727 | -11.50255 | -47.40122 | 2026-09-29 04:51:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 7823b78f-dd95-3df7-be51-64250967e5b2 | -7.53849 | -47.11758 | 2026-09-29 04:51:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| fb688a23-8bbf-3b14-98cd-f03575a7b0da | -11.44742 | -43.4715 | 2026-09-29 04:51:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 39687653-a04a-3e4f-b8f4-f20900156e6e | -8.02967 | -43.33798 | 2026-09-29 04:51:00 | NPP-375D | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| 60b69088-908a-3aa6-9487-f972b81da64c | -12.44291 | -48.21655 | 2026-09-29 04:51:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| a14c472a-4f6f-3b9a-9e2e-a539f3af95a6 | -12.76721 | -52.81471 | 2026-09-29 04:51:00 | NPP-375D | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 7709e709-61cc-3f36-87d7-5d535231c9a2 | -11.19107 | -50.05299 | 2026-09-29 04:51:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| fa4db085-e27d-3733-ad7c-0addf60103be | -12.04641 | -50.9338 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 23a472e0-0ec3-3984-8093-8c018f40e61e | -12.00181 | -50.99898 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 83fdf138-6e00-353b-92e1-dfba8d5d1bd6 | -11.34532 | -47.33246 | 2026-09-29 04:51:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 8ca85464-4086-3fa7-be06-b116f49b0e02 | -11.36622 | -54.04926 | 2026-09-29 04:51:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| fd22d6cf-6aa3-373a-9fc0-1e1999577770 | -9.78229 | -48.22348 | 2026-09-29 04:51:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| d7b6eae2-9e28-3b5d-b638-49721e7f3ba4 | -12.1538 | -50.4073 | 2026-09-29 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 1dba94ac-6e8e-3d3a-bae2-e93f75e56bf0 | -6.15958 | -52.90825 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 962f998a-9d5f-373f-bc2d-4b3006ba3c01 | -11.40952 | -43.43649 | 2026-09-29 04:51:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| ed37636c-9c31-353a-a924-72fdab7f613e | -8.35639 | -45.39269 | 2026-09-29 04:51:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| b0c9009e-5dc0-30b6-b04e-429335ca51f3 | -7.47901 | -45.81268 | 2026-09-29 04:51:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 917d7609-0700-3eed-9aeb-f39729137b09 | -10.79193 | -48.75457 | 2026-09-29 04:51:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| e2baa66d-5c5f-3a5d-a04a-fa8a52c1a9b6 | -13.18058 | -48.55234 | 2026-09-29 04:51:00 | NPP-375D | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| f84b77e4-10db-31d7-9fc4-b0982672d8bc | -6.15144 | -52.91146 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 0afb6635-4065-31be-8fe5-b85523caa281 | -9.80426 | -49.28122 | 2026-09-29 04:51:00 | NPP-375D | DIVINÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1707108 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 6185c527-9d27-36f5-9e5e-e34f506358d7 | -9.96689 | -50.12352 | 2026-09-29 04:51:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 979b958f-9c6c-3f1e-9f6b-bb545658be02 | -11.19775 | -50.05406 | 2026-09-29 04:51:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| dab49b99-ecf3-37fd-8893-02e20b793e9c | -12.16258 | -50.81827 | 2026-09-29 04:51:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| fe218a6c-36d5-3997-a772-58f72cbb6e95 | -12.38838 | -50.22637 | 2026-09-29 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 9bdf040b-7053-3e89-8a48-88d29c1e983f | -12.0153 | -50.93594 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| cc8b338b-45c1-36a0-b70a-67b6fd3ff582 | -8.64328 | -45.34241 | 2026-09-29 04:51:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| f33afd14-2c33-3042-9869-8f4d119698b3 | -7.46637 | -45.8199 | 2026-09-29 04:51:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 89abb49d-cbf4-33e7-b2f1-7987bfcae7d2 | -9.81866 | -44.94535 | 2026-09-29 04:51:00 | NPP-375D | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| eb683eec-9d4c-3957-bbe1-3b258eab822e | -11.17174 | -44.78894 | 2026-09-29 04:51:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 12.8 |
-| 14c43ff8-3cbc-3de4-82dd-176f519e1a52 | -6.31391 | -52.62284 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| cee8a9f7-e1a4-3166-95fb-cd8e881ee12f | -11.41882 | -43.43774 | 2026-09-29 04:51:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 01b70cc6-db72-379f-b41e-bf87c0e38bb8 | -11.14755 | -49.04954 | 2026-09-29 04:51:00 | NPP-375D | CRIXÁS DO TOCANTINS | TOCANTINS | Brasil | 1706258 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b2fc5834-2c39-3cb1-9365-6330c9e4d682 | -6.32119 | -52.62406 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| d29348a9-f1eb-3ca5-82e3-b3c69ff4046e | -12.0091 | -50.97477 | 2026-09-29 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| e1fc3756-d188-3bd4-b0b9-f12486befdc1 | -12.47853 | -47.48528 | 2026-09-29 04:51:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 60c77abc-6bfe-3a66-8bee-68ba522bf0d0 | -12.6804 | -45.01244 | 2026-09-29 04:51:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 3a484357-3166-346d-90f5-5a4875b4b792 | -11.61918 | -46.78209 | 2026-09-29 04:51:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 171c17c3-5b03-30db-9728-62179e2a7e16 | -11.17062 | -44.79689 | 2026-09-29 04:51:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| b5c75805-c1fe-3ee8-957a-602336eef420 | -11.47771 | -49.73424 | 2026-09-29 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| a8b663ee-c3a3-3067-820c-7c0d4d02febc | -11.39195 | -54.04315 | 2026-09-29 04:51:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b6af27c6-12c5-3d2e-8ecd-22f56c6f27cb | -11.35811 | -54.05238 | 2026-09-29 04:51:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 51b8c6e5-e6aa-3391-9377-bebc90f48d82 | -11.40151 | -43.42539 | 2026-09-29 04:51:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 41ff5325-4f97-3171-86a3-0d25153fbcb0 | -14.10945 | -46.28827 | 2026-09-29 04:51:00 | NPP-375D | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 9b13781d-51a7-3fd9-ac04-bcf0ac15f3d3 | -11.40551 | -43.43095 | 2026-09-29 04:51:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| bda1ed9b-0226-391b-af9c-b5c7d7cc98b9 | -12.1527 | -50.39259 | 2026-09-29 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 803da903-2a54-3122-9f09-28eaad27fc4b | -11.40887 | -43.44141 | 2026-09-29 04:51:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 30c49491-ae97-3d05-8862-18ffc8f95867 | -7.60777 | -46.45885 | 2026-09-29 04:51:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| 91991ea6-949c-33f8-acca-4c18b51ad605 | -10.27874 | -44.63568 | 2026-09-29 04:51:00 | NPP-375D | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 2dcf64a2-9e14-348a-839e-6fbc47d7cf56 | -12.56049 | -47.15637 | 2026-09-29 04:51:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 1104de24-d061-3101-8bc9-7ef23b6ef83d | -5.75203 | -45.16424 | 2026-09-30 04:53:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| df1e746b-c076-3fe0-8b7a-8797ec76d89b | -10.7162 | -44.42617 | 2026-09-30 04:53:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| ba8e7df9-4619-37a2-99a5-ec90cb354ad4 | -15.34934 | -50.15177 | 2026-09-30 04:53:00 | NOAA-20 | FAINA | GOIÁS | Brasil | 5207535 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 30daa760-1e93-3e54-b21c-ebce7b9e1de5 | -7.5318 | -44.54513 | 2026-09-30 04:53:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| f77d6e4c-18da-3984-b11c-249388a7f043 | -5.03166 | -43.56766 | 2026-09-30 04:53:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 9a1580d2-cac0-3634-b895-56a6d319143b | -7.95298 | -47.70697 | 2026-09-30 04:53:00 | NOAA-20 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| f07434bd-5ad0-3e56-a492-4ddd80edc09d | -9.81864 | -48.2123 | 2026-09-30 04:53:00 | NOAA-20 | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 7c2f1811-63e7-3520-a2a1-21e0dfa3bcf8 | -5.9758 | -55.37391 | 2026-09-30 04:53:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 02a57d01-691f-3b01-b7d1-0f3741266c09 | -4.80232 | -45.64077 | 2026-09-30 04:53:00 | NOAA-20 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| f4875c73-93a2-3305-a0dc-f17a2d8f6e69 | -11.71156 | -43.4465 | 2026-09-30 04:53:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| cf90e27d-4932-31e1-817a-d0be1ececf5e | -6.11094 | -55.70086 | 2026-09-30 04:53:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 8ae418bf-d378-3142-808c-dc67d67c3ab4 | -10.51588 | -45.37828 | 2026-09-30 04:53:00 | NOAA-20 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| cac4f5dd-e8bc-348e-b3fc-da25930cbe8b | -10.71199 | -50.84229 | 2026-09-30 04:53:00 | NOAA-20 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 58ece944-7425-3901-9cd2-8235a24c736c | -7.82155 | -45.82488 | 2026-09-30 04:53:00 | NOAA-20 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| b84272f4-19ef-33c8-b8e6-733ec2c4e740 | -7.50502 | -45.80822 | 2026-09-30 04:53:00 | NOAA-20 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 70ba3221-287c-383a-8c78-e77ec6c719dd | -3.83672 | -52.26251 | 2026-09-30 04:53:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 43f95565-9437-34e1-bee7-6831560f8999 | -7.82302 | -45.81682 | 2026-09-30 04:53:00 | NOAA-20 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 6ec08ca1-d45e-35e7-9109-116f7c7692b0 | -11.43095 | -43.42947 | 2026-09-30 04:53:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| fe494d2a-7af6-380b-a770-05d9ef4a2cd1 | -8.38735 | -48.06812 | 2026-09-30 04:53:00 | NOAA-20 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| eba91583-db5a-310e-853f-c0805665fe19 | -10.83595 | -48.70359 | 2026-09-30 04:53:00 | NOAA-20 | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 4d0d0b93-0867-3318-98f3-0fccae014bdc | -6.31051 | -56.05022 | 2026-09-30 04:53:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 9298b2c3-6522-33e6-bf12-2f8b75acf666 | -3.24625 | -50.81067 | 2026-09-30 04:53:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e9a15cdf-df1d-3781-9071-521b55c6257b | -7.01972 | -44.62114 | 2026-09-30 04:53:00 | NOAA-20 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| e1e8fa87-2e02-30a2-b768-a4aea271256b | -11.7164 | -43.45046 | 2026-09-30 04:53:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 42b57e26-0f8b-3773-93e0-c3939cfe8295 | -9.78994 | -48.22604 | 2026-09-30 04:53:00 | NOAA-20 | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| cfa389de-9b0e-3e57-bd34-857b6c93be4c | -11.31982 | -47.75042 | 2026-09-30 04:53:00 | NOAA-20 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| e545a873-48cb-31ac-80e0-914ce90ec8ce | -9.59796 | -45.73001 | 2026-09-30 04:53:00 | NOAA-20 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| a9094e4c-9b2f-3388-a618-7d0f26682530 | -6.72598 | -45.58349 | 2026-09-30 04:53:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 60036364-d745-3859-bb08-bf6ce87ffdc6 | -7.0086 | -45.30628 | 2026-09-30 04:53:00 | NOAA-20 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| b48e1c14-55c6-3903-a1c6-f0cd7d4dd506 | -10.76713 | -50.483 | 2026-09-30 04:53:00 | NOAA-20 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 875b004e-2594-3b95-b24a-d5f378262e2e | -6.35777 | -55.45269 | 2026-09-30 04:53:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| fa35ca45-f719-3b86-8427-8c43d18500a1 | -3.35878 | -50.46531 | 2026-09-30 04:53:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 18b160f4-b159-31d2-8d6d-af653cb19477 | -3.18214 | -51.23656 | 2026-09-30 04:53:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 8ea3372f-88b0-37d3-bead-1a0de00f7e7e | -4.81345 | -49.46311 | 2026-09-30 04:53:00 | NOAA-20 | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| fd81ca8d-375d-3995-a340-f85a5be12400 | -11.365 | -43.35997 | 2026-09-30 04:53:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 204dc1cd-6d49-38fc-ae95-04d118498188 | -11.38432 | -43.37577 | 2026-09-30 04:53:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 95265221-f2d9-3283-b664-843d0c22f0a5 | -8.26558 | -54.75518 | 2026-09-30 04:53:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 8e392b4a-1096-3d10-8586-207d7a46f0ac | -5.74168 | -45.17492 | 2026-09-30 04:53:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| a53353cb-c01a-3f35-8138-f89acdcc36be | -7.72575 | -54.80065 | 2026-09-30 04:53:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e44bf0ee-e5c4-391c-83ed-f13f871af875 | -11.38377 | -43.46601 | 2026-09-30 04:53:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 64127185-2465-3919-8e67-a7d8ab05cb1a | -5.03268 | -43.56965 | 2026-09-30 04:53:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| dc8f3a3d-f705-3d85-990c-c17cecdbddf9 | -7.55198 | -55.0375 | 2026-09-30 04:53:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| e47130fe-5dc2-3997-a2b6-a2e7284a0e16 | -7.8137 | -45.81968 | 2026-09-30 04:53:00 | NOAA-20 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 5f3dab3c-6216-352e-a057-3d3fb0774020 | -6.22484 | -47.44801 | 2026-09-30 04:53:00 | NOAA-20 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| bcc28158-4309-3303-adb1-b284c97edde6 | -3.05225 | -53.87014 | 2026-09-30 04:53:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ddd94931-ed7a-3044-9549-2ac7127f4b6a | -11.43536 | -43.43663 | 2026-09-30 04:53:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 0d776627-02dd-3163-a718-bd19cae34308 | -5.74346 | -45.16308 | 2026-09-30 04:53:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 481d25a1-a110-39e4-8cb5-7fa2eadbc6f1 | -3.91533 | -49.37283 | 2026-09-30 04:53:00 | NOAA-20 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 4704f343-40f4-3e18-a0fe-518342a0b1b8 | -3.14622 | -54.07874 | 2026-09-30 04:53:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 937e9f8a-ec2d-3104-b3c1-f1eb40cb5612 | -11.1907 | -45.117 | 2026-09-30 04:53:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 5c5619fb-fad6-3566-b1b4-3174945c8523 | -10.20048 | -49.97605 | 2026-09-30 04:53:00 | NOAA-20 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| e7e69c27-4b83-3512-b865-59135056fa51 | -7.38403 | -47.01244 | 2026-09-30 04:53:00 | NOAA-20 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 45f8e692-94b1-325a-b0c1-6a74c8741d5b | -6.73498 | -49.13227 | 2026-09-30 04:53:00 | NOAA-20 | PIÇARRA | PARÁ | Brasil | 1505635 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| dc43e7ee-f45d-3f51-9da8-3d2749dd3281 | -16.67087 | -41.85459 | 2026-09-30 04:53:00 | NOAA-20 | ITINGA | MINAS GERAIS | Brasil | 3134004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
+| 49466370-0fa0-3c01-8e3b-cb78325ca619 | -7.82139 | -45.82838 | 2026-09-30 04:53:00 | NOAA-20 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 61f32be4-1130-3dd2-8243-d76dc4335220 | -4.80952 | -49.46617 | 2026-09-30 04:53:00 | NOAA-20 | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| f2d19fd2-443f-3aa9-8585-c672de269f0a | -3.96601 | -53.43542 | 2026-09-30 04:53:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 686610cb-443d-310f-a037-2efc50cbf61a | -3.01015 | -54.22599 | 2026-09-30 04:53:00 | NOAA-20 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 5765c78c-8334-3b5d-a848-53c345a72454 | -8.26289 | -49.50553 | 2026-09-30 04:53:00 | NOAA-20 | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 097c6a0e-afae-3eef-82b0-d1867167de91 | -9.04388 | -47.32736 | 2026-09-30 04:53:00 | NOAA-20 | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 05e1eb3d-9785-30a2-8a0a-95e7cfdc79a0 | -4.12684 | -46.86879 | 2026-09-30 04:53:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 8.9 |
+| 9afea336-ae9e-3e4f-8f50-6736249d8e87 | -7.4748 | -47.41686 | 2026-09-30 04:53:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 32d5e824-6515-3381-a206-6c9eab131fcf | -4.11781 | -48.82138 | 2026-09-30 04:53:00 | NOAA-20 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 20.8 |
+| 610796fd-5356-3643-8164-4d4f693a9c8b | -8.11425 | -54.85567 | 2026-09-30 04:53:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 3a5a199c-5439-34be-b108-89cfeed5ce59 | -10.77174 | -47.72038 | 2026-09-30 04:53:00 | NOAA-20 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 90785298-b7e2-3ecc-89bc-a8d2c3786b22 | -11.44018 | -43.44057 | 2026-09-30 04:53:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 9e3acc39-5c1e-30f5-9a4f-0d537ea2df5e | -5.8557 | -51.79315 | 2026-09-30 04:53:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 8b711aa4-2f5b-3a09-8c03-d117fcd72691 | -3.56809 | -50.25865 | 2026-09-30 04:53:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 537c0145-9295-3f61-9308-fe058bcae97d | -11.175 | -44.82571 | 2026-09-30 04:53:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| ae76a6a5-0450-3a27-9000-2e9cf82ee316 | -7.01845 | -45.29927 | 2026-09-30 04:53:00 | NOAA-20 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| b4190749-cc04-3e9c-9160-faaa195c7450 | -7.82746 | -45.81406 | 2026-09-30 04:53:00 | NOAA-20 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| e68a619f-7e84-345f-bf08-369348ae9667 | -7.55126 | -55.04185 | 2026-09-30 04:53:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| ccb37a72-38c5-336f-a891-9e5115c84c3f | -10.58128 | -50.85241 | 2026-09-30 04:53:00 | NOAA-20 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 00463b97-8375-3076-9c39-6c62b220b80b | -11.26359 | -43.52971 | 2026-09-30 04:53:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 34e86a45-c84a-3f17-8ca6-3d5e284c713a | -6.33463 | -51.15248 | 2026-09-30 04:53:00 | NOAA-20 | PARAUAPEBAS | PARÁ | Brasil | 1505536 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 49103cb6-1a9c-34e6-aaaf-d3458df54c33 | -7.54043 | -47.1237 | 2026-09-30 04:53:00 | NOAA-20 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 17abfd22-84fa-3745-97b8-e7ed5fb927a3 | -5.85238 | -51.79263 | 2026-09-30 04:53:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 0f83186f-5e3b-3f18-a6fb-cc4734907ee4 | -5.72886 | -45.17306 | 2026-09-30 04:53:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 2ac33fde-5e2e-364d-a51f-8b64a587344e | -4.29799 | -48.60813 | 2026-09-30 04:53:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 01963d22-fc62-3c43-9776-ab5ceff1fdbe | -15.63494 | -43.2383 | 2026-09-30 04:53:00 | NOAA-20 | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Caatinga | 6.1 |
+| 0cadf711-0d96-3a1e-b79f-11e92eecaecb | -6.22923 | -47.44416 | 2026-09-30 04:53:00 | NOAA-20 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 44eab863-a73f-3453-ad3b-7863ab555a92 | -5.87239 | -50.16119 | 2026-09-30 04:53:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| b248a69d-a62a-3751-b814-a38dac9c34c1 | -13.54191 | -52.22338 | 2026-09-30 04:53:00 | NOAA-20 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| b9704a96-d3bf-3508-858b-9edfb6c2a6bc | -7.49896 | -55.03772 | 2026-09-30 04:53:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| a627bbc9-573a-3c02-8e47-78d780079ac5 | -6.38278 | -55.14139 | 2026-09-30 04:53:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 32855e70-48c3-36ad-9a93-e39ef8b3e53f | -4.54275 | -50.77619 | 2026-09-30 04:53:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 0adc2da6-c137-3f6e-8987-7553b1cc0ea5 | -3.1529 | -54.08438 | 2026-09-30 04:53:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| f56e49b8-4585-3a10-bf54-c66f0bdfb39a | -6.34327 | -55.3292 | 2026-09-30 04:53:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 7601afbd-3d70-334d-99f0-eb2d0d69890f | -3.60905 | -48.91668 | 2026-09-30 04:53:00 | NOAA-20 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 1cca9edb-9a63-3002-bf62-c58483675297 | -10.57455 | -50.85136 | 2026-09-30 04:53:00 | NOAA-20 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| d7cfe715-d989-3864-b794-4bba9f1eb48e | -4.80532 | -45.64851 | 2026-09-30 04:53:00 | NOAA-20 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 04ab9027-4e86-3542-97a2-bc72eef84f0d | -3.38127 | -50.94536 | 2026-09-30 04:53:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 5553c9ec-10f3-3db8-9a52-6628464365ad | -3.71022 | -54.221 | 2026-09-30 04:53:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 7eabe45a-e4c1-33e1-907e-05c459bb3a69 | -11.40075 | -43.41557 | 2026-09-30 04:53:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 626f2b19-4624-3cfc-af6b-5883c7d739eb | -6.40298 | -55.20559 | 2026-09-30 04:53:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 44d0f391-7440-3ed1-b736-e501ecc4c77a | -7.0252 | -44.62419 | 2026-09-30 04:53:00 | NOAA-20 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| d34b6711-e358-3c59-88d6-e4f87de6a424 | -5.30001 | -55.98127 | 2026-09-30 04:53:00 | NOAA-20 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 30244fd8-f553-3423-86f7-a349837cf0fd | -9.81934 | -48.2076 | 2026-09-30 04:53:00 | NOAA-20 | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 74cb4c54-b51f-30b7-9770-fb3bf286bcff | -6.22551 | -47.44356 | 2026-09-30 04:53:00 | NOAA-20 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| c5385b9c-c610-3a76-9d13-b594ae4fcdef | -4.35881 | -47.77016 | 2026-09-30 04:53:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
 
 
 [Clique aqui para ver as próximas entradas](README50.md)
