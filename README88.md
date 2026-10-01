@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 37889b2c-7d8e-325e-8077-e1734d6a1bf9 | -14.60769 | -41.10667 | 2026-09-29 15:46:00 | NPP-375 | ANAGÉ | BAHIA | Brasil | 2901205 | 29 | 33 | nan | nan | nan | Caatinga | 3.8 |
-| 476ec896-7669-336b-8c6a-9e68edbb028a | -14.63351 | -40.70523 | 2026-09-29 15:46:00 | NPP-375 | VITÓRIA DA CONQUISTA | BAHIA | Brasil | 2933307 | 29 | 33 | nan | nan | nan | Mata Atlântica | 15.5 |
-| 2eb114f8-5f75-376b-ad1b-12ee1dd3f785 | -8.84148 | -41.12555 | 2026-09-29 15:46:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 26.4 |
-| 4bf208ea-b643-3af2-bd63-5d7c9a557df7 | -13.37133 | -44.00072 | 2026-09-29 15:46:00 | NPP-375 | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 62.1 |
-| 90e66b2e-cc2b-3806-98d3-bc49e2f56bf3 | -15.15867 | -43.57294 | 2026-09-29 15:46:00 | NPP-375 | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | 6.0 |
-| 09b221bf-9915-31da-b837-d33c8ee701da | -11.65941 | -43.52182 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 19.1 |
-| af136719-ce1f-31bd-816f-b052da84da0d | -13.32875 | -42.69554 | 2026-09-29 15:46:00 | NPP-375 | MACAÚBAS | BAHIA | Brasil | 2919801 | 29 | 33 | nan | nan | nan | Caatinga | 82.9 |
-| 273b52d1-5074-3f21-88c1-e116289e8f2e | -12.75018 | -38.21894 | 2026-09-29 15:46:00 | NPP-375 | CAMAÇARI | BAHIA | Brasil | 2905701 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.8 |
-| 1381268e-6490-3ab7-acd0-27c707ddc103 | -13.22387 | -42.53759 | 2026-09-29 15:46:00 | NPP-375 | BOTUPORÃ | BAHIA | Brasil | 2904209 | 29 | 33 | nan | nan | nan | Caatinga | 6.9 |
-| a22a3c61-5570-3417-8625-9ed0a6230984 | -11.43036 | -43.47422 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 18.3 |
-| 1baae14d-497d-3296-8156-f6fa38ff6ad6 | -11.26492 | -43.54887 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 106.5 |
-| 29f12fe1-2074-3529-b28b-68e2c841c9a3 | -15.54909 | -40.75101 | 2026-09-29 15:46:00 | NPP-375 | ENCRUZILHADA | BAHIA | Brasil | 2910404 | 29 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 16ff7060-dab9-3c40-844f-996927c46d8f | -11.6761 | -43.54609 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 105.7 |
-| 9d203b7f-5684-3825-870a-4299da8a0092 | -14.09518 | -41.39031 | 2026-09-29 15:46:00 | NPP-375 | BRUMADO | BAHIA | Brasil | 2904605 | 29 | 33 | nan | nan | nan | Caatinga | 4.6 |
-| f129e6b7-057b-398a-b0f0-15419fc9ca89 | -15.06572 | -41.94248 | 2026-09-29 15:46:00 | NPP-375 | CORDEIROS | BAHIA | Brasil | 2909000 | 29 | 33 | nan | nan | nan | Mata Atlântica | 12.5 |
-| 4a5e823c-0cd8-309c-b18d-18785b7a277a | -11.44252 | -43.45226 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 36.7 |
-| 1e14a6ea-3a8e-3d9d-ae44-a4fd03d542fd | -11.63116 | -43.51982 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 91.0 |
-| ef0d7217-9aeb-3679-b8df-68f4c5285b01 | -8.98949 | -44.15492 | 2026-09-29 15:46:00 | NPP-375 | SANTA LUZ | PIAUÍ | Brasil | 2209302 | 22 | 33 | nan | nan | nan | Cerrado | 12.7 |
-| 9ebfd49c-eefd-3d6c-b232-dee86b9ab390 | -11.61274 | -44.14613 | 2026-09-29 15:46:00 | NPP-375 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 25.3 |
-| 108009a7-14a4-310e-bfcf-3542295280a4 | -14.43204 | -41.13801 | 2026-09-29 15:46:00 | NPP-375 | ARACATU | BAHIA | Brasil | 2902005 | 29 | 33 | nan | nan | nan | Caatinga | 3.9 |
-| 8f70f5b2-387c-3cf7-9fe7-0d1eae747f66 | -8.98869 | -44.14817 | 2026-09-29 15:46:00 | NPP-375 | SANTA LUZ | PIAUÍ | Brasil | 2209302 | 22 | 33 | nan | nan | nan | Cerrado | 12.7 |
-| 730affb6-7383-3093-8322-a69df61d1976 | -11.65192 | -43.51768 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 21.5 |
-| f75d4014-ab4c-36e2-af4e-bb061e444e24 | -15.70564 | -40.59618 | 2026-09-29 15:46:00 | NPP-375 | MACARANI | BAHIA | Brasil | 2919702 | 29 | 33 | nan | nan | nan | Mata Atlântica | 10.1 |
-| 5c851d61-5ba3-3fa2-bc44-ba606b1fe5ab | -11.41846 | -43.42313 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 39.7 |
-| 1a031784-e12c-3daf-b46f-5b86b1ef9bc9 | -11.64418 | -43.51056 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 16.4 |
-| 4ece98ac-3820-3efd-bca1-26c556631203 | -14.60419 | -40.77467 | 2026-09-29 15:46:00 | NPP-375 | VITÓRIA DA CONQUISTA | BAHIA | Brasil | 2933307 | 29 | 33 | nan | nan | nan | Caatinga | 14.4 |
-| e1424561-1ebf-349c-81c6-c009522714bc | -10.11505 | -43.92287 | 2026-09-29 15:46:00 | NPP-375 | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | 32.3 |
-| 149a29ee-8357-3169-93c1-732a8712bee2 | -15.16337 | -43.57321 | 2026-09-29 15:46:00 | NPP-375 | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | 9.0 |
-| 6be860a6-8a9d-3dbc-8032-db20b7dd3688 | -11.41091 | -43.41763 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 45.3 |
-| 9763241f-0754-3d21-9ebb-7b97e992aad9 | -9.79822 | -44.82759 | 2026-09-29 15:46:00 | NPP-375 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 12.0 |
-| cc447600-2b7c-356d-8159-6c5d7646e0e5 | -11.41227 | -43.43009 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 43.8 |
-| 902eeb6e-89e8-30e8-bd7c-434a21ba6484 | -9.44466 | -41.82039 | 2026-09-29 15:46:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 7.3 |
-| ff0c7e1f-66c5-3608-9772-64a84f68f9e9 | -15.98278 | -43.00774 | 2026-09-29 15:46:00 | NPP-375 | RIACHO DOS MACHADOS | MINAS GERAIS | Brasil | 3154507 | 31 | 33 | nan | nan | nan | Cerrado | 10.8 |
-| 7520b249-c9e9-379d-bba4-8dbd2eae82ff | -14.67464 | -42.84188 | 2026-09-29 15:46:00 | NPP-375 | SEBASTIÃO LARANJEIRAS | BAHIA | Brasil | 2930006 | 29 | 33 | nan | nan | nan | Caatinga | 6.8 |
-| 92466c6b-31e8-340a-b3c1-f23f850cc469 | -9.61097 | -41.61442 | 2026-09-29 15:46:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 5.5 |
-| 88af88c4-062a-3bc0-bd00-8692547f5eec | -15.5343 | -40.84692 | 2026-09-29 15:46:00 | NPP-375 | ENCRUZILHADA | BAHIA | Brasil | 2910404 | 29 | 33 | nan | nan | nan | Mata Atlântica | 39.0 |
-| ab012698-7304-363a-a1e4-0daad4803047 | -12.32164 | -39.06232 | 2026-09-29 15:46:00 | NPP-375 | FEIRA DE SANTANA | BAHIA | Brasil | 2910800 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 57c1d839-332d-3077-85cd-af63feaa4ea7 | -9.44522 | -41.82499 | 2026-09-29 15:46:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 7.8 |
-| ab8efa1a-0878-3194-a452-3bbfe947847b | -11.62897 | -43.50071 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 90.3 |
-| 6e0677a2-a6aa-33c2-8ecf-eed58bee28a2 | -13.4789 | -42.48123 | 2026-09-29 15:46:00 | NPP-375 | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 6.9 |
-| bc8c7d96-653e-3a44-b4a2-586c4dd5e403 | -15.5055 | -42.87667 | 2026-09-29 15:46:00 | NPP-375 | MATO VERDE | MINAS GERAIS | Brasil | 3141009 | 31 | 33 | nan | nan | nan | Cerrado | 14.1 |
-| dda16a2f-3857-3ed5-b007-7dc2b9b54290 | -14.66182 | -41.32642 | 2026-09-29 15:46:00 | NPP-375 | CARAÍBAS | BAHIA | Brasil | 2906899 | 29 | 33 | nan | nan | nan | Caatinga | 42.1 |
-| 4090952f-dbcb-3abf-a334-e7c2ed790fa4 | -11.3134 | -43.55132 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 34.7 |
-| 49f21280-c77e-38a2-ae4c-195ff0064d7b | -14.26794 | -41.39588 | 2026-09-29 15:46:00 | NPP-375 | ARACATU | BAHIA | Brasil | 2902005 | 29 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| 59f09540-dee2-3c80-8d6f-a33f159637c4 | -13.37281 | -44.01562 | 2026-09-29 15:46:00 | NPP-375 | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 37.2 |
-| 513f80f0-f3c7-3b34-b92d-2453c5c329ba | -8.37302 | -36.96001 | 2026-09-29 15:46:00 | NPP-375 | ARCOVERDE | PERNAMBUCO | Brasil | 2601201 | 26 | 33 | nan | nan | nan | Caatinga | 5.1 |
-| 7a71b139-c59a-3bd2-b8d3-f35810478638 | -12.44094 | -44.14157 | 2026-09-29 15:46:00 | NPP-375 | TABOCAS DO BREJO VELHO | BAHIA | Brasil | 2930907 | 29 | 33 | nan | nan | nan | Cerrado | 132.1 |
-| 81d2a34e-1d03-3d8a-a20c-69086db02f0a | -10.28887 | -44.63006 | 2026-09-29 15:46:00 | NPP-375 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 27.4 |
-| 372c7274-8788-34e3-8242-95d749d189da | -14.71513 | -41.5939 | 2026-09-29 15:46:00 | NPP-375 | PRESIDENTE JÂNIO QUADROS | BAHIA | Brasil | 2925709 | 29 | 33 | nan | nan | nan | Caatinga | 4.4 |
-| 4057d1bd-57e3-3e0d-9f77-cda06625196f | -11.63035 | -43.51208 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 107.6 |
-| 3c6e4684-8e40-3b86-8eba-8058010d702d | -9.87583 | -43.62217 | 2026-09-29 15:46:00 | NPP-375 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| b6f6a52a-36d5-36a5-9d4c-86dc876a72cc | -12.48223 | -40.20703 | 2026-09-29 15:46:00 | NPP-375 | ITABERABA | BAHIA | Brasil | 2914703 | 29 | 33 | nan | nan | nan | Caatinga | 7.1 |
-| 710c6d06-4667-3b31-a950-e18e4291a8f0 | -11.61668 | -43.3218 | 2026-09-29 15:46:00 | NPP-375 | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| bfb19eba-a5c0-3c28-b982-1c7efc8b7a26 | -8.05773 | -37.78768 | 2026-09-29 15:46:00 | NPP-375 | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 15.6 |
-| b874d6be-ebe9-3d48-b2fe-46487b958a40 | -15.30414 | -41.77218 | 2026-09-29 15:46:00 | NPP-375 | NINHEIRA | MINAS GERAIS | Brasil | 3144656 | 31 | 33 | nan | nan | nan | Mata Atlântica | 81.4 |
-| 934ae797-442e-37ef-9656-2ef39689f0ba | -11.40123 | -43.45647 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 20.6 |
-| 54fcd617-481d-39c0-b3fa-41be87ef7666 | -15.22814 | -41.73937 | 2026-09-29 15:46:00 | NPP-375 | NINHEIRA | MINAS GERAIS | Brasil | 3144656 | 31 | 33 | nan | nan | nan | Mata Atlântica | 81.9 |
-| 827df5ae-63ce-3e1b-8245-ca3d35b8d9f4 | -11.83579 | -42.10999 | 2026-09-29 15:46:00 | NPP-375 | BARRA DO MENDES | BAHIA | Brasil | 2903003 | 29 | 33 | nan | nan | nan | Caatinga | 10.4 |
-| 90fb362f-9908-3a59-b89a-5d69a6431c77 | -11.30771 | -43.55637 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 23.9 |
-| 91527d24-c300-35c2-beb1-1fb7338cadab | -8.31112 | -39.37946 | 2026-09-29 15:46:00 | NPP-375 | CABROBÓ | PERNAMBUCO | Brasil | 2603009 | 26 | 33 | nan | nan | nan | Caatinga | 4.8 |
-| 290ea121-3207-3879-856c-1ba7e4f2f5ce | -11.41513 | -43.46301 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 32.4 |
-| 167e43ab-250f-32da-a1f4-038d3708f069 | -11.4336 | -43.44223 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 158.3 |
-| 09b1ca77-406f-3289-9a9e-7975267110f3 | -10.48728 | -39.52606 | 2026-09-29 15:46:00 | NPP-375 | MONTE SANTO | BAHIA | Brasil | 2921500 | 29 | 33 | nan | nan | nan | Caatinga | 7.7 |
-| d0a65723-2bd7-30d0-be83-5768731c92a2 | -13.67687 | -41.01837 | 2026-09-29 15:46:00 | NPP-375 | BARRA DA ESTIVA | BAHIA | Brasil | 2902807 | 29 | 33 | nan | nan | nan | Caatinga | 15.1 |
-| 7d92ed79-ff21-3894-bff9-9fad079ed947 | -11.26278 | -43.52986 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 93.6 |
-| 81dae361-2f27-3ae8-b5e1-ebfdb9375c43 | -9.42509 | -37.77264 | 2026-09-29 15:46:00 | NPP-375 | OLHO D'ÁGUA DO CASADO | ALAGOAS | Brasil | 2705804 | 27 | 33 | nan | nan | nan | Caatinga | 6.7 |
-| b7bfdf7a-8ee0-326d-aef3-948d2edf23fa | -11.27038 | -43.53539 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 108.8 |
-| 8807656f-c0f2-3866-8fb1-be5d4d63918a | -15.22945 | -41.74748 | 2026-09-29 15:46:00 | NPP-375 | NINHEIRA | MINAS GERAIS | Brasil | 3144656 | 31 | 33 | nan | nan | nan | Mata Atlântica | 157.5 |
-| 8fd0e477-fb91-3169-a139-adb909a5386f | -11.44194 | -43.45401 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 43.1 |
-| 544cb534-f293-39c3-b450-b87b3c443ade | -13.52375 | -40.71648 | 2026-09-29 15:46:00 | NPP-375 | IRAMAIA | BAHIA | Brasil | 2914307 | 29 | 33 | nan | nan | nan | Caatinga | 19.3 |
-| 02abf8d5-1adf-3b48-8e4a-a1929ef73416 | -13.53458 | -39.95969 | 2026-09-29 15:46:00 | NPP-375 | JAGUAQUARA | BAHIA | Brasil | 2917607 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| 9e46865e-aa11-3b58-b307-879ec1c88fd6 | -13.35238 | -40.67153 | 2026-09-29 15:46:00 | NPP-375 | MARACÁS | BAHIA | Brasil | 2920502 | 29 | 33 | nan | nan | nan | Caatinga | 4.2 |
-| b8e1ac63-2744-3e37-a7d3-052641955049 | -8.65685 | -39.26053 | 2026-09-29 15:46:00 | NPP-375 | ABARÉ | BAHIA | Brasil | 2900207 | 29 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 0ec183fd-c387-3acf-8c0f-c11bddbb61b5 | -11.7221 | -43.45678 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 32.1 |
-| 0879bfb5-60eb-3084-ad29-43be5aa71e02 | -15.08434 | -41.4147 | 2026-09-29 15:46:00 | NPP-375 | TREMEDAL | BAHIA | Brasil | 2931806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
-| 471e3ef0-04fd-39d2-b6bf-a7f4dff96584 | -9.05895 | -45.00833 | 2026-09-29 15:46:00 | NPP-375 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 12.2 |
-| 9dd29560-4995-3d67-a581-8b5bbd2f4c29 | -14.15527 | -41.03146 | 2026-09-29 15:46:00 | NPP-375 | MIRANTE | BAHIA | Brasil | 2921450 | 29 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| dce1072d-f616-3a9e-99cf-dbf2373ed807 | -16.16384 | -42.8519 | 2026-09-29 15:46:00 | NPP-375 | GRÃO MOGOL | MINAS GERAIS | Brasil | 3127800 | 31 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 319c9cc2-0313-3aee-9698-a7abf891d77c | -11.66491 | -42.61496 | 2026-09-29 15:46:00 | NPP-375 | GENTIO DO OURO | BAHIA | Brasil | 2911303 | 29 | 33 | nan | nan | nan | Caatinga | 7.1 |
-| e85e8919-298b-399f-bb3b-479de8f45942 | -13.33739 | -43.95316 | 2026-09-29 15:46:00 | NPP-375 | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 19.1 |
-| b56b7077-d314-3fe1-a010-8e0a42402399 | -14.65602 | -41.33176 | 2026-09-29 15:46:00 | NPP-375 | CARAÍBAS | BAHIA | Brasil | 2906899 | 29 | 33 | nan | nan | nan | Caatinga | 17.7 |
-| a68aec3d-2546-3b9d-8a2c-a3452c71c25a | -11.42395 | -43.4733 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 55.7 |
-| d124a004-a2e1-3fea-86b3-607052d47c25 | -12.4417 | -44.14895 | 2026-09-29 15:46:00 | NPP-375 | TABOCAS DO BREJO VELHO | BAHIA | Brasil | 2930907 | 29 | 33 | nan | nan | nan | Cerrado | 150.6 |
-| 0c10934c-05fa-3645-a237-fa0e06403671 | -11.31418 | -40.6604 | 2026-09-29 15:46:00 | NPP-375 | MIGUEL CALMON | BAHIA | Brasil | 2921203 | 29 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| d973275a-dd11-3525-b14c-8cc2dfc937e6 | -12.22331 | -38.90885 | 2026-09-29 15:46:00 | NPP-375 | FEIRA DE SANTANA | BAHIA | Brasil | 2910800 | 29 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 1ffd1f0f-2fce-3074-be1a-f4f41c795a18 | -16.15695 | -42.85358 | 2026-09-29 15:46:00 | NPP-375 | GRÃO MOGOL | MINAS GERAIS | Brasil | 3127800 | 31 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 88d2c950-a387-364b-9aed-4df89868276b | -14.38998 | -41.37132 | 2026-09-29 15:46:00 | NPP-375 | ARACATU | BAHIA | Brasil | 2902005 | 29 | 33 | nan | nan | nan | Caatinga | 20.3 |
-| 56edb9ce-e713-38a3-8ed5-c914ac6e605d | -8.3705 | -36.96072 | 2026-09-29 15:46:00 | NPP-375 | ARCOVERDE | PERNAMBUCO | Brasil | 2601201 | 26 | 33 | nan | nan | nan | Caatinga | 3.3 |
-| 19503b29-1c2d-3169-a6b2-e0674b5adde9 | -11.71475 | -43.45879 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 21.6 |
-| 96956c83-d74e-3582-95b8-280383c5fe07 | -11.42526 | -43.43039 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 65.2 |
-| 15f2186c-24a4-355e-805c-41387350a303 | -13.85543 | -43.94611 | 2026-09-29 15:46:00 | NPP-375 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| 948cc127-25b8-3b6b-a9ca-06f46db706df | -11.26966 | -43.529 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 93.6 |
-| b20307c6-8468-3a1d-9446-ab6793f4515e | -14.61387 | -41.10583 | 2026-09-29 15:46:00 | NPP-375 | ANAGÉ | BAHIA | Brasil | 2901205 | 29 | 33 | nan | nan | nan | Caatinga | 3.8 |
-| 1dc2443f-6fcd-30b1-a121-2b487ee0f3be | -14.24218 | -41.30667 | 2026-09-29 15:46:00 | NPP-375 | TANHAÇU | BAHIA | Brasil | 2931004 | 29 | 33 | nan | nan | nan | Caatinga | 23.8 |
-| 7b863ed7-fea7-3068-b3fd-6a1d413002b9 | -15.30342 | -41.77238 | 2026-09-29 15:46:00 | NPP-375 | NINHEIRA | MINAS GERAIS | Brasil | 3144656 | 31 | 33 | nan | nan | nan | Mata Atlântica | 93.8 |
-| 34048898-b9ea-3190-950d-433a6b5fa054 | -14.51773 | -40.77481 | 2026-09-29 15:46:00 | NPP-375 | ANAGÉ | BAHIA | Brasil | 2901205 | 29 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| b0d34acf-1198-33e4-b8d5-6e6ea2451297 | -15.54113 | -40.61319 | 2026-09-29 15:46:00 | NPP-375 | RIBEIRÃO DO LARGO | BAHIA | Brasil | 2926657 | 29 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
-| 6a26221f-60fc-3992-bcb0-08c0ca51b11c | -8.21771 | -36.29053 | 2026-09-29 15:46:00 | NPP-375 | BELO JARDIM | PERNAMBUCO | Brasil | 2601706 | 26 | 33 | nan | nan | nan | Caatinga | 7.0 |
-| 8b1a8b77-4d63-3f91-a06a-268b459d765f | -11.28488 | -43.54006 | 2026-09-29 15:46:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 11.2 |
-| e3078bac-f108-3628-95dc-327ec73c5174 | -14.16141 | -41.03089 | 2026-09-29 15:46:00 | NPP-375 | MIRANTE | BAHIA | Brasil | 2921450 | 29 | 33 | nan | nan | nan | Caatinga | 6.2 |
+| a1147050-8c10-3f57-ad76-7521c3226e32 | -4.306 | -50.74496 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 7.9 |
+| 11772537-41ed-35db-8d25-a701f6052f29 | -3.68794 | -60.5393 | 2026-10-01 05:55:00 | NPP-375D | MANAQUIRI | AMAZONAS | Brasil | 1302553 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 22ec7487-247a-3a78-a966-22c958da63bb | -4.26595 | -50.76376 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 19.2 |
+| 1e284572-fa4f-3fd6-b4ab-b1e8d8d5951e | -3.29378 | -53.8606 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 12.3 |
+| 71d23b94-857b-3e02-9cac-039198436d73 | -11.37963 | -55.12934 | 2026-10-01 05:55:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 1cd51007-7627-302a-851f-bc6e0f1b79b1 | -4.39226 | -54.83009 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| efe07d4a-0138-3888-a8ef-e593e196182d | -4.25149 | -50.75102 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 22.5 |
+| 414d9be8-7d90-35ad-9c62-56d492a4deeb | -3.00856 | -53.88132 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 6e6adb51-f636-37e1-8097-766b1de51a3b | -4.0472 | -54.23119 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 0921b923-4309-3e61-a715-de2fe4177e74 | -4.03712 | -54.23263 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 43c60b01-78ca-36d5-85c4-737e307de61d | -4.30303 | -50.76651 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 121.4 |
+| 4a514e10-e334-37dc-bf9b-784b7ce4989e | -9.00436 | -65.71262 | 2026-10-01 05:55:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| fe8b059d-d8b9-31ef-b7c8-c43c66a75a22 | -4.26492 | -50.771 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 18.8 |
+| c428437d-00f5-306e-a8ff-6c35e966e767 | -4.29397 | -50.77531 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 110.4 |
+| 19471738-dcc8-3fb4-a554-57d6a625164e | -9.0038 | -65.6946 | 2026-10-01 05:55:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 85562e8b-4719-31b6-9956-3746de30cf6a | -3.48999 | -59.53213 | 2026-10-01 05:55:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 300359da-14b6-3165-bae5-49aad28134db | -4.29914 | -50.79089 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 11.1 |
+| de381755-b305-3421-9615-9612081f81ef | -4.27319 | -50.76503 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 19.2 |
+| 9079d137-8088-3692-970f-6e7876f55572 | -10.53607 | -57.77804 | 2026-10-01 05:55:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 4bb6b780-faa4-3603-a89e-625834b0d584 | -4.05454 | -51.09969 | 2026-10-01 05:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 7ec43331-014d-3999-8405-20676eee78f9 | -3.15874 | -54.0966 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 2f019d5d-c28f-3d86-86e3-e67f74af6efa | -3.17042 | -54.09847 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 11.8 |
+| 4c577aa6-b8ae-3b38-8471-4db0cd59bbd1 | -3.00895 | -54.22558 | 2026-10-01 05:55:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| cf0a4d8e-8af2-3733-9b2d-4eee879d3c35 | -4.04068 | -54.23486 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 15a48e4e-a633-37ee-bb4e-b0852b610ca8 | -4.06658 | -51.09721 | 2026-10-01 05:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 68e1a1c2-fd19-3d5d-91db-aa8f511b19b1 | -3.98139 | -56.08503 | 2026-10-01 05:55:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3a6c7135-e980-371c-9fb7-2bc98ad76a14 | -12.7118 | -54.06303 | 2026-10-01 05:55:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 6193b956-bc53-3e80-8539-099ab4685cf5 | -4.14883 | -59.92009 | 2026-10-01 05:55:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| f4143310-8912-31b6-a169-61ebdf36c8ca | -4.30823 | -50.78257 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 170e8168-bdc6-39cb-b373-90443f00409f | -13.64415 | -53.93815 | 2026-10-01 05:55:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| dd8cc711-2984-32a0-ade0-65677b89c84d | -3.01845 | -53.87592 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 4d784e87-246a-3665-b9a2-0d1b5439cf08 | -4.29872 | -50.74393 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 7.9 |
+| 603a6257-20e4-3e8a-b1d6-1f41d5a6866b | -10.5306 | -57.78026 | 2026-10-01 05:55:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 87098ef9-8b77-3667-918b-ccd821ef5a27 | -3.02562 | -53.86821 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| cd9c3c38-c08f-30aa-b381-bddcb4cf3148 | -4.05242 | -51.09474 | 2026-10-01 05:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 980ee57e-4ba7-3646-93ac-fb846681123a | -9.78141 | -59.01652 | 2026-10-01 05:55:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 3c356c99-21b6-35a1-a774-f3925f266aea | -10.53257 | -57.7654 | 2026-10-01 05:55:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| bb69f792-e997-3fd8-a0dd-ed3efec83126 | -13.66376 | -53.94669 | 2026-10-01 05:55:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| b7f66a5a-e224-348a-9898-3d4441f7f842 | -3.01658 | -53.88876 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 638e2956-1b5f-3943-b22d-650381a6bc01 | -4.26485 | -59.88959 | 2026-10-01 05:55:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a5c08033-563a-3775-8864-e6a275d2a785 | -9.74673 | -65.05045 | 2026-10-01 05:55:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| efb56cfe-a49b-34e8-af77-e432293412e3 | -9.00491 | -65.70912 | 2026-10-01 05:55:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 11459ede-4ad9-385b-85ef-e59705c13c1c | -4.32265 | -50.73206 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ba6c5987-76bc-382f-836d-f2d42197dfce | -4.04303 | -54.23325 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 6787b4b5-4e54-376d-8322-e1f199d1eff0 | -4.03653 | -54.23652 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 77b6d7ed-4356-35b7-8dc8-af6be2a05558 | -4.27738 | -50.73559 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| e9b81bbd-c2f9-3163-8d13-9dc93c4ef2fa | -9.78077 | -59.02123 | 2026-10-01 05:55:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 1d41c7d2-5ce1-32cb-9591-75779dda8c08 | -3.17231 | -54.08593 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 84387fe3-c816-3c80-b883-08adfd8f1118 | -9.35037 | -57.16555 | 2026-10-01 05:55:00 | NPP-375D | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 88c93102-e8ac-3d72-9186-9a36e7e71f02 | -3.11106 | -60.6789 | 2026-10-01 05:55:00 | NPP-375D | IRANDUBA | AMAZONAS | Brasil | 1301852 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 3e915279-9832-3e82-80d1-29e098676532 | -4.07879 | -54.87384 | 2026-10-01 05:55:00 | NPP-375D | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 52d01804-1a21-3e14-9b21-aaa1089769a5 | -4.25873 | -50.76234 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 27.8 |
+| eebfc3a1-5f79-3f86-8df9-756a8d3f511b | -4.39157 | -54.82352 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| b0e21845-ce9f-3ca9-94f9-f137158678f2 | -4.06166 | -51.10064 | 2026-10-01 05:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 79d30f14-c797-3003-8bb1-6a8f7e03f838 | -4.04185 | -54.22668 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| be0816b6-6f2e-3ade-bc54-c8a84dbaaa10 | -4.29372 | -50.78032 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 73.2 |
+| a605cd56-b831-314a-898c-c59aa90b0d97 | -3.00922 | -53.87701 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 21959019-76f3-32ac-912b-16991dccafbc | -11.38074 | -55.12008 | 2026-10-01 05:55:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| d648a258-5b82-3977-a66b-b42aac864a0a | -4.29729 | -54.79379 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| c15741f4-a548-322f-be70-6d0240af84b5 | -4.31488 | -50.73338 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 837cfe4c-2243-3cf9-b9a9-d217553c1715 | -4.2743 | -50.75721 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 19.2 |
+| c6cf00c6-aacd-3e52-9130-edf27bbde670 | -9.31547 | -57.71145 | 2026-10-01 05:55:00 | NPP-375D | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| c435f59c-d32b-30bd-a752-8928396dddb3 | -4.30439 | -50.75454 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 8.4 |
+| 8daa0894-e2b0-31fe-90ba-0cabab5dc6bb | -4.04427 | -54.22501 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 308795ad-365f-3b5c-bd61-29500b05df34 | -9.00602 | -65.70213 | 2026-10-01 05:55:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 8d934d5e-6e74-35b8-bb8e-056711640378 | -3.01254 | -53.87493 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 19eb14cc-0b00-329a-818a-636f94804735 | -12.70119 | -54.06791 | 2026-10-01 05:55:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f4994f9a-ecf3-33a9-a7ca-3fa619f594e9 | -4.05859 | -51.10221 | 2026-10-01 05:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 60e95acf-86ea-3198-b1d1-9603e4d67027 | -10.51653 | -57.7691 | 2026-10-01 05:55:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| d3432b54-ba0e-31da-89a5-a60cafcf4b29 | -10.53766 | -57.76611 | 2026-10-01 05:55:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 8f42bccd-c316-36d9-9160-462d21ef371e | -3.98658 | -56.08577 | 2026-10-01 05:55:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 2ca5da56-a633-32cc-889a-ae2da9dd87bc | -3.01128 | -53.88358 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| cb84d661-eec5-33dd-b74b-b6a989aa90a4 | -4.24425 | -50.74973 | 2026-10-01 05:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 4b5f68ac-bce5-385d-b7bd-e34510409e01 | -3.02897 | -53.86673 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 6bdb90fa-626d-3356-ae8c-543f9dee06d7 | -9.34347 | -57.17723 | 2026-10-01 05:55:00 | NPP-375D | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 4081a8cf-0c73-38aa-84e8-651c36975f06 | -12.77745 | -54.01806 | 2026-10-01 05:55:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 6004da07-be20-3502-af45-b620f6588362 | -3.18164 | -60.06406 | 2026-10-01 05:55:00 | NPP-375D | IRANDUBA | AMAZONAS | Brasil | 1301852 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 5144f758-36d4-3485-990c-822328313c18 | -4.3085 | -50.7774 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| 6ad2156f-55e0-311d-8aa5-fd174dd7c7bc | -3.59344 | -54.55083 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 69bc9346-6dc3-3225-814d-7a6f5e59111c | -4.05546 | -51.09311 | 2026-10-01 05:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| c5b96e2c-9438-32e9-8e64-3cc2d27d1466 | -4.39281 | -54.82625 | 2026-10-01 05:55:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 5a6f9733-401e-3c17-980b-5d114ad3c3c1 | -3.15602 | -54.07473 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 93a8f7d6-e568-30ae-9cb4-d341b21b904d | -3.7679 | -58.83951 | 2026-10-01 05:55:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 066c37c1-c49f-30a8-97d1-62125e81762e | -4.28987 | -50.75216 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 22e9f63d-d395-3c99-9dd0-80cda749509a | -4.25767 | -50.75941 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 17.3 |
+| 11869bf8-60e9-3c6f-ac01-056b1494bf63 | -3.18154 | -54.10406 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| cbbdcbaa-08f5-3534-a34b-460d3271f22e | -4.25255 | -50.74381 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 22.5 |
+| eb85cfb0-f0d7-3452-9ad3-8e96738dcfc3 | -3.28912 | -53.85103 | 2026-10-01 05:55:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 8.6 |
+| c813f9f4-c5eb-35a6-9745-c23a4b601c5a | -9.74337 | -65.04992 | 2026-10-01 05:55:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 71ecd2e5-32e8-3611-878d-62f194664378 | -4.0657 | -51.10321 | 2026-10-01 05:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| a000af14-0721-39d0-8d9a-bb9e23e559ec | -10.46408 | -59.13058 | 2026-10-01 05:55:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 5ae4a190-8901-303d-bdb8-900f7bbc1590 | -10.54625 | -57.77945 | 2026-10-01 05:55:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 68a7d823-cd74-35e5-9a8c-f0214a004a01 | -4.29192 | -50.73787 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| b53acfc8-73b7-3cad-b5b7-4df53e04671b | -3.71713 | -58.79936 | 2026-10-01 05:55:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a5ea9272-ab78-3239-b971-a5aa380e2e2e | -9.88563 | -65.14174 | 2026-10-01 05:55:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 90b91828-9864-33ca-88fa-37b2d8552509 | -4.2691 | -50.74159 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| 5ba84a33-a10c-3555-89b4-12d95194af8e | -4.29612 | -50.76036 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 53.5 |
+| 9bd07bd8-91dc-3b86-89d6-45fd9c506e86 | -10.53529 | -57.78389 | 2026-10-01 05:55:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ceb7d8af-0136-3cbd-952f-5bcfb2131fb7 | -4.24632 | -50.74512 | 2026-10-01 05:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 5dbbcc4c-ae5b-328b-905a-421976e4bc9f | -4.30025 | -50.73167 | 2026-10-01 05:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 6.2 |
 
 
 [Clique aqui para ver as próximas entradas](README89.md)
