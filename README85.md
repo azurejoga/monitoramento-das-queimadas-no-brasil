@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 3c621d18-f851-3ed3-8e53-c6e5991598d7 | -11.12142 | -59.12404 | 2026-10-01 05:21:00 | NOAA-21 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 221d7a34-6b20-36b9-987f-98bfe583244d | -20.19156 | -50.90056 | 2026-10-01 05:23:00 | NOAA-21 | SANTA FÉ DO SUL | SÃO PAULO | Brasil | 3546603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 21554d7d-c785-3289-9985-5ebf72f21fbf | -20.18557 | -50.89966 | 2026-10-01 05:23:00 | NOAA-21 | SANTA FÉ DO SUL | SÃO PAULO | Brasil | 3546603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 5728cda7-6af6-3d3f-b5bb-b85a5195e7d1 | -5.11828 | -56.0166 | 2026-10-01 05:53:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 13905bf8-2697-3cd4-8dbd-571d5f7fe010 | 2.08503 | -50.73848 | 2026-10-01 05:53:00 | NPP-375D | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| e3cae1fa-ab0e-38da-8797-6453860b3aff | -6.08235 | -56.47326 | 2026-10-01 05:53:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 0ee5da3d-4dd9-379d-b2a9-2b54008359f0 | -1.81626 | -57.10513 | 2026-10-01 05:53:00 | NPP-375D | NHAMUNDÁ | AMAZONAS | Brasil | 1303007 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| e8f137a8-7271-3cef-960b-14a6aab5bf1d | -7.54842 | -55.0405 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 34098f10-7947-3360-a8c9-a06692e5d99a | -5.97446 | -55.37188 | 2026-10-01 05:53:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| f8be17a9-2445-32cf-a973-67c20208c1b1 | -6.6833 | -58.8644 | 2026-10-01 05:53:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 2db0b945-7eff-3b1f-87da-33181fb0dd37 | -6.05706 | -59.92176 | 2026-10-01 05:53:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 511b8881-6f60-3b1f-a906-f73e539ca10d | -6.68268 | -58.86879 | 2026-10-01 05:53:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| e68530d3-e9c0-3f3d-97db-be263413f465 | 1.81612 | -55.61767 | 2026-10-01 05:53:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 6399aa03-fcf6-32fe-aed3-9817f235f925 | 1.87841 | -55.64559 | 2026-10-01 05:53:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 5438e2ba-d105-329d-a6d1-e7d78a6da46b | 1.71874 | -55.92231 | 2026-10-01 05:53:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 0a589dfe-89b4-3f7c-8dcf-661778472217 | -5.86142 | -57.75652 | 2026-10-01 05:53:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 748c6eb0-c8b9-3281-9352-fc6a2ab5f134 | -5.12542 | -56.00478 | 2026-10-01 05:53:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 8f70fd81-8b32-3b74-b690-35ffb69818b1 | -6.51286 | -55.88063 | 2026-10-01 05:53:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| eb5d921e-49a2-32be-af2e-38a3e1a6b802 | -2.99627 | -51.02753 | 2026-10-01 05:53:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 898aac0a-b809-3429-b4fb-f1bf9758f8db | -3.37905 | -50.93985 | 2026-10-01 05:53:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 254f9374-d6e9-34e4-8571-4782bd058b93 | -2.89717 | -54.14444 | 2026-10-01 05:53:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 9fbaa680-6bb9-39c6-91ce-745906746dda | -2.91003 | -51.32122 | 2026-10-01 05:53:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 5be26d52-1c78-3fa3-b352-25fb14028972 | -7.71156 | -54.7942 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 5913f87f-ef10-3241-8939-b4dda1d8e854 | -6.74196 | -55.60022 | 2026-10-01 05:53:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d5cccabf-7281-3e73-82b3-fc51f494d1eb | -5.12453 | -56.01088 | 2026-10-01 05:53:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 74995f41-4ee5-38dd-9074-7192adb9af00 | -7.55154 | -55.03086 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 90c1defb-208a-3710-a7b5-3998074850be | -6.74248 | -55.59649 | 2026-10-01 05:53:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 835b04b1-9fc2-352e-ab12-73ee498fa08d | -2.89937 | -54.09245 | 2026-10-01 05:53:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c7a917d0-7316-3315-8f7b-5788e54487b7 | -7.55096 | -55.03495 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 465e267d-0ce3-329a-bc95-e7af42395ccb | -6.54168 | -55.28326 | 2026-10-01 05:53:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 4760fb45-a20e-3320-97ce-7020d45194b5 | -6.67822 | -58.86814 | 2026-10-01 05:53:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| 0263a6eb-f9bf-380d-8399-7aba1f36093c | 2.54137 | -60.60979 | 2026-10-01 05:53:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 4e252abe-0136-369f-9a91-8b009dae4a05 | -6.05651 | -59.92541 | 2026-10-01 05:53:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ef40a5a8-4593-3402-af36-dfaa29d2b736 | -7.72941 | -54.79694 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 4111c58b-a11e-3bbc-a915-7ccb6e9e383a | -2.98219 | -51.02534 | 2026-10-01 05:53:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| d7f9dc05-4e91-368c-b479-a2d94d7aae5f | -1.83271 | -54.99292 | 2026-10-01 05:53:00 | NPP-375D | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 1a384f12-6aa3-3218-9bb9-7c610d84d29a | -2.0348 | -54.05562 | 2026-10-01 05:53:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 32eba1ae-21e8-302e-8c39-e2fecfb2fca4 | -7.72464 | -54.78725 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 65c96354-da1a-3ad8-9816-9114bb559f9c | -2.55206 | -54.62429 | 2026-10-01 05:53:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 2e1c0e5c-d1b0-3c2d-bf05-ccdf276f7e2b | -1.44706 | -54.46296 | 2026-10-01 05:53:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 42617cb8-b945-3d61-9286-e810d777b0f8 | -2.97415 | -51.03098 | 2026-10-01 05:53:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 9bb30ed9-651d-3995-ade3-91cd8287eb9e | -6.67252 | -58.87629 | 2026-10-01 05:53:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 82fd6457-c808-30cd-bd0c-d929cb22669d | -6.68472 | -58.86678 | 2026-10-01 05:53:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 95b2710f-c80b-34dc-97a4-0607d0a71727 | -7.72883 | -54.80125 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 98e34f70-e2a9-3d91-8863-2fa77d658467 | -7.71634 | -54.80385 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| df6b6347-a744-3141-9eba-e5f0e34f640f | -7.4923 | -54.98351 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 2eb87c43-24a0-32ba-848a-9148a19b70e4 | -2.90439 | -54.09551 | 2026-10-01 05:53:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 3a43eb14-dda7-3988-9d08-ebc5e3f9b86c | -1.63609 | -55.13033 | 2026-10-01 05:53:00 | NPP-375D | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 2e2f3cd0-49a9-3403-b12f-6a0917aeb987 | -7.3464 | -55.59032 | 2026-10-01 05:53:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e000d2e1-9781-39de-8b72-94c0d8db4830 | -6.65537 | -58.88041 | 2026-10-01 05:53:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 71fd4e99-d62a-360d-b751-5f1eb00ccfd8 | -7.70034 | -55.05716 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 4edb474f-25ce-3f9e-829c-7e4087584769 | -2.89777 | -54.14038 | 2026-10-01 05:53:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 056fe82f-b22b-3b3f-b664-553e81ca5e3d | -2.91171 | -51.30825 | 2026-10-01 05:53:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 819399b2-adf4-33f2-a3dd-fc2ce6384f37 | -5.86664 | -57.75323 | 2026-10-01 05:53:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 02fcaec3-d38b-36ea-b01d-639c7522d7e9 | -5.86331 | -53.4847 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 8a4ce8e7-5a4e-3984-9295-0304a1ba371a | -7.54897 | -55.03632 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| e624cdce-206d-3355-8b74-c11ebb89bee5 | -6.66558 | -58.87296 | 2026-10-01 05:53:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 12.7 |
-| a6da4b07-02b7-3a58-8e16-25467865be49 | -6.6984 | -55.05632 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| de3f3b14-d35f-3ca5-ad93-f4fd49dac7ef | -7.49595 | -55.00069 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 2e042b9f-d58c-3128-8649-57ce3a89d0b4 | -7.69906 | -54.79688 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ef1daabb-db08-3ef0-b57d-97a68df5af00 | -2.98119 | -51.0321 | 2026-10-01 05:53:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 89f61c9d-f87e-3518-813e-e2e750390845 | 1.87666 | -55.63498 | 2026-10-01 05:53:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 4c2d12b4-5fcb-3552-ab19-855ccce66200 | -2.96713 | -51.02985 | 2026-10-01 05:53:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 53326deb-d65c-3f50-8665-decb7a07e26e | -5.1201 | -56.00413 | 2026-10-01 05:53:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| d5652c2a-6435-373c-9dba-15030f13b37e | -2.90982 | -51.3211 | 2026-10-01 05:53:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 298c097d-e6d2-39ac-9439-0dbeadcbc70b | 1.70663 | -55.90847 | 2026-10-01 05:53:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 3d943edf-cd9e-31e2-886f-2148b7c70200 | -7.7348 | -54.80206 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 4c0bd753-d54e-30d9-b12a-d35954f761bb | -1.44383 | -54.45958 | 2026-10-01 05:53:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| b03bb7bb-d403-3705-9c8d-031617c2032c | -7.49116 | -54.99194 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 0504773b-f700-34c5-864e-209456f9685b | -5.30068 | -56.00555 | 2026-10-01 05:53:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 121bb581-cf14-313b-8dd2-2f51a9cf1dc7 | -6.11293 | -55.69614 | 2026-10-01 05:53:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2852432f-40bc-3c03-8c36-f941d3fad8a5 | 1.87351 | -55.64624 | 2026-10-01 05:53:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| dcd09102-3f51-38b9-bba3-0de47785fa45 | -3.00846 | -51.06964 | 2026-10-01 05:53:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a06ff9ed-31a0-3308-94d5-0a05b9986856 | -3.38026 | -50.95462 | 2026-10-01 05:53:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| e36f487c-82ee-3cbe-bcdb-b8a491925b7e | -6.51237 | -55.88417 | 2026-10-01 05:53:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 596efe26-553c-3149-a39d-9f76124b377a | -7.3425 | -55.59483 | 2026-10-01 05:53:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 889b7c3b-1c0d-3d69-a997-827e2b1e8e67 | -6.13241 | -53.26887 | 2026-10-01 05:53:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 75d4019a-d046-37c4-b761-48b812f42f28 | -6.67894 | -58.87493 | 2026-10-01 05:53:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| 5fb2b4ed-28d6-3865-8061-c56d29a64ebc | -5.86482 | -53.49031 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| d705917d-c6c9-37af-b0f1-d1212a44528a | 3.28186 | -60.61372 | 2026-10-01 05:53:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 24c82429-ed1d-39eb-b056-f9f3ba8858cb | -1.83323 | -54.98954 | 2026-10-01 05:53:00 | NPP-375D | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 8a9e2dba-36cd-3699-b138-765b582650d5 | -6.66868 | -58.8712 | 2026-10-01 05:53:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 9771efc9-2195-3364-9e3f-3da67885d407 | -6.08755 | -56.47412 | 2026-10-01 05:53:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| a03d22c8-9bde-3007-92f7-8ea142607e8b | -2.897 | -54.14616 | 2026-10-01 05:53:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 143f71ad-90f1-3a1e-a64e-606ae8b042e5 | -6.69941 | -55.04629 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 52362b6d-c71e-394f-8e92-f49d0add28d4 | -5.86591 | -57.75843 | 2026-10-01 05:53:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| fe7e3307-e6d3-3df3-8dbe-c6e4adf89dbf | -5.86064 | -57.76172 | 2026-10-01 05:53:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 0e086bf1-4028-312c-a635-218bf296cc4f | -2.90521 | -54.09328 | 2026-10-01 05:53:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 03ec6e1e-f56f-380a-872b-ecd6d968f8d0 | -7.69978 | -55.0613 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 3e31b63c-cdbb-3e69-9774-509798e27da6 | -2.49998 | -56.90546 | 2026-10-01 05:53:00 | NPP-375D | PARINTINS | AMAZONAS | Brasil | 1303403 | 13 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| a6ea2790-fec2-36d1-9b55-75d770ec1a81 | -3.38127 | -50.94796 | 2026-10-01 05:53:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6b96c260-7f41-357a-ba12-9c29b37d7016 | -2.90237 | -54.14941 | 2026-10-01 05:53:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| c1b28a62-0f0e-3fd7-ad9b-597e51af279e | -6.1119 | -55.70344 | 2026-10-01 05:53:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b7eb2feb-90bb-3d51-a332-19ac88d6ed0c | -7.34195 | -55.59873 | 2026-10-01 05:53:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f9351d97-4321-3ff0-a5cf-ed46bcb98ded | -6.67003 | -58.87361 | 2026-10-01 05:53:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b047b45c-88a9-3a93-83b2-806aae6c4f20 | 1.79119 | -55.6492 | 2026-10-01 05:53:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| c92ffbd5-62cf-3f1b-9901-5bc8ac360eb9 | -7.49058 | -54.99619 | 2026-10-01 05:53:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 8bf3399d-9b4a-33bb-8e77-0051d7fc7e60 | -6.6776 | -58.87254 | 2026-10-01 05:53:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| b09e8ff5-0feb-314c-a4ec-a511f0630c11 | 3.27835 | -60.61428 | 2026-10-01 05:53:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 381670cf-e3dd-37eb-85a8-2719c9b1ef61 | -6.13591 | -53.291 | 2026-10-01 05:53:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| cf7779b8-05f5-377b-be0b-9281df0b225c | -11.142 | -44.6261 | 2026-10-02 12:30:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 98.8 |
+| 810abc62-e54d-3c2e-a42a-a2b48a03b281 | -13.8763 | -43.6396 | 2026-10-02 12:30:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 213.1 |
+| 89853da0-1d33-3948-a0b8-b633c2f4ed67 | -11.2278 | -45.1913 | 2026-10-02 12:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 93.5 |
+| 9f717148-ed12-30e5-9de0-e18004cabc3e | -11.1424 | -44.6029 | 2026-10-02 12:30:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 486.6 |
+| cc6d5d1b-3c0d-3a17-b731-b1c0e47952d1 | -11.2242 | -44.2888 | 2026-10-02 12:30:00 | GOES-19 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 162.1 |
+| 16ba42ae-288a-36c2-9078-1f3dd5296e65 | -12.5527 | -43.0637 | 2026-10-02 12:30:00 | GOES-19 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 125.9 |
+| d9f417c8-2670-342c-b5b7-830b5eff66d2 | -11.7567 | -43.4325 | 2026-10-02 12:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 113.9 |
+| 0113fba9-614c-3ee4-89fa-d682f4043f82 | -11.1615 | -44.6002 | 2026-10-02 12:30:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 263.7 |
+| 69655e37-d729-374b-a785-f3bf29291252 | -12.5329 | -43.091 | 2026-10-02 12:30:00 | GOES-19 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 151.8 |
+| 1e0b5f0d-937b-3892-a8ea-0e7279275fae | -12.5522 | -43.0877 | 2026-10-02 12:30:00 | GOES-19 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 155.2 |
+| 68802891-daad-3574-ab42-e222dfea56bb | -11.1427 | -44.5796 | 2026-10-02 12:30:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 418.4 |
+| d7843060-75c1-39a8-9cd3-57ea6f41ebd4 | -12.5334 | -43.067 | 2026-10-02 12:30:00 | GOES-19 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 115.7 |
+| 7efa98ff-3101-32d1-9846-7fc1b04032a1 | -11.1236 | -44.5823 | 2026-10-02 12:30:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 106.2 |
+| e8065f86-be3e-3602-94ed-8e2586c59b67 | -11.2282 | -45.1682 | 2026-10-02 12:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 80.4 |
+| 7a318a8d-6ff8-3ae9-a5ee-87d796a3447b | -11.7169 | -43.5098 | 2026-10-02 12:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 131.2 |
+| c32527e5-7b7c-3700-af65-5af00d30386f | -11.2466 | -45.2116 | 2026-10-02 12:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 107.7 |
+| d8491243-532b-39ca-840b-fd386e335ad2 | -11.7182 | -43.4386 | 2026-10-02 12:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 115.2 |
+| 6266fafc-9fb4-3829-9865-71a67edd3f4f | -11.2753 | -43.5539 | 2026-10-02 12:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 111.7 |
+| e85d68c0-ccd5-357c-a39f-a49643ca2df9 | -10.303 | -44.648 | 2026-10-02 12:30:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 93.8 |
+| cd0bccac-68e3-38e4-baba-4b4772971f36 | -13.8763 | -43.6396 | 2026-10-02 12:40:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 143.0 |
+| c5b7fdec-9abe-37df-8dd7-7939abdaa7fb | -12.5334 | -43.067 | 2026-10-02 12:40:00 | GOES-19 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 154.5 |
+| 6a5a4f0d-b069-3c0a-be9f-aae867450201 | -11.1611 | -44.6234 | 2026-10-02 12:40:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 170.3 |
+| 6f6f088b-f6a2-328e-8c08-d982507c0892 | -11.247 | -45.1886 | 2026-10-02 12:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 115.3 |
+| 38e3ccb9-57d2-3da3-815e-0395b4203517 | -11.1615 | -44.6002 | 2026-10-02 12:40:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 193.7 |
+| 7ed77499-087d-37ce-9bf6-ddebda787ba7 | -12.5329 | -43.091 | 2026-10-02 12:40:00 | GOES-19 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 254.7 |
+| f2e77504-3fea-3075-b2c2-ef36c1ce8a81 | -12.5527 | -43.0637 | 2026-10-02 12:40:00 | GOES-19 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 181.9 |
+| 4f5d5b47-9065-3e1c-8f12-1d7774cb0c2d | -9.0844 | -44.9811 | 2026-10-02 12:40:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 205.6 |
+| 8abe9b19-0e22-3678-9f63-496ecdb76b1e | -13.3287 | -43.8573 | 2026-10-02 12:40:00 | GOES-19 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 113.1 |
+| e6371ede-392c-34a8-9b8f-b9b89811d22c | -13.8037 | -45.2287 | 2026-10-02 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 148.2 |
+| 1734b8ce-8c76-3655-a354-56d88a760877 | -10.303 | -44.648 | 2026-10-02 12:40:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 481.4 |
+| 8ff65d3e-bf70-39b4-95c2-482368e1613e | -11.2278 | -45.1913 | 2026-10-02 12:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 82.5 |
+| 7bb3ec56-8dc3-388f-b3b7-d1bcb853d506 | -12.5522 | -43.0877 | 2026-10-02 12:40:00 | GOES-19 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 290.9 |
+| 26392e0c-addc-3862-8b3b-1a4fe42f7541 | -10.9262 | -43.8406 | 2026-10-02 12:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 109.5 |
+| bcddc462-988c-3bf7-9636-9192c8bcb87e | -11.7169 | -43.5098 | 2026-10-02 12:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 116.6 |
+| 9e791e43-1778-35a7-b102-3f320c94a32f | -12.4544 | -44.1466 | 2026-10-02 12:40:00 | GOES-19 | TABOCAS DO BREJO VELHO | BAHIA | Brasil | 2930907 | 29 | 33 | nan | nan | nan | Cerrado | 102.7 |
+| a2d7646b-7ad2-3375-b0c4-bee1f9931207 | -12.4737 | -44.1435 | 2026-10-02 12:40:00 | GOES-19 | TABOCAS DO BREJO VELHO | BAHIA | Brasil | 2930907 | 29 | 33 | nan | nan | nan | Cerrado | 443.9 |
+| 326cabc7-4ad1-30fe-8f9f-d949839ca210 | -12.7808 | -45.1897 | 2026-10-02 12:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 96.6 |
+| 60ec9756-9883-3239-a23f-ae62710c733c | -11.7921 | -43.5926 | 2026-10-02 12:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 87.5 |
+| 674de4ba-bfe0-30d6-82cf-0a7e3473b8f8 | -9.8444 | -44.8218 | 2026-10-02 12:40:00 | GOES-19 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 237.7 |
+| 1122bef8-2811-325f-9539-1f14fb6330f5 | -11.1424 | -44.6029 | 2026-10-02 12:40:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 208.7 |
+| 5f833ee1-26a0-31de-8619-cf25b04b3855 | -9.7877 | -44.8058 | 2026-10-02 12:40:00 | GOES-19 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 166.3 |
+| b62e9dc9-ead7-3796-b1e9-ade81a00a623 | -9.8257 | -44.8011 | 2026-10-02 12:40:00 | GOES-19 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 247.0 |
+| a3b7bc8f-efdd-392b-9c8e-6c787d2f19a9 | -12.7812 | -45.1665 | 2026-10-02 12:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 102.1 |
+| 1bb80cd2-4486-3e6d-812a-5fcebb711e4e | -11.1427 | -44.5796 | 2026-10-02 12:40:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 205.9 |
+| f1e7d41a-ff59-3d5f-9d7d-f20d1f571acb | -12.4732 | -44.167 | 2026-10-02 12:40:00 | GOES-19 | TABOCAS DO BREJO VELHO | BAHIA | Brasil | 2930907 | 29 | 33 | nan | nan | nan | Cerrado | 97.4 |
+| 62b65c51-5189-3327-8459-856609b4ad1d | -13.3481 | -43.8538 | 2026-10-02 12:40:00 | GOES-19 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 105.8 |
+| 1307a1e2-d92f-32f9-83ba-b5c487ca4bbc | -11.2466 | -45.2116 | 2026-10-02 12:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 100.0 |
+| 05dcd795-f271-33f4-997b-15c9642f6a40 | -9.0655 | -44.9832 | 2026-10-02 12:40:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 97.5 |
+| cc9c90bb-ec61-3c66-860b-f52254b8d806 | -10.3034 | -44.6249 | 2026-10-02 12:40:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 369.8 |
+| 92391d18-3044-3046-9ab6-da7a4f38e824 | -9.8254 | -44.8242 | 2026-10-02 12:40:00 | GOES-19 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 247.9 |
+| 6467e56d-becf-3b58-8d33-4f5787f5d97c | -13.8032 | -45.2521 | 2026-10-02 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 341.2 |
+| 30f7e241-e955-3195-8016-c2ad2a7ca4a5 | -10.3034 | -44.6249 | 2026-10-02 12:50:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 234.7 |
+| ed1bc966-d047-3453-ab64-d01a45192506 | -11.7537 | -43.5987 | 2026-10-02 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 147.3 |
+| b7cd7bbd-ba2d-3807-a221-4b941c840a70 | -11.716 | -43.5573 | 2026-10-02 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 179.0 |
+| 528bbf48-f299-3f4e-9126-9bb7baa6ff1f | -11.1427 | -44.5796 | 2026-10-02 12:50:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 182.1 |
+| 26023bda-2c9b-3784-8f49-226aa54568cc | -13.3287 | -43.8573 | 2026-10-02 12:50:00 | GOES-19 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 256.6 |
+| afa46983-5b67-3cf4-9f7c-b216684ed75d | -13.3486 | -43.8301 | 2026-10-02 12:50:00 | GOES-19 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 114.0 |
+| 7f55a201-b80f-3362-bb57-65b5485c10e2 | -9.7877 | -44.8058 | 2026-10-02 12:50:00 | GOES-19 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 153.5 |
+| 0bc44a09-69e9-3d61-a218-b39c9aacba7b | -11.2466 | -45.2116 | 2026-10-02 12:50:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 77.1 |
+| e33fce8d-10bd-3214-91c1-6b90e7556388 | -9.8444 | -44.8218 | 2026-10-02 12:50:00 | GOES-19 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 145.2 |
+| 9816f212-295b-3cf8-aa14-012a1ca9df30 | -12.5334 | -43.067 | 2026-10-02 12:50:00 | GOES-19 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 262.8 |
+| 1684c98c-5316-30cb-a600-8b13fb3d8125 | -13.7843 | -45.2321 | 2026-10-02 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 110.4 |
+| 1cd75c5e-8192-39c9-9138-3957f6d1c81b | -13.8032 | -45.2521 | 2026-10-02 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 209.0 |
+| 2164f233-1b9f-30de-8c25-f27ce74672ca | -12.7619 | -45.1696 | 2026-10-02 12:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 97.0 |
+| 021df54b-4d65-324b-b194-c2938cd3e53c | -11.7738 | -43.5482 | 2026-10-02 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 216.8 |
+| 082a3a5f-f416-3e71-b24c-8a45c5fc12e3 | -11.2753 | -43.5539 | 2026-10-02 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 150.6 |
+| c8b5957a-7b42-3112-b4a4-8026ddc6f042 | -12.4737 | -44.1435 | 2026-10-02 12:50:00 | GOES-19 | TABOCAS DO BREJO VELHO | BAHIA | Brasil | 2930907 | 29 | 33 | nan | nan | nan | Cerrado | 931.7 |
+| 49f4f9ce-3990-3b2e-ba00-f47f655484ae | -13.3476 | -43.8776 | 2026-10-02 12:50:00 | GOES-19 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 184.4 |
+| f4375dae-71d9-3191-9cd3-bae8ee382c88 | -10.303 | -44.648 | 2026-10-02 12:50:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 298.1 |
+| 32e36864-0ee4-39c3-9a23-31087f0b2ce0 | -13.8037 | -45.2287 | 2026-10-02 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 173.3 |
+| 8785ca4c-6e83-331d-906d-9a4640c1b774 | -12.7808 | -45.1897 | 2026-10-02 12:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 113.5 |
+| 5397dca0-f121-3715-bc7e-ec76b9349cc8 | -11.7353 | -43.5542 | 2026-10-02 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 165.9 |
+| 7c3a53db-2f52-3d2d-a6bd-15bf79b2895b | -12.4544 | -44.1466 | 2026-10-02 12:50:00 | GOES-19 | TABOCAS DO BREJO VELHO | BAHIA | Brasil | 2930907 | 29 | 33 | nan | nan | nan | Cerrado | 256.1 |
+| 627ecde2-5c90-3fe8-8b94-33c3d3940fd5 | -13.3481 | -43.8538 | 2026-10-02 12:50:00 | GOES-19 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 360.9 |
+| b32ec2d0-5d6b-3256-9f79-384c078e5d1a | -12.5329 | -43.091 | 2026-10-02 12:50:00 | GOES-19 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 457.9 |
+| 7f4377af-5cd3-3b26-8554-0df73a11060c | -12.4548 | -44.123 | 2026-10-02 12:50:00 | GOES-19 | TABOCAS DO BREJO VELHO | BAHIA | Brasil | 2930907 | 29 | 33 | nan | nan | nan | Cerrado | 95.7 |
+| 7dd8d850-fcf0-3753-a607-5da844cef945 | -11.247 | -45.1886 | 2026-10-02 12:50:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 79.4 |
+| f4f8e581-dacf-3e39-a518-c3efce40dfee | -12.9229 | -44.8186 | 2026-10-02 12:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 98.2 |
+| 1cd85eaf-01d9-3605-9262-f2cafcfcc9e9 | -11.793 | -43.5452 | 2026-10-02 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 419.2 |
+| 14a3d0f8-3e0d-3bd7-aba1-234c6613bcc2 | -11.1615 | -44.6002 | 2026-10-02 12:50:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 171.3 |
+| 4ddfb922-6548-37e5-a70a-88104e83deca | -11.7545 | -43.5512 | 2026-10-02 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 192.3 |
+| c530843d-971b-3928-8514-a11091c93325 | -11.2749 | -43.5776 | 2026-10-02 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 115.2 |
+| ea3cc111-6eb0-3c10-99b1-9159603be1e1 | -11.7169 | -43.5098 | 2026-10-02 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 111.9 |
+| 540913fb-4187-33e6-8bca-e7d8edd6823c | -9.8254 | -44.8242 | 2026-10-02 12:50:00 | GOES-19 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 186.2 |
+| ac6d815d-c200-3793-80d5-3ebe22bfd6fc | -11.1424 | -44.6029 | 2026-10-02 12:50:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 172.8 |
+| da4bf744-b3d2-359e-bd1a-851e2d067b24 | -12.7812 | -45.1665 | 2026-10-02 12:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 184.7 |
+| 0245d789-5c4e-3bb2-92ef-5578d1979a93 | -9.8067 | -44.8035 | 2026-10-02 12:50:00 | GOES-19 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 80.1 |
+| 7a516a37-d956-306e-a052-0ff9fe2819cd | -12.5522 | -43.0877 | 2026-10-02 12:50:00 | GOES-19 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 326.8 |
+| 34fed173-0e1a-343f-b197-f6b97ce0ac81 | -11.755 | -43.5275 | 2026-10-02 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 93.9 |
+| e00e8259-1daa-3138-b21f-e2f3112e42fb | -11.1611 | -44.6234 | 2026-10-02 12:50:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 187.8 |
+| e95329eb-78e0-3afb-9e0f-5ae8e2d72aca | -10.9262 | -43.8406 | 2026-10-02 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 112.2 |
+| 122f4035-6e18-38e4-8994-84700bd4c294 | -12.4732 | -44.167 | 2026-10-02 12:50:00 | GOES-19 | TABOCAS DO BREJO VELHO | BAHIA | Brasil | 2930907 | 29 | 33 | nan | nan | nan | Cerrado | 135.7 |
+| b1122e87-1276-3332-bd0c-8b8d1e665d82 | -13.8763 | -43.6396 | 2026-10-02 12:50:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 125.8 |
+| b0a1d20f-9a4b-3c31-bed9-b94cc34e3318 | -11.1611 | -44.6234 | 2026-10-02 13:00:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 221.6 |
+| c4e15728-4226-3548-8da0-853e6a39232d | -11.2749 | -43.5776 | 2026-10-02 13:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 95.5 |
+| 9e85b876-baa5-3559-b54e-a092367a2f2b | -10.303 | -44.648 | 2026-10-02 13:00:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 222.1 |
+| c94059f3-1e37-3fc3-b24f-57ee9f3af88e | -12.9229 | -44.8186 | 2026-10-02 13:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 168.4 |
+| 19387737-1ca6-3da6-9051-60750d61cd3c | -12.7804 | -45.2129 | 2026-10-02 13:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 199.1 |
+| 7cf8cc33-9d25-39ac-a0ea-a02699ec1278 | -13.8037 | -45.2287 | 2026-10-02 13:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 335.0 |
+| 3319ba6c-a029-3c85-8c77-0b84f076836d | -11.142 | -44.6261 | 2026-10-02 13:00:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 104.4 |
 
 
 [Clique aqui para ver as próximas entradas](README86.md)

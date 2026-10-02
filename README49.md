@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a63443ca-2c95-3efc-8322-3d34429f7a50 | -3.12163 | -50.26148 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 9550c4ec-45ad-3a91-a335-3269f92ae39d | -3.95879 | -49.45137 | 2026-10-01 04:32:00 | NOAA-20 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 8af783e7-8447-3de3-b59a-1addc37498f0 | -5.73716 | -45.16494 | 2026-10-01 04:32:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| dd962509-2afb-3298-bcb8-6956ac50c176 | -3.00451 | -53.87683 | 2026-10-01 04:32:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 2315416b-5270-3ec8-95e3-55ae4607c5c1 | -4.25569 | -50.75227 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 16.3 |
-| bca6e1fe-2bdd-3059-b4a5-39c7c9913a83 | -4.29777 | -54.79755 | 2026-10-01 04:32:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 62083f9d-76ad-37d1-b51a-db397e844073 | -4.27236 | -50.74985 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| e0231418-7027-36c6-99c1-c2c0ce1097c9 | -1.14773 | -48.86523 | 2026-10-01 04:32:00 | NOAA-20 | CACHOEIRA DO ARARI | PARÁ | Brasil | 1502004 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 41816445-1839-341d-a347-ad067399946e | -2.77847 | -51.37106 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 91e9752c-664f-3374-b079-0709cdd903f1 | -6.24287 | -47.44243 | 2026-10-01 04:32:00 | NOAA-20 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| a1340292-2b81-359d-8c95-2b733403d571 | -5.17761 | -46.19637 | 2026-10-01 04:32:00 | NOAA-20 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 12.2 |
-| 90a70438-026b-3d99-9fac-878263bfc28d | -3.01307 | -53.88707 | 2026-10-01 04:32:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 8fa91aff-22cb-36af-a6a3-6765e73ea9f1 | -2.99234 | -51.03873 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| ae67c647-3c22-3af1-acd2-389bb582e002 | -2.4468 | -49.22097 | 2026-10-01 04:32:00 | NOAA-20 | MOCAJUBA | PARÁ | Brasil | 1504604 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 4a10e2b7-16fc-332d-a842-8c27fed66ced | -2.97467 | -51.04344 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 88c12204-523f-3607-93fb-2e969108198f | -5.87022 | -50.16213 | 2026-10-01 04:32:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8913cbed-7f6a-3987-be17-10c714d14a22 | -4.24924 | -50.76705 | 2026-10-01 04:32:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| c9ccd17a-4ba8-3f8d-8cbb-f330f8615575 | -3.25521 | -48.77471 | 2026-10-01 04:32:00 | NOAA-20 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 529abb70-fea8-3cb9-8984-2b7624ce42fb | -4.85609 | -45.84528 | 2026-10-01 04:32:00 | NOAA-20 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 88b2d269-a697-3af0-bc60-2d6522b10b7d | -5.73826 | -45.15787 | 2026-10-01 04:32:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 4933dc55-308d-3bae-8e8a-e5e15dd3a16f | -3.10599 | -50.25894 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| a0c39ca8-f750-3b95-946c-e91ecc4b5d5b | -2.98882 | -51.03438 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| d7b7f871-b8c0-332d-9544-c379e92305ad | -5.74551 | -45.15535 | 2026-10-01 04:32:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 1c9cb2b4-44a0-3413-b1e4-61a0355f6872 | -3.54806 | -41.56605 | 2026-10-01 04:32:00 | NOAA-20 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| 83ff889a-714b-39df-869e-a889fbbbfa3c | -4.2644 | -50.73984 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| aea1894d-b23a-3028-b899-0ce5c3b068ee | -2.99353 | -51.03138 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 3aad7b1d-32e9-3188-a8bd-3179a2e1ab0c | -5.40684 | -48.42241 | 2026-10-01 04:32:00 | NOAA-20 | SÃO JOÃO DO ARAGUAIA | PARÁ | Brasil | 1507508 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 85856438-7547-3a37-bc80-a360ae1c2c88 | -7.3959 | -42.65895 | 2026-10-01 04:32:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 124fe866-c487-363b-aa66-d202e51bb3e0 | -4.28505 | -48.5609 | 2026-10-01 04:32:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| dbe67822-3aee-33a4-97bf-0c9f8059b455 | -4.28138 | -50.78451 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 243.8 |
-| ff569d06-c131-345d-9f0a-3f8cac322c78 | -5.11382 | -56.01421 | 2026-10-01 04:32:00 | NOAA-20 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| c2758019-513b-33ec-856f-45760373b2b7 | -4.25926 | -50.77046 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 11.3 |
-| ca823270-6d16-3a07-aa2e-597cffdf7422 | -3.16595 | -54.10569 | 2026-10-01 04:32:00 | NOAA-20 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 722ad0a3-9a01-30eb-af2b-03c8e22262a7 | -5.75725 | -45.16802 | 2026-10-01 04:32:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 086f28ce-9b53-3b78-8adf-c1d638c1717c | -3.1035 | -50.2992 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| eff36f45-2c5e-3cac-b8c2-568c8080a23f | -4.27206 | -50.76707 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 24.5 |
-| a3b14866-7c48-3233-b851-e6a1496229b5 | -5.10533 | -45.66457 | 2026-10-01 04:32:00 | NOAA-20 | ITAIPAVA DO GRAJAÚ | MARANHÃO | Brasil | 2105351 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 3d3cbda0-cb85-3b3c-8a99-754585f8629c | -5.43874 | -43.74442 | 2026-10-01 04:32:00 | NOAA-20 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| ea44fd21-6c8f-368e-a9e0-970e8b4316be | -4.03933 | -54.22957 | 2026-10-01 04:32:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 40221544-395a-3b53-9d6d-32c434d8bd3e | -1.9094 | -45.80971 | 2026-10-01 04:32:00 | NOAA-20 | GOVERNADOR NUNES FREIRE | MARANHÃO | Brasil | 2104677 | 21 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 3a2c9776-0abe-3f38-9c05-c067de1be342 | -3.30086 | -53.85738 | 2026-10-01 04:32:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| b4a72b7f-d7a3-3568-a7b2-d748af0f553f | -2.44542 | -49.21924 | 2026-10-01 04:32:00 | NOAA-20 | MOCAJUBA | PARÁ | Brasil | 1504604 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| d51cbc06-3218-3d4b-bfe0-b441c81a46ad | -3.12236 | -50.28189 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 249a16ee-6080-32de-8a51-6c32eafa93cd | -3.03318 | -48.41856 | 2026-10-01 04:32:00 | NOAA-20 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 1d0ef5a8-3cee-3dcf-8ba0-ad43d72145d6 | -3.00354 | -54.22522 | 2026-10-01 04:32:00 | NOAA-20 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 99532a25-fd75-3710-abeb-e62369def3ac | -2.96883 | -51.02735 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| b27c26cc-fa5a-31fa-bcf6-90833a7be04f | -3.11301 | -50.26516 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 5cd667a6-811a-339f-af8b-d171e8b654a9 | -4.88835 | -48.37579 | 2026-10-01 04:32:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 14.2 |
-| 87de926e-8b5f-3a80-a730-76059c79bbd6 | -4.26514 | -50.76951 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 18.8 |
-| 96300b67-fe6d-3a0a-95f3-496afdcf01b6 | -4.27458 | -50.75199 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 13.8 |
-| 6bdb3e54-7173-37fd-bb5c-29bde75d3fd9 | -5.29824 | -55.87048 | 2026-10-01 04:32:00 | NOAA-20 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 7516a88b-468e-36cc-9935-3444ea7d4e23 | -3.17312 | -54.10228 | 2026-10-01 04:32:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 19.5 |
-| 6488bf63-1576-39da-9c86-6179493bd2f9 | -2.96472 | -51.02668 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 10d22e0e-1c79-32a0-bcd6-5a46a4e62521 | -5.18037 | -46.20034 | 2026-10-01 04:32:00 | NOAA-20 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 11.7 |
-| d7edfed8-0af4-3d06-914b-dcc5e854abd6 | -4.27602 | -50.76775 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 150.5 |
-| e08b87f6-1bec-3830-a95f-b473cd63aa41 | -3.02594 | -53.87162 | 2026-10-01 04:32:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 965c7dce-f69e-3b88-910c-edcce699a91a | -4.28251 | -50.75328 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| 3fb313b7-9dda-3fb2-b07c-2cb55045dc66 | -5.74216 | -45.15483 | 2026-10-01 04:32:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 155892ef-4f2c-36ff-a53b-0f9461ddac28 | -4.27854 | -50.75263 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| 835c4c1d-ce40-32b8-9a7d-f135df700ad2 | -6.75273 | -46.46061 | 2026-10-01 04:32:00 | NOAA-20 | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| cfe72d11-2514-3f60-ac3d-c69af0bca908 | -3.85641 | -49.74087 | 2026-10-01 04:32:00 | NOAA-20 | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b0646fda-7564-3b0b-ae50-77d3de00d706 | -5.76116 | -45.165 | 2026-10-01 04:32:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| de65ba38-8a1e-3412-91ff-00c86f3028cd | -1.83063 | -54.99047 | 2026-10-01 04:32:00 | NOAA-20 | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 1fa6ff86-c79e-3703-b407-b84f04912f5d | -4.14128 | -48.91047 | 2026-10-01 04:32:00 | NOAA-20 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 62be96b1-b155-386c-a091-f28fd20a2978 | -2.35025 | -45.85807 | 2026-10-01 04:32:00 | NOAA-20 | MARANHÃOZINHO | MARANHÃO | Brasil | 2106375 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 11910156-438f-3da2-a4c9-0a7a067112f5 | -4.12041 | -53.81248 | 2026-10-01 04:32:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 4f3cd821-75d8-3ea6-8397-b29aeb0ef264 | -6.39048 | -45.80667 | 2026-10-01 04:32:00 | NOAA-20 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| aa9a86af-5bb5-3972-b784-26100d2b7b7f | -2.82987 | -50.47343 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 707f4a6d-6c0c-3a45-b76e-9e4a89510a7f | -5.92777 | -44.11544 | 2026-10-01 04:32:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 44140399-228c-3055-962e-a719dea5818d | -2.9124 | -51.32027 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 233ed26d-33e3-345b-b0f8-3d45e39bdb0f | -3.14039 | -53.74087 | 2026-10-01 04:32:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 45ce594a-8cbd-3bdd-bedb-eff3fae72625 | -3.2254 | -54.31411 | 2026-10-01 04:32:00 | NOAA-20 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b1a2ebcc-d499-3167-b0cc-631e20248f34 | -3.1811 | -54.10847 | 2026-10-01 04:32:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 9.4 |
-| 59c69f21-e1b2-36aa-9d08-3c47449f92a0 | -4.29641 | -50.79227 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 6477cae5-6680-377a-b32f-40a6b267d4ff | -3.10269 | -50.30421 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| ebde845b-8763-3b75-b880-74673b1eb0d6 | -5.7634 | -45.17259 | 2026-10-01 04:32:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 1f7dec2f-6a40-32d3-85a7-c98e5513f902 | -4.28337 | -50.7481 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| 4fc09466-bb45-3405-8c65-2674b3cdb368 | -3.59474 | -54.55751 | 2026-10-01 04:32:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 4e3a7445-19af-3dba-97c1-c25b6e499726 | -4.29837 | -50.75584 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 645438a6-4fe3-3189-b188-ad6ee31cbbb3 | -3.95626 | -49.05145 | 2026-10-01 04:32:00 | NOAA-20 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 6657c0c7-e495-30fb-a2d6-38ee7a397519 | -3.54608 | -41.5672 | 2026-10-01 04:32:00 | NOAA-20 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 95d5c6f3-6d05-3ae5-a8fd-8d8e36a9ea45 | -2.98823 | -51.03805 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 26a798a7-77ee-3358-958f-780e5c695ec1 | -4.86049 | -45.83891 | 2026-10-01 04:32:00 | NOAA-20 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| e2c90da7-fe84-3692-b85f-e3007c51b4a1 | -3.17101 | -54.10657 | 2026-10-01 04:32:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 9.0 |
-| 133ca2bb-f6ea-3cce-86a6-55c7794fc72c | -3.01522 | -51.46049 | 2026-10-01 04:32:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| f9f9d368-ed4a-30fe-add7-2e96047651e8 | -4.30091 | -50.74049 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a70ec564-0f64-35c9-b989-908af1052337 | -3.16252 | -54.10346 | 2026-10-01 04:32:00 | NOAA-20 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| d5e05bf3-8a8b-3f25-81fc-5e43852fb7b6 | -5.75277 | -45.15283 | 2026-10-01 04:32:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| f56c679f-9a26-3206-ab9e-91a75c39a153 | -6.42609 | -46.67825 | 2026-10-01 04:32:00 | NOAA-20 | SÍTIO NOVO | MARANHÃO | Brasil | 2111805 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 2cc9425f-f05c-3302-9c57-0964ffd59ffc | -4.26526 | -50.74342 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 7d8efb4a-c1f4-310f-b992-b199f7b08500 | -4.29187 | -50.77046 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 179.5 |
-| d7dabcae-9b52-3e3d-8c14-da05b6f37bb1 | -3.17656 | -54.10457 | 2026-10-01 04:32:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 24.7 |
-| 94697a07-6290-3428-a4f5-44f11d88fb5a | -4.26032 | -50.77413 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| d0ee35a0-f194-38a7-a195-03a1b99d4d8d | -6.72867 | -45.53619 | 2026-10-01 04:32:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| ea6408fc-4354-3c27-a6c0-2a3ad6e3dd90 | -5.76396 | -45.16904 | 2026-10-01 04:32:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| b5cb6b58-0350-31e8-bd2b-68273b7fdd62 | -3.06991 | -54.37838 | 2026-10-01 04:32:00 | NOAA-20 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 107d3ac2-2312-3abe-b1bc-fe806e13c513 | -4.29811 | -50.78197 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 11.7 |
-| 6dfff005-81a1-3a3e-b8f6-2b9e6d4ab035 | -4.26099 | -50.76015 | 2026-10-01 04:32:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 77.9 |
-| 561b7cbb-2ed3-33e7-b136-b1849eadf907 | -3.11213 | -50.29553 | 2026-10-01 04:32:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| e5d6b3d1-08de-3e40-ac80-c921979e66f1 | -4.12603 | -46.871 | 2026-10-01 04:32:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| eb0e6d30-29c0-3eb0-adf0-69fcc34e54bc | -11.70255 | -43.59483 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 18cadb93-e5bb-3e3a-a827-8f1f44f01575 | -10.24684 | -44.56715 | 2026-10-02 04:17:00 | NOAA-20 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| a9683cfd-3bcc-326a-85f7-4b273167974d | -10.6144 | -48.05227 | 2026-10-02 04:17:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| a51f73a1-c852-3e43-8627-22d4e5f3c13a | -13.14009 | -40.87411 | 2026-10-02 04:17:00 | NOAA-20 | ITAETÉ | BAHIA | Brasil | 2915007 | 29 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 7749486f-5a5b-33a0-9709-f2ee4de1f676 | -9.33966 | -50.99619 | 2026-10-02 04:17:00 | NOAA-20 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| c217f9ed-2f9b-300c-b21d-2eff411d3f4a | -12.52106 | -43.1071 | 2026-10-02 04:17:00 | NOAA-20 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| df609d85-13c4-3aba-9f9a-471c41a9e8e5 | -15.24252 | -46.16075 | 2026-10-02 04:17:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| a97865b2-ef2e-33a9-8cd4-22b4abd77a2f | -10.42379 | -48.11857 | 2026-10-02 04:17:00 | NOAA-20 | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b2bfc191-72e7-3e8d-831a-bbad3688f035 | -11.79714 | -43.57731 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| e7f30105-be36-3590-91b3-743b690a971d | -13.34756 | -43.86689 | 2026-10-02 04:17:00 | NOAA-20 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 56f8e839-859b-38ce-8fe0-7d7a8455d2f8 | -11.69074 | -43.49855 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 35aab0d5-01c7-3281-8950-2dffeae0be6e | -13.34264 | -43.8551 | 2026-10-02 04:17:00 | NOAA-20 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 9f275f89-aab7-3666-93b2-406e134cd63e | -12.28849 | -42.46931 | 2026-10-02 04:17:00 | NOAA-20 | OLIVEIRA DOS BREJINHOS | BAHIA | Brasil | 2923209 | 29 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 7b040477-e810-3a8e-931f-1e9c80d1b97a | -12.17192 | -44.66112 | 2026-10-02 04:17:00 | NOAA-20 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| caf92750-421e-3158-9b01-29ad412c38c0 | -11.46248 | -43.41727 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 4e8d7f32-4e56-3ee6-a81f-faaaea33e08f | -11.76506 | -43.56487 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| d68c955d-4e34-304c-a50d-0b8ef5cd4bf3 | -11.59848 | -43.54509 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 89024a24-d5d3-3d9c-afee-a1a4d6abac84 | -11.6769 | -43.49989 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c5844c56-a249-37ea-8657-ff9845655ef7 | -17.44235 | -41.91736 | 2026-10-02 04:17:00 | NOAA-20 | NOVO CRUZEIRO | MINAS GERAIS | Brasil | 3145307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| a0be8666-25a4-3a80-9d2c-232f74cb607f | -11.43128 | -43.40139 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| cd55d6d9-774a-3114-a5f1-259f4bfabf59 | -11.42797 | -43.40084 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 69ec59b4-c49d-3f1c-b6c4-e79782ed298e | -11.31214 | -43.57022 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 3fb79bde-b819-3e89-b6d3-03170cc0499c | -11.73584 | -43.57856 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 24.5 |
+| fc00c554-1f40-35f8-9207-15f11fb64fde | -11.78944 | -43.5616 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| acb2c014-05b7-3dc8-a50c-5cd7dda8d941 | -11.13774 | -44.58987 | 2026-10-02 04:17:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| de4c4b24-58f0-369a-ada8-0c93f000e35f | -10.9015 | -43.84272 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| c50de986-84d0-328c-9e97-ee20a6477a12 | -10.25026 | -44.56775 | 2026-10-02 04:17:00 | NOAA-20 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 5b6d3de1-c910-3c00-bc6a-3ff4c6c40100 | -11.67358 | -43.49934 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 0d65641a-e0dd-399d-942c-8b67028ef357 | -11.23038 | -45.17968 | 2026-10-02 04:17:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| e6185e43-429f-3db3-8b6c-18dcb03416ed | -8.5406 | -54.56397 | 2026-10-02 04:17:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 001e02e7-6b8b-3817-85e9-7aec6cb1db1c | -16.86083 | -40.57297 | 2026-10-02 04:17:00 | NOAA-20 | SANTA HELENA DE MINAS | MINAS GERAIS | Brasil | 3157658 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| ebeb9e56-9d74-38c8-92fe-e88ed5cfe017 | -11.77001 | -43.57648 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 30b9232c-29d2-3ea2-8511-7fd3493deca2 | -11.73641 | -43.57503 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 516b079a-a1db-39a7-80ac-9c93e6d54570 | -10.25813 | -49.66396 | 2026-10-02 04:17:00 | NOAA-20 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 63c75899-6310-3427-8fd3-9bfac4ccba10 | -11.65823 | -43.59478 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 81.0 |
+| 5a789df0-4780-3f01-a0a0-0206318da25b | -11.51309 | -43.50528 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| b2400fd5-33a1-35b1-b421-204b0155229a | -11.6643 | -43.59941 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 8f0751f3-f347-39c2-9850-84f0e862057b | -12.52441 | -43.08597 | 2026-10-02 04:17:00 | NOAA-20 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 92f6809e-d84d-37d0-9a4f-26a86b8bcd79 | -11.66098 | -43.59886 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| fac9c897-9480-3c28-b637-c36b28b2c933 | -13.02899 | -41.03722 | 2026-10-02 04:17:00 | NOAA-20 | ITAETÉ | BAHIA | Brasil | 2915007 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| aebdff91-db3b-3244-a601-ef9178f93c7d | -11.23604 | -45.18869 | 2026-10-02 04:17:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 5ba65b5d-0430-3309-81f1-bba0689d318c | -11.73077 | -43.43996 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| bb529a5d-6a2c-310d-b63b-a1ea756d3974 | -11.76402 | -43.55018 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 59ffc49f-45e5-38a7-ab64-a012e84a991a | -11.74015 | -43.44514 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 78e60c36-19cf-3d44-ac08-e46619420ef5 | -12.85722 | -43.81109 | 2026-10-02 04:17:00 | NOAA-20 | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 82f879de-0c1d-3724-b543-a0236e5c1f25 | -11.68035 | -43.60567 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| ea309cfa-01a4-3155-a499-244dbddbb070 | -11.77333 | -43.57701 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| be989093-a7dd-3f9c-b65b-9b68d0f47d43 | -10.29575 | -44.65314 | 2026-10-02 04:17:00 | NOAA-20 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 9774c77f-ff47-32ac-a8f6-a5316005e059 | -14.24047 | -44.23294 | 2026-10-02 04:17:00 | NOAA-20 | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| a2078b83-81cb-3d68-8976-3ef420c0601b | -12.32481 | -46.3758 | 2026-10-02 04:17:00 | NOAA-20 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| a2bca1e3-f905-36db-803a-cb6d2ce3db54 | -16.86126 | -40.57505 | 2026-10-02 04:17:00 | NOAA-20 | SANTA HELENA DE MINAS | MINAS GERAIS | Brasil | 3157658 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| c6fb06e8-4de0-3c0f-9b42-cb913bdbde67 | -11.47017 | -43.43301 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 0b337cb3-58aa-352a-857c-5e81dc8457b8 | -14.3797 | -44.73062 | 2026-10-02 04:17:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| ab3c3b2f-17fd-3e43-8199-0a2f35f28368 | -13.88341 | -44.46018 | 2026-10-02 04:17:00 | NOAA-20 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 52b99216-d5dc-3fdf-a0f5-de620614b7c8 | -11.4147 | -43.39865 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| d74f0a18-3434-3ab7-801c-596720a1e5b9 | -12.53103 | -43.08705 | 2026-10-02 04:17:00 | NOAA-20 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 08c959d1-9b5f-33d1-83ad-d608fc605fa7 | -11.65319 | -43.60485 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 35.9 |
+| 7bc071a6-794a-3a81-8bbe-2a71838fd450 | -12.56142 | -43.06674 | 2026-10-02 04:17:00 | NOAA-20 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| e74ef47a-c500-3167-8452-dceece33225d | -11.65433 | -43.59777 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 81.0 |
+| 400c64e5-b23e-32ac-8122-a839661cbff4 | -11.43711 | -43.53261 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 19b9e206-4e58-3bf8-b1d8-216a3ade3d1f | -11.90634 | -46.5617 | 2026-10-02 04:17:00 | NOAA-20 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 318d175f-a7c9-313a-b4c7-95de187bbde0 | -13.25108 | -42.6317 | 2026-10-02 04:17:00 | NOAA-20 | MACAÚBAS | BAHIA | Brasil | 2919801 | 29 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| f895851e-226b-35e2-918d-5707698fe160 | -11.1217 | -44.60246 | 2026-10-02 04:17:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 17226fb5-fa18-395e-a961-ed4fdb6b448d | -11.38865 | -43.41246 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| f8f2fda2-ddf9-32f2-907a-00c6319274d0 | -15.76735 | -43.6456 | 2026-10-02 04:17:00 | NOAA-20 | SÃO JOÃO DA PONTE | MINAS GERAIS | Brasil | 3162401 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 6d43d347-1f79-3b84-96b5-cd78204d89f2 | -15.7701 | -43.64973 | 2026-10-02 04:17:00 | NOAA-20 | SÃO JOÃO DA PONTE | MINAS GERAIS | Brasil | 3162401 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| a803609d-3167-39d8-84fb-0e2fb327b5e3 | -12.98664 | -51.28729 | 2026-10-02 04:17:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 742ea652-3d07-3725-9f3e-4f44520a49fe | -16.90215 | -42.09994 | 2026-10-02 04:17:00 | NOAA-20 | ARAÇUAÍ | MINAS GERAIS | Brasil | 3103405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 19708a0f-1e65-3c9a-ad94-ee91fe42f587 | -9.78852 | -53.829 | 2026-10-02 04:17:00 | NOAA-20 | MATUPÁ | MATO GROSSO | Brasil | 5105606 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 955424a0-fbb8-31d4-9d09-6fa63deed329 | -11.1273 | -44.61108 | 2026-10-02 04:17:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| ed595de9-b232-3482-8e66-770f74e0df1e | -11.68813 | -43.59971 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| d3c02918-2961-3a98-9764-f9a041bd3146 | -18.33835 | -40.05972 | 2026-10-02 04:17:00 | NOAA-20 | PINHEIROS | ESPÍRITO SANTO | Brasil | 3204104 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 0cfc4afb-4d20-3cb3-bd6e-f8033ccfb55a | -13.33817 | -43.86166 | 2026-10-02 04:17:00 | NOAA-20 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 502a2de0-594d-3dcf-9d20-59af3e529f30 | -12.51332 | -43.11306 | 2026-10-02 04:17:00 | NOAA-20 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| e6f8e997-e8ab-3d3c-a0a2-29712adb2b1c | -11.68734 | -43.51974 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 38079aa3-9f34-3a65-95f8-3c0ace66e471 | -11.40206 | -43.37125 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| f8ba1a19-cdc5-332c-811d-351ee2df200a | -10.61368 | -48.05639 | 2026-10-02 04:17:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| f91b36de-c26e-33d0-9566-14bea895c8f7 | -11.7828 | -43.56053 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 31d5a2e4-9a0c-3bcf-8433-cdaa66a157f8 | -11.72667 | -43.50812 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| d18aa188-464d-3b8b-9472-4cefb22f3672 | -11.68109 | -43.55862 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 0.3 |
+| ce9f1bb5-0c05-3ec9-8bab-e82635b755a2 | -11.45585 | -43.41617 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 1332c41b-9cc0-3490-8179-bd85dd0e71f5 | -12.99504 | -51.28261 | 2026-10-02 04:17:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 28.8 |
+| cac0aca8-03fc-3f06-8dff-219166f9d908 | -11.42077 | -43.40327 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| cdc887fc-552a-3473-bec1-014dbe2db0d1 | -10.89642 | -43.85287 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| c07c34e9-0bf2-30be-a9fc-53b7d239a8d1 | -13.0018 | -51.31337 | 2026-10-02 04:17:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 7081dcbe-d11c-3cb2-9c42-daa276c67bc3 | -10.83673 | -48.69057 | 2026-10-02 04:17:00 | NOAA-20 | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| f0997b08-fc23-33ca-9acf-38180734c896 | -11.24291 | -45.23376 | 2026-10-02 04:17:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 87dd27d0-b6c2-303a-8a93-eca2d2c5776f | -10.56034 | -50.0757 | 2026-10-02 04:17:00 | NOAA-20 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| d355fa9f-3a14-3f47-b27d-f39cce5332f9 | -11.75795 | -43.54556 | 2026-10-02 04:17:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 7d64d66b-e941-3e6b-b644-fe82bf4e5d63 | -11.13787 | -44.61268 | 2026-10-02 04:17:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 578f9235-ce3e-3a3d-8483-81d16cbe0e2a | -15.39994 | -43.00053 | 2026-10-02 04:17:00 | NOAA-20 | MATO VERDE | MINAS GERAIS | Brasil | 3141009 | 31 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 5287fa17-6c70-352e-beb9-9a4e0f200d08 | -11.22692 | -45.17902 | 2026-10-02 04:17:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 1942900b-dd28-3829-b746-3193cfc48d93 | -10.24629 | -46.62978 | 2026-10-02 04:17:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 03f8d1ac-151a-32c9-8709-e8e097a0b6b1 | -18.33685 | -40.05678 | 2026-10-02 04:17:00 | NOAA-20 | PINHEIROS | ESPÍRITO SANTO | Brasil | 3204104 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 3a4562dc-1ccc-3e3b-947e-3d99498af5ab | -19.03035 | -45.64862 | 2026-10-02 04:19:00 | NOAA-20 | ABAETÉ | MINAS GERAIS | Brasil | 3100203 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| c1a24ceb-d070-323f-bcd4-15444d50dffe | -19.02641 | -45.65168 | 2026-10-02 04:19:00 | NOAA-20 | ABAETÉ | MINAS GERAIS | Brasil | 3100203 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 70b7938a-e5f6-3098-ac0c-8c8418a286de | -17.98548 | -45.86709 | 2026-10-02 04:19:00 | NOAA-20 | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| a2077a7f-95e2-3d23-b9b2-cb9ded6d2d38 | -19.25999 | -44.34342 | 2026-10-02 04:19:00 | NOAA-20 | PARAOPEBA | MINAS GERAIS | Brasil | 3147402 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| ac75464c-5ca3-3ef5-8917-e55fce34d62b | -19.39495 | -44.26122 | 2026-10-02 04:19:00 | NOAA-20 | SETE LAGOAS | MINAS GERAIS | Brasil | 3167202 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 4cffc602-da1f-3bb2-be07-25238d5ead96 | -19.03308 | -45.65291 | 2026-10-02 04:19:00 | NOAA-20 | CEDRO DO ABAETÉ | MINAS GERAIS | Brasil | 3115607 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
 
 
 [Clique aqui para ver as próximas entradas](README50.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| f4f97602-f03d-327c-b5ff-c28cc36a7694 | -7.49137 | -54.98973 | 2026-10-01 00:20:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 29.5 |
-| b1af3442-6b6b-3636-846f-671473c51f66 | -2.97387 | -51.04454 | 2026-10-01 00:20:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 14.2 |
-| d1d29c29-2f58-3aeb-9eb8-7045f6e99904 | -7.49633 | -55.02614 | 2026-10-01 00:20:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| 74db7907-7cac-3746-9fa7-d6eced8df151 | -1.81997 | -57.10736 | 2026-10-01 00:20:00 | TERRA_M-M | NHAMUNDÁ | AMAZONAS | Brasil | 1303007 | 13 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| b5702d4c-0f70-3b74-acc5-4c6ae1f5f711 | -3.24591 | -48.77642 | 2026-10-01 00:20:00 | TERRA_M-M | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 21.4 |
-| e04c1bda-9c7c-3589-85fe-3e7458497f9c | -1.83508 | -54.99451 | 2026-10-01 00:20:00 | TERRA_M-M | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 6b7f2f6f-5c9d-3b6c-bc4d-649055788e55 | -3.02597 | -53.86919 | 2026-10-01 00:20:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 10.8 |
-| 3aed56cf-db7f-3af9-95b2-321d5b6cec5c | -3.07647 | -54.37733 | 2026-10-01 00:20:00 | TERRA_M-M | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| 1ff009dc-74fc-318c-9a13-092379f0b1bb | -6.54773 | -55.29325 | 2026-10-01 00:20:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| e2d82248-1838-3eaf-9a0c-e9a3230182e4 | -4.2437 | -50.76217 | 2026-10-01 00:20:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| 7f54056c-1a86-3dbf-8bc7-d6b4b5349513 | -5.1813 | -46.20789 | 2026-10-01 00:20:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 59.3 |
-| ee9e432a-8907-3251-8721-9f96a7516be5 | -3.59864 | -61.72317 | 2026-10-01 00:20:00 | TERRA_M-M | ANAMÃ | AMAZONAS | Brasil | 1300086 | 13 | 33 | nan | nan | nan | Amazônia | 15.7 |
-| bced843d-ef6c-38ef-9541-dfe1c1f2c441 | -3.29043 | -53.85658 | 2026-10-01 00:20:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 158.3 |
-| 45f03b49-36e6-3d66-92a1-0fe5ac9347f0 | -4.034 | -54.22983 | 2026-10-01 00:20:00 | TERRA_M-M | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 85d375b9-c01a-3bf4-9885-135fb5cf9916 | -3.57112 | -51.51247 | 2026-10-01 00:20:00 | TERRA_M-M | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 2d4a6286-f5d6-3fd9-a9c9-fd4cd116738b | -3.00263 | -54.23435 | 2026-10-01 00:20:00 | TERRA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| cb2880b4-0087-349e-aca2-53e467ea3373 | -2.92738 | -54.16024 | 2026-10-01 00:20:00 | TERRA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 19.6 |
-| 9ef704d4-cc03-3435-aace-21bfbdeceb80 | -4.12555 | -46.8801 | 2026-10-01 00:20:00 | TERRA_M-M | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 25.2 |
-| 92b4a0b3-927a-355b-aebc-9971bfad2b92 | -6.5231 | -55.38702 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| a7545a98-4443-3787-99f3-ddbdfcd74ec1 | -5.91247 | -53.49192 | 2026-10-01 00:20:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 33.3 |
-| a8badf9f-cf89-3abd-ad77-04e9c5de2b17 | 1.87362 | -55.63587 | 2026-10-01 00:20:00 | TERRA_M-M | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| 73551972-7792-3b45-a8c3-891a2d441540 | -6.74536 | -55.59914 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| bd6ff1c2-a5a2-33bb-8509-3add38769d57 | -6.14597 | -53.3121 | 2026-10-01 00:20:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 8.7 |
-| 86348fd4-4647-3d70-924b-865eef5a4ea7 | -6.73629 | -55.6004 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| eedc01cd-fd88-37bf-9e80-92a9b8a159a2 | -6.8393 | -55.27207 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 7971e8ad-b3f3-3dff-9940-2e46156b1d7f | -3.57788 | -51.48795 | 2026-10-01 00:20:00 | TERRA_M-M | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| 28a8bc9b-2c3d-390a-a188-06949dd7ceb5 | -3.43045 | -50.44463 | 2026-10-01 00:20:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| b22fea62-fb61-3a40-9e5d-36043cd05379 | -5.97826 | -55.3775 | 2026-10-01 00:20:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 17.8 |
-| 1caacd3a-7e2a-3c54-a921-41535e69e264 | -4.26538 | -50.79151 | 2026-10-01 00:20:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 26.9 |
-| bd68d6f4-14e2-3e9b-be91-51737efbfb5c | -4.83441 | -50.68472 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 8.5 |
-| c51fbd5f-c567-308a-9d35-a4b0952978f2 | -3.01174 | -54.16964 | 2026-10-01 00:20:00 | TERRA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| fb1e4db1-9431-3df9-ad13-15af1d8d2ce0 | -2.85824 | -54.13078 | 2026-10-01 00:20:00 | TERRA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 12.9 |
-| bf8e9b1e-8683-3bdd-a064-347a7f4aa9d7 | -4.2617 | -50.76626 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 315.6 |
-| ff778baf-2cfc-3d44-9418-3149a0ac8f74 | -3.2645 | -53.99754 | 2026-10-01 00:20:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| 4cc1c0b1-e9fe-3b42-9740-1c8dbb665743 | -3.29372 | -45.92431 | 2026-10-01 00:20:00 | TERRA_M-M | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 22.2 |
-| 661861e7-52f3-3968-b6e2-8326de797c28 | -7.50032 | -54.98854 | 2026-10-01 00:20:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 3cfb9d07-aec8-3315-b13a-9a817b93b4a8 | -2.82632 | -50.46974 | 2026-10-01 00:20:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 18.0 |
-| aaabd50d-7414-30ec-b9bb-b53d5cc1ca37 | -7.45565 | -54.99473 | 2026-10-01 00:20:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 2f893537-f82f-3a6b-a509-8e638f1be03c | -4.62886 | -50.61031 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 10.2 |
-| 6b5c3ffa-23c7-3f40-8622-1c62ae985dff | -3.11081 | -50.2947 | 2026-10-01 00:20:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 73.8 |
-| ea410b84-4499-3695-abd0-f83fb4ad75f8 | -4.63074 | -50.62328 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 30.9 |
-| f6d5ed92-d0cd-3fa4-9689-5058042e6c92 | -4.05366 | -51.09327 | 2026-10-01 00:20:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 1ac8c447-d0cc-35d4-86bb-a0c825fffdd6 | -4.2826 | -50.76322 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 761.2 |
-| 9585d167-4d7f-3b35-8974-a93c619de5c7 | -6.53754 | -55.28534 | 2026-10-01 00:20:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 10.3 |
-| 7ed0d88f-e233-3465-94a9-2c996da88774 | -5.08767 | -45.78292 | 2026-10-01 00:20:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 29.5 |
-| 7827b161-6158-3c8c-9fd1-141900c2647b | -6.34937 | -55.3299 | 2026-10-01 00:20:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 15.0 |
-| bcb64be4-594b-319e-9b06-659e10999342 | -4.04161 | -54.21977 | 2026-10-01 00:20:00 | TERRA_M-M | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| cea91ca2-ad5e-3044-8a76-e50220317baa | -2.99477 | -51.04154 | 2026-10-01 00:20:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 26.5 |
-| ed674c6d-4228-332f-8ca5-dd36ab48c00f | -2.5038 | -56.9114 | 2026-10-01 00:20:00 | TERRA_M-M | PARINTINS | AMAZONAS | Brasil | 1303403 | 13 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| c13733a4-3409-39ec-82c6-f22854c86977 | -2.98256 | -51.03038 | 2026-10-01 00:20:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 26.1 |
-| 86121478-3a22-3169-9fb2-18fe9ca303fe | -6.33519 | -51.15255 | 2026-10-01 00:20:00 | TERRA_M-M | PARAUAPEBAS | PARÁ | Brasil | 1505536 | 15 | 33 | nan | nan | nan | Amazônia | 14.3 |
-| 00fcdf5d-a484-3bee-b11c-16e3df016b93 | 1.97141 | -50.83795 | 2026-10-01 00:20:00 | TERRA_M-M | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| cd7d3edc-d2ba-3dc3-8c76-3ab153e1e8e4 | -3.49412 | -54.73359 | 2026-10-01 00:20:00 | TERRA_M-M | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| e123bd12-32f6-39c0-8a6f-1723cae47aa2 | -2.87814 | -54.87992 | 2026-10-01 00:20:00 | TERRA_M-M | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| ee36b9bd-45f7-3fb9-8eeb-9767a53b0249 | -5.7479 | -45.14024 | 2026-10-01 00:20:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 62.9 |
-| 65f58fe8-cbf9-3744-b979-435dd9784b2d | -4.07554 | -54.87514 | 2026-10-01 00:20:00 | TERRA_M-M | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 14.9 |
-| 48168c61-c334-3f5a-b213-28f18d880dac | -3.02034 | -54.23187 | 2026-10-01 00:20:00 | TERRA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 7.5 |
-| 14739589-908e-359f-ab85-75758a7b7f28 | -4.28443 | -50.77595 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 698.0 |
-| dfd96553-3c73-3792-a9b3-6e194be7cdf6 | 1.80043 | -55.62873 | 2026-10-01 00:20:00 | TERRA_M-M | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| a602a39e-2d11-32bc-b9a2-251cb1b6ef9d | -6.91048 | -51.67152 | 2026-10-01 00:20:00 | TERRA_M-M | TUCUMÃ | PARÁ | Brasil | 1508084 | 15 | 33 | nan | nan | nan | Amazônia | 12.2 |
-| 8c9fada7-170b-314e-8c21-0965b153fcb2 | -3.96421 | -53.46241 | 2026-10-01 00:20:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 31.7 |
-| f539a12a-4d8f-3b1e-bc69-594a6705f08b | -6.26854 | -51.8293 | 2026-10-01 00:20:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| cdda921c-bba4-3c94-8528-d2638b311ab3 | -2.99009 | -51.03582 | 2026-10-01 00:20:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 55.3 |
-| 6bf2efe6-d8ea-39d7-a1cf-2e32c1f6156f | -7.70475 | -54.79446 | 2026-10-01 00:20:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| 46a8999b-62ba-35ad-b8ce-1c0a192d4f40 | -3.01666 | -54.20522 | 2026-10-01 00:20:00 | TERRA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| d2d2bfcd-9725-36c9-8cf0-483085cecd8c | -6.18334 | -53.18045 | 2026-10-01 00:20:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 1d73a502-306e-373c-8d32-84627d403227 | 1.70794 | -55.91011 | 2026-10-01 00:20:00 | TERRA_M-M | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 14c65939-ebc1-38ea-8c9b-c28bbeefc756 | -4.15993 | -48.91197 | 2026-10-01 00:20:00 | TERRA_M-M | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 13.9 |
-| 7a0cd982-186d-302b-a179-a53038184ee1 | -6.0044 | -49.55381 | 2026-10-01 00:20:00 | TERRA_M-M | CURIONÓPOLIS | PARÁ | Brasil | 1502772 | 15 | 33 | nan | nan | nan | Amazônia | 71.9 |
-| 9c7498d2-e40e-3619-a85a-2fdac4d79917 | -6.2845 | -52.91666 | 2026-10-01 00:20:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| b2eadd92-18fe-397b-b8e3-9ca5a1b91835 | -3.12186 | -50.2931 | 2026-10-01 00:20:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 34.9 |
-| a7b34b1b-b372-3107-ab33-a2eb887d3374 | -6.36191 | -55.14614 | 2026-10-01 00:20:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 22773844-b4f8-3355-bedf-b756564b4661 | 1.7347 | -55.97622 | 2026-10-01 00:20:00 | TERRA_M-M | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 36719cdf-71e6-3924-9f74-300b6893d272 | -6.20247 | -53.18691 | 2026-10-01 00:20:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 7fc9e320-6015-37b2-b4de-5e7f186d31f4 | -2.94541 | -54.09407 | 2026-10-01 00:20:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 489f7e35-e977-3a35-8b10-5d1f6c82af3b | -6.69874 | -55.04716 | 2026-10-01 00:20:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 60102347-5c01-3138-8a97-09551e4ec9c9 | -7.71365 | -54.79321 | 2026-10-01 00:20:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| fe55bf22-0ada-32c4-8d0e-3708e916dd49 | -6.3696 | -55.13589 | 2026-10-01 00:20:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 7.1 |
-| bece7fbb-a6c1-3aa6-9daf-534f948f5c4c | -3.16701 | -54.09031 | 2026-10-01 00:20:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 167.0 |
-| fd6470e2-b054-378c-9327-a391810b067c | -5.91371 | -53.50088 | 2026-10-01 00:20:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 23.3 |
-| a1fbb6fd-1ae1-3ba9-b4ed-9cb9aa3e5cbc | -4.29487 | -50.77441 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 110.0 |
-| cca46518-4fc2-3ff9-b6c1-8d14285334c0 | -3.09562 | -50.26767 | 2026-10-01 00:20:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 57.3 |
-| 71253282-2852-33fc-8862-89ab3efa346a | -2.95985 | -51.02071 | 2026-10-01 00:20:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 12.1 |
-| 5eef67a1-06fe-3dc7-9d46-76ed840eeac5 | -3.57718 | -54.3246 | 2026-10-01 00:20:00 | TERRA_M-M | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| 79ede5bb-3b6f-31f5-bc79-d3737b7175fe | -3.0014 | -54.22546 | 2026-10-01 00:20:00 | TERRA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 57fee524-55b5-3092-8edb-fd25c685c103 | -1.4286 | -46.79902 | 2026-10-01 00:20:00 | TERRA_M-M | BRAGANÇA | PARÁ | Brasil | 1501709 | 15 | 33 | nan | nan | nan | Amazônia | 31.5 |
-| 3d538845-315a-32cb-9995-8b1d914e735f | -3.01026 | -54.22422 | 2026-10-01 00:20:00 | TERRA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 11.6 |
-| d31ddb7e-6509-37a7-928f-d73f373c4c5a | -3.98421 | -56.08675 | 2026-10-01 00:20:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 34.2 |
-| 075a9408-4e63-303e-a6f3-2bdb8f95bc70 | -3.16 | -51.35648 | 2026-10-01 00:20:00 | TERRA_M-M | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 205.9 |
-| c219905f-3673-3a37-b1b0-77c6dea62c4c | -4.31753 | -50.78397 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 41.8 |
-| 2b581efc-f401-30b4-9899-d2658a5cf160 | -4.24939 | -50.75503 | 2026-10-01 00:20:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 192.6 |
-| d530f6e0-f0ed-3690-86cf-0bb5cf3404a8 | -3.92489 | -55.92254 | 2026-10-01 00:20:00 | TERRA_M-M | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 11e57168-615f-3d59-937d-25d5100a47f3 | -3.21069 | -53.94732 | 2026-10-01 00:20:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 10.1 |
-| ab423b20-697d-3f5c-8775-4460e8c91b5d | -4.30242 | -50.90102 | 2026-10-01 00:20:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 10.8 |
-| d41286f9-bba0-3adf-9e8b-ce386792ccbd | -3.1569 | -54.08261 | 2026-10-01 00:20:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 88.5 |
-| 11e0cb08-c4f2-3796-96cd-7b65c93fca7e | -2.4475 | -49.2261 | 2026-10-01 00:20:00 | TERRA_M-M | MOCAJUBA | PARÁ | Brasil | 1504604 | 15 | 33 | nan | nan | nan | Amazônia | 14.7 |
-| fdbb9781-8424-34ee-ac99-6efd050fdd8b | -5.17708 | -46.18029 | 2026-10-01 00:20:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 33.7 |
-| 2739cdaf-aa3e-30b1-a4c8-47a1212650bb | -3.15829 | -51.34457 | 2026-10-01 00:20:00 | TERRA_M-M | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 21.1 |
-| 2bc44b60-6dee-3483-bda4-13060b2262a3 | -3.0261 | -51.28327 | 2026-10-01 00:20:00 | TERRA_M-M | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| 51da65ef-a62d-3d8d-9d6f-f82cffc29477 | -3.17836 | -54.10689 | 2026-10-01 00:20:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 460.5 |
+| 3005a728-9ed5-304e-809e-076f08c20192 | -7.4923 | -55.012402 | 2026-10-02 00:50:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ba3e3eed-010f-3e4f-8fd3-ea35d5439eb6 | -3.1366 | -53.7864 | 2026-10-02 00:50:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| eab9ad6f-aa73-36d8-b73c-a90192f68cda | -4.2963 | -49.120998 | 2026-10-02 00:50:00 | METOP-B | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 471e85e6-3f6a-34fe-8b80-95e85f023639 | -3.1839 | -54.118698 | 2026-10-02 00:50:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 351bcc98-ea1f-37d9-bb78-8f22261347cc | -7.7135 | -54.814999 | 2026-10-02 00:50:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2cb414b6-9564-31c9-9fd9-34b366f78a43 | -7.2005 | -52.643299 | 2026-10-02 00:50:00 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c01b8c16-f54d-3804-b0c9-0e20204805f5 | -3.1332 | -53.771801 | 2026-10-02 00:50:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 816f2690-cc78-328a-8cf5-a2da96bea65f | -7.6315 | -55.0774 | 2026-10-02 00:50:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f0f402ea-3c5e-33f7-add5-757014892cd5 | -8.1753 | -54.8046 | 2026-10-02 00:50:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c524b8ce-1d5d-3926-b927-4c1e972d78cc | -8.1778 | -54.815102 | 2026-10-02 00:50:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| be12e854-5e09-3373-887f-a64962e30384 | -6.8438 | -55.540501 | 2026-10-02 00:50:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ede71697-f57b-39f5-9c83-581b1e018175 | -3.0207 | -53.9048 | 2026-10-02 00:50:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f27a02c3-800d-388d-8688-05a2314f074c | -6.8531 | -59.2826 | 2026-10-02 00:50:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 827c9035-3d53-3987-9e70-9e814a000b55 | -8.2298 | -55.294399 | 2026-10-02 00:50:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 90551313-5b30-37ae-b450-4cb0629f5c84 | -3.2966 | -53.855598 | 2026-10-02 00:50:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 679399d7-fa52-3098-99cb-055a34aac3da | -3.1677 | -54.093399 | 2026-10-02 00:50:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 41500297-478f-3b16-9dc2-25e316a429e0 | 1.8242 | -55.5779 | 2026-10-02 00:50:00 | METOP-B | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 328f7230-e664-324b-a0fb-5285b08c8c5d | -3.8495 | -55.822601 | 2026-10-02 00:50:00 | METOP-B | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d1fc8a6f-d256-3f9f-8a16-9f036235ad4e | -8.1535 | -54.842999 | 2026-10-02 00:50:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 44ac9423-36d6-367d-b77c-df24e6bf8064 | -1.2582 | -54.576401 | 2026-10-02 00:50:00 | METOP-B | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c88d83eb-43f3-3e8a-91d2-d9aae7a56600 | -3.1709 | -54.107201 | 2026-10-02 00:50:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 8be9584c-8c93-3ebf-87b2-d3a8cfe2266e | -2.0482 | -56.8923 | 2026-10-02 00:50:00 | METOP-B | NHAMUNDÁ | AMAZONAS | Brasil | 1303007 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 5a00464c-cd83-3822-b218-7c0977fdf740 | -2.0558 | -56.880501 | 2026-10-02 00:50:00 | METOP-B | NHAMUNDÁ | AMAZONAS | Brasil | 1303007 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| ffce9e44-b94b-3b6e-bcfe-131c3553dc99 | -6.4033 | -56.4328 | 2026-10-02 00:50:00 | METOP-B | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d62bc17f-5c41-3b8a-9e14-11d584f0ec07 | -6.3619 | -55.158901 | 2026-10-02 00:50:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 91220c12-faca-3c3b-826d-4282b878c05a | -6.3992 | -56.415001 | 2026-10-02 00:50:00 | METOP-B | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d194bba6-f540-3c1b-8d0e-161f6e27ccb2 | -7.6291 | -55.067101 | 2026-10-02 00:50:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 332d3db2-9bbf-34d5-a22c-05c375623622 | -3.2903 | -53.8722 | 2026-10-02 00:50:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 562ff5ad-7959-3cdb-8066-a5742ad0df7e | -6.8613 | -59.273499 | 2026-10-02 00:50:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 25fff35c-5531-34e4-b874-53c94a2f658b | -2.0439 | -56.873299 | 2026-10-02 00:50:00 | METOP-B | NHAMUNDÁ | AMAZONAS | Brasil | 1303007 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 7b77e8eb-554a-3ecc-8236-a5fdec19ac44 | -7.829 | -55.127201 | 2026-10-02 00:50:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 11a5b121-b687-3106-b710-125071bcbdce | -6.7015 | -56.163799 | 2026-10-02 00:50:00 | METOP-B | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 131e4b6d-cc87-342b-aa50-8824a09ccf4d | -2.5741 | -54.762299 | 2026-10-02 00:50:00 | METOP-B | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 814fc4b5-610e-39ab-a149-89520da0da59 | -7.1969 | -52.6283 | 2026-10-02 00:50:00 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6ed428de-346c-3443-b8a1-f8faaa564669 | -3.1871 | -54.1325 | 2026-10-02 00:50:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0816403a-515f-347a-b370-f8e3ef2f1780 | -3.5728 | -54.637901 | 2026-10-02 00:50:00 | METOP-B | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 5e888469-0e75-3110-85e7-5c4206e0d8bc | -5.8413 | -53.491501 | 2026-10-02 00:50:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2170905c-771b-3b47-be5a-ac956525201b | -3.1298 | -53.757198 | 2026-10-02 00:50:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 8ba282af-9f4d-3e84-b7a4-7dccc03f1a36 | -6.8461 | -55.5504 | 2026-10-02 00:50:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2ed1c063-5f95-30be-9e37-d8a1d57f478c | -8.1656 | -54.806999 | 2026-10-02 00:50:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a7ca0009-3977-342d-b457-5cb0e7a0a5a4 | -7.8314 | -55.137299 | 2026-10-02 00:50:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 8c53d8db-8e53-32e1-86ba-21bc9b069679 | -7.72367 | -54.82042 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 89.2 |
+| 9bf23be5-ff4a-361e-a0a9-b41d61641331 | -6.43569 | -55.81748 | 2026-10-02 00:56:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 22.7 |
+| b96e7309-5b02-3509-9206-d4632d8a2f27 | -7.27134 | -55.59996 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 41.5 |
+| 4b758288-9482-3896-bb4b-0ced6ff8b5fa | -6.00934 | -53.54897 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 51.8 |
+| 05b8cef2-df6b-369e-a89d-30553fc4face | -6.86738 | -57.71705 | 2026-10-02 00:56:00 | TERRA_M-M | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 14.6 |
+| e9d3fb0f-b360-3fd0-a029-9632571fddb3 | -8.18016 | -54.80946 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 31.3 |
+| 0aff041d-dd04-3771-82d8-316bdf44f518 | -7.49507 | -55.00475 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 37.6 |
+| 88bb08e8-8ecb-35d1-831b-ab759e68f726 | -6.69779 | -56.14906 | 2026-10-02 00:56:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 18.3 |
+| be8922b3-b50d-34d0-a202-db8d79c746e3 | -8.19557 | -54.71156 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 32.1 |
+| fa9813e5-cc0c-33c2-acd1-b681b19a09e6 | -7.40833 | -55.59356 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 52.6 |
+| 31188e1c-ed85-3382-9138-794ec595910d | -8.54309 | -54.56932 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 48.4 |
+| 8e3cba3a-f888-3a8d-88a3-fcbefd0cb273 | -6.00932 | -53.55388 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 51.2 |
+| 56177fad-6438-3f7a-a7f9-390c7dc3ba2b | -7.62868 | -55.06808 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 28.4 |
+| 88b4a58b-2c65-3835-a7b6-b00e0b4968e6 | -7.34508 | -55.58122 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 29.1 |
+| 0a204129-40a2-347c-a7e8-abd39f68112a | -8.16904 | -54.81666 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 22.0 |
+| a8ae5b4b-b566-372d-b7a2-e46e44772e62 | -7.05021 | -55.6531 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 82.8 |
+| 9d4fef5c-fa51-319b-8380-ca34b798ac59 | -7.82231 | -55.12154 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 25.3 |
+| beae7c1a-f51a-3d9d-8539-2c113adcbce1 | -8.26324 | -54.75758 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 22.2 |
+| b8c97fcb-7a41-3070-a923-e974d7aa8f73 | -7.72856 | -54.82632 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 60.2 |
+| 5894df2e-2eae-309e-a15d-391ef813ed30 | -7.83958 | -55.142 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 57.6 |
+| 9ecfc1e3-56a4-333c-87af-b2432279a2f9 | -6.3921 | -56.4219 | 2026-10-02 00:56:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 26.8 |
+| 7e8fda4e-b80c-33ab-bbed-d5d6a22ef772 | -6.34186 | -55.33371 | 2026-10-02 00:56:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 21.5 |
+| 6a3f649a-c914-3b66-92d0-64c256aa89f5 | -6.34528 | -55.33994 | 2026-10-02 00:56:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 22.5 |
+| c42ca8b1-b131-3923-8b34-e56d8829e8b4 | -7.34505 | -55.58769 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 30.1 |
+| e4a6b576-005c-3dce-9029-f7ab35bec3b2 | -6.4949 | -58.53122 | 2026-10-02 00:56:00 | TERRA_M-M | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 15.7 |
+| 6f3bc25b-74d2-33db-9a4d-8eb61fab20ee | -6.40614 | -56.4196 | 2026-10-02 00:56:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 50.0 |
+| 1b23f820-00bf-3189-8a93-bd71a317ba94 | -6.74775 | -55.08855 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 33.7 |
+| 4992b3d8-5c12-351d-ad04-4c9bfe6d3298 | -7.83489 | -55.11298 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 28.3 |
+| 8a4903ff-4efb-34b2-8bac-6009be369ef7 | -3.85283 | -55.8035 | 2026-10-02 00:56:00 | TERRA_M-M | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 19.4 |
+| 3148087d-8173-39b0-9c9f-d1af4d904c69 | -7.72359 | -54.79521 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 32.3 |
+| 7f1c898f-2cfc-3a7a-bd4a-134386f04c5c | -7.40835 | -55.59896 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 42.2 |
+| 3c3fe0f5-d179-3fd0-bc48-fac9ce303064 | -7.28611 | -55.5977 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 35.2 |
+| eb6b4e7b-9569-36dc-ba27-e17631ea951e | -7.53929 | -56.13223 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 36.1 |
+| 9cb2855c-4ce0-3098-b107-3136d3822602 | -7.04573 | -55.62 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 19.2 |
+| a18e86ba-9a57-3c79-b7fa-1ff5a6c3fa5e | -7.46333 | -54.984 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 31.2 |
+| da58ab70-abb9-34fb-9539-c29460c07f25 | -8.53783 | -54.56513 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 42.2 |
+| 3d5c6616-2ebe-3b30-9b84-7d3118853b7c | -7.04594 | -55.62554 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 45.2 |
+| f21b954a-4d44-3355-935a-c25b363571ca | -6.40236 | -56.39511 | 2026-10-02 00:56:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 13.9 |
+| fee82a74-dda6-3e82-962f-0abf9ace0f51 | -8.20056 | -54.71608 | 2026-10-02 00:56:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 39.5 |
+| 96e1f394-23b4-37ae-938b-c9a3bfa10901 | -7.63197 | -55.07409 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 21.5 |
+| 9826f8e7-99e9-34f2-a4bc-dcfe7a52efd6 | -7.39354 | -55.21838 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 69.2 |
+| 37b3c222-032f-3387-8673-d00ea6c97290 | -5.73747 | -55.74943 | 2026-10-02 00:56:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 32.1 |
+| 005f1fd3-4799-3206-bb18-254d9200dbee | -7.05021 | -55.64753 | 2026-10-02 00:56:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 105.2 |
+| 218f78b8-5bed-3ec7-b67b-7a26605244b3 | 1.82178 | -55.57196 | 2026-10-02 00:58:00 | TERRA_M-M | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 69.1 |
+| 9f4f52df-6256-3502-b2e6-8d7a42982249 | 1.77707 | -55.64563 | 2026-10-02 00:58:00 | TERRA_M-M | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 64.6 |
+| 762f063d-10e3-3a8f-aad5-09db2a535218 | -2.04505 | -56.85963 | 2026-10-02 00:58:00 | TERRA_M-M | NHAMUNDÁ | AMAZONAS | Brasil | 1303007 | 13 | 33 | nan | nan | nan | Amazônia | 61.3 |
+| 605cbba3-3238-38ed-bce7-907c8f0b2c44 | 1.79937 | -55.6088 | 2026-10-02 00:58:00 | TERRA_M-M | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 105.5 |
+| 959a4921-2815-36e6-8a00-cad3ab891013 | -2.04579 | -56.85279 | 2026-10-02 00:58:00 | TERRA_M-M | NHAMUNDÁ | AMAZONAS | Brasil | 1303007 | 13 | 33 | nan | nan | nan | Amazônia | 34.3 |
+| d6b90792-313a-32b8-a278-af1f3efceb96 | 1.81653 | -55.61132 | 2026-10-02 00:58:00 | TERRA_M-M | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 87.0 |
+| 67f99efb-1c86-33cf-8c02-b947bb2ab69e | 1.81966 | -55.56456 | 2026-10-02 00:58:00 | TERRA_M-M | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 46.5 |
+| 81d40d34-8d8e-3391-ac28-bdc4ad6afe6d | 1.81411 | -55.60408 | 2026-10-02 00:58:00 | TERRA_M-M | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 156.3 |
+| 073bb4ce-985e-357f-9eea-bc22a26bbd58 | -2.04883 | -56.88668 | 2026-10-02 00:58:00 | TERRA_M-M | NHAMUNDÁ | AMAZONAS | Brasil | 1303007 | 13 | 33 | nan | nan | nan | Amazônia | 56.6 |
+| 22ae2f5e-a45e-36a7-81b9-fab6edd1c06c | -2.04977 | -56.87986 | 2026-10-02 00:58:00 | TERRA_M-M | NHAMUNDÁ | AMAZONAS | Brasil | 1303007 | 13 | 33 | nan | nan | nan | Amazônia | 92.0 |
+| c6b82c55-001e-3766-b290-510d0b60be80 | 1.79153 | -55.64058 | 2026-10-02 00:58:00 | TERRA_M-M | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 54.5 |
+| 68546d0b-c365-3dd7-a359-95a6479922f9 | -3.0008 | -53.8874 | 2026-10-02 01:00:00 | GOES-19 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 61.1 |
+| 77446694-5885-35e5-9a7b-a80e4645e2e3 | -11.7169 | -43.5098 | 2026-10-02 01:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 92.5 |
+| 8396120c-8c09-30bf-bea4-c38535596482 | -3.2951 | -53.8395 | 2026-10-02 01:00:00 | GOES-19 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 168.1 |
+| 700e1143-75ef-3595-8472-ce3b0cabd9a8 | -3.1655 | -54.0844 | 2026-10-02 01:00:00 | GOES-19 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 84.3 |
+| 7a49b1fc-b33f-39de-bf26-fab76a72327f | -11.142 | -44.6261 | 2026-10-02 01:00:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 63.5 |
 
 
 [Clique aqui para ver as próximas entradas](README9.md)

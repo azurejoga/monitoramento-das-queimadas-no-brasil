@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| ac0cc417-91d3-34bf-9408-eb36c1e23895 | -12.18599 | -47.38917 | 2026-10-01 05:18:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| def6744b-4142-3cf4-b747-711d6a49532b | -6.06822 | -57.60668 | 2026-10-01 05:18:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| de0e6248-222a-3528-ab55-de0a38f776bb | -6.33241 | -51.1247 | 2026-10-01 05:18:00 | NOAA-21 | PARAUAPEBAS | PARÁ | Brasil | 1505536 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| a58f62e5-eb78-34d8-a8fa-02d4fa390223 | -10.52768 | -55.01126 | 2026-10-01 05:18:00 | NOAA-21 | TERRA NOVA DO NORTE | MATO GROSSO | Brasil | 5108055 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| b3fcabee-bfd6-3caa-b65a-8dac3541f7c4 | -7.49104 | -55.00079 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| ddad05c4-3e77-3d4e-9996-2bc9e5405bb6 | -10.77669 | -54.75205 | 2026-10-01 05:18:00 | NOAA-21 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 64135407-a330-380b-8e73-4c0dda986836 | -8.00081 | -61.36459 | 2026-10-01 05:18:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 12d8bb4f-1b55-386a-bc1d-12f2b2ee019f | -11.4084 | -51.02365 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 0fd2ca84-4371-3c4c-a920-0ce6dcdd96d0 | -7.55 | -55.02978 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 5b7aed16-5322-3560-a34d-2f05390c1207 | -7.55316 | -55.03517 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 3c11d218-bbf3-3298-8663-41e0cea65d70 | -12.1792 | -47.38833 | 2026-10-01 05:18:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 11d396ca-4fd8-3ae0-8390-36472f7ab5cd | -10.52966 | -57.78275 | 2026-10-01 05:18:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 46d46241-c7c1-3e30-a624-42699bc2fdf3 | -5.99974 | -53.66492 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 712497db-4184-3db8-bf27-0733409a510e | -6.73447 | -45.53898 | 2026-10-01 05:18:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 73965b75-1f9f-3817-a3d2-e136ee466e5f | -11.32515 | -50.96621 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| e24927a7-9724-3500-b777-27d26dac4959 | -10.52501 | -55.01073 | 2026-10-01 05:18:00 | NOAA-21 | TERRA NOVA DO NORTE | MATO GROSSO | Brasil | 5108055 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d8b4633f-9480-304e-90be-a5217dbc2669 | -11.79557 | -50.5172 | 2026-10-01 05:18:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 7ef0bdc3-3dcf-3509-b4d0-2888a8477bf3 | -10.7754 | -54.75459 | 2026-10-01 05:18:00 | NOAA-21 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| c943e2d8-725d-32ff-8320-42268931fcff | -6.69934 | -55.05185 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 3cd3d441-25b7-302b-b286-da07ed5970f3 | -7.49651 | -55.00492 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 87b78766-604c-3a79-bbd0-34e37b7367dd | -6.64787 | -52.59961 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 77a48d58-cabd-3c97-bb51-25f65fb015af | -6.65719 | -58.88054 | 2026-10-01 05:18:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 03a0cbb9-cab7-316d-8bab-a62f2ee9ffc1 | -8.3049 | -54.71188 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 70563ae9-daa8-3935-a34c-1dff9f8aaea3 | -6.13383 | -53.27316 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| d1cc68e0-0d06-352b-b92b-92adc5ac20dd | -7.73528 | -54.80357 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 65e2fadc-c423-3900-b7ad-12ae7c2fb738 | -6.76241 | -48.67934 | 2026-10-01 05:18:00 | NOAA-21 | ARAGOMINAS | TOCANTINS | Brasil | 1701309 | 17 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| a7c72f34-cc1a-30b4-b8fa-5bc911ce1154 | -9.58487 | -54.62458 | 2026-10-01 05:18:00 | NOAA-21 | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 743f20fe-7fb5-34aa-ad03-88a3e361027e | -8.86226 | -50.52692 | 2026-10-01 05:18:00 | NOAA-21 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 1c6ba4e8-02de-3531-9450-44dc23e991d2 | -11.34123 | -50.96838 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 561e54fa-e1d8-3e1c-a908-6e4602a7a3c1 | -5.12274 | -56.00599 | 2026-10-01 05:18:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 682b0665-0d5e-3260-ac8f-52985c480bf1 | -9.8883 | -65.14487 | 2026-10-01 05:18:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 7cea737f-99b9-3026-99eb-54e777793f0f | -11.83917 | -50.9484 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 0eb3db89-32a1-3b02-aa64-7daf5eeffe77 | -11.26151 | -54.81833 | 2026-10-01 05:18:00 | NOAA-21 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 8eba78ab-46f9-3da7-af83-070d3032b922 | -8.31387 | -54.76345 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| d880a7fc-5245-362e-91c6-73ac49f31c07 | -10.77489 | -54.75838 | 2026-10-01 05:18:00 | NOAA-21 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 30591e73-b04f-3330-bb45-dd191fa37c63 | -11.79091 | -50.50895 | 2026-10-01 05:18:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 656ee4e5-7dbc-3c1a-ac28-5ab0b82825cc | -8.19448 | -54.73672 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 92893743-bba2-3ecb-b3fd-2f4384ae8afc | -10.28588 | -53.96769 | 2026-10-01 05:18:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 40caea06-cd9d-3140-bcc4-05456262c1e4 | -7.49407 | -54.99478 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| f425973b-1542-3e1b-9236-5cd1143642db | -7.50131 | -55.02558 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| a16e8b17-3fc7-3c46-9885-a1996ca63e35 | -6.74892 | -55.08072 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| f545a9c9-a5b4-3f95-8249-223dae0326b8 | -5.11858 | -56.00944 | 2026-10-01 05:18:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 087bf618-8baf-3a4a-8988-c23430dacc00 | -7.60583 | -55.69929 | 2026-10-01 05:18:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 710aaaa7-a37b-3765-9929-7e5d51ea55fc | -6.43329 | -55.80724 | 2026-10-01 05:18:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 401c2ba2-f6e0-3b49-8448-bf93b86ee602 | -10.24612 | -59.02776 | 2026-10-01 05:18:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 83dd6b61-c58b-3413-9435-096967bfa274 | -6.92448 | -59.28329 | 2026-10-01 05:18:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 703e15c6-f53b-3c4c-b68f-2d6595386d6d | -12.19335 | -48.4409 | 2026-10-01 05:18:00 | NOAA-21 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 12.9 |
-| 4d40ad90-9f5f-3454-8003-ff3b4926982d | -7.71844 | -54.75328 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| f0b755a2-f4c8-37af-9591-f00892efdff5 | -11.37623 | -55.12776 | 2026-10-01 05:18:00 | NOAA-21 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b3584751-fbc4-3085-a205-90605b09d0ba | -7.85631 | -45.82644 | 2026-10-01 05:18:00 | NOAA-21 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| f2a8fde5-171e-336a-af55-9013201cd123 | -5.80971 | -57.73979 | 2026-10-01 05:18:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| eed0f47c-ee8b-30cb-a42e-d218213a6063 | -10.53427 | -57.77559 | 2026-10-01 05:18:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 45c222fb-7df0-352a-a1f7-35877ba9b07e | -5.11798 | -56.01341 | 2026-10-01 05:18:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a55f7938-21df-32c3-93a3-bf98b580d00e | -8.48518 | -54.91173 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| a8d5b633-fb46-3471-9ba7-15469eed2a74 | -6.07752 | -53.30503 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 93ddbb15-81b4-382c-85d1-d5af5f4fd4ae | -6.14391 | -53.05987 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 533a563f-1042-3a8e-9e6d-fa609cc92c9f | -6.07496 | -57.60769 | 2026-10-01 05:18:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 70761646-405b-337b-a982-7898003c295c | -11.79002 | -50.51646 | 2026-10-01 05:18:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 85592466-c869-34c0-acb8-b6a53a801f4d | -5.29949 | -56.00927 | 2026-10-01 05:18:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e2779449-38cf-3eca-a12e-07619e5203a4 | -6.08175 | -53.30568 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| cc1cd096-9f8c-3f8c-b135-cc555b430dc9 | -10.82917 | -57.20314 | 2026-10-01 05:18:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b790f05d-25eb-3b7a-b881-f2dc70d94c9b | -6.6863 | -58.86736 | 2026-10-01 05:18:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| 707e7954-4e51-3acf-9427-48a2a3fe4d93 | -11.7241 | -50.41232 | 2026-10-01 05:18:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 087667ed-e338-3057-9cd0-18f67bd7e955 | -6.66433 | -58.8781 | 2026-10-01 05:18:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 25.4 |
-| adcd9644-0a5f-3cad-a758-015129372d1a | -5.27465 | -55.96132 | 2026-10-01 05:18:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9e78f0b1-86dc-3647-88cf-7712b79f9272 | -6.73189 | -45.53556 | 2026-10-01 05:18:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 8d47f363-8cfb-32e2-bdbf-aa33982e013e | -6.36883 | -55.13781 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d299a03d-6b7d-3e36-9dce-4dea4d1b620e | -7.32336 | -55.23061 | 2026-10-01 05:18:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 5fee174b-bd64-3f2b-aa05-be9a6c4fda0f | -10.30185 | -59.4597 | 2026-10-01 05:18:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 9e5652e4-d090-38dc-8706-bd281b8c7b62 | -7.4956 | -54.99642 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 646e02d4-4f9d-3f8e-84b7-9b40f65a4f82 | -9.34217 | -57.17581 | 2026-10-01 05:18:00 | NOAA-21 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 439654f1-703a-3067-a2ab-31e2af8d2552 | -10.84708 | -48.70683 | 2026-10-01 05:18:00 | NOAA-21 | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| d476f599-ceb4-31a2-9092-0dc6f26f9ad1 | -5.12093 | -56.0179 | 2026-10-01 05:18:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 3187b03a-b4ef-3d4b-9188-e059294fb29b | -5.12569 | -56.01045 | 2026-10-01 05:18:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 2874806a-c268-3d4b-88f5-56f597a9ba60 | -6.5158 | -55.88347 | 2026-10-01 05:18:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 7cb7e5a2-9e2c-3369-aacd-48161c7303a0 | -6.08502 | -56.47157 | 2026-10-01 05:18:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 049ea596-a204-33e2-a9db-8d81b77b642c | -9.21693 | -50.68699 | 2026-10-01 05:18:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 3fddd4b3-9ebb-3990-911a-3c4239c97102 | -11.28021 | -50.97741 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 9155c8f7-61e4-33cc-a77b-2b3c5e9c292a | -8.7984 | -48.00639 | 2026-10-01 05:18:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 1e4a5a78-397e-315d-9526-ed32e0607888 | -6.76314 | -48.6802 | 2026-10-01 05:18:00 | NOAA-21 | ARAGOMINAS | TOCANTINS | Brasil | 1701309 | 17 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 057dff77-2398-3c96-82da-17fb5a7114e6 | -9.35039 | -57.16896 | 2026-10-01 05:18:00 | NOAA-21 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 8202abe3-5ea1-37b9-acef-5b2dd67b2ef0 | -7.49242 | -54.99104 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 2373d5c5-f3b5-32f6-b1c9-87e51eb2eeda | -8.84527 | -49.69283 | 2026-10-01 05:18:00 | NOAA-21 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| a72498ac-767f-3192-bb75-7e7110cbea7a | -9.58382 | -54.6319 | 2026-10-01 05:18:00 | NOAA-21 | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2b951c39-8c68-3a11-b5cc-7177622cff5c | -9.06474 | -49.86454 | 2026-10-01 05:18:00 | NOAA-21 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| cb8a135e-e382-3ee4-bc5e-647cf7f4c626 | -7.56683 | -55.02255 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| d5e2a82e-1c2d-38c7-91ab-28f300180c41 | -10.52908 | -57.78659 | 2026-10-01 05:18:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| bc7e6063-ef11-3365-bed6-79bc555a4e1e | -8.16019 | -54.805 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| af888d9b-bfe2-3a6f-8437-7bbc9d36989d | -11.28196 | -50.97881 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 53067c2d-7af0-3e14-b1fb-ef31e5a9e1be | -6.0151 | -49.56071 | 2026-10-01 05:18:00 | NOAA-21 | CURIONÓPOLIS | PARÁ | Brasil | 1502772 | 15 | 33 | nan | nan | nan | Amazônia | 12.1 |
-| 41b7ed65-fb7f-3007-9a6d-a516b8b5a6a0 | -9.70403 | -58.12275 | 2026-10-01 05:18:00 | NOAA-21 | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 0ad0927d-9b1c-3154-abdd-92d3cf01a907 | -8.19324 | -54.73772 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 001fc388-42c8-3792-8270-c8c96cbd632e | -10.84074 | -48.70755 | 2026-10-01 05:18:00 | NOAA-21 | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 9b687d39-5726-3099-baf6-538e77e86792 | -6.05786 | -59.92697 | 2026-10-01 05:18:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 87baebf1-74f2-3e2a-a769-ad419145dc0a | -6.72686 | -52.95703 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 56d45573-e881-3b95-b71b-17681672275e | -11.40882 | -51.02024 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| abdca65c-404d-3b5f-a358-a759dc58707d | -7.59677 | -55.07352 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| cb07da48-c064-3019-8edb-067375212b5e | -11.16754 | -54.11821 | 2026-10-01 05:18:00 | NOAA-21 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| eba66935-fbaf-3902-848f-37dcc89fac25 | -11.41751 | -50.99375 | 2026-10-01 05:18:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| fb46d44a-d4a7-39b7-8f9c-cf9d54329c01 | -7.70006 | -54.79677 | 2026-10-01 05:18:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 9e2c646f-912c-3534-8007-9d311851d5ee | -7.62881 | -55.07272 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 8a481b8c-5a97-3688-98d2-742e2edcd618 | -7.57696 | -55.13387 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 934a48c4-0762-3182-90b5-bee9427741e3 | -6.20091 | -52.8059 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 4cb2d92e-a300-36db-a794-e466b0242c2b | -7.49611 | -54.98396 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| ac78805e-6548-3cd0-aa9a-c5bf299ad5af | -6.43386 | -55.80283 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 4eb899ef-62d2-34ac-bf3f-ff3b7f5dd27d | -7.34543 | -55.5808 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 446c0b19-18d5-304d-ad02-9aa749f13e21 | -7.46409 | -54.99524 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 0b24ed0f-54c0-3a44-811a-ae80cf80f9b2 | -6.84706 | -55.53716 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e321774b-e3f9-3bf5-bc75-f1d987bd170c | -7.83073 | -55.13274 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 1d91ade1-84a9-3371-b6c4-96c85f67c9df | -10.2658 | -49.65873 | 2026-10-02 05:36:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 1305e3fe-099c-3828-8431-507c7c784802 | -6.44002 | -55.80546 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| eaa50140-e608-3dae-aa2f-cca23c37e55f | -8.30837 | -54.72095 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 115ae6d3-46ec-35a9-bf5f-5ed7593653fa | -7.19225 | -52.609 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 5a290eaf-965a-3b35-82b9-b9c0b0c3409c | -7.75027 | -49.20753 | 2026-10-02 05:36:00 | NPP-375D | ARAPOEMA | TOCANTINS | Brasil | 1702307 | 17 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 414bbba1-323c-38dd-a583-6202c9a97751 | -5.96917 | -55.37281 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 7badcbcf-e6d4-32cf-ba38-bbb095b0f3ba | -6.35923 | -55.14298 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 94acdce1-b2ed-392b-bfb7-8d6d56a38e03 | -8.08028 | -54.88478 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 584387cb-8726-3267-a588-9e6b0d63a823 | -7.33026 | -55.23343 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 897214df-d81d-33fd-b21a-ba759ca7209a | -7.88049 | -54.71611 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 6dc89b62-90ce-393d-bfa0-c34342eac75a | -7.4689 | -54.99198 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 199abdfd-2c18-3a60-8bbc-2296f184f6e9 | -6.34863 | -55.32834 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 40d8b445-13ff-3897-af9c-bb25e0625874 | -8.1718 | -54.80127 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 07514efb-e52c-3fd9-84a4-b3c29cf4c568 | -7.51446 | -47.33354 | 2026-10-02 05:36:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 6707e54f-8ae1-3655-8e75-c008a1eec70a | -5.97268 | -55.37713 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 9b72b7d6-50ff-3253-a22a-8251281597a1 | -6.24967 | -53.14196 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| fd63afb3-fadb-3ada-8cfe-a4433d4f626d | -7.81939 | -55.12337 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 9965a871-0b59-35c8-817b-f34519ece54f | -6.34508 | -55.32412 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d9d1491e-8b68-3ddb-931b-84db28c6064f | -7.39432 | -55.21101 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 12.9 |
+| 91db2b76-d2b8-3d0d-a4b4-15861e5dcfb5 | -7.46041 | -54.99071 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 20c51115-353f-3570-a1a2-efb8b0be54e0 | -8.20329 | -54.70757 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 3fba82f1-7d0f-358e-8f35-d43e73436ce1 | -8.25719 | -54.73502 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 16014c5e-0413-365b-9e62-f5fe7d2328be | -8.17615 | -54.8019 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 922642c3-6d9a-3a33-bbec-74be98004d20 | -8.1811 | -54.79841 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d6c520b1-b5b6-3272-bf62-fecc654d7577 | -10.81885 | -51.0966 | 2026-10-02 05:36:00 | NPP-375D | PORTO ALEGRE DO NORTE | MATO GROSSO | Brasil | 5106778 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 0eab167b-b624-3b88-a240-cb7a6218075a | -6.19199 | -53.17383 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| c1c7fa5d-017c-33c1-b565-87d9d1841168 | -8.07822 | -54.886 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f3dccd68-76d0-358b-8af0-70e479d0f046 | -8.2099 | -55.09544 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 30d0f19b-2ca6-307d-9acc-7fdb562565ca | -7.83864 | -55.13783 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 88fee602-f2e2-3af4-ac6e-1a785fc84948 | -8.22954 | -55.28695 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 22a9def6-f46e-34df-af12-1f881fdeebae | -8.17735 | -54.79364 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 7ddcd03a-9118-31c7-807f-f3aab64c5a27 | -7.72192 | -54.75839 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 95930166-8952-3b90-aa7c-5ff64c738c3b | -7.83182 | -55.12499 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 426b8272-41ec-398e-90d7-0cfbc0acbf05 | -11.30333 | -50.93166 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 5bc5eec7-be83-367c-ad37-d0fe2bc3e0fa | -8.5421 | -54.55853 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 50150329-e4c7-3efe-99de-52636a2210b1 | -8.16865 | -54.79239 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| fb601d1f-6f12-37d3-aa8f-2b3b7de173f9 | -7.82759 | -55.12437 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 093b875f-b9a1-39d9-8878-c47d36ce78aa | -8.29899 | -54.72398 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 69bf0ee3-dbb9-3a33-a303-5252ee598777 | -7.46657 | -55.00799 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 21408dec-d7d2-3747-99e2-a642d19a2046 | -7.03585 | -55.63315 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 784894f9-f118-33ab-bb42-81d31ae01094 | -6.24892 | -53.14712 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 3486863f-f465-350d-8540-2488406dab01 | -10.83207 | -51.09244 | 2026-10-02 05:36:00 | NPP-375D | PORTO ALEGRE DO NORTE | MATO GROSSO | Brasil | 5106778 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 7beeac68-5c15-397e-8d48-b29fb198af39 | -7.82785 | -55.12457 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| e449394a-e04b-38f0-a7d1-370372bb5781 | -6.40769 | -56.39883 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| a9ab004b-f1bd-32f2-90fe-33f714cc2ec3 | -8.54874 | -54.56634 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| f5ba5690-62f3-32f1-8df9-eb4959d22fc2 | -7.04495 | -55.62744 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 24a2bfb8-c32a-3db5-a6ef-c5b7c0ec8db8 | -7.87945 | -54.71659 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 8d5ae0d2-8cf1-33ab-a0f3-c3e1ab472c75 | -6.26227 | -55.43412 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| e4fb5f1c-b0ec-3854-a68d-582c112fb9f0 | -11.30384 | -50.92738 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 12d2880b-573d-3509-8cb4-82794c5ebc24 | -7.49728 | -54.97598 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| ec909a53-0294-3673-8ef4-6935d5bd5d3e | -7.48952 | -54.99929 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| ab9e475a-9584-3eef-bf1f-4cbeb7bd19b0 | -7.82704 | -55.12825 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| ba48ded7-62d3-389f-a81a-1ac9fc44e107 | -11.43394 | -50.9763 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 7ca66596-659b-33ef-8617-73fa7a995ce9 | -8.05834 | -54.84104 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 7b4f54b1-6cad-3f62-8619-e2366d9c5d98 | -7.04392 | -55.63447 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 6648fa5c-cb2d-3712-9a06-f915f9c98b8a | -11.30975 | -50.9282 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 8496cbd8-3d17-38ef-9f6d-f235eaa872f8 | -8.24992 | -54.6602 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| b2fb42bc-2bc1-3563-9e1e-ccc3a1190c7b | -6.44041 | -55.62525 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 2634cab0-90c6-32df-b073-72a3d531ea0c | -7.72133 | -54.7625 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| afd26437-5ed6-3d7f-94bb-f1babc49e464 | -6.18235 | -52.89944 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| af0f8610-d2f0-32e9-9d0f-a78237b6a006 | -5.98535 | -55.37547 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 8b9d8106-1e91-3e73-a827-00ba25c85dab | -7.74463 | -49.2018 | 2026-10-02 05:36:00 | NPP-375D | ARAPOEMA | TOCANTINS | Brasil | 1702307 | 17 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| ae128f08-1baf-3195-9496-6b5349656bdf | -8.1805 | -54.80252 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| ab22da5f-2a99-3587-a996-ecc5d6740d72 | -11.30437 | -50.9231 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 371948f9-b04e-3330-90e8-08812bb19e78 | -6.00939 | -53.54288 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 045f3e91-8238-3c37-a274-88c94c44e5c4 | -8.06385 | -54.83356 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| bc1037eb-10a7-3b3d-92a0-d1aabcad2fbf | -7.63304 | -55.07333 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 95fc1b0e-983b-39c3-a0d8-5687b324af52 | -7.51846 | -47.33615 | 2026-10-02 05:36:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 9ffb7776-bd90-3a39-a8a7-c4da63b39b90 | -7.48894 | -55.00323 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 11714fbd-b613-3803-b6a6-7fee1aea3893 | -7.57159 | -55.02267 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 8858f5fa-1610-31e3-9ffb-757e0ac235f9 | -10.26912 | -49.65855 | 2026-10-02 05:36:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| ecb91080-231d-3c49-a7ec-86680c8065c7 | -10.25076 | -49.67735 | 2026-10-02 05:36:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 2a8a92f0-2b43-3462-84b4-472d88fb969e | -6.2548 | -55.48342 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 37ed27e2-0aeb-3fbd-9db3-1a4f8987f4f3 | -5.99894 | -53.55015 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 8714e6ae-d1ba-3ae0-b611-b240d397920f | -10.25888 | -49.66298 | 2026-10-02 05:36:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 5a577c30-c37f-3b7b-97fb-d19864f19dae | -7.57274 | -55.13328 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| a4cf6c37-b92c-32c1-996b-bfd07c11e618 | -8.15459 | -54.82827 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 96b9fbbd-f9a0-34a0-9347-2a08d1877109 | -8.16745 | -54.80068 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 240c03e6-8efe-32d2-9231-2216725dc844 | -6.39724 | -56.41631 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| d85d8d96-f9dd-3500-aef0-7cccdb7b2a81 | -8.53765 | -54.55791 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| fbe20ed1-a9aa-3106-afd2-0abf089e6c60 | -6.24494 | -53.14129 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 4594a1e1-21cb-31f7-b044-abd70b7f9cae | -7.39794 | -55.2155 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 11.7 |
+| 007aa7aa-919a-3eae-867a-ae4354303394 | -7.46947 | -54.98802 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| ca1c658d-f83d-3a09-9591-dd99f8d24e4d | -7.05761 | -55.62576 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| d6b1bb0f-ee63-3000-a6b7-60f9d118f533 | -7.39072 | -55.20631 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 13.0 |
+| ad8f890e-571a-38ad-b544-fbecb253c960 | -8.26062 | -55.69117 | 2026-10-02 05:36:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 283cf209-c7bd-3341-8e3e-2359605dd648 | -6.19114 | -52.80508 | 2026-10-02 05:36:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| a2733648-3ebf-381c-865b-28b009d55554 | -5.99574 | -53.54016 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| d5a0ade1-b3a6-368f-9006-747c209cf605 | -7.72252 | -54.75428 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| f10968b3-5d1e-3443-9da3-ecb8cc2af8db | -7.56735 | -55.02205 | 2026-10-02 05:36:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 20cd7627-3b6d-339b-b04b-0dbdd6633f77 | -5.97376 | -55.36977 | 2026-10-02 05:36:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
 
 
 [Clique aqui para ver as próximas entradas](README78.md)
