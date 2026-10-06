@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a9f2fb9b-cfb7-393f-889d-0e4302b75c89 | -9.1349 | -65.564 | 2026-10-05 15:30:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 48.1 |
-| ebd7f8f5-92f0-387c-97b0-e4c5fe177305 | -9.8061 | -64.9979 | 2026-10-05 15:30:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 42.6 |
-| 6511df3b-fed6-341c-910f-717a1bc7b278 | -9.1333 | -65.9186 | 2026-10-05 15:30:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 45.0 |
-| f92210c4-831e-3dec-bed8-4f25fb0fdd83 | -9.1905 | -65.5809 | 2026-10-05 15:30:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 44.8 |
-| e86d0b51-b3d0-3307-9745-9ee167f7da37 | -8.593 | -66.8081 | 2026-10-05 15:30:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 68.8 |
-| 89e0d5ba-603a-32b0-827b-86d134d1d93d | -9.1445 | -67.7577 | 2026-10-05 15:30:00 | GOES-19 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 95.9 |
-| d480f914-6154-39f9-84bf-fc5a93ad4eb9 | -9.1334 | -65.9 | 2026-10-05 15:30:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 87.0 |
-| b70606e7-90ff-3e85-b75f-20496ada0fa5 | -9.7499 | -65.075 | 2026-10-05 15:30:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 47.2 |
-| 53b2c010-d484-35a1-903c-0201e90d7af1 | -14.67413 | -40.02566 | 2026-10-05 15:31:00 | NPP-375 | IGUAÍ | BAHIA | Brasil | 2913507 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 59444ff0-c191-3fd7-84f0-c5dd82b3131c | -15.79373 | -40.31648 | 2026-10-05 15:31:00 | NPP-375 | MAIQUINIQUE | BAHIA | Brasil | 2920007 | 29 | 33 | nan | nan | nan | Mata Atlântica | 15.1 |
-| 76886a42-c65a-3f35-a356-4b6af2d1bc5c | -15.6927 | -39.7808 | 2026-10-05 15:31:00 | NPP-375 | POTIRAGUÁ | BAHIA | Brasil | 2925402 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.0 |
-| c99f21ee-de51-3179-b4de-78f46af062c5 | -15.69332 | -39.78734 | 2026-10-05 15:31:00 | NPP-375 | POTIRAGUÁ | BAHIA | Brasil | 2925402 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.0 |
-| bfdfc420-41cd-395c-b83d-133275dfc542 | -14.06993 | -40.6073 | 2026-10-05 15:31:00 | NPP-375 | MANOEL VITORINO | BAHIA | Brasil | 2920403 | 29 | 33 | nan | nan | nan | Caatinga | 3.4 |
-| e479bd59-472d-369a-baf3-72db99d5fa13 | -14.06852 | -40.60885 | 2026-10-05 15:31:00 | NPP-375 | MANOEL VITORINO | BAHIA | Brasil | 2920403 | 29 | 33 | nan | nan | nan | Caatinga | 3.4 |
-| 2e40efc2-da28-3b06-85ec-7f80b919e86e | -15.79594 | -40.31546 | 2026-10-05 15:31:00 | NPP-375 | MAIQUINIQUE | BAHIA | Brasil | 2920007 | 29 | 33 | nan | nan | nan | Mata Atlântica | 11.2 |
-| 0bd6d254-834a-347f-a3a0-3bcca8b12d85 | -12.16206 | -39.91804 | 2026-10-05 15:33:00 | NPP-375 | IPIRÁ | BAHIA | Brasil | 2914000 | 29 | 33 | nan | nan | nan | Caatinga | 12.5 |
-| c83b8aca-18bb-37c3-aa19-2548960586b3 | -8.00364 | -35.08813 | 2026-10-05 15:33:00 | NPP-375 | SÃO LOURENÇO DA MATA | PERNAMBUCO | Brasil | 2613701 | 26 | 33 | nan | nan | nan | Mata Atlântica | 23.1 |
-| 059c1d47-7297-3774-8654-6d0005c34afc | -8.30787 | -39.14927 | 2026-10-05 15:33:00 | NPP-375 | CABROBÓ | PERNAMBUCO | Brasil | 2603009 | 26 | 33 | nan | nan | nan | Caatinga | 5.9 |
-| 53300821-9ba5-3602-8cd2-d3494b292828 | -6.61406 | -37.89236 | 2026-10-05 15:33:00 | NPP-375 | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 48.1 |
-| 99a20a14-76a7-36a9-931a-1af4829e32c7 | -9.50061 | -37.443 | 2026-10-05 15:33:00 | NPP-375 | SÃO JOSÉ DA TAPERA | ALAGOAS | Brasil | 2708402 | 27 | 33 | nan | nan | nan | Caatinga | 2.7 |
-| 81b64e43-b5f4-3a70-8def-56ca05ddfe24 | -8.37237 | -36.17335 | 2026-10-05 15:33:00 | NPP-375 | SÃO CAITANO | PERNAMBUCO | Brasil | 2613107 | 26 | 33 | nan | nan | nan | Caatinga | 4.9 |
-| 5c5e5618-4d9f-34b8-95ce-46ed3910dd97 | -6.61737 | -41.56417 | 2026-10-05 15:33:00 | NPP-375 | INHUMA | PIAUÍ | Brasil | 2204709 | 22 | 33 | nan | nan | nan | Caatinga | 17.3 |
-| 000dd020-f6a6-3254-98fe-8c0ab24310e3 | -6.60769 | -37.8872 | 2026-10-05 15:33:00 | NPP-375 | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 28.9 |
-| 8af544b1-260a-35d8-bbbb-cf2b2047ba41 | -7.51923 | -39.72933 | 2026-10-05 15:33:00 | NPP-375 | EXU | PERNAMBUCO | Brasil | 2605301 | 26 | 33 | nan | nan | nan | Caatinga | 9.5 |
-| 3f47d350-e9de-38bd-b47e-9f6dd4dbb2e3 | -7.60351 | -37.54654 | 2026-10-05 15:33:00 | NPP-375 | TABIRA | PERNAMBUCO | Brasil | 2614600 | 26 | 33 | nan | nan | nan | Caatinga | 4.1 |
-| e60e3f24-0b89-3ced-9dda-796b0ab209ab | -12.86208 | -39.93242 | 2026-10-05 15:33:00 | NPP-375 | IAÇU | BAHIA | Brasil | 2911907 | 29 | 33 | nan | nan | nan | Caatinga | 25.9 |
-| 133bbce9-6e39-33c9-a355-d55d7e0d0404 | -6.15743 | -37.94407 | 2026-10-05 15:33:00 | NPP-375 | SERRINHA DOS PINTOS | RIO GRANDE DO NORTE | Brasil | 2413557 | 24 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| b006fd45-9ea5-3acb-824e-b8d72ca61068 | -9.60393 | -37.9417 | 2026-10-05 15:33:00 | NPP-375 | CANINDÉ DE SÃO FRANCISCO | SERGIPE | Brasil | 2801207 | 28 | 33 | nan | nan | nan | Caatinga | 3.4 |
-| 19c1b943-282c-3d6a-8a35-0df7aa3310cb | -7.01193 | -37.24552 | 2026-10-05 15:33:00 | NPP-375 | PATOS | PARAÍBA | Brasil | 2510808 | 25 | 33 | nan | nan | nan | Caatinga | 7.4 |
-| 269a8f16-93ec-3958-83d2-c6ad58a7ce82 | -8.00107 | -35.08492 | 2026-10-05 15:33:00 | NPP-375 | SÃO LOURENÇO DA MATA | PERNAMBUCO | Brasil | 2613701 | 26 | 33 | nan | nan | nan | Mata Atlântica | 16.7 |
-| b84e8eff-7359-3346-9c23-081d8976ca7d | -6.61368 | -37.88956 | 2026-10-05 15:33:00 | NPP-375 | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 48.1 |
-| 48eba807-aaa4-38dc-a609-f809a18cdb7a | -12.86147 | -39.9267 | 2026-10-05 15:33:00 | NPP-375 | IAÇU | BAHIA | Brasil | 2911907 | 29 | 33 | nan | nan | nan | Caatinga | 74.2 |
-| 405bed18-aaab-30aa-b098-d89575ba83fb | -6.79709 | -38.07312 | 2026-10-05 15:33:00 | NPP-375 | APARECIDA | PARAÍBA | Brasil | 2500775 | 25 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| 8cd18338-6e24-3422-8887-8e09016b1469 | -9.3792 | -41.14218 | 2026-10-05 15:33:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 6.3 |
-| ec696a03-d35a-3d82-b97e-f347cff5b8c0 | -13.20468 | -40.46116 | 2026-10-05 15:33:00 | NPP-375 | PLANALTINO | BAHIA | Brasil | 2924900 | 29 | 33 | nan | nan | nan | Caatinga | 4.8 |
-| 2293dd91-0e0c-309f-a2d7-8caab693d9ac | -6.60724 | -37.88387 | 2026-10-05 15:33:00 | NPP-375 | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 28.9 |
-| d14a5a1d-47f0-3436-9f0f-42c24bbfe61e | -10.06089 | -39.61468 | 2026-10-05 15:33:00 | NPP-375 | UAUÁ | BAHIA | Brasil | 2932002 | 29 | 33 | nan | nan | nan | Caatinga | 7.3 |
-| c35e9184-0849-390b-9a32-ace39ae5862d | -7.88438 | -40.20367 | 2026-10-05 15:33:00 | NPP-375 | OURICURI | PERNAMBUCO | Brasil | 2609907 | 26 | 33 | nan | nan | nan | Caatinga | 5.8 |
-| 82c688b7-f473-334a-8e6d-1191baa439d6 | -8.3756 | -36.17125 | 2026-10-05 15:33:00 | NPP-375 | SÃO CAITANO | PERNAMBUCO | Brasil | 2613107 | 26 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| 2c5db255-a2b9-3b51-9952-a3277b6a168f | -6.32658 | -35.49863 | 2026-10-05 15:33:00 | NPP-375 | SANTO ANTÔNIO | RIO GRANDE DO NORTE | Brasil | 2411502 | 24 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| 7ff5ec0c-593e-3937-ae5d-0566cf357b42 | -8.30848 | -39.154 | 2026-10-05 15:33:00 | NPP-375 | CABROBÓ | PERNAMBUCO | Brasil | 2603009 | 26 | 33 | nan | nan | nan | Caatinga | 3.8 |
-| 62388d26-197b-3199-81ae-8c6f7edbcff3 | -13.20795 | -40.46037 | 2026-10-05 15:33:00 | NPP-375 | PLANALTINO | BAHIA | Brasil | 2924900 | 29 | 33 | nan | nan | nan | Caatinga | 4.3 |
-| a1a69ea8-e776-33a3-8464-7ee4c6f583d5 | -8.6855 | -36.75032 | 2026-10-05 15:33:00 | NPP-375 | VENTUROSA | PERNAMBUCO | Brasil | 2616001 | 26 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| 8572a23a-a0f3-3de6-b1a8-eeb98002e6ba | -6.22542 | -38.50664 | 2026-10-05 15:33:00 | NPP-375 | SÃO MIGUEL | RIO GRANDE DO NORTE | Brasil | 2412500 | 24 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| acb65251-e13d-3005-b4c4-e49ac223949e | -6.69554 | -41.00292 | 2026-10-05 15:33:00 | NPP-375 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 4.1 |
-| b48bbb69-2533-365c-a12e-cf84f3b9b659 | -6.60809 | -37.89017 | 2026-10-05 15:33:00 | NPP-375 | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 48.1 |
-| 9137cb7c-160e-32e4-b4a2-6f1346e1fa46 | -8.43266 | -39.54266 | 2026-10-05 15:33:00 | NPP-375 | CABROBÓ | PERNAMBUCO | Brasil | 2603009 | 26 | 33 | nan | nan | nan | Caatinga | 11.1 |
-| b5a97b5b-4548-3e2d-aa3b-49e2f9e93b88 | -6.65581 | -36.63913 | 2026-10-05 15:33:00 | NPP-375 | PARELHAS | RIO GRANDE DO NORTE | Brasil | 2408904 | 24 | 33 | nan | nan | nan | Caatinga | 3.3 |
-| 14bb5f88-23ab-3677-8bd9-c53aac8d9805 | -8.82314 | -37.86291 | 2026-10-05 15:33:00 | NPP-375 | INAJÁ | PERNAMBUCO | Brasil | 2607000 | 26 | 33 | nan | nan | nan | Caatinga | 4.5 |
-| f959afcf-6c5e-3ec7-a39d-db9dec989e63 | -6.80886 | -39.29593 | 2026-10-05 15:33:00 | NPP-375 | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 15.3 |
-| 0094dcb6-e973-36ef-8ab9-37c1428a49f2 | -11.33137 | -39.71034 | 2026-10-05 15:33:00 | NPP-375 | SANTALUZ | BAHIA | Brasil | 2928000 | 29 | 33 | nan | nan | nan | Caatinga | 4.1 |
-| a21ee94b-1c4a-3c1e-b82a-40022303012c | -9.19491 | -36.05899 | 2026-10-05 15:33:00 | NPP-375 | UNIÃO DOS PALMARES | ALAGOAS | Brasil | 2709301 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 3939f0da-8f7e-3db0-b877-9470ec946ad0 | -6.85301 | -35.0112 | 2026-10-05 15:33:00 | NPP-375 | RIO TINTO | PARAÍBA | Brasil | 2512903 | 25 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
-| c1fd3fc5-2fa6-3533-8cbb-401657ade534 | -6.60848 | -37.89305 | 2026-10-05 15:33:00 | NPP-375 | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 48.1 |
-| 52459c48-3425-3909-bd5f-f1835405f8ea | -6.80215 | -39.29226 | 2026-10-05 15:33:00 | NPP-375 | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 8.7 |
-| 127d66bc-b1bb-3177-9252-6f73d4c5cd12 | -12.70245 | -40.53962 | 2026-10-05 15:33:00 | NPP-375 | BOA VISTA DO TUPIM | BAHIA | Brasil | 2903805 | 29 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| ce1c92bb-97c5-3b53-8024-d4fe25c1b3ec | -6.8095 | -39.30073 | 2026-10-05 15:33:00 | NPP-375 | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 7.5 |
-| 0079de27-5b30-3152-bd0b-827962d5d765 | -6.92128 | -38.33349 | 2026-10-05 15:33:00 | NPP-375 | NAZAREZINHO | PARAÍBA | Brasil | 2510006 | 25 | 33 | nan | nan | nan | Caatinga | 3.4 |
-| 14f2ba23-78b0-3951-ada0-b5da0453ea03 | -6.85367 | -35.01589 | 2026-10-05 15:33:00 | NPP-375 | RIO TINTO | PARAÍBA | Brasil | 2512903 | 25 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
-| 7f5f0ef8-d441-329a-9996-acd7c0096dd7 | -7.00945 | -37.24477 | 2026-10-05 15:33:00 | NPP-375 | PATOS | PARAÍBA | Brasil | 2510808 | 25 | 33 | nan | nan | nan | Caatinga | 11.4 |
-| 06f2ce39-c569-3cbf-b5d7-5cf167bf19a3 | -10.40063 | -40.51016 | 2026-10-05 15:33:00 | NPP-375 | CAMPO FORMOSO | BAHIA | Brasil | 2906006 | 29 | 33 | nan | nan | nan | Caatinga | 7.2 |
-| 218d1480-5f07-38c2-a614-512ab9040071 | -6.80277 | -39.29692 | 2026-10-05 15:33:00 | NPP-375 | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 8.7 |
-| 0afd6318-d7dd-316a-bd7e-3ab593231ce5 | -12.69825 | -40.54275 | 2026-10-05 15:33:00 | NPP-375 | BOA VISTA DO TUPIM | BAHIA | Brasil | 2903805 | 29 | 33 | nan | nan | nan | Caatinga | 15.9 |
-| 323c62f8-4f23-3726-b1ea-e2601b87e656 | -6.13397 | -36.72282 | 2026-10-05 15:33:00 | NPP-375 | TENENTE LAURENTINO CRUZ | RIO GRANDE DO NORTE | Brasil | 2414159 | 24 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| e756dde7-c8bc-3e9d-94ca-952cc27a61a6 | -13.3277 | -39.07555 | 2026-10-05 15:33:00 | NPP-375 | VALENÇA | BAHIA | Brasil | 2932903 | 29 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
-| fcf7f0f5-5ffd-3daf-b7aa-5acb12d39868 | -7.56654 | -35.45486 | 2026-10-05 15:33:00 | NPP-375 | SÃO VICENTE FÉRRER | PERNAMBUCO | Brasil | 2613800 | 26 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
-| 722d4479-3f67-35e1-add6-8546bb788857 | -6.53908 | -39.50823 | 2026-10-05 15:33:00 | NPP-375 | CARIÚS | CEARÁ | Brasil | 2303303 | 23 | 33 | nan | nan | nan | Caatinga | 11.5 |
-| cb2df6fe-de65-317b-bd1c-afb4bac636ea | -6.6089 | -37.8961 | 2026-10-05 15:33:00 | NPP-375 | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 24.2 |
-| 9ad42cdd-5821-3d80-babc-9533d388b36d | -6.61562 | -41.5693 | 2026-10-05 15:33:00 | NPP-375 | INHUMA | PIAUÍ | Brasil | 2204709 | 22 | 33 | nan | nan | nan | Caatinga | 13.0 |
-| fe741407-5fb7-3e56-9daf-5d4bc2bc4a15 | -12.71999 | -40.23293 | 2026-10-05 15:33:00 | NPP-375 | ITABERABA | BAHIA | Brasil | 2914703 | 29 | 33 | nan | nan | nan | Caatinga | 3.6 |
-| f6b87002-dba9-36c8-84dd-760e5a64c840 | -9.15662 | -41.4124 | 2026-10-05 15:33:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| b3cb5bbb-022a-3370-b5d5-36d013dba2f1 | -13.26969 | -40.36479 | 2026-10-05 15:33:00 | NPP-375 | PLANALTINO | BAHIA | Brasil | 2924900 | 29 | 33 | nan | nan | nan | Caatinga | 6.7 |
-| 8ff34e76-73f0-33c8-a362-e70b2306e060 | -8.82363 | -37.8668 | 2026-10-05 15:33:00 | NPP-375 | INAJÁ | PERNAMBUCO | Brasil | 2607000 | 26 | 33 | nan | nan | nan | Caatinga | 3.8 |
-| d6e48628-07d7-3e50-ac7e-0ce341ff4206 | -12.86034 | -39.92511 | 2026-10-05 15:33:00 | NPP-375 | IAÇU | BAHIA | Brasil | 2911907 | 29 | 33 | nan | nan | nan | Caatinga | 19.4 |
-| 5a22fa9d-dcdc-35b9-ab56-0fe189bda666 | -13.51299 | -40.7716 | 2026-10-05 15:33:00 | NPP-375 | IRAMAIA | BAHIA | Brasil | 2914307 | 29 | 33 | nan | nan | nan | Caatinga | 9.4 |
-| 8076522d-faa4-382b-b361-03c4819f9fbe | -6.53845 | -39.50359 | 2026-10-05 15:33:00 | NPP-375 | CARIÚS | CEARÁ | Brasil | 2303303 | 23 | 33 | nan | nan | nan | Caatinga | 11.5 |
-| 6088c96f-f1a5-316b-97d5-e6c5c371d595 | -8.22129 | -36.30272 | 2026-10-05 15:33:00 | NPP-375 | BELO JARDIM | PERNAMBUCO | Brasil | 2601706 | 26 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| a06f1bfc-0de7-3568-ac98-3c967bd845d9 | -12.86709 | -39.92347 | 2026-10-05 15:33:00 | NPP-375 | IAÇU | BAHIA | Brasil | 2911907 | 29 | 33 | nan | nan | nan | Caatinga | 19.4 |
-| 5856e63b-43e7-368d-9228-6a6551aa107f | -6.69066 | -41.00188 | 2026-10-05 15:33:00 | NPP-375 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 7.2 |
-| 07074684-1b54-3cfd-b65c-f3ff77255462 | -6.07685 | -35.69092 | 2026-10-05 15:33:00 | NPP-375 | SERRA CAIADA | RIO GRANDE DO NORTE | Brasil | 2410306 | 24 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| 38a66b2f-d02f-34b5-811e-23deeacd5980 | -8.3705 | -36.17183 | 2026-10-05 15:33:00 | NPP-375 | SÃO CAITANO | PERNAMBUCO | Brasil | 2613107 | 26 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| 896327e1-da4d-3a35-90b2-2340c05a75c4 | -6.61327 | -37.88657 | 2026-10-05 15:33:00 | NPP-375 | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 28.9 |
-| 4e8c2840-e36d-378a-9f94-5105e4597c5d | -13.32711 | -39.07014 | 2026-10-05 15:33:00 | NPP-375 | VALENÇA | BAHIA | Brasil | 2932903 | 29 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
-| 2d5c2f23-436d-36bc-b0c4-7dd52025a318 | -10.06086 | -39.6148 | 2026-10-05 15:33:00 | NPP-375 | UAUÁ | BAHIA | Brasil | 2932002 | 29 | 33 | nan | nan | nan | Caatinga | 7.8 |
-| 11954066-ac16-37fe-bdd4-8745bdde5f18 | -6.61827 | -41.57098 | 2026-10-05 15:33:00 | NPP-375 | INHUMA | PIAUÍ | Brasil | 2204709 | 22 | 33 | nan | nan | nan | Caatinga | 12.7 |
-| de2136c9-f11e-354f-950a-2900295e2557 | -6.61882 | -37.88568 | 2026-10-05 15:33:00 | NPP-375 | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 19.1 |
-| e6801c27-336e-3a31-ab1a-68c7c1d8f3f4 | -9.37262 | -35.52291 | 2026-10-05 15:33:00 | NPP-375 | BARRA DE SANTO ANTÔNIO | ALAGOAS | Brasil | 2700508 | 27 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
-| 542e51cd-4fa6-38ba-9b56-985b6740189d | -11.28367 | -38.19889 | 2026-10-05 15:33:00 | NPP-375 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 6.6 |
-| 054f7115-b61a-38ae-8382-dd914a4ef36c | -9.15871 | -41.41032 | 2026-10-05 15:33:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 6.4 |
-| a9f4d446-29d6-3b8f-8329-9ba1d8a9612d | -8.52768 | -36.52228 | 2026-10-05 15:33:00 | NPP-375 | SÃO BENTO DO UNA | PERNAMBUCO | Brasil | 2613008 | 26 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| a36c0fbf-e4af-3c4c-af82-dd49fac0f520 | -11.28479 | -38.20235 | 2026-10-05 15:33:00 | NPP-375 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 7.3 |
-| aa849502-da7c-3b5e-9e52-4f4e0d102c00 | -10.40038 | -40.51127 | 2026-10-05 15:33:00 | NPP-375 | CAMPO FORMOSO | BAHIA | Brasil | 2906006 | 29 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| f9ee6d6d-5ee2-37b4-94a3-dcf4af3cc8bd | -6.6128 | -37.88311 | 2026-10-05 15:33:00 | NPP-375 | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 28.9 |
-| 319d575d-794d-3192-8940-f325c423bc85 | -7.44651 | -37.46724 | 2026-10-05 15:33:00 | NPP-375 | SANTA TEREZINHA | PERNAMBUCO | Brasil | 2612802 | 26 | 33 | nan | nan | nan | Caatinga | 10.8 |
-| 9aa880f5-0c4b-36dd-a093-ca84a4146401 | -12.69555 | -40.54227 | 2026-10-05 15:33:00 | NPP-375 | BOA VISTA DO TUPIM | BAHIA | Brasil | 2903805 | 29 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| 4d3c89c7-e92b-3755-8114-1f520252f937 | -12.861 | -39.93098 | 2026-10-05 15:33:00 | NPP-375 | IAÇU | BAHIA | Brasil | 2911907 | 29 | 33 | nan | nan | nan | Caatinga | 19.4 |
-| a9809eec-7e35-3862-bd4a-d225170ed9db | -6.85737 | -38.68374 | 2026-10-05 15:33:00 | NPP-375 | IPAUMIRIM | CEARÁ | Brasil | 2305704 | 23 | 33 | nan | nan | nan | Caatinga | 14.0 |
-| 9d0cdbc2-14d5-3c1f-9823-12328c25f2f1 | -12.86823 | -39.92503 | 2026-10-05 15:33:00 | NPP-375 | IAÇU | BAHIA | Brasil | 2911907 | 29 | 33 | nan | nan | nan | Caatinga | 10.3 |
-| 4eefe050-83ae-34c8-aff4-adf346ec0a03 | -6.79918 | -38.07239 | 2026-10-05 15:33:00 | NPP-375 | APARECIDA | PARAÍBA | Brasil | 2500775 | 25 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| cfa86fef-7500-32cd-8cdf-20751d32aef7 | -6.84908 | -35.01659 | 2026-10-05 15:33:00 | NPP-375 | RIO TINTO | PARAÍBA | Brasil | 2512903 | 25 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 408b8809-8b51-3d36-801b-b89ee84f6d87 | 3.06021 | -60.59797 | 2026-10-06 05:57:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 71b2424b-4e60-3e09-a758-8529c959ac45 | 3.06325 | -60.5927 | 2026-10-06 05:57:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| a4d2c181-64ac-35c2-8b91-9e30c739a7ba | 2.45747 | -50.82687 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 6.9 |
+| 483e3a28-2953-36a5-9ec6-fae5b9b23e14 | 2.46035 | -50.83169 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 8.0 |
+| 17e4be32-2f66-3858-becb-b0cd17db73e9 | 2.01586 | -61.0868 | 2026-10-06 05:57:00 | NPP-375D | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 088d6398-78bf-3c79-8491-ac0e5f75a8ef | 0.4445 | -60.53436 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 8.4 |
+| 9e1f445f-102a-3e09-a3aa-6c0967de7902 | 1.03464 | -59.45285 | 2026-10-06 05:57:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| fabfb51b-4cc5-369c-a5b8-fd193a5a2f3b | 0.44412 | -60.54324 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| 9898f34f-1603-309f-a39f-0304dc05b25f | 1.9842 | -60.6161 | 2026-10-06 05:57:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 759b8f4c-2d9f-3c70-8ca4-37555413db7c | 0.43974 | -60.52993 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 3d853f00-60b9-3799-af65-7be9e3265948 | 3.2149 | -61.02704 | 2026-10-06 05:57:00 | NPP-375D | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| f9f84575-5ea2-3066-a4a5-310f0c882c78 | 1.03324 | -59.44937 | 2026-10-06 05:57:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 5a7fe964-e113-3450-b743-560f23e26d29 | 1.03387 | -59.45319 | 2026-10-06 05:57:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| e9c53fa8-590b-308d-8735-8e8ede9a8c9c | 3.5632 | -61.34093 | 2026-10-06 05:57:00 | NPP-375D | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| 2b13d494-1960-38f4-b876-308e88ca9085 | 1.98034 | -60.61673 | 2026-10-06 05:57:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 13532972-bac4-3b1c-823d-830aaca58f69 | 2.0121 | -61.08741 | 2026-10-06 05:57:00 | NPP-375D | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 8e085f4a-9456-3031-a523-10b8f7262ef0 | 0.49754 | -60.59701 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| fcb29cf0-fd34-3f68-b4c4-52d7dc8dd84a | 2.46291 | -50.84607 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 81b151b4-6922-3b86-846f-ae9de00f33ca | 1.73081 | -55.62072 | 2026-10-06 05:57:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 1a0015fa-eb0c-336e-94ec-e7887624c501 | 0.44053 | -60.535 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 8.4 |
+| 3e33a370-5e0f-3aaa-9742-bd5890d3e3dc | 3.07544 | -60.57163 | 2026-10-06 05:57:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| bf84f5dd-b4ee-3ad1-90f3-8a6b1a096067 | 3.12506 | -60.56364 | 2026-10-06 05:57:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 62bfe702-22fe-3d5d-8132-e5be1ef89149 | 0.44809 | -60.5426 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| af674ad8-b752-32b8-8648-500772824d33 | 2.45623 | -50.81965 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| a3adf095-73c7-3657-bfc0-d6531cce8c50 | 3.12731 | -60.5776 | 2026-10-06 05:57:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| e6eca7e1-502e-3df3-9dc9-7f1cde2bb092 | 0.44247 | -60.53311 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 09c4c11a-b8a6-3aa0-aacc-4e04b19a639d | 0.44132 | -60.54008 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 8.4 |
+| 2271cca0-053c-3d85-b21d-0a74142b875a | 2.46592 | -50.83282 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 6.9 |
+| ebe15492-4246-38ac-8bc2-66a702c593fa | 1.86301 | -55.76932 | 2026-10-06 05:57:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 971187c9-d68e-3cdd-8941-8c0e08c7f8eb | 3.51654 | -51.27866 | 2026-10-06 05:57:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| fbded9e8-ba31-394c-99ae-6419c45b0d3b | 0.3178 | -60.4377 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 25a917a8-d5c5-3e35-905c-821215024961 | 2.26838 | -50.82631 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 92f9abe8-5f20-3730-88b0-767348360aeb | 0.31379 | -60.43834 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| dca784ed-e1f0-38c0-bed8-02d0268158ec | 2.45149 | -50.83535 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| a24f181e-01a9-370e-9dd7-fc33ef36bce5 | 1.86245 | -55.76593 | 2026-10-06 05:57:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 847c9af0-c17a-3038-b923-0d585c6380e2 | 1.71796 | -55.64402 | 2026-10-06 05:57:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| e79b9f08-7372-30b1-9b4e-cdc9c3024633 | 0.31325 | -60.43489 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 6b757e17-b5c8-3f92-8ae3-75b5398dbc09 | 3.12581 | -60.56829 | 2026-10-06 05:57:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 71fa920d-6d58-31bb-80a3-25048cd56023 | 0.44727 | -60.53754 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| fb798f4e-7ad8-39cc-9a13-6d53407dd953 | 0.31879 | -60.43872 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 296b13cc-ae8f-344b-b061-bfc39f986b76 | 3.06097 | -60.59531 | 2026-10-06 05:57:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 0520d1e8-67f9-34f8-9b16-ee582cd9cf20 | 1.71712 | -55.64373 | 2026-10-06 05:57:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 6cbe3d2a-25e2-398f-9444-e61d8ebd4b63 | 3.12656 | -60.57295 | 2026-10-06 05:57:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 68f42235-76a8-3150-a241-c3d8bdb1cf3a | 0.86209 | -59.70105 | 2026-10-06 05:57:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 49c67b63-92df-3b7d-b681-907071326512 | 3.56252 | -61.33673 | 2026-10-06 05:57:00 | NPP-375D | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| 4ba7982d-c9f6-352c-9518-618de47dc257 | 1.86783 | -55.76508 | 2026-10-06 05:57:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 8aa3000a-6ca3-3592-80a5-74fb8b38d8c6 | 2.45907 | -50.82449 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 7d496151-b499-33e1-89da-37ebefa3c478 | 1.03404 | -59.44903 | 2026-10-06 05:57:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 1f8aff9c-bedc-3582-b238-0275c2034849 | 1.71739 | -55.64059 | 2026-10-06 05:57:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 3391e138-666e-3fef-aadd-b7df93e19056 | 1.98203 | -60.61942 | 2026-10-06 05:57:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| c0637653-5d0a-3e40-a7c3-d752dce15e5b | 2.4587 | -50.83409 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 6.9 |
+| ac78f04a-c7c3-334f-80cd-7acca4248a9a | 2.01282 | -61.09193 | 2026-10-06 05:57:00 | NPP-375D | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 6bd35cf9-df1e-3a9a-81c0-0a25ee5517cd | 1.98124 | -60.61464 | 2026-10-06 05:57:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 5121466b-d0e7-3971-9b68-f38e9561e719 | 3.12431 | -60.55897 | 2026-10-06 05:57:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 56658dd3-8209-31f6-851b-cc9c2222475c | 2.45994 | -50.84129 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 19.1 |
+| ee1848fc-571f-375b-b236-51017323af8d | 1.71854 | -55.64747 | 2026-10-06 05:57:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| a32dd159-982f-3b77-beea-c95661084cbd | 1.72595 | -55.62506 | 2026-10-06 05:57:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2a1d59c1-f9ae-34ee-becc-885d38109f69 | 0.44329 | -60.53817 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| a2c8d4c5-29b7-3c0f-b65d-34b7ee02dfea | 3.56683 | -61.34035 | 2026-10-06 05:57:00 | NPP-375D | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| f50cb710-ac8b-3f10-a2e9-3644331efc7f | 2.26714 | -50.819 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 895fa871-c955-3f31-bf01-aa472f754cb5 | 0.49836 | -60.60215 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 4f2da180-9523-3b40-bb4d-b7e0ed5c5d73 | 1.98511 | -60.61401 | 2026-10-06 05:57:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 8424edf3-c91f-3549-8c17-5b9fee7f9fa2 | 2.45025 | -50.82815 | 2026-10-06 05:57:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| f9873b8f-9468-35ef-8b0a-d1340dd569d0 | 1.72283 | -55.63977 | 2026-10-06 05:57:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 3ea6df92-ff89-35b1-9db4-fcc3981fefe5 | -1.09302 | -54.11807 | 2026-10-06 05:57:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 54861f8a-ab63-309a-8976-4c279c868e47 | 0.31834 | -60.44114 | 2026-10-06 05:57:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 6134a847-bcf5-36b9-a4da-7d6726768e91 | -1.08676 | -54.11715 | 2026-10-06 05:57:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a030b72e-ebb7-33c2-9481-98f6665bf0ea | 0.66282 | -59.56004 | 2026-10-06 05:57:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 74bd1b26-51b2-313b-ad1c-0eb89dfc039e | -2.94382 | -54.15964 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 7192d8d0-6f51-32fe-a333-41480eb3822d | -3.2782 | -54.17613 | 2026-10-06 05:59:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 4e58acf1-31c6-392a-a991-4a1760fb0fd5 | -2.88051 | -54.1446 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 035e7094-225d-355e-b55f-45bdba44ed2b | -2.77853 | -54.11201 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| b2b9f063-6ddf-395d-a765-b0ee5571c875 | -3.38659 | -59.43225 | 2026-10-06 05:59:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 1a2bf197-0b69-317f-848f-7e0aa186d083 | -2.78213 | -57.66582 | 2026-10-06 05:59:00 | NPP-375D | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| c27a8a1d-f547-3f51-acee-fbf2b587aa6d | -3.68131 | -55.94122 | 2026-10-06 05:59:00 | NPP-375D | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| a64e2973-da13-3fde-bae6-ebb26142b4f8 | -2.87485 | -54.13843 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| e89c636c-673f-388b-bb9a-c0f9ddfcad47 | -3.06876 | -54.24801 | 2026-10-06 05:59:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 04ebf00e-eee9-3028-8a7d-e8ec26439826 | -3.38454 | -58.19768 | 2026-10-06 05:59:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 7f6acca4-0125-3f66-a4c8-60a0f7be8f6f | -3.49109 | -54.6245 | 2026-10-06 05:59:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 339d0fa4-0987-3aeb-bb4f-f1c16666934f | -3.05263 | -54.22498 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 8cefeebb-7d49-3c67-bafd-3367965c7074 | -2.90324 | -54.07863 | 2026-10-06 05:59:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 140bd29f-ac43-3e01-91dc-fd0180d9ff6a | -3.10836 | -53.76207 | 2026-10-06 05:59:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 4e0ae1bd-ea38-3001-a8f0-e18d1d37cdf6 | -7.05104 | -59.23376 | 2026-10-06 05:59:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 4127090c-f41a-3fd8-b810-58eb6c887d97 | -3.67952 | -55.95309 | 2026-10-06 05:59:00 | NPP-375D | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| 74cb6e0c-c335-3d0c-a195-bf56c025db80 | -3.07712 | -54.24801 | 2026-10-06 05:59:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 848de215-ba97-3c60-a0b6-35bbc6fd0e73 | -2.9809 | -54.13361 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| a1fafcb7-857e-375b-b43a-f1ab75529d91 | -3.6847 | -55.95789 | 2026-10-06 05:59:00 | NPP-375D | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| ded495a6-53c8-35f7-abaa-8afc71baa264 | -3.63334 | -58.94175 | 2026-10-06 05:59:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 6e282315-72f5-3fb5-9a60-136de7ce4058 | -3.00142 | -54.12584 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 6f9c5299-ccdc-3165-9e7a-324f0b5c82b1 | -3.09409 | -54.1672 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| af02b805-b759-349a-821d-cda311bd003d | -3.7082 | -58.93437 | 2026-10-06 05:59:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 57933219-ffec-33af-a775-e943e9f19aa2 | -2.93487 | -54.13164 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 2701112c-4fb4-303d-8ebd-898e6eb8ca53 | -2.80079 | -54.14243 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ac338ddc-5cb7-3d71-ace5-3ba97f8d678f | -2.87981 | -54.14941 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 60e2baf8-37dd-3d69-a0ce-f07ace4d8328 | -2.99521 | -54.1255 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 2b85cd25-3c57-3aca-84ad-0e684c5725b3 | -2.79513 | -54.13638 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 561ff768-a245-3293-be59-14f5ad464bb7 | -1.28297 | -56.98118 | 2026-10-06 05:59:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 389eabf1-737c-3a30-9088-c6644224e5f2 | -3.00704 | -54.13206 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| b3c71730-9293-38e1-a5ce-44b35132be18 | -3.1012 | -54.17211 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 7ba504b7-a8e2-3b1b-879c-f5e5d73f65a5 | -3.00163 | -54.12656 | 2026-10-06 05:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
 
 
 [Clique aqui para ver as próximas entradas](README68.md)
