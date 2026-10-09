@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 1fda7360-f257-3d06-9f54-67af6f58e80a | -14.66645 | -42.48349 | 2026-10-08 15:39:00 | NOAA-21 | LICÍNIO DE ALMEIDA | BAHIA | Brasil | 2919405 | 29 | 33 | nan | nan | nan | Caatinga | 12.3 |
-| b5435762-2461-3293-a37c-66ce54a21b6a | -15.62939 | -40.12965 | 2026-10-08 15:39:00 | NOAA-21 | ITARANTIM | BAHIA | Brasil | 2916807 | 29 | 33 | nan | nan | nan | Mata Atlântica | 18.1 |
-| 17baacc2-c175-3af3-b7ae-44b1a4fbfa04 | -16.34848 | -44.7167 | 2026-10-08 15:39:00 | NOAA-21 | UBAÍ | MINAS GERAIS | Brasil | 3170008 | 31 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| 0d280564-1e2a-306c-acbd-008cb0ae504d | -11.59482 | -43.66999 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 53.3 |
-| 0a03aeac-d6e4-3748-9214-74a8a4239904 | -13.29714 | -41.50684 | 2026-10-08 15:39:00 | NOAA-21 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 16.2 |
-| 192451fb-0937-3d77-911e-5eda78f04a89 | -14.41898 | -41.51763 | 2026-10-08 15:39:00 | NOAA-21 | ARACATU | BAHIA | Brasil | 2902005 | 29 | 33 | nan | nan | nan | Caatinga | 20.2 |
-| 631c0b68-c551-3228-9dbd-30ede9bf149f | -14.49778 | -40.82312 | 2026-10-08 15:39:00 | NOAA-21 | ANAGÉ | BAHIA | Brasil | 2901205 | 29 | 33 | nan | nan | nan | Caatinga | 11.5 |
-| cd916846-2bf1-3e27-baf4-31b9a9a4d675 | -11.77713 | -45.56539 | 2026-10-08 15:39:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 33.5 |
-| 565ea746-7eec-3d38-8222-f10690917bad | -14.89552 | -39.72354 | 2026-10-08 15:39:00 | NOAA-21 | FLORESTA AZUL | BAHIA | Brasil | 2911006 | 29 | 33 | nan | nan | nan | Mata Atlântica | 11.9 |
-| aaec016f-51ee-30e7-ba4c-ce7cf59b49ae | -14.08433 | -43.77274 | 2026-10-08 15:39:00 | NOAA-21 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 767eea85-b940-3d03-b863-f2b9479701c3 | -11.76208 | -45.49034 | 2026-10-08 15:39:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 55.2 |
-| 51aff5c2-8b7f-366b-9b42-23312c2b3739 | -16.15435 | -43.11784 | 2026-10-08 15:39:00 | NOAA-21 | RIACHO DOS MACHADOS | MINAS GERAIS | Brasil | 3154507 | 31 | 33 | nan | nan | nan | Cerrado | 12.6 |
-| 954c6798-1d72-3942-b2d5-0987d5a56e8f | -12.55656 | -38.29945 | 2026-10-08 15:39:00 | NOAA-21 | MATA DE SÃO JOÃO | BAHIA | Brasil | 2921005 | 29 | 33 | nan | nan | nan | Mata Atlântica | 7.6 |
-| 2051d2cb-52dc-3dd4-b127-7cd9fb11c80d | -14.56733 | -41.53762 | 2026-10-08 15:39:00 | NOAA-21 | MAETINGA | BAHIA | Brasil | 2919959 | 29 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| b741f97c-7d1d-3087-a8e3-f5137d0394e0 | -18.27645 | -42.6245 | 2026-10-08 15:39:00 | NOAA-21 | SÃO PEDRO DO SUAÇUÍ | MINAS GERAIS | Brasil | 3164100 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
-| 5bd2ee5f-470e-3d7d-bed7-41c9dd5a9d15 | -11.61793 | -43.65294 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 25.2 |
-| ea9b9c6d-feb0-3e73-8c96-2dafc0964c1a | -13.89965 | -43.76252 | 2026-10-08 15:39:00 | NOAA-21 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| cd7b3807-21b7-360f-a601-8a617637c73e | -14.24519 | -44.43482 | 2026-10-08 15:39:00 | NOAA-21 | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 1b6586ca-fac5-3c42-ac24-538b4962264e | -11.61541 | -43.63661 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 124.8 |
-| 746d571d-e400-3e29-ae95-214d76181c31 | -14.46693 | -40.73058 | 2026-10-08 15:39:00 | NOAA-21 | ANAGÉ | BAHIA | Brasil | 2901205 | 29 | 33 | nan | nan | nan | Caatinga | 348.8 |
-| 03b0ddfa-1807-3d3e-a675-67229c3b6850 | -18.29111 | -42.23911 | 2026-10-08 15:39:00 | NOAA-21 | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
-| 6e6c4536-bcf7-329f-a38c-58fdd1883ee3 | -12.03493 | -43.43467 | 2026-10-08 15:39:00 | NOAA-21 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 27.9 |
-| 608ed7cb-9813-397f-a9de-2e11b2697e92 | -13.29875 | -41.52098 | 2026-10-08 15:39:00 | NOAA-21 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 46.6 |
-| 6bd32c02-7194-3a78-be21-626ea8a71535 | -13.58725 | -40.73993 | 2026-10-08 15:39:00 | NOAA-21 | IRAMAIA | BAHIA | Brasil | 2914307 | 29 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| 83e18aaa-2d74-3cda-907c-b8e82ce3523f | -14.66866 | -40.49788 | 2026-10-08 15:39:00 | NOAA-21 | PLANALTO | BAHIA | Brasil | 2925006 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.7 |
-| 0089b0ff-724c-3f50-a033-4c73f3575385 | -11.77222 | -45.585 | 2026-10-08 15:39:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 42.9 |
-| 74521cff-ae5b-3a45-9844-b20938597a57 | -14.26224 | -42.44104 | 2026-10-08 15:39:00 | NOAA-21 | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 148.2 |
-| 70da330c-8ba3-300a-9c87-93e4c34443dd | -12.23961 | -44.73857 | 2026-10-08 15:39:00 | NOAA-21 | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 66.6 |
-| 98c1b665-857e-3c89-bd89-ecb832a34b0e | -11.85419 | -43.54399 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 41.3 |
-| a62232cb-60bc-3896-8335-828c2172b6ae | -16.4558 | -41.26115 | 2026-10-08 15:39:00 | NOAA-21 | JEQUITINHONHA | MINAS GERAIS | Brasil | 3135803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.5 |
-| 92b04d82-661c-375f-81bd-72377b32d870 | -12.13336 | -43.32032 | 2026-10-08 15:39:00 | NOAA-21 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 21.5 |
-| f839659f-210f-3d00-a638-f4756f484225 | -12.15894 | -44.72031 | 2026-10-08 15:39:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 24.5 |
-| a7773ded-34d1-3020-8819-6b42117e5e8d | -16.05125 | -40.64803 | 2026-10-08 15:39:00 | NOAA-21 | ALMENARA | MINAS GERAIS | Brasil | 3101706 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
-| d141c374-2283-3f02-b765-a289e4f37edd | -11.64163 | -43.7017 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 29.1 |
-| 96175b1f-64d8-3f01-bafb-da812fcc466b | -15.53993 | -43.17521 | 2026-10-08 15:39:00 | NOAA-21 | PAI PEDRO | MINAS GERAIS | Brasil | 3146552 | 31 | 33 | nan | nan | nan | Caatinga | 43.0 |
-| 52dabced-f9c6-3e45-a1c1-9ccaf7384188 | -17.33802 | -41.3896 | 2026-10-08 15:39:00 | NOAA-21 | CATUJI | MINAS GERAIS | Brasil | 3115458 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 8289ba77-6bb3-34fd-992a-a7ffa1ad41a0 | -14.31974 | -40.26294 | 2026-10-08 15:39:00 | NOAA-21 | BOA NOVA | BAHIA | Brasil | 2903706 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 947b8f26-c0df-345f-a802-ddfa9c262602 | -13.33777 | -40.2754 | 2026-10-08 15:39:00 | NOAA-21 | LAJEDO DO TABOCAL | BAHIA | Brasil | 2919058 | 29 | 33 | nan | nan | nan | Mata Atlântica | 8.9 |
-| 3827afee-77bd-38c8-a28a-5227b99078e9 | -13.29792 | -41.51696 | 2026-10-08 15:39:00 | NOAA-21 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 31.9 |
-| 72d12f8c-7f43-34c0-bae8-afc8d405dff6 | -11.62351 | -43.69964 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 62.5 |
-| dffa55ea-af82-3333-87d6-6c5f5e4049c3 | -13.29794 | -41.51382 | 2026-10-08 15:39:00 | NOAA-21 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 34.0 |
-| e00e6eed-9a27-37cd-a119-2cc19a218869 | -12.1615 | -42.04219 | 2026-10-08 15:39:00 | NOAA-21 | BARRA DO MENDES | BAHIA | Brasil | 2903003 | 29 | 33 | nan | nan | nan | Caatinga | 15.1 |
-| 49ba14c0-2d22-3f45-8c4f-90b16c80ceda | -13.67787 | -41.01492 | 2026-10-08 15:39:00 | NOAA-21 | BARRA DA ESTIVA | BAHIA | Brasil | 2902807 | 29 | 33 | nan | nan | nan | Caatinga | 10.3 |
-| 4f11933f-72a6-3977-87eb-79cf5b5ac8f3 | -14.73525 | -40.29456 | 2026-10-08 15:39:00 | NOAA-21 | NOVA CANAÃ | BAHIA | Brasil | 2922706 | 29 | 33 | nan | nan | nan | Mata Atlântica | 12.7 |
-| 7bb2f0cf-e9b0-37d2-b842-75afba80f0cf | -11.44974 | -43.39186 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 59.3 |
-| 9b789971-4120-3803-a365-0b7d4cbd843f | -14.73451 | -40.28842 | 2026-10-08 15:39:00 | NOAA-21 | NOVA CANAÃ | BAHIA | Brasil | 2922706 | 29 | 33 | nan | nan | nan | Mata Atlântica | 14.5 |
-| 79f8bee4-202d-3a4d-99b9-543187df8937 | -12.19125 | -44.82568 | 2026-10-08 15:39:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 99.0 |
-| cb35f692-e158-3a5b-a017-c3cbb10bd2fd | -16.7824 | -40.92886 | 2026-10-08 15:39:00 | NOAA-21 | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
-| 4276ef5a-4d5e-32d0-bec5-dd3e7bc2e566 | -17.69135 | -39.16909 | 2026-10-08 15:39:00 | NOAA-21 | CARAVELAS | BAHIA | Brasil | 2906907 | 29 | 33 | nan | nan | nan | Mata Atlântica | 7.7 |
-| 1f3729bc-cfbf-36d8-8ec6-7827de267792 | -11.78477 | -43.53652 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 23.3 |
-| 107c3d67-61d5-35e6-acda-d6b8faf3fd21 | -12.2841 | -38.96188 | 2026-10-08 15:39:00 | NOAA-21 | FEIRA DE SANTANA | BAHIA | Brasil | 2910800 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
-| 3770a53e-ee7f-3226-8c7b-ed8e3b1b365f | -17.16685 | -41.56102 | 2026-10-08 15:39:00 | NOAA-21 | CARAÍ | MINAS GERAIS | Brasil | 3113008 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| bd21013a-3110-314c-bdd6-3d0be2e59bee | -11.6119 | -43.66124 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| b4fdd332-c8bb-3454-8778-23630ca90ff0 | -11.46136 | -43.38588 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 37.3 |
-| 25dc1d63-2230-3326-8b46-45c409bd3cfa | -12.18548 | -44.65868 | 2026-10-08 15:39:00 | NOAA-21 | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 33.8 |
-| 4fae33b4-fb98-3e70-a365-5865a553e12a | -16.45872 | -41.25656 | 2026-10-08 15:39:00 | NOAA-21 | JEQUITINHONHA | MINAS GERAIS | Brasil | 3135803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 18.2 |
-| 8cb45363-2dad-32b5-a2c2-4bb8339997ff | -11.64351 | -43.70866 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 46.0 |
-| 7e16eb9a-4afc-3f98-bc00-b5456e3f7051 | -13.29754 | -41.51031 | 2026-10-08 15:39:00 | NOAA-21 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 16.2 |
-| 6e2d4f74-f4e6-3b29-be3d-aa285ff1cc3f | -15.88079 | -40.78093 | 2026-10-08 15:39:00 | NOAA-21 | ALMENARA | MINAS GERAIS | Brasil | 3101706 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| 9506f0dc-7b4c-30e3-adf9-fa8edf16be1f | -11.83405 | -43.5305 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 19.9 |
-| f026974e-6ba3-350d-8989-0cd53fc268a4 | -11.62957 | -43.59333 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 32.8 |
-| 61b93f27-13f9-3fdf-9342-daaa0732b846 | -12.0906 | -38.75725 | 2026-10-08 15:39:00 | NOAA-21 | IRARÁ | BAHIA | Brasil | 2914505 | 29 | 33 | nan | nan | nan | Mata Atlântica | 21.9 |
-| 0e5c0ce5-6ac4-34ce-b4c8-94ae59fd970d | -11.60922 | -43.63728 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 124.8 |
-| 4d5cd931-e53f-3f4f-9284-636c8ce0efaa | -13.96374 | -44.8454 | 2026-10-08 15:39:00 | NOAA-21 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 25.2 |
-| 42a49d54-6479-3d8e-9110-a1ae2b6a08c1 | -11.62506 | -43.61104 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 66.4 |
-| aa28170a-4e5c-3486-8b9a-25b656eb92ca | -12.04084 | -43.43427 | 2026-10-08 15:39:00 | NOAA-21 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 26.2 |
-| 22839a2f-b979-3209-9e4f-3d30d8f297ca | -17.10468 | -41.35072 | 2026-10-08 15:39:00 | NOAA-21 | CARAÍ | MINAS GERAIS | Brasil | 3113008 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.2 |
-| 0b2bc615-a08f-33c2-b315-50fa923dabcd | -14.05685 | -43.81907 | 2026-10-08 15:39:00 | NOAA-21 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 52.8 |
-| 3c23571f-549b-3e06-b750-1d52508ebf2f | -14.26543 | -40.70086 | 2026-10-08 15:39:00 | NOAA-21 | MIRANTE | BAHIA | Brasil | 2921450 | 29 | 33 | nan | nan | nan | Caatinga | 7.7 |
-| 985f630f-1540-3501-88e9-2b96fd7504ed | -14.68694 | -41.85358 | 2026-10-08 15:39:00 | NOAA-21 | PRESIDENTE JÂNIO QUADROS | BAHIA | Brasil | 2925709 | 29 | 33 | nan | nan | nan | Caatinga | 7.3 |
-| 0fbd574d-71a4-3ae2-9ec3-2f6d0c06f8e9 | -15.70366 | -40.59479 | 2026-10-08 15:39:00 | NOAA-21 | MACARANI | BAHIA | Brasil | 2919702 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
-| d45057cb-7dfd-332f-ba18-44ddd3a9aafc | -12.18791 | -44.82218 | 2026-10-08 15:39:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 143.1 |
-| f3ccc830-5cfc-3ac4-86dc-e5185e02e087 | -11.76638 | -44.94412 | 2026-10-08 15:39:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| a46d68a6-f047-3089-9343-aa801fdeca92 | -15.56887 | -44.52342 | 2026-10-08 15:39:00 | NOAA-21 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 36.2 |
-| 8ee3dc80-14c9-309b-ac88-5ede5e9bfdce | -12.27126 | -38.93447 | 2026-10-08 15:39:00 | NOAA-21 | FEIRA DE SANTANA | BAHIA | Brasil | 2910800 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
-| 7403f51a-4099-3e2f-9b80-a898c9bfd3e2 | -12.23296 | -44.73943 | 2026-10-08 15:39:00 | NOAA-21 | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 66.6 |
-| 896a28b8-f313-3ff3-bc2d-cb825b3d1fa7 | -12.15033 | -44.76336 | 2026-10-08 15:39:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 12.7 |
-| da4f4c65-044d-341e-97fe-7b829cc7f922 | -14.41563 | -41.29284 | 2026-10-08 15:39:00 | NOAA-21 | ARACATU | BAHIA | Brasil | 2902005 | 29 | 33 | nan | nan | nan | Caatinga | 46.2 |
-| 50785489-b9b2-3fc3-93b9-dd8d2181f711 | -12.24562 | -44.73201 | 2026-10-08 15:39:00 | NOAA-21 | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 30.6 |
-| a6f37c9f-a322-36a5-8b43-ded987840238 | -14.4713 | -40.72204 | 2026-10-08 15:39:00 | NOAA-21 | ANAGÉ | BAHIA | Brasil | 2901205 | 29 | 33 | nan | nan | nan | Caatinga | 7.6 |
-| a5c07051-cc56-33bd-987a-2c308ce2f336 | -16.19617 | -44.57631 | 2026-10-08 15:39:00 | NOAA-21 | LUISLÂNDIA | MINAS GERAIS | Brasil | 3138682 | 31 | 33 | nan | nan | nan | Cerrado | 37.4 |
-| d08fb282-a6ea-35c3-846b-a66b079dd946 | -11.76379 | -45.57235 | 2026-10-08 15:39:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 43.2 |
-| 228f207c-b8eb-314c-97d5-fb46634c73ef | -11.76308 | -45.56575 | 2026-10-08 15:39:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 43.2 |
-| cd2eabde-63f4-3358-a9bd-43d3275e5be1 | -11.92062 | -39.47519 | 2026-10-08 15:39:00 | NOAA-21 | RIACHÃO DO JACUÍPE | BAHIA | Brasil | 2926301 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
-| 7afc07bf-c678-3b35-8a20-50f04fffbc0d | -15.11231 | -43.62957 | 2026-10-08 15:39:00 | NOAA-21 | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | 27.6 |
-| c68c1ba2-24d1-3039-8e40-a4cd86cb6907 | -11.62106 | -43.68685 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 16.4 |
-| 77ee825c-1ab2-374f-8043-bcdf8abc374a | -14.40924 | -41.28597 | 2026-10-08 15:39:00 | NOAA-21 | ARACATU | BAHIA | Brasil | 2902005 | 29 | 33 | nan | nan | nan | Caatinga | 231.0 |
-| f6a5b8c5-469f-37f6-a942-050da4cd9c53 | -17.06748 | -40.02137 | 2026-10-08 15:39:00 | NOAA-21 | ITAMARAJU | BAHIA | Brasil | 2915601 | 29 | 33 | nan | nan | nan | Mata Atlântica | 10.9 |
-| b178dd4b-ca60-3787-b1a0-68b18ebd7793 | -11.71238 | -43.66032 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 14.1 |
-| 78279843-511b-344a-bc83-0efca96287b9 | -17.11037 | -41.34975 | 2026-10-08 15:39:00 | NOAA-21 | CARAÍ | MINAS GERAIS | Brasil | 3113008 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.6 |
-| 795522b1-882a-35d3-9e64-309d446961f2 | -14.03458 | -40.55383 | 2026-10-08 15:39:00 | NOAA-21 | MANOEL VITORINO | BAHIA | Brasil | 2920403 | 29 | 33 | nan | nan | nan | Caatinga | 8.3 |
-| 88a0ac67-ab5c-3a13-8119-5fad480b0d2e | -11.44919 | -43.38725 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 32.3 |
-| e05fb7b6-5c19-3037-b041-2fae2c6b0090 | -11.6257 | -43.61308 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 29.8 |
-| 56d31ec0-928c-3644-9dfe-8201a8314c1c | -14.05743 | -43.82449 | 2026-10-08 15:39:00 | NOAA-21 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 72.8 |
-| 4dcbd54b-a2a8-3c2a-81a0-d47d303edc2e | -11.74171 | -43.64262 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 16.5 |
-| 65b71001-25b3-3bc0-91f2-967704d7eb89 | -11.63577 | -43.59275 | 2026-10-08 15:39:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 27.6 |
-| ab92c795-5e63-3a75-873a-959b1849b83c | -13.34692 | -43.96537 | 2026-10-08 15:39:00 | NOAA-21 | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 16.5 |
-| f5d29d51-7110-3ac1-91a8-f1bd114bf64b | -14.5714 | -41.67193 | 2026-10-08 15:39:00 | NOAA-21 | PRESIDENTE JÂNIO QUADROS | BAHIA | Brasil | 2925709 | 29 | 33 | nan | nan | nan | Caatinga | 73.1 |
-| 3f5b90fd-8065-3454-871f-9de6930c4329 | -11.35641 | -43.14468 | 2026-10-08 15:39:00 | NOAA-21 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 17.6 |
-| ed2497b5-a650-311d-a6f4-e2c2123f0873 | -16.1132 | -40.79321 | 2026-10-08 15:39:00 | NOAA-21 | ALMENARA | MINAS GERAIS | Brasil | 3101706 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| 129a945d-9fdf-3caf-8892-afa7ac9d9acf | -3.56496 | -43.50822 | 2026-10-09 11:19:00 | TERRA_M-M | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 50.5 |
+| 4e31f8dc-62a8-3434-b4d1-2c20692dc0e8 | -5.43951 | -43.43989 | 2026-10-09 11:19:00 | TERRA_M-M | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 9.3 |
+| f8484b6f-905a-3df6-831c-76c0127bf2df | -11.9865 | -43.4671 | 2026-10-09 11:20:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 98.8 |
+| 58dc9d90-47ad-3ebb-88b9-01850a53d20c | -11.9861 | -43.4908 | 2026-10-09 11:20:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 86.0 |
+| e960c889-6984-31c1-bf57-59d160009a2c | -11.1242 | -45.6865 | 2026-10-09 11:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 76.9 |
+| 27763dc0-191e-303a-a148-9f27d5749183 | -11.5801 | -43.6492 | 2026-10-09 11:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 108.4 |
+| a4d80015-a8ed-37cf-a84e-e262934bc916 | -12.0058 | -43.464 | 2026-10-09 11:20:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 124.9 |
+| 3c6dc1de-7ab3-3217-a054-bcb1bd59fa93 | -13.26972 | -46.95715 | 2026-10-09 11:21:00 | TERRA_M-M | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 43.9 |
+| 23d5d2e5-1ad4-313a-b498-7990be1c8161 | -8.90944 | -45.23295 | 2026-10-09 11:21:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 105.1 |
+| 2c108fb9-79b0-3a8b-a424-99dd440a3cb2 | -11.76102 | -44.95394 | 2026-10-09 11:21:00 | TERRA_M-M | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 202db62f-b983-335a-ae73-fec4e22ce372 | -12.89927 | -45.11644 | 2026-10-09 11:21:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| dc160bfc-31c6-3926-ae94-07e119cdfe7f | -13.26771 | -46.96975 | 2026-10-09 11:21:00 | TERRA_M-M | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 63.0 |
+| eeb5718f-c7fa-380b-9f6c-cf21b4b294a0 | -11.8516 | -43.52943 | 2026-10-09 11:21:00 | TERRA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 12.3 |
+| de47b8b7-5580-3055-84f2-dc8f9d40d4e2 | -9.17466 | -41.5374 | 2026-10-09 11:21:00 | TERRA_M-M | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 5.9 |
+| 4ca66c9a-cab1-3d67-ac26-267da1f03c1d | -9.90067 | -44.78787 | 2026-10-09 11:21:00 | TERRA_M-M | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| 4914280b-44a7-32ec-83e5-dfff751eee94 | -14.31653 | -41.33559 | 2026-10-09 11:21:00 | TERRA_M-M | ARACATU | BAHIA | Brasil | 2902005 | 29 | 33 | nan | nan | nan | Caatinga | 7.3 |
+| bc4cf30c-debf-3457-9a34-7ac1aff2196c | -14.93515 | -48.08847 | 2026-10-09 11:21:00 | TERRA_M-M | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 13.3 |
+| e560315c-1987-3745-a690-1abf970c6076 | -11.67938 | -46.77082 | 2026-10-09 11:21:00 | TERRA_M-M | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 18.1 |
+| 3eba50f9-37f7-3553-a9cf-e2c4e71da2da | -14.44335 | -43.92783 | 2026-10-09 11:21:00 | TERRA_M-M | JUVENÍLIA | MINAS GERAIS | Brasil | 3136959 | 31 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 57c0bb49-efbe-327c-8fa2-89179ea1f37b | -8.92908 | -45.23578 | 2026-10-09 11:21:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 115.8 |
+| 387ad761-fc1f-3e05-88e1-899c24d17c10 | -11.7564 | -45.46844 | 2026-10-09 11:21:00 | TERRA_M-M | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| b9392430-54e7-3fd9-a7f8-304babafd837 | -11.28253 | -45.19581 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| d4b4219d-86b0-3ce8-8d75-fb99fdc58041 | -9.9101 | -44.78928 | 2026-10-09 11:21:00 | TERRA_M-M | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 23.4 |
+| 9423e410-7b60-3662-ad4b-7235028b94b5 | -9.12765 | -45.81998 | 2026-10-09 11:21:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| 070a99d0-746d-31a2-988f-1cb685595784 | -11.58451 | -43.64798 | 2026-10-09 11:21:00 | TERRA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 41.7 |
+| ff795ce7-3b4e-36e0-b23f-6c96baa84900 | -8.73748 | -45.14949 | 2026-10-09 11:21:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| f903f06c-0684-3170-8aae-ee505a2f00ef | -14.20973 | -41.84855 | 2026-10-09 11:21:00 | TERRA_M-M | BRUMADO | BAHIA | Brasil | 2904605 | 29 | 33 | nan | nan | nan | Caatinga | 8.1 |
+| 64df6bff-b135-35b2-8e7b-786545b5e664 | -10.86246 | -45.53569 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 31.4 |
+| 788beea6-061a-39d4-ba50-6ad51f7f9a04 | -12.9178 | -45.11927 | 2026-10-09 11:21:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 22.8 |
+| 71b305ac-c6cd-38cb-9844-1995be76b221 | -12.17102 | -42.52743 | 2026-10-09 11:21:00 | TERRA_M-M | BROTAS DE MACAÚBAS | BAHIA | Brasil | 2904506 | 29 | 33 | nan | nan | nan | Caatinga | 10.9 |
+| 33fe8362-2544-35a7-a268-763e171de705 | -8.90773 | -45.24416 | 2026-10-09 11:21:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 119.3 |
+| 60b59738-dc62-3bab-9225-84b47aa0f3e2 | -12.91005 | -45.10783 | 2026-10-09 11:21:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 26.2 |
+| 052525fa-e29f-38f0-be57-853f28c4f56b | -8.91755 | -45.24558 | 2026-10-09 11:21:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 46.3 |
+| 258a42c7-0200-3e96-bf7f-d038fd522a9b | -11.2389 | -44.8681 | 2026-10-09 11:21:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| 34667751-eab6-3413-b3ab-4b6c5c2d7a40 | -10.30948 | -46.26508 | 2026-10-09 11:21:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 17.7 |
+| c4097f1a-3dfa-389b-8f37-291fa08c86dd | -9.00095 | -45.90775 | 2026-10-09 11:21:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 44.5 |
+| ab95c4e2-177b-3511-949b-e9e81d087655 | -11.40764 | -46.66851 | 2026-10-09 11:21:00 | TERRA_M-M | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 31.1 |
+| dfe09f72-1ca4-351d-aa9c-0b94b9af8d57 | -13.36569 | -40.44167 | 2026-10-09 11:21:00 | TERRA_M-M | MARACÁS | BAHIA | Brasil | 2920502 | 29 | 33 | nan | nan | nan | Mata Atlântica | 17.6 |
+| 40ffc8e2-ce5c-3f11-bd02-8212e0d8eeae | -8.91285 | -45.2106 | 2026-10-09 11:21:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 31.4 |
+| b7782e73-0ad1-344a-a3af-072f62d1b619 | -9.03857 | -44.37952 | 2026-10-09 11:21:00 | TERRA_M-M | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| 4d28ed4f-9e8a-321e-aa8b-cfd6b079959a | -15.95822 | -41.07902 | 2026-10-09 11:21:00 | TERRA_M-M | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.9 |
+| fc250c1b-f18b-38fb-aa97-1e75f786b713 | -11.59698 | -43.68697 | 2026-10-09 11:21:00 | TERRA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 17.1 |
+| cb8aa80f-e2ca-3d2d-a1f7-08f54a3e38dd | -11.77032 | -44.95543 | 2026-10-09 11:21:00 | TERRA_M-M | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 30.5 |
+| ded45b4f-ae18-391c-9328-fda14c1810ae | -11.57788 | -42.80606 | 2026-10-09 11:21:00 | TERRA_M-M | GENTIO DO OURO | BAHIA | Brasil | 2911303 | 29 | 33 | nan | nan | nan | Caatinga | 32.0 |
+| b257e2cd-a979-387d-ac60-edaf446c59fe | -8.95701 | -45.18328 | 2026-10-09 11:21:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 16.9 |
+| bf6cbc6c-b073-328b-8b89-8b78ec914c94 | -9.00283 | -45.89555 | 2026-10-09 11:21:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 15.1 |
+| c89c4be6-b25a-38ae-afdb-45f0cd240733 | -16.12442 | -43.39325 | 2026-10-09 11:21:00 | TERRA_M-M | FRANCISCO SÁ | MINAS GERAIS | Brasil | 3126703 | 31 | 33 | nan | nan | nan | Cerrado | 23.4 |
+| 71bdf98f-9562-3c9f-8438-b0c6df83c964 | -11.22701 | -45.30596 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| 89eb74c5-0520-374b-b389-c8e11f167394 | -11.24723 | -46.30892 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 13.8 |
+| 88e26c50-6f0e-3550-bf13-6a7ca20856b1 | -11.99963 | -43.45612 | 2026-10-09 11:21:00 | TERRA_M-M | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 28.3 |
+| b5b307cd-1fe1-34fa-a684-c939667b1935 | -16.12314 | -43.40237 | 2026-10-09 11:21:00 | TERRA_M-M | FRANCISCO SÁ | MINAS GERAIS | Brasil | 3126703 | 31 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| d1523cb0-8ae2-3e30-9f98-9be7d855e7ea | -8.73916 | -45.13843 | 2026-10-09 11:21:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 15.5 |
+| d9e1b8d3-dcba-3cb0-a7e3-e16a4d5f5b87 | -16.46975 | -45.51477 | 2026-10-09 11:21:00 | TERRA_M-M | SÃO ROMÃO | MINAS GERAIS | Brasil | 3164209 | 31 | 33 | nan | nan | nan | Cerrado | 18.4 |
+| 0284b17a-4be3-3d85-a46a-c4d5dfebb208 | -11.31871 | -44.82478 | 2026-10-09 11:21:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| a131ee95-702d-3589-b761-2910b30c1b8b | -11.99572 | -43.48318 | 2026-10-09 11:21:00 | TERRA_M-M | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 67.4 |
+| 181dbde5-ee5c-30f6-91a8-7d2517689779 | -9.91165 | -44.779 | 2026-10-09 11:21:00 | TERRA_M-M | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 17.3 |
+| 2bb1f9cb-3535-32b5-93b1-d112847e41c9 | -15.11857 | -48.51612 | 2026-10-09 11:21:00 | TERRA_M-M | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 17.7 |
+| b84ad53a-53f0-3dcc-96a1-744765456438 | -11.22864 | -45.29527 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 49.7 |
+| 921a08d5-18da-3d77-a4b5-d2d054df7bbd | -11.78753 | -46.8073 | 2026-10-09 11:21:00 | TERRA_M-M | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 39.4 |
+| 3362b8d4-b91b-3813-aaf1-b4a25df47d10 | -12.17486 | -42.43649 | 2026-10-09 11:21:00 | TERRA_M-M | BROTAS DE MACAÚBAS | BAHIA | Brasil | 2904506 | 29 | 33 | nan | nan | nan | Caatinga | 8.2 |
+| f1347ea0-12cd-384a-9feb-e1c9b1a3ecf0 | -16.23009 | -45.32806 | 2026-10-09 11:21:00 | TERRA_M-M | PINTÓPOLIS | MINAS GERAIS | Brasil | 3150570 | 31 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| a3b78edd-ac87-31ce-b017-023de674b830 | -8.98039 | -45.90481 | 2026-10-09 11:21:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 69.9 |
+| 8b00d333-16d1-3ec1-9d79-f407defaccd0 | -13.02492 | -46.81987 | 2026-10-09 11:21:00 | TERRA_M-M | CAMPOS BELOS | GOIÁS | Brasil | 5204904 | 52 | 33 | nan | nan | nan | Cerrado | 26.3 |
+| a20b6006-70e8-302c-b22c-78ff3ca7d379 | -11.2541 | -45.25579 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| 9047f53f-d26b-399b-b898-ac72bdb6a97a | -9.86362 | -44.87128 | 2026-10-09 11:21:00 | TERRA_M-M | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 82251725-2dad-35c8-9317-585977df5965 | -13.28004 | -46.95884 | 2026-10-09 11:21:00 | TERRA_M-M | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 84.6 |
+| 444cb30a-96df-38a0-a9d0-ae4f4450f360 | -11.655 | -43.67354 | 2026-10-09 11:21:00 | TERRA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| 0b6d305a-02f6-32a1-be1d-fa4523c8f015 | -10.74837 | -46.61435 | 2026-10-09 11:21:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 15.4 |
+| d478d787-6f2d-36cc-8662-ff96354eeac1 | -12.76394 | -40.82287 | 2026-10-09 11:21:00 | TERRA_M-M | BOA VISTA DO TUPIM | BAHIA | Brasil | 2903805 | 29 | 33 | nan | nan | nan | Caatinga | 24.4 |
+| 6b4ab64a-ee7b-38b3-86a6-25dae33a1232 | -8.91926 | -45.23436 | 2026-10-09 11:21:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 171.6 |
+| 40f2d205-efb2-359b-a2f9-e4a8c4f26a09 | -13.25992 | -42.25269 | 2026-10-09 11:21:00 | TERRA_M-M | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 7.9 |
+| 09b89ae9-12f5-337e-9c5b-783b7f6193fa | -8.97148 | -45.9095 | 2026-10-09 11:21:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 18.1 |
+| e4a4fa7f-a2f1-3b2c-8c36-9b2d50259158 | -11.99702 | -43.47419 | 2026-10-09 11:21:00 | TERRA_M-M | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 132.6 |
+| a032f085-8894-3666-b53b-9be936a5a2df | -11.83346 | -43.59169 | 2026-10-09 11:21:00 | TERRA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 78.6 |
+| 47abdf31-8e03-3cdc-95ac-b7dc29665fae | -11.21597 | -45.25038 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 14.7 |
+| 0734ae81-5fbe-36c7-8480-3480c1087afc | -8.99069 | -45.90611 | 2026-10-09 11:21:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 20.2 |
+| c8a8dd69-a7a7-37b4-9936-789e6e9e7d40 | -15.01531 | -46.24763 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 19.7 |
+| 5895522f-a8d3-3c61-8cb1-3269f29218f9 | -10.93772 | -45.38589 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| 065431f7-efeb-3db9-ba67-c35b9fa62fcc | -8.84859 | -45.42686 | 2026-10-09 11:21:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| bdb4e627-f52b-3e56-aedc-c7df68cb6213 | -14.99004 | -48.18001 | 2026-10-09 11:21:00 | TERRA_M-M | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| cbed26cc-1779-3a21-9e29-bf6a67ef08e3 | -11.19835 | -45.30172 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 19.0 |
+| 5ee724df-c221-3bbc-8e53-4bee25cce278 | -12.19473 | -44.82649 | 2026-10-09 11:21:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| 6381d1ea-2efc-3d6f-bde7-464b2df36841 | -11.24911 | -46.29689 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 2e7783f5-1975-333b-9f2a-8c1145ff7fe4 | -13.52261 | -40.72243 | 2026-10-09 11:21:00 | TERRA_M-M | IRAMAIA | BAHIA | Brasil | 2914307 | 29 | 33 | nan | nan | nan | Caatinga | 8.0 |
+| ccfcc01d-3f8d-3020-9615-1b322d198e56 | -9.30821 | -47.40961 | 2026-10-09 11:21:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 18.0 |
+| 0d2470a3-2048-3cd9-a084-ecfc21944932 | -12.91931 | -45.10926 | 2026-10-09 11:21:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 62.6 |
+| e0e42d3c-63bb-3314-95f9-793740c2c64b | -10.43238 | -47.30481 | 2026-10-09 11:21:00 | TERRA_M-M | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 15.0 |
+| 864c260a-0f09-35d5-b9f9-aa796c736435 | -14.33627 | -47.09092 | 2026-10-09 11:21:00 | TERRA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| 3287c139-6674-3b26-8590-74006414fca8 | -15.11775 | -48.52185 | 2026-10-09 11:21:00 | TERRA_M-M | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 18.4 |
+| 2a44a732-2eb2-3b74-a774-8fc246f6a946 | -10.87386 | -45.52599 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| 1d60590a-ac0c-357c-b35d-abca6b440750 | -10.9063 | -45.52676 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 15.5 |
+| eb9895b6-3a1b-341b-b4cb-037eb6c7ab95 | -13.53685 | -42.58664 | 2026-10-09 11:21:00 | TERRA_M-M | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 6.1 |
+| 35665424-a29f-3c18-bb9e-b659fc5b8e8c | -8.91114 | -45.22177 | 2026-10-09 11:21:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 18.8 |
+| dd0929aa-0426-3041-a67c-90332df5672a | -14.5677 | -43.83176 | 2026-10-09 11:21:00 | TERRA_M-M | MALHADA | BAHIA | Brasil | 2920205 | 29 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| fede6808-4b51-3560-b766-05ba86556b6a | -9.12579 | -45.83221 | 2026-10-09 11:21:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 14.0 |
+| 9e8ad3f6-4c8b-37f6-bd18-b614c00cc86f | -11.78012 | -45.57138 | 2026-10-09 11:21:00 | TERRA_M-M | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 13.6 |
+| e04ee563-76f4-35c7-a747-41282189af8c | -13.62586 | -41.53813 | 2026-10-09 11:21:00 | TERRA_M-M | JUSSIAPE | BAHIA | Brasil | 2918605 | 29 | 33 | nan | nan | nan | Caatinga | 8.8 |
+| 844bd80a-1a51-38df-914c-03416d62bfa3 | -10.88134 | -44.78903 | 2026-10-09 11:21:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 18.3 |
+| f572abd7-9d4c-35b9-9300-aa60703a4f7e | -12.58541 | -40.3777 | 2026-10-09 11:21:00 | TERRA_M-M | ITABERABA | BAHIA | Brasil | 2914703 | 29 | 33 | nan | nan | nan | Caatinga | 13.4 |
+| 145aab1a-99a6-3a45-81d6-ccaff8a4d1c1 | -10.87216 | -45.53743 | 2026-10-09 11:21:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 21.9 |
 
 
 [Clique aqui para ver as próximas entradas](README232.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 20947400-f970-3c5a-92b9-45b1ff86a586 | -17.28258 | -43.89762 | 2026-10-08 16:16:00 | NPP-375 | ENGENHEIRO NAVARRO | MINAS GERAIS | Brasil | 3123809 | 31 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 654ebc99-1c8f-3ef2-a23a-b86961ef8c49 | -14.52904 | -41.67214 | 2026-10-08 16:16:00 | NPP-375 | PRESIDENTE JÂNIO QUADROS | BAHIA | Brasil | 2925709 | 29 | 33 | nan | nan | nan | Caatinga | 11.2 |
-| 399ce5e6-ff01-3be0-97b0-42d13b3c70dc | -14.46025 | -40.81456 | 2026-10-08 16:16:00 | NPP-375 | ANAGÉ | BAHIA | Brasil | 2901205 | 29 | 33 | nan | nan | nan | Caatinga | 12.0 |
-| 55d100e5-317a-3439-8ad1-f5643752f74e | -15.8273 | -45.41214 | 2026-10-08 16:16:00 | NPP-375 | CHAPADA GAÚCHA | MINAS GERAIS | Brasil | 3116159 | 31 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 31c6c02d-f9d4-3ca8-9233-1f633774aa83 | -16.48798 | -41.80925 | 2026-10-08 16:16:00 | NPP-375 | ITINGA | MINAS GERAIS | Brasil | 3134004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.3 |
-| f833660a-4586-3253-8feb-cf3b966231b9 | -16.15391 | -43.11561 | 2026-10-08 16:16:00 | NPP-375 | RIACHO DOS MACHADOS | MINAS GERAIS | Brasil | 3154507 | 31 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 89920e68-be10-3fc6-bfc5-dfcbd9282070 | -14.49441 | -40.82381 | 2026-10-08 16:16:00 | NPP-375 | ANAGÉ | BAHIA | Brasil | 2901205 | 29 | 33 | nan | nan | nan | Caatinga | 15.1 |
-| 129a82f6-ddbb-3f92-baac-2c8555287e7b | -16.84604 | -40.57646 | 2026-10-08 16:16:00 | NPP-375 | BERTÓPOLIS | MINAS GERAIS | Brasil | 3106606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 7d5c958f-e7e9-3655-812c-813e9bb5eafd | -16.01257 | -40.66349 | 2026-10-08 16:16:00 | NPP-375 | ALMENARA | MINAS GERAIS | Brasil | 3101706 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
-| 4dfc0685-f6a5-3cf5-9d8c-5470a9e8bd92 | -15.40039 | -44.33066 | 2026-10-08 16:16:00 | NPP-375 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 19.9 |
-| 51cc8dbd-11c6-3153-9bd8-dbfa6782acb1 | -14.1412 | -40.79249 | 2026-10-08 16:16:00 | NPP-375 | MIRANTE | BAHIA | Brasil | 2921450 | 29 | 33 | nan | nan | nan | Caatinga | 20.0 |
-| ee402c45-bf34-3425-ab8c-0ed29efecc7f | -15.39981 | -44.32584 | 2026-10-08 16:16:00 | NPP-375 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 13.5 |
-| 6abb18a3-3bf7-33c6-9c46-4b253ca7c0e5 | -14.93475 | -48.09578 | 2026-10-08 16:16:00 | NPP-375 | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 79d782e0-8520-3103-8a38-3a3307aa6d43 | -20.63992 | -43.32304 | 2026-10-08 16:16:00 | NPP-375 | PIRANGA | MINAS GERAIS | Brasil | 3150802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 15.9 |
-| 156ee664-02f9-3201-b4d5-d51d6744f98c | -15.96616 | -40.69589 | 2026-10-08 16:16:00 | NPP-375 | BANDEIRA | MINAS GERAIS | Brasil | 3105202 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
-| 240cc302-5978-3638-af66-a2206e7c5605 | -20.08132 | -42.70689 | 2026-10-08 16:16:00 | NPP-375 | RIO CASCA | MINAS GERAIS | Brasil | 3154903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| fa6756a0-7053-3878-82ee-14e03fed8b97 | -14.44805 | -43.92706 | 2026-10-08 16:16:00 | NPP-375 | JUVENÍLIA | MINAS GERAIS | Brasil | 3136959 | 31 | 33 | nan | nan | nan | Cerrado | 44.2 |
-| fddcd917-e73a-3951-af9e-0a5f20e4b6a8 | -14.07936 | -40.21077 | 2026-10-08 16:16:00 | NPP-375 | JEQUIÉ | BAHIA | Brasil | 2918001 | 29 | 33 | nan | nan | nan | Caatinga | 6.9 |
-| 84c6d81b-0549-3b5a-8027-32cc59c2db68 | -17.12376 | -39.51221 | 2026-10-08 16:16:00 | NPP-375 | ITAMARAJU | BAHIA | Brasil | 2915601 | 29 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
-| 0cad59ab-44d8-3998-8063-66f8740ea8b9 | -18.98357 | -44.4574 | 2026-10-08 16:16:00 | NPP-375 | CURVELO | MINAS GERAIS | Brasil | 3120904 | 31 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| 002ee37f-4f28-3333-8b93-df19e1926a2c | -14.62947 | -40.77784 | 2026-10-08 16:16:00 | NPP-375 | VITÓRIA DA CONQUISTA | BAHIA | Brasil | 2933307 | 29 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| 36e916bb-177b-3064-b090-dce67ede41e0 | -17.78559 | -44.00182 | 2026-10-08 16:16:00 | NPP-375 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| c9b97e93-697e-3fb1-b924-e7aaf81b5a33 | -14.78924 | -42.83191 | 2026-10-08 16:16:00 | NPP-375 | URANDI | BAHIA | Brasil | 2932606 | 29 | 33 | nan | nan | nan | Caatinga | 12.1 |
-| 5448b5d1-1512-34ec-87ca-d23c5a72814e | -18.05478 | -44.59642 | 2026-10-08 16:16:00 | NPP-375 | CORINTO | MINAS GERAIS | Brasil | 3119104 | 31 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 05af7c07-9b0f-36e5-814c-fdf5030cc680 | -15.51268 | -42.65399 | 2026-10-08 16:16:00 | NPP-375 | RIO PARDO DE MINAS | MINAS GERAIS | Brasil | 3155603 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
-| 78adb010-ab0d-389d-90c8-07aec32a430d | -18.04928 | -41.66817 | 2026-10-08 16:16:00 | NPP-375 | ITAMBACURI | MINAS GERAIS | Brasil | 3132701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 481559bb-c0f7-397c-a347-2a1062fb6ef6 | -14.73693 | -40.29145 | 2026-10-08 16:16:00 | NPP-375 | NOVA CANAÃ | BAHIA | Brasil | 2922706 | 29 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
-| 2aafbe76-1bbd-39e2-bf49-3d2bea61780f | -20.58584 | -48.46157 | 2026-10-08 16:16:00 | NPP-375 | JABORANDI | SÃO PAULO | Brasil | 3524204 | 35 | 33 | nan | nan | nan | Cerrado | 14.6 |
-| 8fd61969-777a-37c5-b0c4-b88114b70364 | -18.5533 | -43.62682 | 2026-10-08 16:16:00 | NPP-375 | DATAS | MINAS GERAIS | Brasil | 3121001 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 07733c70-244c-3050-ad08-dd3060083c64 | -15.95664 | -41.0989 | 2026-10-08 16:16:00 | NPP-375 | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 36.0 |
-| d4115901-0efe-3a87-b885-8f3609d420c1 | -15.57435 | -44.53121 | 2026-10-08 16:16:00 | NPP-375 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 20.2 |
-| f1717f25-ed32-3f08-bff4-b8c71aca6741 | -16.35301 | -44.72064 | 2026-10-08 16:16:00 | NPP-375 | UBAÍ | MINAS GERAIS | Brasil | 3170008 | 31 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| db47fa36-b361-3690-af79-a6644d9316be | -17.11435 | -41.34228 | 2026-10-08 16:16:00 | NPP-375 | CARAÍ | MINAS GERAIS | Brasil | 3113008 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.2 |
-| 1582d17b-aa36-3550-b5ed-c9ad96583e15 | -15.03863 | -42.49556 | 2026-10-08 16:16:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
-| 413f6904-0662-3c5a-8289-c822a8ada384 | -18.35712 | -42.77049 | 2026-10-08 16:16:00 | NPP-375 | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 28.7 |
-| 5c01e207-2f04-369e-814c-26a680e4419f | -15.1274 | -41.38377 | 2026-10-08 16:16:00 | NPP-375 | TREMEDAL | BAHIA | Brasil | 2931806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 223.7 |
-| 19cdcf04-f731-3472-a328-cfe462161ab0 | -14.43843 | -40.79179 | 2026-10-08 16:16:00 | NPP-375 | ANAGÉ | BAHIA | Brasil | 2901205 | 29 | 33 | nan | nan | nan | Caatinga | 3.3 |
-| 521b1c0c-221b-310e-8b10-6cf7f4c45db6 | -16.74203 | -40.43397 | 2026-10-08 16:16:00 | NPP-375 | PALMÓPOLIS | MINAS GERAIS | Brasil | 3146750 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.2 |
-| 8e6e6c7d-3e3b-3272-9b59-d6d79935bdfe | -15.51727 | -42.65702 | 2026-10-08 16:16:00 | NPP-375 | RIO PARDO DE MINAS | MINAS GERAIS | Brasil | 3155603 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
-| 83b1722c-1246-3364-b978-2b3b74c72148 | -18.81402 | -41.88902 | 2026-10-08 16:16:00 | NPP-375 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| b9a52340-33eb-3c7c-bd23-f49aff61cdf4 | -14.46389 | -40.81397 | 2026-10-08 16:16:00 | NPP-375 | ANAGÉ | BAHIA | Brasil | 2901205 | 29 | 33 | nan | nan | nan | Caatinga | 12.0 |
-| c26ee5f5-2d80-3721-8a6d-236c7d4809a4 | -14.52495 | -40.33329 | 2026-10-08 16:16:00 | NPP-375 | POÇÕES | BAHIA | Brasil | 2925105 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
-| d1c0a0a6-4ac6-3624-85d2-a2c63030f8f0 | -14.58529 | -40.72711 | 2026-10-08 16:16:00 | NPP-375 | VITÓRIA DA CONQUISTA | BAHIA | Brasil | 2933307 | 29 | 33 | nan | nan | nan | Caatinga | 19.1 |
-| 17e4602a-ca6c-3d89-bd76-1141c0b1246e | -15.70688 | -40.59531 | 2026-10-08 16:16:00 | NPP-375 | MACARANI | BAHIA | Brasil | 2919702 | 29 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
-| 00d84e15-0118-3317-8c24-838a7fe73c7d | -17.96153 | -47.70275 | 2026-10-08 16:16:00 | NPP-375 | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 13edb0d9-aefd-332c-abfd-9e976a4dd89d | -15.55904 | -44.52259 | 2026-10-08 16:16:00 | NPP-375 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| f0a66cd4-173a-3ab1-8e59-f56323ba4e0a | -16.0024 | -50.03977 | 2026-10-08 16:16:00 | NPP-375 | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 0a16a654-b963-33a7-a932-82fa01b7ebbf | -16.15704 | -43.64016 | 2026-10-08 16:16:00 | NPP-375 | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| b62a1328-2687-32cd-8a23-3b05f55aaf81 | -15.1338 | -44.05664 | 2026-10-08 16:16:00 | NPP-375 | ITACARAMBI | MINAS GERAIS | Brasil | 3132107 | 31 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 9784b036-3ca3-3e18-8f1f-83dc8bb9c4e0 | -14.91784 | -48.10436 | 2026-10-08 16:16:00 | NPP-375 | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| 5eb06e49-2252-383f-acfc-854c73ca4c33 | -14.79461 | -41.61374 | 2026-10-08 16:16:00 | NPP-375 | PRESIDENTE JÂNIO QUADROS | BAHIA | Brasil | 2925709 | 29 | 33 | nan | nan | nan | Caatinga | 13.6 |
-| e0ffc79d-7a63-3ca7-871d-7be3c37b9725 | -17.33885 | -41.38516 | 2026-10-08 16:16:00 | NPP-375 | CATUJI | MINAS GERAIS | Brasil | 3115458 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.5 |
-| 45dd0fd9-bc05-3560-ae5e-be10f23b6f1b | -15.60976 | -41.78032 | 2026-10-08 16:16:00 | NPP-375 | BERIZAL | MINAS GERAIS | Brasil | 3106655 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.7 |
-| 647c4d70-a388-3727-bc80-6a1514984624 | -17.95775 | -42.77351 | 2026-10-08 16:16:00 | NPP-375 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 35.9 |
-| 5bd9f1df-668f-357e-883e-f74a623dd1bb | -16.12712 | -43.74721 | 2026-10-08 16:16:00 | NPP-375 | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 27.8 |
-| d0704592-e0e9-34a4-ae75-351043d4ecdb | -16.51097 | -43.14506 | 2026-10-08 16:16:00 | NPP-375 | GRÃO MOGOL | MINAS GERAIS | Brasil | 3127800 | 31 | 33 | nan | nan | nan | Cerrado | 13.3 |
-| 3e67718c-7417-38e6-b25a-2ca63e3a6b89 | -14.55978 | -44.07202 | 2026-10-08 16:16:00 | NPP-375 | MANGA | MINAS GERAIS | Brasil | 3139300 | 31 | 33 | nan | nan | nan | Caatinga | 27.2 |
-| 2a6ba132-01da-3321-b6a4-3386ba0f30a4 | -13.85295 | -40.64275 | 2026-10-08 16:16:00 | NPP-375 | MANOEL VITORINO | BAHIA | Brasil | 2920403 | 29 | 33 | nan | nan | nan | Caatinga | 4.6 |
-| e88c31ac-6169-37a6-a837-1b45ff03dab2 | -14.73507 | -40.29523 | 2026-10-08 16:16:00 | NPP-375 | POÇÕES | BAHIA | Brasil | 2925105 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
-| 543c27e5-23a6-3264-8dd7-8811dfaeab36 | -17.84888 | -42.16432 | 2026-10-08 16:16:00 | NPP-375 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| a34555c8-31b7-33e1-a263-827b1a7cb55e | -15.62718 | -40.12988 | 2026-10-08 16:16:00 | NPP-375 | ITARANTIM | BAHIA | Brasil | 2916807 | 29 | 33 | nan | nan | nan | Mata Atlântica | 11.3 |
-| 738b589e-46f1-3d06-8303-60c85cd7f18a | -18.82538 | -46.92818 | 2026-10-08 16:16:00 | NPP-375 | PATROCÍNIO | MINAS GERAIS | Brasil | 3148103 | 31 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| a8a4089f-676a-35e0-ae44-40d936985aa4 | -16.93933 | -42.07863 | 2026-10-08 16:16:00 | NPP-375 | ARAÇUAÍ | MINAS GERAIS | Brasil | 3103405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.8 |
-| 309c3791-877b-3e61-b674-8bc5160c0d64 | -14.75583 | -39.81377 | 2026-10-08 16:16:00 | NPP-375 | SANTA CRUZ DA VITÓRIA | BAHIA | Brasil | 2927804 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.8 |
-| 89fb28c5-ee9e-327c-831d-2bc20e4d9320 | -15.6015 | -40.50654 | 2026-10-08 16:16:00 | NPP-375 | RIBEIRÃO DO LARGO | BAHIA | Brasil | 2926657 | 29 | 33 | nan | nan | nan | Mata Atlântica | 7.5 |
-| 44f8efa4-f4db-3efd-883d-1c28a7733b35 | -18.26211 | -42.17894 | 2026-10-08 16:16:00 | NPP-375 | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 25.4 |
-| de5262a0-9d81-3f3a-abec-77000b330491 | -14.42595 | -41.13671 | 2026-10-08 16:16:00 | NPP-375 | ARACATU | BAHIA | Brasil | 2902005 | 29 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| c91b837c-2edf-3aac-bd64-433ad9ee66f8 | -14.73448 | -40.29113 | 2026-10-08 16:16:00 | NPP-375 | NOVA CANAÃ | BAHIA | Brasil | 2922706 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
-| b23371e1-69e7-352f-8602-3fbf7e762905 | -14.41502 | -41.28871 | 2026-10-08 16:16:00 | NPP-375 | ARACATU | BAHIA | Brasil | 2902005 | 29 | 33 | nan | nan | nan | Caatinga | 41.8 |
-| 1df3e94c-71bb-39c0-b954-e46a43a5bf32 | -14.68192 | -43.12716 | 2026-10-08 16:16:00 | NPP-375 | ESPINOSA | MINAS GERAIS | Brasil | 3124302 | 31 | 33 | nan | nan | nan | Caatinga | 38.3 |
-| 70dd43a9-99a9-322d-8aee-53ab74af5229 | -14.61789 | -41.74006 | 2026-10-08 16:16:00 | NPP-375 | PRESIDENTE JÂNIO QUADROS | BAHIA | Brasil | 2925709 | 29 | 33 | nan | nan | nan | Caatinga | 5.5 |
-| 43256601-8b60-33b5-9fa2-8aeb0368312e | -14.73635 | -40.28734 | 2026-10-08 16:16:00 | NPP-375 | NOVA CANAÃ | BAHIA | Brasil | 2922706 | 29 | 33 | nan | nan | nan | Mata Atlântica | 7.3 |
-| d671a73a-dfc5-32d5-a7c6-6522f5933b7a | -14.56036 | -44.07655 | 2026-10-08 16:16:00 | NPP-375 | MANGA | MINAS GERAIS | Brasil | 3139300 | 31 | 33 | nan | nan | nan | Caatinga | 27.2 |
-| 54e104fc-d5d8-3a27-ae9c-53d834e8a9b3 | -15.35013 | -39.64433 | 2026-10-08 16:16:00 | NPP-375 | PAU BRASIL | BAHIA | Brasil | 2923902 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 3a374bcd-1bd9-3159-b846-101c54ca0081 | -16.20402 | -41.37234 | 2026-10-08 16:16:00 | NPP-375 | MEDINA | MINAS GERAIS | Brasil | 3141405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| a12d1e1f-fc88-34b8-bab7-f1f0699f910d | -15.03815 | -42.49188 | 2026-10-08 16:16:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
-| 0b05161a-05c8-3ada-8937-44415ce2152a | -15.20253 | -47.97967 | 2026-10-08 16:16:00 | NPP-375 | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 440f6602-76ce-3984-8188-c4c2b664fd55 | -16.92685 | -42.11064 | 2026-10-08 16:16:00 | NPP-375 | ARAÇUAÍ | MINAS GERAIS | Brasil | 3103405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.1 |
-| 757ff567-3dbb-3c4f-84e0-d97ecdfb15f0 | -15.54503 | -43.1735 | 2026-10-08 16:16:00 | NPP-375 | PAI PEDRO | MINAS GERAIS | Brasil | 3146552 | 31 | 33 | nan | nan | nan | Caatinga | 21.9 |
-| ebc1b450-6b5c-3bb0-ac9c-a1e21a6c1248 | -17.94543 | -42.31832 | 2026-10-08 16:16:00 | NPP-375 | ÁGUA BOA | MINAS GERAIS | Brasil | 3100609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.9 |
-| 73de0512-eeee-347c-8404-93da974d6914 | -14.49535 | -41.89926 | 2026-10-08 16:16:00 | NPP-375 | GUAJERU | BAHIA | Brasil | 2911659 | 29 | 33 | nan | nan | nan | Caatinga | 32.0 |
-| 91d9fdfe-6c40-3893-b45c-bffff2461635 | -15.68315 | -40.77793 | 2026-10-08 16:16:00 | NPP-375 | ENCRUZILHADA | BAHIA | Brasil | 2910404 | 29 | 33 | nan | nan | nan | Mata Atlântica | 19.5 |
-| 1bfd82e1-cb59-3634-9b9f-0caeaf54e852 | -14.4662 | -40.72628 | 2026-10-08 16:16:00 | NPP-375 | ANAGÉ | BAHIA | Brasil | 2901205 | 29 | 33 | nan | nan | nan | Caatinga | 62.1 |
-| 1c8f6dfc-444c-3fe4-8538-5dff3811910f | -17.10729 | -41.34872 | 2026-10-08 16:16:00 | NPP-375 | CARAÍ | MINAS GERAIS | Brasil | 3113008 | 31 | 33 | nan | nan | nan | Mata Atlântica | 36.2 |
-| 41281fae-4c4b-3b3b-a33e-32455e7ba913 | -16.4524 | -41.27168 | 2026-10-08 16:16:00 | NPP-375 | JEQUITINHONHA | MINAS GERAIS | Brasil | 3135803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
-| 42eb283f-6445-3d60-9d2e-a258be2c5f4e | -15.60585 | -41.78093 | 2026-10-08 16:16:00 | NPP-375 | BERIZAL | MINAS GERAIS | Brasil | 3106655 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.7 |
-| a66eb5c2-729b-3ed6-b894-d94b6e098b3a | -14.9696 | -48.19394 | 2026-10-08 16:16:00 | NPP-375 | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 13.2 |
-| 34a8b20f-1f14-3fc1-ac8d-f4665daa1e76 | -16.85229 | -40.56666 | 2026-10-08 16:16:00 | NPP-375 | BERTÓPOLIS | MINAS GERAIS | Brasil | 3106606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.3 |
-| d452c7dd-e72a-3f23-bcdb-ab566f463d4b | -14.34425 | -42.0145 | 2026-10-08 16:16:00 | NPP-375 | RIO DO ANTÔNIO | BAHIA | Brasil | 2926806 | 29 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| e07e53c1-9b53-3222-824c-8be564e9b572 | -14.76577 | -39.80837 | 2026-10-08 16:16:00 | NPP-375 | SANTA CRUZ DA VITÓRIA | BAHIA | Brasil | 2927804 | 29 | 33 | nan | nan | nan | Mata Atlântica | 16.1 |
-| 83756a6a-187b-3a5a-bfa2-ccbc519e0145 | -17.85526 | -41.54049 | 2026-10-08 16:16:00 | NPP-375 | TEÓFILO OTONI | MINAS GERAIS | Brasil | 3168606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| 1e3c1fed-6ea5-3c40-bf7c-43ad69625e83 | -16.49195 | -41.80872 | 2026-10-08 16:16:00 | NPP-375 | ITINGA | MINAS GERAIS | Brasil | 3134004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.7 |
-| 52df75d0-ecb8-3110-9278-9cb36b617660 | -14.95555 | -41.79545 | 2026-10-08 16:16:00 | NPP-375 | CORDEIROS | BAHIA | Brasil | 2909000 | 29 | 33 | nan | nan | nan | Caatinga | 4.7 |
-| 83f3ebfa-22fd-310a-8a3c-975d90294d3e | -16.91143 | -40.89314 | 2026-10-08 16:16:00 | NPP-375 | FRONTEIRA DOS VALES | MINAS GERAIS | Brasil | 3127057 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.3 |
-| 831ced74-4ddc-3de7-bf2f-40de7fc7f120 | -14.96581 | -41.52105 | 2026-10-08 16:16:00 | NPP-375 | TREMEDAL | BAHIA | Brasil | 2931806 | 29 | 33 | nan | nan | nan | Caatinga | 20.3 |
-| dd4c7f3d-19c0-314e-b568-e5d7e3115d73 | -15.65543 | -47.8311 | 2026-10-08 16:16:00 | NPP-375 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 4381aace-3777-3e16-99f1-bbb7508d5196 | -16.84862 | -40.59562 | 2026-10-08 16:16:00 | NPP-375 | SANTA HELENA DE MINAS | MINAS GERAIS | Brasil | 3157658 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| ebb451c2-af7a-33a0-9484-be34571e3ec7 | -15.57373 | -44.52613 | 2026-10-08 16:16:00 | NPP-375 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 13.5 |
-| a025b9f0-a292-35f5-920d-feaf0bf937d1 | -16.7633 | -40.9916 | 2026-10-08 16:16:00 | NPP-375 | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 21.9 |
-| ea44fc2b-a640-3543-87d9-45251409abaf | -20.59179 | -48.45542 | 2026-10-08 16:16:00 | NPP-375 | JABORANDI | SÃO PAULO | Brasil | 3524204 | 35 | 33 | nan | nan | nan | Cerrado | 22.6 |
+| 27bb098e-06c2-33f0-88dc-e39b448f7789 | -11.88461 | -47.39501 | 2026-10-09 15:58:00 | NPP-375 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 53fa976b-cffb-3a5d-8637-1c6774277ccb | -12.302 | -47.06511 | 2026-10-09 15:58:00 | NPP-375 | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| b0b453c7-1262-330b-ad29-33429f0daf12 | -14.44257 | -43.94104 | 2026-10-09 15:58:00 | NPP-375 | JUVENÍLIA | MINAS GERAIS | Brasil | 3136959 | 31 | 33 | nan | nan | nan | Cerrado | 149.8 |
+| ae950719-cfe0-3035-b373-01cced5ab384 | -11.58119 | -43.65494 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 45.2 |
+| 4adc91a2-2b54-3cc4-8a12-49db1d502604 | -11.98166 | -43.45668 | 2026-10-09 15:58:00 | NPP-375 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 51.7 |
+| 0f1ef744-b994-34db-a26b-17951e97db37 | -12.39535 | -44.7537 | 2026-10-09 15:58:00 | NPP-375 | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 2d24e7e5-a9fb-3031-9b7c-b93d7f381253 | -16.52558 | -44.26048 | 2026-10-09 15:58:00 | NPP-375 | CORAÇÃO DE JESUS | MINAS GERAIS | Brasil | 3118809 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 11eb0fe6-22d5-3536-bf5a-e7bbcef61d6f | -16.31246 | -41.31875 | 2026-10-09 15:58:00 | NPP-375 | MEDINA | MINAS GERAIS | Brasil | 3141405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| d9e79fec-aa46-3b15-957f-7d15c50fe64f | -14.05389 | -43.83294 | 2026-10-09 15:58:00 | NPP-375 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 55.3 |
+| f01e887f-67d6-361b-adbd-e239004401cf | -11.95904 | -43.47137 | 2026-10-09 15:58:00 | NPP-375 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 53.9 |
+| 968df8c8-bbac-3f60-b204-afcb83e71426 | -12.25229 | -44.75066 | 2026-10-09 15:58:00 | NPP-375 | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 20.2 |
+| bf8ce8c3-204c-3224-9987-4fe744d3ea92 | -15.42741 | -43.30603 | 2026-10-09 15:58:00 | NPP-375 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Caatinga | 6.0 |
+| b2395b10-e52a-34ce-bf10-b79216340569 | -14.05276 | -44.81999 | 2026-10-09 15:58:00 | NPP-375 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| b2c4ad61-a0e8-3bb5-ab39-7e4376653569 | -14.67035 | -41.79621 | 2026-10-09 15:58:00 | NPP-375 | PRESIDENTE JÂNIO QUADROS | BAHIA | Brasil | 2925709 | 29 | 33 | nan | nan | nan | Caatinga | 8.4 |
+| a925eecf-543b-368b-a127-12efb58b62b9 | -16.64664 | -39.74304 | 2026-10-09 15:58:00 | NPP-375 | GUARATINGA | BAHIA | Brasil | 2911808 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| 33251360-f5f8-3809-b83c-71d3760cbe4f | -11.65638 | -43.69418 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 44.7 |
+| e66491a5-6313-39eb-85e1-4c9f469c9a63 | -14.05535 | -44.78297 | 2026-10-09 15:58:00 | NPP-375 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| 40564076-f306-3810-b944-875405ac8c6e | -15.00637 | -46.2607 | 2026-10-09 15:58:00 | NPP-375 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 18.4 |
+| 3d568e8a-fe06-3c75-aaf2-d0a7b3237618 | -11.77794 | -43.53262 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 096e6b0d-a5c2-3f34-b6f2-9a6bc6e2eb8d | -15.32951 | -40.84833 | 2026-10-09 15:58:00 | NPP-375 | RIBEIRÃO DO LARGO | BAHIA | Brasil | 2926657 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.1 |
+| e7eb1fca-c3b4-3e1c-ab45-2e0c424684eb | -11.89187 | -47.39431 | 2026-10-09 15:58:00 | NPP-375 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 8f1641f5-cf8c-3650-82d2-e585343aaa4d | -15.25624 | -42.36816 | 2026-10-09 15:58:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 29.3 |
+| 1e09a2c2-c483-3e63-bc21-20be67b5047e | -17.1024 | -41.5692 | 2026-10-09 15:58:00 | NPP-375 | PADRE PARAÍSO | MINAS GERAIS | Brasil | 3146305 | 31 | 33 | nan | nan | nan | Mata Atlântica | 58.0 |
+| 6a32332c-9e8b-3424-969f-632cc9317f9b | -12.19142 | -39.76978 | 2026-10-09 15:58:00 | NPP-375 | IPIRÁ | BAHIA | Brasil | 2914000 | 29 | 33 | nan | nan | nan | Caatinga | 9.1 |
+| 6cb613fc-0d51-35bd-b165-a469ddbd14c7 | -11.9768 | -43.47434 | 2026-10-09 15:58:00 | NPP-375 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 23.1 |
+| 651a3d0c-ecd4-3912-902f-0e05f173e628 | -14.58739 | -41.20022 | 2026-10-09 15:58:00 | NPP-375 | CARAÍBAS | BAHIA | Brasil | 2906899 | 29 | 33 | nan | nan | nan | Caatinga | 15.9 |
+| a26896d6-df43-33f5-826f-4a38e042cd2e | -12.13984 | -43.30972 | 2026-10-09 15:58:00 | NPP-375 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| c93f954c-4849-3d76-acda-d059e0f0a166 | -15.224 | -41.10205 | 2026-10-09 15:58:00 | NPP-375 | VITÓRIA DA CONQUISTA | BAHIA | Brasil | 2933307 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| 41718fe1-cf6f-3eb3-8e27-504b018fe056 | -11.65603 | -38.76134 | 2026-10-09 15:58:00 | NPP-375 | BIRITINGA | BAHIA | Brasil | 2903607 | 29 | 33 | nan | nan | nan | Caatinga | 8.3 |
+| b2c9c91a-b051-361f-8b93-6deef80776a4 | -18.32351 | -42.36866 | 2026-10-09 15:58:00 | NPP-375 | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 77.2 |
+| 351b6033-51da-3c03-beda-a7f9ba288ec1 | -14.05535 | -43.84644 | 2026-10-09 15:58:00 | NPP-375 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 37.8 |
+| 7c70affd-365d-3306-b93c-c4b342879dce | -17.42002 | -43.58892 | 2026-10-09 15:58:00 | NPP-375 | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| db359c58-d161-3574-ab5c-c7b2f39995dc | -17.40018 | -39.6007 | 2026-10-09 15:58:00 | NPP-375 | ALCOBAÇA | BAHIA | Brasil | 2900801 | 29 | 33 | nan | nan | nan | Mata Atlântica | 11.2 |
+| 65e6649c-8bf9-32fa-8d22-4854da335885 | -13.40653 | -43.48573 | 2026-10-09 15:58:00 | NPP-375 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 13.2 |
+| 12f74992-71e3-323f-a910-25d8fca69b82 | -16.93309 | -42.10963 | 2026-10-09 15:58:00 | NPP-375 | ARAÇUAÍ | MINAS GERAIS | Brasil | 3103405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
+| fe8894db-f955-31b8-a097-d23f83ced7ca | -11.58687 | -43.65021 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 263.3 |
+| 52c1cfb8-4d7a-3ed6-8b5f-5640d36b5e84 | -15.33382 | -40.84173 | 2026-10-09 15:58:00 | NPP-375 | RIBEIRÃO DO LARGO | BAHIA | Brasil | 2926657 | 29 | 33 | nan | nan | nan | Mata Atlântica | 10.4 |
+| 8ff080ff-9953-396a-832d-f5d67c0ac055 | -11.9862 | -43.45652 | 2026-10-09 15:58:00 | NPP-375 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 57.5 |
+| a610ad8b-b5e6-38d9-b7d9-c9def981a2ee | -11.59222 | -43.6497 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 37.1 |
+| a9778ded-253b-3bec-b437-28e7b3fccd57 | -15.39291 | -41.89785 | 2026-10-09 15:58:00 | NPP-375 | SÃO JOÃO DO PARAÍSO | MINAS GERAIS | Brasil | 3162708 | 31 | 33 | nan | nan | nan | Mata Atlântica | 55.6 |
+| c3cabf4c-6d87-300c-8f25-e4801b9bfc65 | -13.2655 | -44.00013 | 2026-10-09 15:58:00 | NPP-375 | SANTA MARIA DA VITÓRIA | BAHIA | Brasil | 2928109 | 29 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 17a6180a-2e80-3fd3-9c52-af4e6ee2e566 | -11.56913 | -43.69953 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 35250f4c-710e-38a0-bc53-486382045b8d | -12.91028 | -45.11741 | 2026-10-09 15:58:00 | NPP-375 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 53.3 |
+| c0d88bba-d0e3-35ca-bcd3-4e7a40ee16f6 | -12.37191 | -46.57358 | 2026-10-09 15:58:00 | NPP-375 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 23.8 |
+| 72d30b4e-585c-3834-9ae0-e76eb014ea52 | -15.80415 | -41.328 | 2026-10-09 15:58:00 | NPP-375 | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.7 |
+| 2d20fad7-28f0-3872-b2f2-8fd1ee0178b4 | -11.98204 | -43.46985 | 2026-10-09 15:58:00 | NPP-375 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 15.4 |
+| 06cc6db7-43b8-3621-8306-2d1461ad7ba9 | -11.97994 | -39.4808 | 2026-10-09 15:58:00 | NPP-375 | RIACHÃO DO JACUÍPE | BAHIA | Brasil | 2926301 | 29 | 33 | nan | nan | nan | Mata Atlântica | 13.6 |
+| c3cf93a4-3f49-3cae-a4c0-e0e993751553 | -13.39169 | -40.55227 | 2026-10-09 15:58:00 | NPP-375 | MARACÁS | BAHIA | Brasil | 2920502 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| 9d45b6b2-de9e-34af-b7fc-f111b426b815 | -17.5461 | -42.12098 | 2026-10-09 15:58:00 | NPP-375 | NOVO CRUZEIRO | MINAS GERAIS | Brasil | 3145307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 4026854b-e720-3f60-b2a0-90af8a367da7 | -11.57544 | -43.65567 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 51.6 |
+| 3e4a9a85-1712-3a73-acf3-3b5b6778c3da | -11.62144 | -43.59757 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 36.8 |
+| 0abfaf39-ea47-37d3-aa48-a19eddbe08eb | -16.07818 | -45.98251 | 2026-10-09 15:58:00 | NPP-375 | RIACHINHO | MINAS GERAIS | Brasil | 3154457 | 31 | 33 | nan | nan | nan | Cerrado | 17.3 |
+| 7c210b16-1bf0-302e-b80c-bbbfe766f46f | -15.37749 | -41.90621 | 2026-10-09 15:58:00 | NPP-375 | SÃO JOÃO DO PARAÍSO | MINAS GERAIS | Brasil | 3162708 | 31 | 33 | nan | nan | nan | Mata Atlântica | 61.2 |
+| 69856b7a-526b-3055-b52a-49926aeb620e | -11.82834 | -43.60672 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| d0f65689-2b46-3ea2-ae2c-67f28624181b | -15.25936 | -42.3838 | 2026-10-09 15:58:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 78.2 |
+| 18240168-c4fe-3bd2-b010-671d96cfd1c0 | -16.06887 | -45.25526 | 2026-10-09 15:58:00 | NPP-375 | PINTÓPOLIS | MINAS GERAIS | Brasil | 3150570 | 31 | 33 | nan | nan | nan | Cerrado | 19.7 |
+| 470cd597-5b97-3a5a-a1bc-a658e493cbf5 | -18.05215 | -44.61565 | 2026-10-09 15:58:00 | NPP-375 | CORINTO | MINAS GERAIS | Brasil | 3119104 | 31 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| d6af4886-c3f9-335c-84c5-064c28ff77e1 | -15.06967 | -39.45266 | 2026-10-09 15:58:00 | NPP-375 | JUSSARI | BAHIA | Brasil | 2918555 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
+| 9d1a0952-a5bb-3ea2-9338-4728432a17ae | -12.14913 | -45.36562 | 2026-10-09 15:58:00 | NPP-375 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 116.0 |
+| 609db79e-6b3f-3552-8b14-3da2ed5ba190 | -15.26444 | -42.37906 | 2026-10-09 15:58:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 45.5 |
+| c1062f18-db9c-335c-bf93-c96da0d70c0e | -14.05671 | -43.58254 | 2026-10-09 15:58:00 | NPP-375 | MALHADA | BAHIA | Brasil | 2920205 | 29 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 8d16a340-1bc3-3f20-9ca3-6cf53bfd3b4d | -12.13931 | -44.74195 | 2026-10-09 15:58:00 | NPP-375 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 84c3d413-64d9-3d77-90b4-b2d8a644ab99 | -14.26905 | -41.04091 | 2026-10-09 15:58:00 | NPP-375 | CAETANOS | BAHIA | Brasil | 2905156 | 29 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| 2e028ad1-3232-3567-82ed-711474895e33 | -15.43331 | -43.30536 | 2026-10-09 15:58:00 | NPP-375 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Caatinga | 6.0 |
+| 072bba71-baef-326c-a1c6-9b59b0c3018d | -15.25154 | -42.37667 | 2026-10-09 15:58:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 117.8 |
+| a3eef7f5-4ade-35d3-b8dd-5edad586fe67 | -15.25073 | -42.36915 | 2026-10-09 15:58:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 45.8 |
+| 4d6a497a-14d4-36a8-84a4-866458e6df99 | -15.2534 | -42.38083 | 2026-10-09 15:58:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 83.2 |
+| 623e2a93-02ab-377b-8887-0c300cdb7b96 | -13.58436 | -40.01229 | 2026-10-09 15:58:00 | NPP-375 | JAGUAQUARA | BAHIA | Brasil | 2917607 | 29 | 33 | nan | nan | nan | Mata Atlântica | 19.3 |
+| 94b3c4b2-c1d4-3982-b94f-7351626cbbf9 | -16.0516 | -42.14941 | 2026-10-09 15:58:00 | NPP-375 | SALINAS | MINAS GERAIS | Brasil | 3157005 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| cb2659df-f8f4-3094-b9c8-4ede15f4891d | -14.41034 | -41.03762 | 2026-10-09 15:58:00 | NPP-375 | CAETANOS | BAHIA | Brasil | 2905156 | 29 | 33 | nan | nan | nan | Caatinga | 13.5 |
+| 4cd871bb-6c2a-3686-9462-9d7d7989943d | -11.78612 | -45.58022 | 2026-10-09 15:58:00 | NPP-375 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 4891fad2-ee60-39f1-939a-41ea1c952641 | -15.63584 | -39.18225 | 2026-10-09 15:58:00 | NPP-375 | CANAVIEIRAS | BAHIA | Brasil | 2906303 | 29 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
+| bc6f298f-389c-3671-80b9-278464a9cea1 | -15.26312 | -42.36771 | 2026-10-09 15:58:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 23.0 |
+| e434ca77-1abb-30f5-b2d7-0252a321b1a3 | -16.94473 | -42.07655 | 2026-10-09 15:58:00 | NPP-375 | ARAÇUAÍ | MINAS GERAIS | Brasil | 3103405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 13.9 |
+| 564599e2-3e66-36ff-8271-432b3f220933 | -11.98452 | -43.48156 | 2026-10-09 15:58:00 | NPP-375 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| 9f805ba3-7a5b-3501-9fd2-2e44ff777893 | -15.25545 | -42.36087 | 2026-10-09 15:58:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 35.4 |
+| 01c3e9d1-b6f9-33e1-bb59-c6e03bd23e29 | -12.22841 | -40.20579 | 2026-10-09 15:58:00 | NPP-375 | RUY BARBOSA | BAHIA | Brasil | 2927200 | 29 | 33 | nan | nan | nan | Caatinga | 7.1 |
+| b049a9d3-4033-3903-ad3b-340a170287ef | -18.32368 | -42.38052 | 2026-10-09 15:58:00 | NPP-375 | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 44.8 |
+| d9f384f9-45e1-3819-9043-e6ac6555bab6 | -12.17103 | -42.21674 | 2026-10-09 15:58:00 | NPP-375 | BROTAS DE MACAÚBAS | BAHIA | Brasil | 2904506 | 29 | 33 | nan | nan | nan | Caatinga | 4.7 |
+| 64ffc899-db63-38b2-bd9b-78fef47fa0a3 | -14.05808 | -43.8381 | 2026-10-09 15:58:00 | NPP-375 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 36.3 |
+| 1dd7769b-d6da-34b2-8e3d-c5a5eb4076e6 | -11.68354 | -46.77271 | 2026-10-09 15:58:00 | NPP-375 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 0a96de05-4c1f-30db-8a78-6e465f6e36ec | -15.52754 | -41.01366 | 2026-10-09 15:58:00 | NPP-375 | ENCRUZILHADA | BAHIA | Brasil | 2910404 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| bf70752d-a765-399e-8f18-48e5e6349a42 | -11.66167 | -43.68953 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 32.0 |
+| fa88a7b2-db31-3323-b063-0d30baa31b51 | -15.25237 | -42.38433 | 2026-10-09 15:58:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 45.6 |
+| 9b8956d4-1f94-357c-b7f5-2fc2cd840f7c | -12.21668 | -44.75793 | 2026-10-09 15:58:00 | NPP-375 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| f2592282-fbf1-3cce-a7e1-62f7ff1efab3 | -12.19912 | -44.82491 | 2026-10-09 15:58:00 | NPP-375 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 10.8 |
+| 88a562ce-44d1-30df-960f-77ccc60a6be6 | -16.07686 | -45.96911 | 2026-10-09 15:58:00 | NPP-375 | RIACHINHO | MINAS GERAIS | Brasil | 3154457 | 31 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| 7e78fdd0-d906-34b1-b7f2-d33b660a77d3 | -15.38366 | -41.91233 | 2026-10-09 15:58:00 | NPP-375 | SÃO JOÃO DO PARAÍSO | MINAS GERAIS | Brasil | 3162708 | 31 | 33 | nan | nan | nan | Mata Atlântica | 172.9 |
+| db3b729e-6750-3301-8ab3-47ab97cc2932 | -15.39029 | -41.92252 | 2026-10-09 15:58:00 | NPP-375 | SÃO JOÃO DO PARAÍSO | MINAS GERAIS | Brasil | 3162708 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.6 |
+| 1d1235d4-536a-399a-92b7-1aadab44e204 | -13.40559 | -43.47745 | 2026-10-09 15:58:00 | NPP-375 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 21.3 |
+| 32bfd34b-ca94-3275-ae5f-431f08b45af2 | -11.58065 | -43.64688 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 263.3 |
+| d27bd553-63fb-317d-a214-e750aa2535db | -15.65072 | -40.95467 | 2026-10-09 15:58:00 | NPP-375 | ENCRUZILHADA | BAHIA | Brasil | 2910404 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
+| f559017b-c719-3e3c-a2be-83e54c65b8f4 | -14.0644 | -44.80783 | 2026-10-09 15:58:00 | NPP-375 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 10.0 |
+| 38669368-ff05-37c4-8fe8-5f8727ea1ef0 | -11.56961 | -43.70341 | 2026-10-09 15:58:00 | NPP-375 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 4858b961-2d29-3461-a878-d59a0b5b3018 | -13.24125 | -39.76847 | 2026-10-09 15:58:00 | NPP-375 | UBAÍRA | BAHIA | Brasil | 2932101 | 29 | 33 | nan | nan | nan | Mata Atlântica | 15.1 |
+| 4981c568-ce54-3c4f-bf20-c4ba252b6d02 | -15.26099 | -42.36011 | 2026-10-09 15:58:00 | NPP-375 | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 35.4 |
+| 9004f772-b655-36c7-8cee-db6ac66a463f | -14.27304 | -42.18792 | 2026-10-09 15:58:00 | NPP-375 | RIO DO ANTÔNIO | BAHIA | Brasil | 2926806 | 29 | 33 | nan | nan | nan | Caatinga | 8.4 |
+| e15662be-e941-3811-83d2-96703058d021 | -14.09919 | -42.47806 | 2026-10-09 15:58:00 | NPP-375 | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| 0900f627-f963-33bb-8019-d06152b30766 | -16.07752 | -45.97581 | 2026-10-09 15:58:00 | NPP-375 | RIACHINHO | MINAS GERAIS | Brasil | 3154457 | 31 | 33 | nan | nan | nan | Cerrado | 17.3 |
+| e1362ac7-5720-383f-a65f-2103260f0cb1 | -14.46628 | -41.95556 | 2026-10-09 15:58:00 | NPP-375 | GUAJERU | BAHIA | Brasil | 2911659 | 29 | 33 | nan | nan | nan | Caatinga | 4.4 |
 
 
 [Clique aqui para ver as próximas entradas](README260.md)

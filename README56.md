@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 098152a8-34c7-39ae-8ebb-b80259bc2f85 | -6.95489 | -45.25928 | 2026-10-08 03:42:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 4e30b2f6-37c8-36e0-94b1-d86c23a6e1a0 | -8.72553 | -45.17008 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| 9e243cb7-dccd-3e87-b2a2-a878da205728 | -5.97247 | -40.91281 | 2026-10-08 03:42:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| cfcf2ad9-1800-37a5-910d-e66838c9d8bd | -6.94945 | -45.28857 | 2026-10-08 03:42:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| a4288307-be80-3502-b257-686be57d1ccc | -7.23032 | -44.27193 | 2026-10-08 03:42:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| ecd6e064-73bc-3801-afdf-a360800d3ca0 | -5.72677 | -41.76588 | 2026-10-08 03:42:00 | NPP-375D | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| 3275015c-f18b-3111-acfa-fe3101dd2527 | -5.73373 | -41.75945 | 2026-10-08 03:42:00 | NPP-375D | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 918780cd-5fc4-3f79-a81c-63469d544275 | -6.16026 | -39.43932 | 2026-10-08 03:42:00 | NPP-375D | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 8.3 |
-| bc8c7f2f-d3ec-365a-9779-dff328fe8756 | -7.47727 | -42.85534 | 2026-10-08 03:42:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| 05ca16d0-d62d-3f87-a79d-19096ff30387 | -6.92747 | -43.66661 | 2026-10-08 03:42:00 | NPP-375D | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| 78081928-8ac3-36c3-9dcf-1d5b15619307 | -5.75083 | -42.06575 | 2026-10-08 03:42:00 | NPP-375D | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| 530c4975-e7fe-3823-b3cb-fa48dfc60707 | -8.72979 | -45.18361 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 780ac925-a7e6-3abe-a2d6-a70007111e37 | -8.74102 | -45.16121 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| 3be40a7a-23f2-37e0-b10c-953a331b3086 | -7.10732 | -42.53347 | 2026-10-08 03:42:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 94fdea3f-0296-3007-9ffb-97af8483e43e | -5.73174 | -41.77076 | 2026-10-08 03:42:00 | NPP-375D | SÃO JOÃO DA SERRA | PIAUÍ | Brasil | 2209906 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| d6ed72dd-d93d-3c38-8d5d-871923dd7205 | -10.24423 | -36.33668 | 2026-10-08 03:42:00 | NPP-375D | FELIZ DESERTO | ALAGOAS | Brasil | 2702702 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 986a0fe4-63fc-3651-b764-d2e39d976592 | -8.72439 | -45.17594 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 724a5ec5-1daf-30fd-934e-ebdce14a40d4 | -5.74005 | -41.75666 | 2026-10-08 03:42:00 | NPP-375D | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 5ff80ee9-6859-3457-ae62-a9d463e8073b | -10.24571 | -36.32789 | 2026-10-08 03:42:00 | NPP-375D | FELIZ DESERTO | ALAGOAS | Brasil | 2702702 | 27 | 33 | nan | nan | nan | Mata Atlântica | 26.7 |
-| 5df2793f-9163-3d64-8e98-b7bf90d880a8 | -4.35426 | -43.79241 | 2026-10-08 03:42:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 15.3 |
-| 12acf9c9-8d62-3995-96f6-3ca885765d28 | -8.72784 | -45.15821 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| bbe803f7-7ca7-386f-bb12-a220e5846bd2 | -6.83518 | -39.56126 | 2026-10-08 03:42:00 | NPP-375D | FARIAS BRITO | CEARÁ | Brasil | 2304301 | 23 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| 8d6ca1b6-89e4-3b08-976e-709d2fd299d1 | -7.20669 | -45.35211 | 2026-10-08 03:42:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 77cb0157-3a00-3465-a645-13fe4903e143 | -4.34776 | -43.79096 | 2026-10-08 03:42:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 0c62c8df-d4e0-370c-b5b3-8978329d6e22 | -6.59822 | -37.89669 | 2026-10-08 03:42:00 | NPP-375D | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| d1372f8d-e441-3f4e-a55c-ca3ce2dc9eb6 | -5.77098 | -42.05278 | 2026-10-08 03:42:00 | NPP-375D | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| ae87349e-e50e-36fe-9029-348074b0b84e | -8.21433 | -46.37772 | 2026-10-08 03:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 5e43273e-7677-3be5-a185-ff85b1c360e5 | -5.7261 | -41.7697 | 2026-10-08 03:42:00 | NPP-375D | SÃO JOÃO DA SERRA | PIAUÍ | Brasil | 2209906 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 7f553045-01b0-3c00-a73f-9601d0ceecf4 | -4.35323 | -43.79815 | 2026-10-08 03:42:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 17.7 |
-| 11fc23c6-4791-3832-a50a-d82935b06751 | -6.90236 | -40.91085 | 2026-10-08 03:42:00 | NPP-375D | ALAGOINHA DO PIAUÍ | PIAUÍ | Brasil | 2200251 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 2457156e-9b1a-3752-a739-c70353343b63 | -7.02227 | -42.11652 | 2026-10-08 03:42:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 5.8 |
-| b3d555b9-e545-3694-be6d-3908b0c026e6 | -8.0626 | -44.8052 | 2026-10-08 03:42:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 378f347f-3059-3fa0-bec0-dc6fe800f624 | -5.49575 | -42.85772 | 2026-10-08 03:42:00 | NPP-375D | NAZÁRIA | PIAUÍ | Brasil | 2206720 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
-| 074df2b9-9533-3445-a231-53f0a2c4eb98 | -6.37398 | -42.90379 | 2026-10-08 03:42:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 686b5029-eba0-307b-b9a1-5879b0510405 | -8.2166 | -46.37806 | 2026-10-08 03:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| bbcdfecb-46d8-3a08-9aca-07a8448e4e4e | -5.71614 | -41.76004 | 2026-10-08 03:42:00 | NPP-375D | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 4bc2ac14-cfd2-3ad9-9970-0c4f70b1b09c | -9.87738 | -38.9976 | 2026-10-08 03:42:00 | NPP-375D | CANUDOS | BAHIA | Brasil | 2906824 | 29 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 2761cd0a-9a0b-3c6b-a952-97df13114f22 | -5.98566 | -40.9315 | 2026-10-08 03:42:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
-| e5315a80-4a9f-3155-838c-b405977d2456 | -6.83123 | -39.55565 | 2026-10-08 03:42:00 | NPP-375D | FARIAS BRITO | CEARÁ | Brasil | 2304301 | 23 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 261aa1df-7ca1-3e45-9cfb-0d92aff044cc | -6.35668 | -42.57399 | 2026-10-08 03:42:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 6.5 |
-| f6818e08-3bdb-3e25-99a7-46aa6c2d16e9 | -5.72839 | -45.15193 | 2026-10-08 03:42:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| d4c53a60-dc78-33bc-9e1a-aac06c52a992 | -10.24866 | -36.33292 | 2026-10-08 03:42:00 | NPP-375D | FELIZ DESERTO | ALAGOAS | Brasil | 2702702 | 27 | 33 | nan | nan | nan | Mata Atlântica | 26.7 |
-| 1446140f-4815-374b-961c-18bd99941d60 | -5.98624 | -40.92821 | 2026-10-08 03:42:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 2fb44577-1f14-33ed-958c-64da2cb1aa76 | -6.63629 | -43.73632 | 2026-10-08 03:42:00 | NPP-375D | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 43.6 |
-| b617cbf7-fc22-3375-888e-68ee0b8d8ab8 | -5.98508 | -40.93484 | 2026-10-08 03:42:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
-| 1e761cb9-cbe0-30bd-b9b6-bebb48fcef36 | -8.71972 | -45.19997 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| c7be7eb8-b973-34cb-af44-676d9b8b5414 | -7.21791 | -44.15942 | 2026-10-08 03:42:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| a48db0cd-7849-39e0-982b-ba6a63757ff7 | -7.46784 | -42.84032 | 2026-10-08 03:42:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 275c810a-6492-348c-ac7f-50e0f054cc62 | -8.72209 | -45.18776 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| cd158a54-5325-3a18-b624-17b51ab5c8a7 | -5.95781 | -40.93367 | 2026-10-08 03:42:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| cdf05512-c8bc-3591-ac34-d2b38881b52d | -6.63536 | -43.74136 | 2026-10-08 03:42:00 | NPP-375D | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 43.6 |
-| 1330a22c-60a9-319a-8086-f58b19da188a | -6.88278 | -43.6988 | 2026-10-08 03:42:00 | NPP-375D | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 17eb7568-fade-308a-b9f5-61c6e9483246 | -8.73012 | -45.14647 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| eae2fd3d-b666-3ec5-bc60-21e3418711ca | -8.71321 | -45.19797 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 47f748cc-5a87-3f3b-aebf-6d009ac84899 | -5.48885 | -42.86114 | 2026-10-08 03:42:00 | NPP-375D | NAZÁRIA | PIAUÍ | Brasil | 2206720 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| b2e9f1fe-fc86-3562-b3a4-cf55388085fc | -8.73327 | -45.1657 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| d8068fc9-192f-3025-8f16-1ec0d98bbc59 | -4.72817 | -37.84422 | 2026-10-08 03:42:00 | NPP-375D | ITAIÇABA | CEARÁ | Brasil | 2306207 | 23 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| cc9be51e-864d-38a4-aa25-8caba680077f | -10.24128 | -36.33163 | 2026-10-08 03:42:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| d0e90e5b-09fe-3adc-9c45-83192ef81e76 | -6.93126 | -43.66306 | 2026-10-08 03:42:00 | NPP-375D | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 2914ce04-5a79-3337-ad6c-a55231c40962 | -6.62246 | -37.884 | 2026-10-08 03:42:00 | NPP-375D | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 1085168d-c2ce-3503-a009-bae9e9d80b1e | -6.95368 | -45.26583 | 2026-10-08 03:42:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| ec5f1f65-ded9-3d1c-b99d-c4804c8c341c | -6.82644 | -39.55484 | 2026-10-08 03:42:00 | NPP-375D | FARIAS BRITO | CEARÁ | Brasil | 2304301 | 23 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| a7bd720c-71d9-39a8-87b2-0f077a0a3597 | -5.7168 | -41.75627 | 2026-10-08 03:42:00 | NPP-375D | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| d7a09d0c-37aa-3d3f-8869-73fd6f04dbe2 | -5.48022 | -42.87409 | 2026-10-08 03:42:00 | NPP-375D | NAZÁRIA | PIAUÍ | Brasil | 2206720 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
-| ea562a9e-85e6-3375-90d2-a43ee3d5cfcf | -6.61561 | -37.89833 | 2026-10-08 03:42:00 | NPP-375D | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 0c6b936f-f34c-380e-a55c-ad07c6389f5b | -4.34989 | -43.79125 | 2026-10-08 03:42:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 10.8 |
-| 6c304ee1-6da7-33a9-8fc5-f42f0af0cd09 | -6.15934 | -39.44452 | 2026-10-08 03:42:00 | NPP-375D | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 11.8 |
-| 29af2477-3ba6-3ddd-8529-3d182366f166 | -6.15321 | -39.43134 | 2026-10-08 03:42:00 | NPP-375D | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 4.8 |
-| f56fa1e9-c2b0-32d3-ab68-568825603a0f | -8.7807 | -41.1479 | 2026-10-08 03:42:00 | NPP-375D | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 729b4954-a6c0-3bb1-a13a-1ab7250e17e3 | -8.21645 | -46.32861 | 2026-10-08 03:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| aa218b22-9a4a-3349-bb8a-2afcff01edde | -6.94342 | -45.28147 | 2026-10-08 03:42:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 6be6147a-c067-3c01-860c-b4b678c7ce2f | -5.97306 | -40.90947 | 2026-10-08 03:42:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 57e47349-88c5-3a24-8984-c7b92dc872d6 | -6.35863 | -42.58429 | 2026-10-08 03:42:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 4.8 |
-| 94c478ca-6691-3758-b05f-add845e861b2 | -7.19867 | -45.35682 | 2026-10-08 03:42:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 24876ddb-1771-3455-9927-da6bcf7d8418 | -7.21892 | -44.15403 | 2026-10-08 03:42:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 3fa60582-e340-31b3-93e2-8e452f05da2d | -8.88252 | -45.60236 | 2026-10-08 03:42:00 | NPP-375D | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| b1060cb2-fa88-3bfa-85a8-62dd9a01600a | -6.82252 | -39.54907 | 2026-10-08 03:42:00 | NPP-375D | FARIAS BRITO | CEARÁ | Brasil | 2304301 | 23 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| 02d8536f-b891-3edc-808b-5aadac72942e | -8.71665 | -45.1803 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 9b83b1b4-53d5-3d59-a28a-e77de263ef84 | -6.59892 | -37.8926 | 2026-10-08 03:42:00 | NPP-375D | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| aaf2d344-067d-35d9-a9a4-63d3f14681e7 | -6.63091 | -43.73015 | 2026-10-08 03:42:00 | NPP-375D | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 14.3 |
-| 8cf9901b-e91c-300f-84e9-baf7965aad06 | -7.59977 | -42.3801 | 2026-10-08 03:42:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| c193601f-f612-3e8a-b452-1e6fb569aee3 | -8.20957 | -46.37599 | 2026-10-08 03:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 623397f7-2a74-3eb7-8dc4-d9f4fc705c2c | -8.72325 | -45.18182 | 2026-10-08 03:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| e31e68c2-3d2c-3db9-a937-06098e249039 | -6.9525 | -45.27219 | 2026-10-08 03:42:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 71f344c2-b01b-3e87-a939-196db17909f2 | -5.98866 | -40.94583 | 2026-10-08 03:42:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| 6eb70fa1-61f3-3ba2-9af7-66bb72511ebc | -8.78466 | -41.1479 | 2026-10-08 03:42:00 | NPP-375D | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 84ebdaa2-4a26-3b05-99ed-c6676750882e | -6.97736 | -40.03415 | 2026-10-08 03:42:00 | NPP-375D | ASSARÉ | CEARÁ | Brasil | 2301604 | 23 | 33 | nan | nan | nan | Caatinga | 3.6 |
-| 856e468e-60a2-3f40-bc32-68ff1077cdca | -6.88464 | -43.68866 | 2026-10-08 03:42:00 | NPP-375D | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| a039e3c2-a07c-3233-9eea-79add7ee6087 | -4.72634 | -37.84734 | 2026-10-08 03:42:00 | NPP-375D | ITAIÇABA | CEARÁ | Brasil | 2306207 | 23 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 9f3049b0-fecb-3057-ad74-7dd8a20e5679 | -8.22222 | -46.33713 | 2026-10-08 03:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| d51745dd-d4ae-3cf8-a3c9-7beb12f77310 | -4.68213 | -40.8317 | 2026-10-08 03:42:00 | NPP-375D | IPUEIRAS | CEARÁ | Brasil | 2305902 | 23 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| e69c2d8c-3776-36ce-a2a1-5023196212e8 | -7.22278 | -44.2766 | 2026-10-08 03:42:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 71f3aa2b-b6b1-31a2-9fb3-aa7774bb924c | -8.21779 | -46.37214 | 2026-10-08 03:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| c67f9547-87df-3681-9323-abb8840dd9a6 | -6.15711 | -39.43746 | 2026-10-08 03:42:00 | NPP-375D | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 8.0 |
-| 21e31d14-1734-3bca-897e-8fbb2cc8ffbb | -5.75731 | -42.06275 | 2026-10-08 03:42:00 | NPP-375D | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| 8829cc34-c681-3410-91e6-d7d60c712b58 | -6.82556 | -39.55977 | 2026-10-08 03:42:00 | NPP-375D | FARIAS BRITO | CEARÁ | Brasil | 2304301 | 23 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| ffd2873f-1440-3f14-9558-a5673741161b | -8.59966 | -45.63343 | 2026-10-08 03:42:00 | NPP-375D | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 90f8633e-5171-3c2d-b640-6bb48c708933 | -6.98725 | -40.03579 | 2026-10-08 03:42:00 | NPP-375D | ASSARÉ | CEARÁ | Brasil | 2301604 | 23 | 33 | nan | nan | nan | Caatinga | 5.2 |
-| bc1d88cf-3059-362c-95e8-33d262c58759 | -7.46467 | -42.85761 | 2026-10-08 03:42:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 04bfffca-7920-339b-bfb9-44cf1d296e09 | -6.89091 | -43.68982 | 2026-10-08 03:42:00 | NPP-375D | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| a3f982cc-cb39-34a1-bc72-688578048ecd | -7.64001 | -35.01562 | 2026-10-09 03:21:00 | NPP-375D | GOIANA | PERNAMBUCO | Brasil | 2606200 | 26 | 33 | nan | nan | nan | Mata Atlântica | 17.4 |
+| 2ad98b6a-00d0-39d3-88cc-9a6a28e3954a | -6.00566 | -40.9586 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 54.5 |
+| adb1012a-f865-3e36-9e24-0d23b887c062 | -6.16182 | -35.2951 | 2026-10-09 03:21:00 | NPP-375D | SÃO JOSÉ DE MIPIBU | RIO GRANDE DO NORTE | Brasil | 2412203 | 24 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| c37ccc2c-a7d5-3c97-a3fe-78c64cfce05e | -6.83048 | -39.39346 | 2026-10-09 03:21:00 | NPP-375D | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 7683204a-d702-3a72-a43f-2c160054d522 | -7.6405 | -35.0064 | 2026-10-09 03:21:00 | NPP-375D | GOIANA | PERNAMBUCO | Brasil | 2606200 | 26 | 33 | nan | nan | nan | Mata Atlântica | 30.0 |
+| d54e30dc-139d-3f2b-bddb-1f4a4c65012a | -7.64343 | -35.01756 | 2026-10-09 03:21:00 | NPP-375D | GOIANA | PERNAMBUCO | Brasil | 2606200 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| dd9cebbb-7f30-3c3f-9960-6390bc8a711d | -7.40402 | -35.19263 | 2026-10-09 03:21:00 | NPP-375D | ITAMBÉ | PERNAMBUCO | Brasil | 2607653 | 26 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
+| 4c40d8de-0246-31f0-905b-bcc0a20709ef | -7.64479 | -35.01657 | 2026-10-09 03:21:00 | NPP-375D | GOIANA | PERNAMBUCO | Brasil | 2606200 | 26 | 33 | nan | nan | nan | Mata Atlântica | 17.4 |
+| ca43fec2-62e5-35d3-b136-a4a79c5ae65a | -6.00295 | -40.97274 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 70.2 |
+| a46c20b1-95e9-36c1-8491-cb33c7d34eb9 | -5.99001 | -40.96299 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 7.9 |
+| 5ea9eb6e-eea6-382c-908a-85974127f748 | -6.0002 | -40.98704 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 25.4 |
+| 2fe78832-1676-3c88-aaa5-365efcdd303f | -7.63958 | -35.01148 | 2026-10-09 03:21:00 | NPP-375D | GOIANA | PERNAMBUCO | Brasil | 2606200 | 26 | 33 | nan | nan | nan | Mata Atlântica | 30.0 |
+| a0a837a5-4497-3997-9932-283d7867fc35 | -6.01315 | -40.9833 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| 21559700-b7a7-35f7-99d4-8bcf5732de39 | -5.99051 | -40.98561 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 5.0 |
+| e7337f43-be1d-3a3f-9165-34ada7a115a7 | -6.00609 | -40.98143 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 57.3 |
+| cefdecd1-b09a-3a36-90d1-ebd4b0c43045 | -7.40574 | -35.19397 | 2026-10-09 03:21:00 | NPP-375D | ITAMBÉ | PERNAMBUCO | Brasil | 2607653 | 26 | 33 | nan | nan | nan | Mata Atlântica | 13.5 |
+| c81e85f2-e9a7-32a6-afba-c826fdcaaad3 | -7.64436 | -35.01242 | 2026-10-09 03:21:00 | NPP-375D | GOIANA | PERNAMBUCO | Brasil | 2606200 | 26 | 33 | nan | nan | nan | Mata Atlântica | 30.0 |
+| 226ddc12-84db-3a2f-812d-163ef976152a | -5.99996 | -40.94977 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 35.5 |
+| 646e8973-c09c-3d4a-b28a-c0a067669e1d | -6.00165 | -40.96546 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 61.8 |
+| d8eae02c-385b-3786-a11d-08dc359a7e3f | -5.99425 | -40.94101 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| ec321260-ff05-34a1-964c-96a89de13540 | -6.01 | -40.97459 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 70.2 |
+| 35bcaa7d-42fe-3b11-aa60-20944c867c13 | -7.64568 | -35.01143 | 2026-10-09 03:21:00 | NPP-375D | GOIANA | PERNAMBUCO | Brasil | 2606200 | 26 | 33 | nan | nan | nan | Mata Atlântica | 17.4 |
+| 4939b62a-352f-31db-9c98-02564eb66f4f | -7.637 | -35.00447 | 2026-10-09 03:21:00 | NPP-375D | GOIANA | PERNAMBUCO | Brasil | 2606200 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| e68b45c1-df23-30d6-b456-aa09fb8d1f53 | -6.0074 | -40.97436 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 57.3 |
+| f3c8a09a-674a-38eb-92af-7ac7d4e0d03c | -6.16779 | -39.4494 | 2026-10-09 03:21:00 | NPP-375D | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 7.5 |
+| 1cfeb362-bc96-3685-880f-12b99650ab63 | -6.00865 | -40.98161 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 25.4 |
+| bca30b02-1c1f-3be0-9451-3c83b3e454ce | -6.00298 | -40.95832 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 61.8 |
+| ea8c5b4f-9c55-37fd-82e9-0923687e0c27 | -5.99444 | -40.97845 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 8.1 |
+| 484c3777-f722-332a-9df1-185554340978 | -6.01134 | -40.96755 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 70.2 |
+| 895f183d-c12c-3559-93b9-2853bd20ae26 | -7.64528 | -35.00731 | 2026-10-09 03:21:00 | NPP-375D | GOIANA | PERNAMBUCO | Brasil | 2606200 | 26 | 33 | nan | nan | nan | Mata Atlântica | 30.0 |
+| d8853a5e-d763-3a89-ae7f-0160eb298628 | -5.99766 | -40.98701 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 13.4 |
+| fb7148a1-aeb0-3968-bafc-a279cf98f33c | -6.00157 | -40.97991 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 25.4 |
+| f486a641-c307-3498-8a26-85654e9e07c3 | -6.00479 | -40.98849 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 13.4 |
+| 2a3cf898-6ad1-3284-bdb2-cd7654a9cf6d | -6.16685 | -35.29586 | 2026-10-09 03:21:00 | NPP-375D | ARÊS | RIO GRANDE DO NORTE | Brasil | 2401206 | 24 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| 34e5b0cb-13d1-332b-9cb9-6f813f65ae54 | -6.00165 | -40.96545 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 61.8 |
+| bc19b455-05ee-3f3f-903c-48c78b1945e1 | -6.00032 | -40.97263 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 57.3 |
+| be22a653-20ef-35f8-b9ce-b443c9a3d966 | -6.16779 | -39.44941 | 2026-10-09 03:21:00 | NPP-375D | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 7.5 |
+| 3f13e2c8-208b-3a38-935a-8484ad7372dc | -7.64001 | -35.01561 | 2026-10-09 03:21:00 | NPP-375D | GOIANA | PERNAMBUCO | Brasil | 2606200 | 26 | 33 | nan | nan | nan | Mata Atlântica | 17.4 |
+| 390ac437-00da-36f0-9351-deee85755887 | -5.99855 | -40.94238 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 9.4 |
+| ed063c15-99e7-388a-9ee3-6ad9c39374c4 | -6.00871 | -40.96728 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 61.8 |
+| c9e55a0b-7bd8-3f38-bf45-3acfc589594c | -6.00432 | -40.96561 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 70.2 |
+| 3322a1bd-e7e4-366b-b52d-51610a28bfe3 | -6.0061 | -40.98143 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 57.3 |
+| 52775d52-d57a-3cbe-9193-ec8c9f0ba71d | -5.99185 | -40.97843 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 5.7 |
+| e3908230-86cc-3a0a-9a54-9e549c482eb7 | -7.40887 | -35.19368 | 2026-10-09 03:21:00 | NPP-375D | ITAMBÉ | PERNAMBUCO | Brasil | 2607653 | 26 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
+| 3b7dceaa-17ff-3371-af2d-a06dcc8bb308 | -5.99766 | -40.987 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 13.4 |
+| 38544949-8121-3d2d-aa83-c3996b84ed3a | -7.637 | -35.00446 | 2026-10-09 03:21:00 | NPP-375D | GOIANA | PERNAMBUCO | Brasil | 2606200 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 03f9f122-1c26-321e-bf3f-0ff5b2350b5d | -7.40575 | -35.19397 | 2026-10-09 03:21:00 | NPP-375D | ITAMBÉ | PERNAMBUCO | Brasil | 2607653 | 26 | 33 | nan | nan | nan | Mata Atlântica | 13.5 |
+| a7f1c271-83f1-30f8-bce8-dff15e76faf0 | -6.00479 | -40.98848 | 2026-10-09 03:21:00 | NPP-375D | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 13.4 |
+| 68192d4b-c35a-373a-898d-ec957f3c38e6 | -6.89635 | -39.54179 | 2026-10-09 03:23:00 | NPP-375D | FARIAS BRITO | CEARÁ | Brasil | 2304301 | 23 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| ab589b11-e48b-3919-9518-a9b5b799c3ae | -10.19312 | -36.3275 | 2026-10-09 03:23:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 10.6 |
+| 2d7fda02-f4ea-35e9-ad64-19866b0a58a0 | -6.89736 | -39.53635 | 2026-10-09 03:23:00 | NPP-375D | FARIAS BRITO | CEARÁ | Brasil | 2304301 | 23 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| d0eade95-8619-3b47-9bf0-c6948f94f776 | -9.84966 | -36.04352 | 2026-10-09 03:23:00 | NPP-375D | ROTEIRO | ALAGOAS | Brasil | 2707800 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| d6dad478-b3a5-3d51-ab81-c3e3b6d0ae58 | -10.5925 | -36.685 | 2026-10-09 03:23:00 | NPP-375D | PACATUBA | SERGIPE | Brasil | 2804904 | 28 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 3069bc82-026f-33c5-8d70-6266d20a9223 | -6.89084 | -39.53526 | 2026-10-09 03:23:00 | NPP-375D | FARIAS BRITO | CEARÁ | Brasil | 2304301 | 23 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 61326b02-41a0-3d7f-adcb-d213be891ab9 | -10.16809 | -36.32264 | 2026-10-09 03:23:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| b6744d84-f53a-34cc-b9b3-3c01a5bc3c88 | -10.19184 | -36.32766 | 2026-10-09 03:23:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 20.8 |
+| 5c39dd5a-d871-3a9b-80ab-0131f4b22644 | -10.59193 | -36.68801 | 2026-10-09 03:23:00 | NPP-375D | PACATUBA | SERGIPE | Brasil | 2804904 | 28 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 695b87db-6246-3dd3-8ed6-f1dcaeebadcf | -6.8898 | -39.54084 | 2026-10-09 03:23:00 | NPP-375D | FARIAS BRITO | CEARÁ | Brasil | 2304301 | 23 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| 9e8b4285-5c2f-3b06-a2f4-dbdabd221099 | -10.19418 | -36.32168 | 2026-10-09 03:23:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 10.6 |
+| 6c4c3ae6-d4a9-3f62-be42-55183d2a71ef | -10.19295 | -36.32183 | 2026-10-09 03:23:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
+| f5080881-46a3-30f3-b1a8-d86a59111721 | -10.5925 | -36.68499 | 2026-10-09 03:23:00 | NPP-375D | PACATUBA | SERGIPE | Brasil | 2804904 | 28 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 2f541b6c-b9c9-3c13-9017-f740ca6f4348 | -10.19418 | -36.32167 | 2026-10-09 03:23:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 10.6 |
+| bd5e9727-00f1-32ba-8cde-3eea83f5ff24 | -9.84966 | -36.04351 | 2026-10-09 03:23:00 | NPP-375D | ROTEIRO | ALAGOAS | Brasil | 2707800 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 8486dec4-87ea-3556-8109-632d1ff66728 | -16.97055 | -41.2342 | 2026-10-09 03:25:00 | NPP-375D | MONTE FORMOSO | MINAS GERAIS | Brasil | 3143153 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| f9f0858f-9ebc-377e-805b-6530704af01e | -18.64208 | -41.35505 | 2026-10-09 03:25:00 | NPP-375D | MENDES PIMENTEL | MINAS GERAIS | Brasil | 3141504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 18f041ca-f93b-31e9-a4ad-9005f6aa62c9 | -13.25998 | -42.25675 | 2026-10-09 03:25:00 | NPP-375D | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 567f20f4-ab32-37e6-a50c-6f45a194e611 | -13.25333 | -42.25439 | 2026-10-09 03:25:00 | NPP-375D | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 23.4 |
+| 0b96eaef-f4be-3528-99b9-d15e84acb953 | -18.32901 | -42.38253 | 2026-10-09 03:25:00 | NPP-375D | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.7 |
+| d4a10f4a-baa4-3e31-822f-64114d463826 | -18.33132 | -42.37233 | 2026-10-09 03:25:00 | NPP-375D | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.8 |
+| 56adc416-9afc-3ea7-ad85-5d00b1c3ba4e | -18.08657 | -42.2655 | 2026-10-09 03:25:00 | NPP-375D | ÁGUA BOA | MINAS GERAIS | Brasil | 3100609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
+| 875471a7-599d-3169-ad39-80acd8dc2204 | -18.63135 | -41.34769 | 2026-10-09 03:25:00 | NPP-375D | MENDES PIMENTEL | MINAS GERAIS | Brasil | 3141504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| fc47abf8-daf0-3731-b644-60f335022825 | -18.0855 | -42.2702 | 2026-10-09 03:25:00 | NPP-375D | ÁGUA BOA | MINAS GERAIS | Brasil | 3100609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
+| abf864d3-5259-366c-a7af-be4f527d4d3f | -18.63025 | -41.35261 | 2026-10-09 03:25:00 | NPP-375D | MENDES PIMENTEL | MINAS GERAIS | Brasil | 3141504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| b894faa6-a0a5-3f14-b406-1e8dcd2ed26a | -18.47626 | -42.25191 | 2026-10-09 03:25:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 7e224eb5-0e05-3496-9753-33e16ac5103a | -18.63828 | -41.34435 | 2026-10-09 03:25:00 | NPP-375D | MENDES PIMENTEL | MINAS GERAIS | Brasil | 3141504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| 3252bf31-961a-3cd3-a3a0-a3f0484572ff | -17.00388 | -41.1707 | 2026-10-09 03:25:00 | NPP-375D | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 35b6cceb-52bb-3b51-abd2-e4d1f26e2f99 | -16.96453 | -41.2328 | 2026-10-09 03:25:00 | NPP-375D | MONTE FORMOSO | MINAS GERAIS | Brasil | 3143153 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| c06a425b-1bdb-3b6b-907a-a069fd548a53 | -18.33218 | -42.37931 | 2026-10-09 03:25:00 | NPP-375D | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.2 |
+| 94f7fd9f-b2c5-3d54-86b3-dbab9b6179f6 | -16.99035 | -41.17186 | 2026-10-09 03:25:00 | NPP-375D | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| b3225d35-222d-307a-8e77-565e04727d1d | -16.98959 | -41.17828 | 2026-10-09 03:25:00 | NPP-375D | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| 8c056e0b-1ae2-3dbe-8c05-e3aced48de2c | -18.47943 | -42.25347 | 2026-10-09 03:25:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
+| 206da7af-dfb4-3d9a-8ead-75c9e1a3eb71 | -15.25382 | -42.3656 | 2026-10-09 03:25:00 | NPP-375D | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
+| 00136cd7-ba1e-385b-a907-6ad18d39da0f | -15.94817 | -41.08707 | 2026-10-09 03:25:00 | NPP-375D | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| e8fcc6eb-a2f5-3075-8aab-955ea0bcbf98 | -18.32371 | -42.37675 | 2026-10-09 03:25:00 | NPP-375D | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 9c990ffd-465a-30c7-8f48-4ded231dc5bc | -16.99635 | -41.17327 | 2026-10-09 03:25:00 | NPP-375D | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| 83ab7cc2-2479-3fe9-a7c7-dba8b139852e | -18.33331 | -42.37448 | 2026-10-09 03:25:00 | NPP-375D | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| 5a06c795-00f1-349b-ab33-d5292bea98fe | -17.25418 | -39.472 | 2026-10-09 03:25:00 | NPP-375D | PRADO | BAHIA | Brasil | 2925501 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 908126a3-0f2b-3c6c-8353-4234f38482da | -17.25285 | -39.47186 | 2026-10-09 03:25:00 | NPP-375D | PRADO | BAHIA | Brasil | 2925501 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 10a0192a-1e88-31b6-a037-4c590526eaa7 | -17.25359 | -39.46825 | 2026-10-09 03:25:00 | NPP-375D | PRADO | BAHIA | Brasil | 2925501 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| af54fab0-be6d-349b-b0ee-c8eee6e62f84 | -16.85012 | -40.56366 | 2026-10-09 03:25:00 | NPP-375D | BERTÓPOLIS | MINAS GERAIS | Brasil | 3106606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| b1b894f0-3ae3-302e-8307-2e80e74e4854 | -15.94839 | -41.09069 | 2026-10-09 03:25:00 | NPP-375D | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 8ba22e64-d0b2-3ab6-ba76-a2ffb2a59b8d | -18.33026 | -42.37699 | 2026-10-09 03:25:00 | NPP-375D | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.8 |
+| ca62d432-07ab-33d0-9778-2f446fc664e5 | -17.25495 | -39.46841 | 2026-10-09 03:25:00 | NPP-375D | PRADO | BAHIA | Brasil | 2925501 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| c7314f67-db48-3747-975d-ce4461e709f8 | -15.103 | -43.63645 | 2026-10-09 03:25:00 | NPP-375D | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| f8493377-bca5-33fd-9a37-29de41a9466a | -18.04733 | -44.56231 | 2026-10-09 03:25:00 | NPP-375D | CORINTO | MINAS GERAIS | Brasil | 3119104 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 0beb09d8-ec2c-3f1c-99e1-0b77abd1edaf | -18.63731 | -41.34869 | 2026-10-09 03:25:00 | NPP-375D | MENDES PIMENTEL | MINAS GERAIS | Brasil | 3141504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| 7ef97e9f-7007-3306-acc7-2ed620765790 | -16.98928 | -41.17682 | 2026-10-09 03:25:00 | NPP-375D | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| 2486225e-27c3-3716-b0c6-7dc6585326f8 | -15.95557 | -41.08687 | 2026-10-09 03:25:00 | NPP-375D | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| ae93c777-2a30-361a-ad8f-2a086f46d5a6 | -17.00949 | -41.17068 | 2026-10-09 03:25:00 | NPP-375D | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 9dbd21e7-8635-360f-a8a3-46b1b9292e0e | -15.10135 | -43.64367 | 2026-10-09 03:25:00 | NPP-375D | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Caatinga | 3.0 |
 
 
 [Clique aqui para ver as próximas entradas](README57.md)
